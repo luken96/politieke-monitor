@@ -1,3 +1,21 @@
 feeds:
   - name: Rijksoverheid Nieuws
     url: "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22%22%2C%22pageTitle%22%3A%22Nieuws%22%7D"
+
+  - name: Europees Parlement - Persberichten
+    url: "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml"
+
+  - name: Europees Parlement - Agenda's en nieuws
+    url: "https://www.europarl.europa.eu/rss/doc/agendas-news/en.xml"
+
+  - name: Europees Parlement - Plenaire vergadering
+    url: "https://www.europarl.europa.eu/rss/doc/plenary/en.xml"
+
+  - name: Europees Parlement - Schriftelijke vragen
+    url: "https://www.europarl.europa.eu/rss/doc/written-questions/en.xml"
+
+  - name: Europees Parlement - Antwoorden op schriftelijke vragen
+    url: "https://www.europarl.europa.eu/rss/doc/written-questions-answers/en.xml"
+
+  - name: Europees Parlement - AGRI
+    url: "https://www.europarl.europa.eu/rss/committee/agri/en.xml"
