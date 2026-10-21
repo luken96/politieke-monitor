@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T16:19:02.524477+00:00
+Laatste update: 2026-10-21T17:17:47.068263+00:00
 
 ## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
 
@@ -729,6 +729,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Libya/Türkiye: Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/
+
+---
+
 ## Simplification: Council agrees negotiating stance to cut red tape for small packaging producers
 
 **Bron:** Raad van de EU - Persberichten
@@ -916,16 +926,6 @@ Weekly schedule of President António Costa, 19-25 October 2026.
 During the press conference held after at the end of the European Council meeting of 15-16 October 2026, President António Costa presented the main results of the discussions on competitiveness and energy prices, trade, the next multiannual financial framework, Ukraine, and migration.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-press-conference-following-the-european-council-meeting-of-15-16-october-2026/
-
----
-
-## European Council conclusions, 15 and 16 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-On 15 and 16 October, the European Council adopted conclusions on competitiveness, Ukraine, the Republic of Moldova, the next multiannual financial framework, the Middle East, European defence and security, migration, enlargement and reforms and other items.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-15-and-16-october-2026/
 
 ---
 
