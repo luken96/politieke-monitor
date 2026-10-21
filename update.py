@@ -70,12 +70,6 @@ try:
     )
 
     response.raise_for_status()
-    print("Status Open Overheid:", response.status_code)
-print("Lengte HTML:", len(response.text))
-print("Bevat ministerraad:", "ministerraad" in response.text.lower())
-
-with open("openoverheid-debug.html", "w", encoding="utf-8") as f:
-    f.write(response.text)
 
     soup = BeautifulSoup(response.text, "html.parser")
 
