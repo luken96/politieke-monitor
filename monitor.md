@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T17:17:47.068263+00:00
+Laatste update: 2026-10-21T18:15:42.034351+00:00
 
 ## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
 
