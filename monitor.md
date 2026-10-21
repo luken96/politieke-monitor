@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T21:16:07.665931+00:00
+Laatste update: 2026-10-21T22:15:10.617506+00:00
 
 ## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
 
@@ -729,6 +729,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council and the Parliament agreed new rules to revitalise the EU’s securitisation market - an integral part of the savings and investments union (SIU) and the ‘One Europe, One Market’ roadmap to boost economic growth.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/
+
+---
+
 ## Libya/Türkiye: Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives
 
 **Bron:** Raad van de EU - Persberichten
@@ -916,16 +926,6 @@ Overview of the main subjects to be discussed at meetings of the Council of the 
 Weekly schedule of President António Costa, 19-25 October 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/weekly-schedule-of-president-antonio-costa/
-
----
-
-## Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-During the press conference held after at the end of the European Council meeting of 15-16 October 2026, President António Costa presented the main results of the discussions on competitiveness and energy prices, trade, the next multiannual financial framework, Ukraine, and migration.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-press-conference-following-the-european-council-meeting-of-15-16-october-2026/
 
 ---
 
