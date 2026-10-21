@@ -6,6 +6,7 @@ import requests
 from pathlib import Path
 from html import escape
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
@@ -43,6 +44,8 @@ for feed_config in config["feeds"]:
 # =========================
 # MINISTERRAAD VIA OPEN OVERHEID
 # =========================
+# Dit blok mag voorlopig blijven staan.
+# Als Open Overheid geen resultaten meegeeft, crasht het script niet.
 
 MINISTERRAAD_URL = (
     "https://open.overheid.nl/zoeken"
@@ -130,6 +133,48 @@ items = unique_items
 
 
 # =========================
+# CHRONOLOGISCH SORTEREN
+# =========================
+
+def parse_date(item):
+    value = item.get("published", "")
+
+    if not value:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+    # Eerst standaard RSS-datums proberen
+    try:
+        dt = parsedate_to_datetime(value)
+
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+
+        return dt
+
+    except Exception:
+        pass
+
+    # Daarna ISO-datums proberen
+    try:
+        iso_value = value.replace("Z", "+00:00")
+        dt = datetime.fromisoformat(iso_value)
+
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+
+        return dt
+
+    except Exception:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+
+items.sort(
+    key=parse_date,
+    reverse=True
+)
+
+
+# =========================
 # WEBSITE MAKEN
 # =========================
 
@@ -137,7 +182,7 @@ site = Path("site")
 site.mkdir(exist_ok=True)
 
 
-# JSON
+# JSON-bestand
 with open(site / "latest.json", "w", encoding="utf-8") as f:
     json.dump(
         items,
@@ -147,7 +192,7 @@ with open(site / "latest.json", "w", encoding="utf-8") as f:
     )
 
 
-# HTML
+# HTML-pagina
 html = """<!doctype html>
 <html lang="nl">
 <head>
@@ -170,16 +215,24 @@ for item in items:
             <strong>Bron:</strong>
             {escape(item["source"])}
         </p>
+"""
 
+    if item["published"]:
+        html += f"""
         <p>
             <strong>Gepubliceerd:</strong>
             {escape(item["published"])}
         </p>
+"""
 
+    if item["summary"]:
+        html += f"""
         <div>
             {item["summary"]}
         </div>
+"""
 
+    html += f"""
         <p>
             <a href="{escape(item["link"])}">
                 Originele publicatie
