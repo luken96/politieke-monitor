@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T13:28:01.494428+00:00
+Laatste update: 2026-10-21T14:21:27.019893+00:00
 
 ## Aantal websites Rijksoverheid preventief offline na kwetsbaarheden PHP
 
