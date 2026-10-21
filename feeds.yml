@@ -19,3 +19,15 @@ feeds:
 
   - name: Europees Parlement - AGRI
     url: "https://www.europarl.europa.eu/rss/committee/agri/en.xml"
+
+  - name: Raad van de EU - Persberichten
+    url: "https://www.consilium.europa.eu/en/rss/pressreleases.ashx"
+
+  - name: Raad van de EU - Landbouw en Visserij
+    url: "https://www.consilium.europa.eu/en/rss/meetings.ashx?cat=agri"
+
+  - name: Europese Commissie
+    url: "https://commission.europa.eu/node/33506/rss_en"
+
+  - name: EU Publications Office - opgeslagen zoekopdracht
+    url: "http://op.europa.eu/o/opportal-service/rss/savedQuery?queryid=131900&hash=MTAxNTc7MTAxODQ7MTc5MjU4MjAyMDc4OA==&"
