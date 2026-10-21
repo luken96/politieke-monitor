@@ -182,7 +182,10 @@ site = Path("site")
 site.mkdir(exist_ok=True)
 
 
-# JSON-bestand
+# =========================
+# JSON-BESTAND
+# =========================
+
 with open(site / "latest.json", "w", encoding="utf-8") as f:
     json.dump(
         items,
@@ -192,7 +195,43 @@ with open(site / "latest.json", "w", encoding="utf-8") as f:
     )
 
 
-# HTML-pagina
+# =========================
+# MARKDOWN-BESTAND VOOR CHATGPT
+# =========================
+
+markdown = "# Politieke monitor\n\n"
+markdown += f"Laatste update: {datetime.now(timezone.utc).isoformat()}\n\n"
+
+for item in items:
+    markdown += f"## {item['title']}\n\n"
+    markdown += f"**Bron:** {item['source']}\n\n"
+
+    if item["published"]:
+        markdown += f"**Gepubliceerd:** {item['published']}\n\n"
+
+    if item["summary"]:
+        # HTML-tags uit RSS-samenvattingen verwijderen
+        clean_summary = BeautifulSoup(
+            item["summary"],
+            "html.parser"
+        ).get_text(" ", strip=True)
+
+        markdown += f"{clean_summary}\n\n"
+
+    if item["link"]:
+        markdown += f"**Originele publicatie:** {item['link']}\n\n"
+
+    markdown += "---\n\n"
+
+
+with open(site / "monitor.md", "w", encoding="utf-8") as f:
+    f.write(markdown)
+
+
+# =========================
+# HTML-PAGINA
+# =========================
+
 html = """<!doctype html>
 <html lang="nl">
 <head>
@@ -260,3 +299,7 @@ with open(site / "index.html", "w", encoding="utf-8") as f:
 
 
 print(f"Totaal: {len(items)} unieke berichten opgehaald.")
+print("Bestanden aangemaakt:")
+print("- site/index.html")
+print("- site/latest.json")
+print("- site/monitor.md")
