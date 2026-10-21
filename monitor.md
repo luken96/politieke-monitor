@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T14:21:27.019893+00:00
+Laatste update: 2026-10-21T15:18:48.284839+00:00
+
+## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 21 Oct 2026 16:56:17 +0200
+
+The results will inform an assessment of the technological development and environmental performance of bio-based plastic packaging.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/commission-opens-consultation-bio-based-plastic-packaging-2026-10-21_en
+
+---
 
 ## Aantal websites Rijksoverheid preventief offline na kwetsbaarheden PHP
 
@@ -366,18 +378,6 @@ The Ministry of Investment of Jordan and the European Commission announce that r
 The results of this EU-funded campaign underline the value of market surveillance and the need for end users to verify performance information before selecting insulation products.
 
 **Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-tests-put-thermal-insulating-materials-under-spotlight-2026-10-19_en
-
----
-
-## Solidarity Lanes: Latest figures – September 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 14:02:55 +0200
-
-Latest figures on Ukrainian exports and imports via the EU-Ukraine Solidarity Lanes: new transport routes established in the face of Russia’s war of aggression against Ukraine.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/solidarity-lanes-latest-figures-september-2026-2026-10-19_en
 
 ---
 
