@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T13:04:32.757314+00:00
+Laatste update: 2026-10-21T13:28:01.494428+00:00
+
+## Aantal websites Rijksoverheid preventief offline na kwetsbaarheden PHP
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 21 Oct 2026 13:13:00 GMT
+
+Door 2 lekken in de software die op veel websites gebruikt wordt, zijn woensdag 21 oktober 2026 een aantal websites uit voorzorg offline gehaald. Ook een aantal websites van overheidsinstanties in Nederland.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/aantal-websites-rijksoverheid-preventief-offline-na-kwetsbaarheden-php
+
+---
+
+## EU Space Surveillance and Tracking marks 10 years of operations: a decade of space safety and sustainability made in the EU
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 21 Oct 2026 14:25:25 +0200
+
+Today, the European Commission celebrates 10 years of EU Space Surveillance and Tracking (EU SST) operations, marking a major milestone for EU cooperation in space and a decade of concrete action to protect space assets and strengthen the EU’s strategic autonomy in space surveillance and tracking.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/eu-space-surveillance-and-tracking-marks-10-years-operations-decade-space-safety-and-sustainability-2026-10-21_en
+
+---
 
 ## EU and New Caledonia sign strategic partnership on sustainable raw materials
 
@@ -36,18 +60,6 @@ Er zijn 2 kritieke kwetsbaarheden gevonden. Er is een publieke Proof of Concept 
 The European Commission has approved a €500,0000 Slovenian State aid scheme for agriculture, fishery and marine aquaculture companies facing increased fuel prices due to the Middle East crisis.
 
 **Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur500000-slovenian-state-aid-agriculture-fishery-and-marine-aquaculture-2026-10-21_en
-
----
-
-## Commission invests €3.4 billion in net-zero technology projects
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 13:49:51 +0200
-
-Today, the European Commission has selected 77 European net-zero technology projects to receive funding support worth €3.4 billion under the call of the Innovation Fund, launched in December 2025.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-invests-eur34-billion-net-zero-technology-projects-2026-10-19_en
 
 ---
 
@@ -285,13 +297,13 @@ The EU Commissioner for Fisheries and Oceans, Costas Kadis visited Minister for 
 
 **Gepubliceerd:** Mon, 19 Oct 2026 14:47:00 GMT
 
-De heer S. (Stefan) van Keijzerswaard is benoemd tot burgemeester van de gemeente Ameland.              
+De heer S. (Stefan) van Keijzerswaard is benoemd tot burgemeester van de gemeente Ameland.
 
-De benoeming gaat in op 2 november 2026.
+De benoeming gaat in op 2 november 2026.
 
-De heer Van Keijzerswaard (46 jaar, VVD) is momenteel wethouder in de gemeente Vlieland.
+De heer Van Keijzerswaard (46 jaar, VVD) is momenteel wethouder in de gemeente Vlieland.
 
-Op dit...
+Op dit moment is Tytsy...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/nieuwe-burgemeester-in-ameland
 
@@ -303,13 +315,7 @@ Op dit...
 
 **Gepubliceerd:** Mon, 19 Oct 2026 14:43:00 GMT
 
-De heer A.G. (Arnold) Rosier is benoemd tot burgemeester van de gemeente Dantumadiel.
-
-De benoeming gaat in op 10 november 2026.
-
-De heer Rosier (52 jaar, D66) is momenteel statengriffier bij de Provinciale Staten van Fryslân.
-
-Op dit moment is...
+De heer A.G. (Arnold) Rosier is benoemd tot burgemeester van de gemeente Dantumadiel. De benoeming gaat in op 10 november 2026.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/nieuwe-burgemeester-in-dantumadiel
 
@@ -394,10 +400,6 @@ The European Commission has informed KKR & Co. Inc. ('KKR') of its preliminary v
 **Gepubliceerd:** Mon, 19 Oct 2026 08:50:00 GMT
 
 De asielinstroom van week 42, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 840.
- 
-De totale asielinstroom is als volgt onderverdeeld:
-•      500 eerste aanvragen,
-•    ...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/de-asielinstroom-van-week-42-bedroeg-ongeveer-840
 
@@ -604,18 +606,6 @@ Met de vaststelling van de Visie op Rijksinkoop in de ministerraad wordt een nie
 Zijne Majesteit de Koning brengt dinsdag 3 november een werkbezoek aan Liverpool in het Verenigd Koninkrijk. De Koning wordt begeleid door de minister van Buitenlandse Handel en Ontwikkelingssamenwerking, Sjoerd Sjoerdsma. De minister van...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/15/koning-brengt-werkbezoek-aan-liverpool
-
----
-
-## Campagne helpt jongeren met geldzorgen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 14 Oct 2026 14:30:00 GMT
-
-Het ministerie van Sociale Zaken en Werkgelegenheid wil ervoor zorgen dat jongeren met geldzorgen vaker hulp zoeken. In de Week tegen Armoede start daarom de nieuwe campagne Geldstress. Die moet jongeren wijzen op snelle en duidelijke informatie...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/14/campagne-helpt-jongeren-met-geldzorgen
 
 ---
 
