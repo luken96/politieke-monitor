@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T13:01:15.997854+00:00
+Laatste update: 2026-10-21T13:04:32.757314+00:00
 
 ## EU and New Caledonia sign strategic partnership on sustainable raw materials
 
