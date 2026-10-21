@@ -1,12 +1,12 @@
 # Politieke monitor
 
-Laatste update: 2026-10-21T15:18:48.284839+00:00
+Laatste update: 2026-10-21T16:19:02.524477+00:00
 
 ## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Wed, 21 Oct 2026 16:56:17 +0200
+**Gepubliceerd:** Wed, 21 Oct 2026 17:06:15 +0200
 
 The results will inform an assessment of the technological development and environmental performance of bio-based plastic packaging.
 
@@ -729,6 +729,26 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Simplification: Council agrees negotiating stance to cut red tape for small packaging producers
+
+**Bron:** Raad van de EU - Persberichten
+
+Council agrees negotiating position on proposal for a regulation suspending extended producer responsibility.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/
+
+---
+
+## Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules
+
+**Bron:** Raad van de EU - Persberichten
+
+Simplification: Council agrees position to streamline EU’s data, privacy and cyber reporting rules.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/
+
+---
+
 ## ETS market stability reserve: Council and Parliament reach provisional agreement on targeted amendment
 
 **Bron:** Raad van de EU - Persberichten
@@ -906,26 +926,6 @@ During the press conference held after at the end of the European Council meetin
 On 15 and 16 October, the European Council adopted conclusions on competitiveness, Ukraine, the Republic of Moldova, the next multiannual financial framework, the Middle East, European defence and security, migration, enlargement and reforms and other items.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-15-and-16-october-2026/
-
----
-
-## Media advisory - Employment, Social Policy, Health and Consumer Affairs (Employment and social policy) Council of 19 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing, public sessions and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/media-advisory-employment-social-policy-health-and-consumer-affairs-employment-and-social-policy-council-of-19-october-2026/
-
----
-
-## Remarks by President António Costa at the joint doorstep with Presidents Volodymyr Zelenskyy and Ursula von der Leyen
-
-**Bron:** Raad van de EU - Persberichten
-
-Before the start of the second day of the European Council meeting of 15-16 October 2026, European Council President, António Costa, European Commission President, Ursula von der Leyen and President of Ukraine, Volodymyr Zelenskyy, addressed the press.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-joint-doorstep-with-presidents-volodymyr-zelenskyy-and-ursula-von-der-leyen/
 
 ---
 
