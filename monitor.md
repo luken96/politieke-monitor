@@ -1,16 +1,100 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T13:31:31.691705+00:00
+Laatste update: 2026-10-22T14:22:16.168276+00:00
+
+## EU and US Young Agricultural Leaders Set for a Week Exploring EU Farming in Policy and Practice
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 16:11:43 +0200
+
+Entering its second year, the EU-US Fellowship for Young Leaders in Agriculture continues to strengthen transatlantic collaboration. The programme deepens understanding of farmers’ challenges and promotes solutions to improve the long-term resilience and profitability of agriculture on both sides.
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en
+
+---
+
+## EU and Western Balkan partners deepen research and innovation cooperation to support EU integration
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 15:07:11 +0200
+
+Research and innovation news alert: The European Union and the Western Balkan partners have endorsed a joint declaration to step up cooperation in research and innovation, reaffirming their shared commitment to the region’s path towards EU membership.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-and-western-balkan-partners-deepen-research-and-innovation-cooperation-support-eu-integration-2026-10-22_en
+
+---
+
+## Ireland partners with the European Skills & VET Week
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 14:50:01 +0200
+
+In November, the Irish Presidency of the Council of the EU is joining the European Skills & VET Week to highlight how vocational education and training can respond to Europe’s rapidly changing skills needs. Read more about the Construction Sector Skills Forum and the 21st Cedefop Brussels Seminar.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ireland-partners-european-skills-vet-week-2026-10-22_en
+
+---
+
+## IMCAP 2027: EU co-funding grants to bring the CAP closer to citizens
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 13:28:43 +0200
+
+The IMCAP 2027 call for proposals opens on 22 October 2026, offering 60% co-funding for projects that bring the CAP closer to citizens and strengthening trust in sustainable agriculture.
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/imcap-2027-eu-co-funding-grants-bring-cap-closer-citizens-2026-10-22_en
+
+---
+
+## The Commission welcomes the political agreement reached on the review of the Securitisation Framework
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 12:44:25 +0200
+
+Yesterday, the Commission welcomed the political agreement reached between the Parliament and the Council on the review of the EU Securitisation Framework. The agreed measures aim to support securitisation activity in the EU while safeguarding financial stability.
+
+**Originele publicatie:** https://finance.ec.europa.eu/news/commission-welcomes-political-agreement-reached-review-securitisation-framework-2026-10-22_en
+
+---
+
+## EU detains a record 196 million counterfeit items worth € 6.3 billion in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 12:04:34 +0200
+
+The latest joint report published by the European Commission and the European Union Intellectual Property Office (EUIPO) today reveals the highest number of counterfeit detentions ever recorded by EU enforcement authorities.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en
+
+---
 
 ## Bio-based Europe Alliance launches to accelerate market uptake of sustainable bio-based solutions
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Thu, 22 Oct 2026 10:33:14 +0200
+**Gepubliceerd:** Thu, 22 Oct 2026 11:12:12 +0200
 
 The Alliance aims to provide clearer market signals, reduce investment uncertainty, and unlock the potential of Europe’s bioeconomy.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/bio-based-alliance-launches-drive-sustainable-solutions-2026-10-22_en
+
+---
+
+## Taking the European Network of Public Employment Services forward
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 11:00:51 +0200
+
+The European Commission has confirmed the essential role of the European Network of Public Employment Services (PES Network) and proposes to extend its mandate beyond 2027.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/taking-european-network-public-employment-services-forward-2026-10-22_en
 
 ---
 
@@ -47,18 +131,6 @@ Experts from the European Commission, EU countries, the International Energy Age
 Moving to another EU country for work? Don’t let the hidden costs catch you off guard. From utility deposits to your first pay cheque, here’s your essential guide to financial survival.
 
 **Originele publicatie:** https://eures.europa.eu/beyond-rent-real-cost-moving-abroad-work-2026-10-22_en
-
----
-
-## EU detains a record 196 million counterfeit items worth € 6.3 billion in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 09:40:59 +0200
-
-The latest joint report published by the European Commission and the European Union Intellectual Property Office (EUIPO) today reveals the highest number of counterfeit detentions ever recorded by EU enforcement authorities.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en
 
 ---
 
@@ -135,18 +207,6 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 
 ---
 
-## Eurostat: EU trade in wind turbines increased in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 13:44:30 +0200
-
-EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-trade-wind-turbines-increased-2025-2026-10-20_en
-
----
-
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -168,18 +228,6 @@ Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is 
 Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
-
----
-
-## The Parliament’s EUDS Special Committee visits the Centre
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 18:20:35 +0200
-
-The European Parliament’s Special Committee on the European Democracy Shield visits the European Centre for Democratic Resilience
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/parliaments-euds-special-committee-visits-centre-2026-10-20_en
 
 ---
 
@@ -240,18 +288,6 @@ Over €1.2 trillion has been invested in sustainable activities in the EU since
 Tomorrow and on Thursday, Commissioner for Enlargement Marta Kos will be in Montenegro to participate at the Berlin Process Summit and to discuss Montenegro’s progress on its accession path.
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-montenegro-attend-berlin-process-summit-and-discuss-countrys-accession-process-2026-10-20_en
-
----
-
-## An EU strategy for a rapidly changing Arctic
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 15:26:19 +0200
-
-The new strategy for the Arctic is a framework of cooperation that places people, security, climate and prosperity at its core
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/eu-strategy-rapidly-changing-arctic-2026-10-20_en
 
 ---
 
@@ -378,42 +414,6 @@ Op dit moment is Tytsy...
 De heer A.G. (Arnold) Rosier is benoemd tot burgemeester van de gemeente Dantumadiel. De benoeming gaat in op 10 november 2026.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/nieuwe-burgemeester-in-dantumadiel
-
----
-
-## In focus: Renewable energy – building trust and sharing benefits
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 15:43:23 +0200
-
-The advantages of renewable energy projects for the local community can be manifold, ranging from economic and social gains to environmental ones.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/focus-renewable-energy-building-trust-and-sharing-benefits-2026-10-19_en
-
----
-
-## Jordan-EU Investment Conference opens registration for media
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 15:31:00 +0200
-
-The Ministry of Investment of Jordan and the European Commission announce that registration is open for media outlets wishing to cover the Jordan-EU Investment Conference, scheduled to be held on November 19, 2026 at the King Hussein bin Talal convention Center at the Dead Sea area.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/jordan-eu-investment-conference-opens-registration-media-2026-10-19_en
-
----
-
-## EU tests put thermal insulating materials under the spotlight
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 14:25:59 +0200
-
-The results of this EU-funded campaign underline the value of market surveillance and the need for end users to verify performance information before selecting insulation products.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-tests-put-thermal-insulating-materials-under-spotlight-2026-10-19_en
 
 ---
 
