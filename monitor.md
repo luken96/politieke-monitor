@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T10:21:08.648521+00:00
+Laatste update: 2026-10-22T11:18:17.820998+00:00
 
 ## Bio-based Europe Alliance launches to accelerate market uptake of sustainable bio-based solutions
 
@@ -477,18 +477,6 @@ Minister Boekholt-O’Sullivan van Volkshuisvesting en Ruimtelijke Ordening past
 
 ---
 
-## Versterkingsagenda moet leesvaardigheid leerlingen verbeteren
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Nederlandse leerlingen moeten wezenlijk beter leren lezen, schrijven en rekenen. Binnen 3 jaar moet er een kentering zijn. Dit is het doel van de Versterkingsagenda Taal en andere basisvaardigheden, die staatssecretaris Tielen van Onderwijs en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/versterkingsagenda-moet-leesvaardigheid-leerlingen-verbeteren
-
----
-
 ## Update gas: actualisatie crisisplan en leveringszekerheid winter ’27-‘28
 
 **Bron:** Rijksoverheid Nieuws
@@ -498,6 +486,18 @@ Nederlandse leerlingen moeten wezenlijk beter leren lezen, schrijven en rekenen.
 Zolang Nederland gas nodig heeft als energiebron, zorgt het kabinet voor voldoende aanbod en voor goede voorbereiding op ernstige verstoringen. Daarvoor is het Landelijk Crisisplan Gas (LCP-G): het treedt in werking zodra de gaslevering dreigt uit...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/update-gas-actualisatie-crisisplan-en-leveringszekerheid-winter-27-28
+
+---
+
+## Versterkingsagenda moet leesvaardigheid leerlingen verbeteren
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
+
+Nederlandse leerlingen moeten wezenlijk beter leren lezen, schrijven en rekenen. Binnen 3 jaar moet er een kentering zijn. Dit is het doel van de Versterkingsagenda Taal en andere basisvaardigheden, die staatssecretaris Tielen van Onderwijs en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/versterkingsagenda-moet-leesvaardigheid-leerlingen-verbeteren
 
 ---
 
@@ -799,11 +799,11 @@ Press briefing ahead of the upcoming Agriculture and Fisheries Council will take
 
 ---
 
-## Rapport du président António Costa au Parlement européen réuni en séance plénière
+## Report by President António Costa to the European Parliament plenary session
 
 **Bron:** Raad van de EU - Persberichten
 
-António Costa, président du Conseil européen, a présenté à la plénière du Parlement européen, à Strasbourg, un compte rendu des discussions qui ont eu lieu lors de la réunion du Conseil européen des 15 et 16 octobre 2026.
+European Council President António Costa debriefed the European Parliament plenary in Strasbourg on the discussions held during the European Council meeting of 15 and 16 October 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/report-by-president-antonio-costa-to-the-european-parliament-plenary-session/
 
