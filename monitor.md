@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T09:21:45.624427+00:00
+Laatste update: 2026-10-22T10:21:08.648521+00:00
 
 ## Bio-based Europe Alliance launches to accelerate market uptake of sustainable bio-based solutions
 
