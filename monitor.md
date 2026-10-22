@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T14:22:16.168276+00:00
+Laatste update: 2026-10-22T15:21:28.001115+00:00
+
+## Renteplafond studieleningen duurder en risicovol, minister in gesprek met parlement
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 22 Oct 2026 14:30:00 GMT
+
+Het voorgestelde renteplafond op studieleningen van 2,5% is duurder dan de in het coalitieakkoord gereserveerde € 40 miljoen per jaar. Door stijging van de langetermijnrente kost dit renteplafond nu minimaal € 160 miljoen per jaar. Verdere...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/22/renteplafond-studieleningen-duurder-en-risicovol-minister-in-gesprek-met-parlement
+
+---
 
 ## EU and US Young Agricultural Leaders Set for a Week Exploring EU Farming in Policy and Practice
 
@@ -207,6 +219,18 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 
 ---
 
+## Eurostat: EU trade in wind turbines increased in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 21 Oct 2026 13:44:30 +0200
+
+EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-trade-wind-turbines-increased-2025-2026-10-20_en
+
+---
+
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -228,18 +252,6 @@ Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is 
 Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
-
----
-
-## A long-term vision for a successful fisheries and aquaculture sector
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 17:50:29 +0200
-
-The European Commission has set out its vision for fisheries and aquaculture towards 2040 to support fishers, aquaculture producers and local communities.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/long-term-vision-successful-fisheries-and-aquaculture-sector-2026-10-20_en
 
 ---
 
@@ -597,18 +609,6 @@ Met de vaststelling van de Visie op Rijksinkoop in de ministerraad wordt een nie
 
 ---
 
-## Koning brengt werkbezoek aan Liverpool
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 15 Oct 2026 14:45:00 GMT
-
-Zijne Majesteit de Koning brengt dinsdag 3 november een werkbezoek aan Liverpool in het Verenigd Koninkrijk. De Koning wordt begeleid door de minister van Buitenlandse Handel en Ontwikkelingssamenwerking, Sjoerd Sjoerdsma. De minister van...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/15/koning-brengt-werkbezoek-aan-liverpool
-
----
-
 ## Food and veterinary audits : programme 2027
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -726,6 +726,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission
+
+**Bron:** Raad van de EU - Persberichten
+
+On 22 October 2026, European Council President António Costa and European Commission President Ursula von der Leyen held talks with President of Viet Nam Tô Lâm in Brussels on bilateral cooperation, regional security and global challenges.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/
 
 ---
 
@@ -916,16 +926,6 @@ The Council has approved conclusions calling for greater efforts to boost equali
 The Council of the EU has adopted a set of revised rules aimed at protecting workers in the EU from exposure to hazardous substances that could cause illnesses such as cancer or asthma.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-greenlights-measures-to-protect-workers-from-exposure-to-hazardous-substances/
-
----
-
-## Forward look: 19 October - 1 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/
 
 ---
 
