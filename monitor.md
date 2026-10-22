@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T06:17:25.886558+00:00
+Laatste update: 2026-10-22T07:32:08.015326+00:00
+
+## One sea, shared security: EU and Libya take a first step together against CBRN threats
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 09:23:01 +0200
+
+From 11 to 15 October, Libyan first responders gathered in Tripoli for an EU-funded preparatory training followed by a field drill.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/one-sea-shared-security-eu-and-libya-take-first-step-together-against-cbrn-threats-2026-10-22_en
+
+---
 
 ## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
 
@@ -402,18 +414,6 @@ The European Commission has informed KKR & Co. Inc. ('KKR') of its preliminary v
 De asielinstroom van week 42, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 840.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/de-asielinstroom-van-week-42-bedroeg-ongeveer-840
-
----
-
-## Commission proposes greater flexibility for use of liquid digestates
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 10:22:06 +0200
-
-The aim is to facilitate the use of certain liquid digestates as an alternative to chemical fertilisers while ensuring environmental risks are managed.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-proposes-more-flexibility-liquid-digestates-2026-10-19_en
 
 ---
 
