@@ -1,6 +1,54 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T08:24:13.872156+00:00
+Laatste update: 2026-10-22T09:21:45.624427+00:00
+
+## Bio-based Europe Alliance launches to accelerate market uptake of sustainable bio-based solutions
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 10:33:14 +0200
+
+The Alliance aims to provide clearer market signals, reduce investment uncertainty, and unlock the potential of Europe’s bioeconomy.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/bio-based-alliance-launches-drive-sustainable-solutions-2026-10-22_en
+
+---
+
+## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 10:31:01 +0200
+
+The results will inform an assessment of the technological development and environmental performance of bio-based plastic packaging.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/commission-opens-consultation-bio-based-plastic-packaging-2026-10-21_en
+
+---
+
+## Oil Coordination Group discusses EU fuel market developments
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 10:18:20 +0200
+
+Experts from the European Commission, EU countries, the International Energy Agency (IEA) and the Energy Community met yesterday in the Oil Coordination Group to take stock of the recent developments in fuels markets.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en
+
+---
+
+## Beyond rent: the real cost of moving abroad for work
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 10:08:53 +0200
+
+Moving to another EU country for work? Don’t let the hidden costs catch you off guard. From utility deposits to your first pay cheque, here’s your essential guide to financial survival.
+
+**Originele publicatie:** https://eures.europa.eu/beyond-rent-real-cost-moving-abroad-work-2026-10-22_en
+
+---
 
 ## EU detains a record 196 million counterfeit items worth € 6.3 billion in 2025
 
@@ -23,18 +71,6 @@ The latest joint report published by the European Commission and the European Un
 From 11 to 15 October, Libyan first responders gathered in Tripoli for an EU-funded preparatory training followed by a field drill.
 
 **Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/one-sea-shared-security-eu-and-libya-take-first-step-together-against-cbrn-threats-2026-10-22_en
-
----
-
-## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 17:06:15 +0200
-
-The results will inform an assessment of the technological development and environmental performance of bio-based plastic packaging.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-opens-consultation-bio-based-plastic-packaging-2026-10-21_en
 
 ---
 
@@ -315,18 +351,6 @@ The 19th implementation meeting of the EU–China Maritime Transport Agreement i
 
 ---
 
-## Greenland and the EU are partners in fisheries and blue economy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 16:50:43 +0200
-
-The EU Commissioner for Fisheries and Oceans, Costas Kadis visited Minister for Fisheries, Hunting, Agriculture and Self-sufficiency, Peter Borg in Greenland, on the 15-16 October 2026.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/greenland-and-eu-are-partners-fisheries-and-blue-economy-2026-10-19_en
-
----
-
 ## Nieuwe burgemeester in Ameland
 
 **Bron:** Rijksoverheid Nieuws
@@ -354,18 +378,6 @@ Op dit moment is Tytsy...
 De heer A.G. (Arnold) Rosier is benoemd tot burgemeester van de gemeente Dantumadiel. De benoeming gaat in op 10 november 2026.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/nieuwe-burgemeester-in-dantumadiel
-
----
-
-## EU Diplomatic Programme for the Enlargement Region
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 16:28:12 +0200
-
-Following the successful launch of the European Union Diplomatic Programme for the Enlargement Region (EUDP) in 2025, the College of Europe has published the new call for applications to join the fifth edition of the programme, which is expected to run from 1st February until 2 July 2027.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-diplomatic-programme-enlargement-region-2026-10-19_en
 
 ---
 
@@ -414,18 +426,6 @@ The results of this EU-funded campaign underline the value of market surveillanc
 De asielinstroom van week 42, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 840.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/de-asielinstroom-van-week-42-bedroeg-ongeveer-840
-
----
-
-## EU integrated resolve 2026 exercise: enhancing EU crisis response coordination
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 09:09:26 +0200
-
-In line with the preparedness Union strategy, the EU IR26 aims to strengthen the EU’s capacity to respond to a complex crisis of a hybrid nature with crisis scenarios inside and outside of the EU.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination-2026-10-19_en
 
 ---
 
@@ -729,6 +729,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Presentation of letters of credence to the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen
+
+**Bron:** Raad van de EU - Persberichten
+
+President Costa and President von der Leyen received letters of credence from nineteen new Ambassadors to the European Union.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/presentation-of-letters-of-credence-to-the-president-of-the-european-council-antonio-costa-and-the-president-of-the-european-commission-ursula-von-der-leyen/
+
+---
+
 ## Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market
 
 **Bron:** Raad van de EU - Persberichten
@@ -916,16 +926,6 @@ The Council of the EU has adopted a set of revised rules aimed at protecting wor
 Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/
-
----
-
-## Weekly schedule of President António Costa
-
-**Bron:** Raad van de EU - Persberichten
-
-Weekly schedule of President António Costa, 19-25 October 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/weekly-schedule-of-president-antonio-costa/
 
 ---
 
