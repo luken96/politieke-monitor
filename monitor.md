@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T07:32:08.015326+00:00
+Laatste update: 2026-10-22T08:24:13.872156+00:00
+
+## EU detains a record 196 million counterfeit items worth € 6.3 billion in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 09:40:59 +0200
+
+The latest joint report published by the European Commission and the European Union Intellectual Property Office (EUIPO) today reveals the highest number of counterfeit detentions ever recorded by EU enforcement authorities.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en
+
+---
 
 ## One sea, shared security: EU and Libya take a first step together against CBRN threats
 
@@ -393,18 +405,6 @@ The results of this EU-funded campaign underline the value of market surveillanc
 
 ---
 
-## Commission sends Statement of Objections to KKR for providing incorrect or misleading information during merger investigation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 19 Oct 2026 11:49:10 +0200
-
-The European Commission has informed KKR & Co. Inc. ('KKR') of its preliminary view that the company provided incorrect and/or misleading information during the 2024 Commission's investigation of KKR's acquisition of NetCo, under the EU Merger Regulation ('EUMR').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-sends-statement-objections-kkr-providing-incorrect-or-misleading-information-during-2026-10-19_en
-
----
-
 ## De asielinstroom van week 42 bedroeg ongeveer 840
 
 **Bron:** Rijksoverheid Nieuws
@@ -429,18 +429,6 @@ In line with the preparedness Union strategy, the EU IR26 aims to strengthen the
 
 ---
 
-## We twijfelen allemaal, maar klikken toch: 4 op de 10 heeft weleens klikspijt
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 19 Oct 2026 04:00:00 GMT
-
-Een bericht over een pakketje dat onderweg is of een aanbieding die te mooi lijkt om waar te zijn. Bijna iedereen krijgt wel eens een verdacht bericht. Uit nieuw onderzoek blijkt dat vrijwel alle Nederlanders van 18 jaar en ouder (94%) weleens...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/we-twijfelen-allemaal-maar-klikken-toch-vier-op-de-tien-heeft-weleens-klikspijt
-
----
-
 ## We twijfelen allemaal, maar klikken toch: vier op de tien heeft weleens klikspijt
 
 **Bron:** Rijksoverheid Nieuws
@@ -450,6 +438,18 @@ Een bericht over een pakketje dat onderweg is of een aanbieding die te mooi lijk
 Een bericht over een pakketje dat onderweg is of een aanbieding die te mooi lijkt om waar te zijn. Bijna iedereen krijgt wel eens een verdacht bericht. Uit nieuw onderzoek blijkt dat vrijwel alle Nederlanders van 18 jaar en ouder (94%) weleens...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/persbericht-laat-je-niet-interneppen
+
+---
+
+## We twijfelen allemaal, maar klikken toch: 4 op de 10 heeft weleens klikspijt
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 19 Oct 2026 04:00:00 GMT
+
+Een bericht over een pakketje dat onderweg is of een aanbieding die te mooi lijkt om waar te zijn. Bijna iedereen krijgt wel eens een verdacht bericht. Uit nieuw onderzoek blijkt dat vrijwel alle Nederlanders van 18 jaar en ouder (94%) weleens...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/we-twijfelen-allemaal-maar-klikken-toch-vier-op-de-tien-heeft-weleens-klikspijt
 
 ---
 
@@ -501,18 +501,6 @@ Zolang Nederland gas nodig heeft als energiebron, zorgt het kabinet voor voldoen
 
 ---
 
-## Duidelijkheid over locatie Lelystad, Breezanddijk en Petten in definitief NPRD
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-De negen laatste onderzoeken voor het Nationaal Programma Ruimte voor Defensie (NPRD) zijn afgerond. Het gaat om besluiten over Lelystad Airport, Breezanddijk en Petten, de vliegbases Leeuwarden, Woensdrecht, Gilze-Rijen en Eindhoven en het...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/duidelijkheid-over-locatie-lelystad-breezanddijk-en-petten-in-definitief-nprd
-
----
-
 ## Nieuw perspectief voor Lelylijn
 
 **Bron:** Rijksoverheid Nieuws
@@ -525,13 +513,13 @@ Het kabinet wil kijken hoe de Lelylijn dichterbij gebracht zou kunnen worden. Ee
 
 ---
 
-## Extra investering van 18 miljard euro naar onderhoud en vernieuwing, grootste verbouwing van de Nederlandse infrastructuur ooit
+## Extra investering van € 18 miljard naar onderhoud en vernieuwing, grootste verbouwing van de Nederlandse infrastructuur ooit
 
 **Bron:** Rijksoverheid Nieuws
 
 **Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
 
-Het kabinet steekt 18 miljard euro extra in het onderhoud en de vernieuwing van wegen, bruggen, spoor en waterwerken. Daarmee brengen we de basis van onze infrastructuur weer op orde. Veel infrastructuur is verouderd en is hard toe aan groot...
+Het kabinet steekt € 18 miljard extra in het onderhoud en de vernieuwing van wegen, bruggen, spoor en waterwerken. Daarmee brengen we de basis van onze infrastructuur weer op orde. Veel infrastructuur is verouderd en is hard toe aan groot...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/extra-investering-van-18-miljard-euro-naar-onderhoud-en-vernieuwing-grootste-verbouwing-van-de-nederlandse-infrastructuur-ooit
 
@@ -546,6 +534,18 @@ Het kabinet steekt 18 miljard euro extra in het onderhoud en de vernieuwing van 
 De ministerraad heeft ingestemd met de wijziging van het Besluit Energieprestatievergoeding (EPV). Met de wijziging worden de effecten van de afschaffing van de salderingsregeling voor een groot deel gedempt voor de huurders die een EPV betalen....
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/voorstel-voor-lagere-energieprestatievergoeding-naar-raad-van-state
+
+---
+
+## Duidelijkheid over locatie Lelystad, Breezanddijk en Petten in definitief NPRD
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
+
+De negen laatste onderzoeken voor het Nationaal Programma Ruimte voor Defensie (NPRD) zijn afgerond. Het gaat om besluiten over Lelystad Airport, Breezanddijk en Petten, de vliegbases Leeuwarden, Woensdrecht, Gilze-Rijen en Eindhoven en het...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/duidelijkheid-over-locatie-lelystad-breezanddijk-en-petten-in-definitief-nprd
 
 ---
 
