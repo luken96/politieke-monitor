@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T12:18:56.105765+00:00
+Laatste update: 2026-10-22T13:31:31.691705+00:00
 
 ## Bio-based Europe Alliance launches to accelerate market uptake of sustainable bio-based solutions
 
@@ -477,6 +477,18 @@ Minister Boekholt-O’Sullivan van Volkshuisvesting en Ruimtelijke Ordening past
 
 ---
 
+## Rijk, overheden en corporaties versnellen huisvesting voor mensen in de knel
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
+
+Rijk, provincie, gemeenten en woningcorporaties hebben samen afspraken gemaakt om mensen te helpen die snel een woonplek nodig hebben. Denk aan starters en mensen die net gescheiden zijn of statushouders. Daarbij wordt ingezet op aanvullende...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/rijk-overheden-en-corporaties-versnellen-huisvesting-voor-mensen-in-de-knel
+
+---
+
 ## Update gas: actualisatie crisisplan en leveringszekerheid winter ’27-‘28
 
 **Bron:** Rijksoverheid Nieuws
@@ -570,18 +582,6 @@ Vanaf 1 februari 2027 kunnen weduwen en weduwnaars van voormalig ambtenaren en m
 De Economische Agenda van Nij Begun richt zich tot en met 2028 op technologie, talent en toerisme. Dat staat in het meerjarig uitvoeringsplan ‘Samen werken aan uitvoering’ dat door de ministerraad is vastgesteld. Het kabinet heeft hiervoor...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/uitvoeringsstrategie-voor-een-sterke-economische-toekomst-voor-groningen-en-noord-drenthe-vastgesteld
-
----
-
-## Rijk, overheden en corporaties versnellen huisvesting voor mensen in de knel
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Rijk, provincie, gemeenten en woningcorporaties hebben samen afspraken gemaakt om mensen te helpen die snel een woonplek nodig hebben. Denk aan starters en mensen die net gescheiden zijn of statushouders. Daarbij wordt ingezet op aanvullende...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/rijk-overheden-en-corporaties-versnellen-huisvesting-voor-mensen-in-de-knel
 
 ---
 
