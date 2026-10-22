@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T15:21:28.001115+00:00
+Laatste update: 2026-10-22T16:19:26.865512+00:00
+
+## EU plastic packaging waste hits 35.9 kg per capita
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 18:01:31 +0200
+
+Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en
+
+---
 
 ## Renteplafond studieleningen duurder en risicovol, minister in gesprek met parlement
 
@@ -264,18 +276,6 @@ Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budape
 Learn about the EU campaign to promote cybersecurity in the Europe and about what the EU is doing to better prepare us for and respond to cybersecurity threats
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/click-wisely-promoting-online-safety-during-european-cybersecurity-month-2026-10-20_en
-
----
-
-## Working through an app or website? See what’s changing for your rights
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 16:59:00 +0200
-
-Delivering food, driving people from A to B or freelancing online? New EU rules could change your status, unlock employee benefits and stop unfair algorithmic decisions.
-
-**Originele publicatie:** https://eures.europa.eu/working-through-app-or-website-see-whats-changing-your-rights-2026-10-20_en
 
 ---
 
