@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-22T17:17:17.747434+00:00
+Laatste update: 2026-10-22T18:13:28.507718+00:00
 
 ## EU plastic packaging waste hits 35.9 kg per capita
 
@@ -231,18 +231,6 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 
 ---
 
-## Eurostat: EU trade in wind turbines increased in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 13:44:30 +0200
-
-EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-trade-wind-turbines-increased-2025-2026-10-20_en
-
----
-
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -276,6 +264,18 @@ Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budape
 Learn about the EU campaign to promote cybersecurity in the Europe and about what the EU is doing to better prepare us for and respond to cybersecurity threats
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/click-wisely-promoting-online-safety-during-european-cybersecurity-month-2026-10-20_en
+
+---
+
+## Working through an app or website? See what’s changing for your rights
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 20 Oct 2026 16:59:00 +0200
+
+Delivering food, driving people from A to B or freelancing online? New EU rules could change your status, unlock employee benefits and stop unfair algorithmic decisions.
+
+**Originele publicatie:** https://eures.europa.eu/working-through-app-or-website-see-whats-changing-your-rights-2026-10-20_en
 
 ---
 
