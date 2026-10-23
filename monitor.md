@@ -1,6 +1,42 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T13:27:32.116790+00:00
+Laatste update: 2026-10-23T14:24:06.268379+00:00
+
+## Building bridges through science diplomacy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 16:09:29 +0200
+
+The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
+
+---
+
+## Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 16:00:27 +0200
+
+Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en
+
+---
+
+## AI and skills in Europe – Closing the adoption gap
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 15:59:23 +0200
+
+In a recent brief, the Commission's Joint Research Centre notes that AI tools are now part of everyday work for around 30% of workers in the EU. Many jobs that could use AI do not do so, especially in smaller companies and among mid‑career staff.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en
+
+---
 
 ## Enterprise Europe Network Annual Conference 2026: An Agile Network in a Changing World
 
@@ -59,18 +95,6 @@ On 22 October 2027, the European Commission announced the finalists of the 202
 The European Commission is releasing €22.5 million in humanitarian aid to Yemen, in addition to the €87.5 million previously allocated for 2026, to address the consequences of the renewed conflict escalation and the critical needs of millions of people affected by the protracted crisis.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en
-
----
-
-## Building bridges through science diplomacy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 11:50:22 +0200
-
-The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
 
 ---
 
@@ -384,30 +408,6 @@ Today’s figures highlight the important role the EU’s sustainable finance f
 Commissioner for Intergenerational Fairness, Youth, Culture and Sport, Glenn Micallef, has launched a pledge on intergenerational fairness. Local and regional elected representatives are invited to sign the Pledge, which has ensuring affordable and adapted housing as one if its 16 commitments.
 
 **Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/access-affordable-and-adapted-housing-prioritised-pledge-intergenerational-fairness-2026-10-20_en
-
----
-
-## GEMS: An EU-funded project tackling radicalisation in online gaming spaces
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 10:57:33 +0200
-
-The EU-funded GEMS project examines how vulnerable individuals are identified and recruited in online gaming spaces and has developed an AI-supported moderation tool to detect extremist activity across the diverse world of gaming, interrupting recruitment attempts in real time.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/gems-eu-funded-project-tackling-radicalisation-online-gaming-spaces-2026-10-20_en
-
----
-
-## Joint press release on the 19th implementation meeting of the EU–China Maritime Transport Agreement
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 10:13:54 +0200
-
-The 19th implementation meeting of the EU–China Maritime Transport Agreement in Shanghai
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/joint-press-release-19th-implementation-meeting-eu-china-maritime-transport-agreement-2026-10-20_en
 
 ---
 
@@ -729,6 +729,26 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Press briefing - EU-Canada summit of 29-30 October 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The press briefing will take place on Tuesday 27 October 2026 at 10:30.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/
+
+---
+
+## Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956
+
+**Bron:** Raad van de EU - Persberichten
+
+On 23 October 2026, European Council President António Costa travelled to Budapest and delivered a speech to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/
+
+---
+
 ## EU Inc: Council adopts position on a new EU corporate law for innovative companies
 
 **Bron:** Raad van de EU - Persberichten
@@ -906,26 +926,6 @@ The Council has adopted the first bilateral assistance measure under the Europea
 The Council has appointed Ilze Brands Kehris as EU Special Representative for Human Rights, from 19 October 2026 to 29 February 2028.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/human-rights-eu-appoints-a-new-special-representative/
-
----
-
-## A place to call home: Council adopts recommendation on addressing housing exclusion and homelessness
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has adopted a recommendation setting out a person-centred, housing-led approach to preventing housing exclusion, including homelessness, in the EU.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/a-place-to-call-home-council-adopts-recommendation-on-tackling-housing-exclusion-and-homelessness/
-
----
-
-## MFF 2028-2034: Council agrees position on the common market organisation for agricultural products
-
-**Bron:** Raad van de EU - Persberichten
-
-Council reaches partial negotiating position on an updated set of rules governing the common market organisation for agricultural products in the framework of the negotiations on the post-2027 MFF.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/mff-2028-2034-council-agrees-position-on-the-common-market-organisation-for-agricultural-products/
 
 ---
 
