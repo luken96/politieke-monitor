@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T15:21:37.991371+00:00
+Laatste update: 2026-10-23T16:22:50.610529+00:00
+
+## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 17:34:59 +0200
+
+Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
+
+---
+
+## Joint ministerial statement on the risk of famine in Sudan
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 17:26:41 +0200
+
+Sudan is experiencing an alarming deterioration in its food security. The risk of famine in the coming months, as warned by the Integrated Food Security Phase Classification, needs urgent action. There is no time to lose to save lives and prevent famine.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en
+
+---
 
 ## Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies
 
@@ -131,18 +155,6 @@ Listen to episode 14 of the DGT podcast: Languages and Technology!
 Ruim 1,5 miljoen Nederlanders kiezen vooral ’s ochtends bij het ontbijt voor biologische producten, zoals yoghurt en kwark. Van de Nederlanders die ’s ochtends voor een biologisch product kiest, is zuivel met 43 procent de onbetwiste nummer 1,...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/22/nieuw-onderzoek-lvvn-toont-aan-ruim-15-miljoen-nederlanders-kiezen-bij-ontbijt-voor-biologische-yoghurt
-
----
-
-## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 09:05:55 +0200
-
-Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
 
 ---
 
@@ -375,18 +387,6 @@ Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is 
 
 ---
 
-## Commission gathers experts to help unlock investment in affordable and sustainable housing
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 12:17:11 +0200
-
-More than 100 experts are part of a Joint Working Group, tasked with securing more private and public investments for affordable, energy-efficient and sustainable housing.
-
-**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/commission-gathers-experts-help-unlock-investment-affordable-and-sustainable-housing-2026-10-20_en
-
----
-
 ## Commission data shows continued growth in sustainable investments across the EU
 
 **Bron:** Europese Commissie
@@ -399,15 +399,15 @@ Today’s figures highlight the important role the EU’s sustainable finance f
 
 ---
 
-## Access to affordable and adapted housing is prioritised in the Pledge on the Intergenerational Fairness
+## GEMS: An EU-funded project tackling radicalisation in online gaming spaces
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Tue, 20 Oct 2026 11:55:57 +0200
+**Gepubliceerd:** Tue, 20 Oct 2026 10:57:33 +0200
 
-Commissioner for Intergenerational Fairness, Youth, Culture and Sport, Glenn Micallef, has launched a pledge on intergenerational fairness. Local and regional elected representatives are invited to sign the Pledge, which has ensuring affordable and adapted housing as one if its 16 commitments.
+The EU-funded GEMS project examines how vulnerable individuals are identified and recruited in online gaming spaces and has developed an AI-supported moderation tool to detect extremist activity across the diverse world of gaming, interrupting recruitment attempts in real time.
 
-**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/access-affordable-and-adapted-housing-prioritised-pledge-intergenerational-fairness-2026-10-20_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/gems-eu-funded-project-tackling-radicalisation-online-gaming-spaces-2026-10-20_en
 
 ---
 
