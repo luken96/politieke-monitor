@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T14:24:06.268379+00:00
+Laatste update: 2026-10-23T15:21:37.991371+00:00
+
+## Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 17:15:18 +0200
+
+Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en
+
+---
 
 ## Building bridges through science diplomacy
 
@@ -11,18 +23,6 @@ Laatste update: 2026-10-23T14:24:06.268379+00:00
 The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
-
----
-
-## Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 16:00:27 +0200
-
-Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en
 
 ---
 
@@ -729,6 +729,36 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Forward look: 26 October - 8 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/forward-look-2026/
+
+---
+
+## Weekly schedule of President António Costa
+
+**Bron:** Raad van de EU - Persberichten
+
+Weekly schedule of President António Costa, 26 October-1 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/
+
+---
+
+## Media advisory - Agriculture and Fisheries Council of 26-27 October 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing, public sessions and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-agriculture-and-fisheries-council-of-26-27-october-2026/
+
+---
+
 ## Press briefing - EU-Canada summit of 29-30 October 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -896,36 +926,6 @@ The Council and the European Parliament have reached a provisional agreement on 
 Information about accreditation requirements for the one-year badge (2026)
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/one-year-badge-2026-accreditation-is-open-3/
-
----
-
-## EU Integrated Resolve 2026 Exercise: Enhancing EU Crisis Response Coordination
-
-**Bron:** Raad van de EU - Persberichten
-
-The European Union is carrying out the 2026 edition of its crisis management exercise - EU Integrated Resolve (EU IR26).
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination/
-
----
-
-## European Peace Facility: Council adopts assistance measure to support defence capacities of Nigeria
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has adopted the first bilateral assistance measure under the European Peace Facility, worth €20 million, to support the Nigerian armed forces.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-nigeria/
-
----
-
-## Human rights: EU appoints a new Special Representative
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has appointed Ilze Brands Kehris as EU Special Representative for Human Rights, from 19 October 2026 to 29 February 2028.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/human-rights-eu-appoints-a-new-special-representative/
 
 ---
 
