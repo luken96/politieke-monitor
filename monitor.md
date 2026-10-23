@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T08:21:40.777395+00:00
+Laatste update: 2026-10-23T09:19:40.048898+00:00
+
+## Investing in skills for the competitiveness of small and medium companies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 10:20:29 +0200
+
+As Ireland leads the Presidency of the Council of the European Union, business leaders and policymakers met in Dublin to focus on a pressing question: how can Europe equip its small and medium-sized companies (SME) with the talent and skills they need to grow, innovate and compete?
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en
+
+---
 
 ## New episode – DGT podcast: Languages and Technology
 
@@ -218,18 +230,6 @@ Today, the European Commission celebrates 10 years of EU Space Surveillance and 
 
 ---
 
-## EU and New Caledonia sign strategic partnership on sustainable raw materials
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 14:00:32 +0200
-
-Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-and-new-caledonia-sign-strategic-partnership-sustainable-raw-materials-2026-10-20_en
-
----
-
 ## NCSC: Ernstige kwetsbaarheden in PHP
 
 **Bron:** Rijksoverheid Nieuws
@@ -255,18 +255,6 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 
 ---
 
-## Eurostat: EU trade in wind turbines increased in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 13:44:30 +0200
-
-EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-trade-wind-turbines-increased-2025-2026-10-20_en
-
----
-
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -276,6 +264,18 @@ EU-produced wind turbines had an export value of €3.1 billion in 2025, relativ
 Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is visiting Czechia. She will meet with Prime Minister Andrej Babiš and exchange with government officials on the EU Preparedness Union Strategy.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-czechia-discuss-preparedness-resilience-and-equality-2026-10-21_en
+
+---
+
+## Working through an app or website? See what’s changing for your rights
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 20 Oct 2026 16:59:00 +0200
+
+Delivering food, driving people from A to B or freelancing online? New EU rules could change your status, unlock employee benefits and stop unfair algorithmic decisions.
+
+**Originele publicatie:** https://eures.europa.eu/working-through-app-or-website-see-whats-changing-your-rights-2026-10-20_en
 
 ---
 
