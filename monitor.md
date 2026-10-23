@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T06:17:39.911413+00:00
+Laatste update: 2026-10-23T07:31:13.102680+00:00
+
+## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 09:05:55 +0200
+
+Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
+
+---
 
 ## EU plastic packaging waste hits 35.9 kg per capita
 
@@ -252,18 +264,6 @@ EU-produced wind turbines had an export value of €3.1 billion in 2025, relativ
 Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is visiting Czechia. She will meet with Prime Minister Andrej Babiš and exchange with government officials on the EU Preparedness Union Strategy.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-czechia-discuss-preparedness-resilience-and-equality-2026-10-21_en
-
----
-
-## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 12:20:06 +0200
-
-Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
 
 ---
 
