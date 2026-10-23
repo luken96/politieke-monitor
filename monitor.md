@@ -1,6 +1,66 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T10:18:36.306328+00:00
+Laatste update: 2026-10-23T11:16:56.472559+00:00
+
+## EU civil protection mechanism turns 25
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 12:09:09 +0200
+
+Since its creation, it has been activated more than 900 times by 160 countries and 8 international organisations, coordinating assistance in response to wildfires, floods, earthquakes, health emergencies and other disasters across Europe and around the world.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en
+
+---
+
+## Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 12:07:40 +0200
+
+The European Commission has opened a formal antitrust investigation to assess whether Omya has breached EU competition rules by requiring customers in the paper industry to purchase all or most of their calcium carbonates from Omya.
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-opens-investigation-possible-anticompetitive-conduct-omya-supply-calcium-carbonates-paper-2026-10-23_en
+
+---
+
+## European Capital of Innovation Awards (iCapital): 6 finalists cities announced
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 12:03:38 +0200
+
+On 22 October 2027, the European Commission announced the finalists of the 2027 European Capital of Innovation Awards (iCapital), celebrating the European cities that are leading the way in urban innovation and shaping more sustainable, inclusive and resilient communities.
+
+**Originele publicatie:** https://regions-and-cities.ec.europa.eu/whats-new/newsroom/european-capital-innovation-awards-icapital-6-finalists-cities-announced-2026-10-22_en
+
+---
+
+## EU announces an additional €22.5 million to reinforce humanitarian assistance in Yemen
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 11:58:00 +0200
+
+The European Commission is releasing €22.5 million in humanitarian aid to Yemen, in addition to the €87.5 million previously allocated for 2026, to address the consequences of the renewed conflict escalation and the critical needs of millions of people affected by the protracted crisis.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en
+
+---
+
+## Building bridges through science diplomacy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 11:50:22 +0200
+
+The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
+
+---
 
 ## Investing in skills for the competitiveness of small and medium companies
 
@@ -23,6 +83,18 @@ As Ireland leads the Presidency of the Council of the European Union, business l
 Listen to episode 14 of the DGT podcast: Languages and Technology!
 
 **Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en
+
+---
+
+## Nieuw onderzoek LVVN toont aan: Ruim 1,5 miljoen Nederlanders kiezen bij ontbijt voor biologische yoghurt
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 23 Oct 2026 08:00:00 GMT
+
+Ruim 1,5 miljoen Nederlanders kiezen vooral ’s ochtends bij het ontbijt voor biologische producten, zoals yoghurt en kwark. Van de Nederlanders die ’s ochtends voor een biologisch product kiest, is zuivel met 43 procent de onbetwiste nummer 1,...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/22/nieuw-onderzoek-lvvn-toont-aan-ruim-15-miljoen-nederlanders-kiezen-bij-ontbijt-voor-biologische-yoghurt
 
 ---
 
@@ -267,18 +339,6 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 
 ---
 
-## Eurostat: EU trade in wind turbines increased in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 13:44:30 +0200
-
-EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-trade-wind-turbines-increased-2025-2026-10-20_en
-
----
-
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -288,54 +348,6 @@ EU-produced wind turbines had an export value of €3.1 billion in 2025, relativ
 Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is visiting Czechia. She will meet with Prime Minister Andrej Babiš and exchange with government officials on the EU Preparedness Union Strategy.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-czechia-discuss-preparedness-resilience-and-equality-2026-10-21_en
-
----
-
-## Commission data shows continued growth in sustainable investments across the EU
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 15:52:01 +0200
-
-Over €1.2 trillion has been invested in sustainable activities in the EU since 2021, according to data published by the Commission today.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en
-
----
-
-## Commissioner Kos in Montenegro to attend the Berlin Process Summit and discuss the country’s accession process
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 15:46:35 +0200
-
-Tomorrow and on Thursday, Commissioner for Enlargement Marta Kos will be in Montenegro to participate at the Berlin Process Summit and to discuss Montenegro’s progress on its accession path.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-montenegro-attend-berlin-process-summit-and-discuss-countrys-accession-process-2026-10-20_en
-
----
-
-## EU sets out a new Strategy for the Arctic
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 14:54:05 +0200
-
-Today, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy presented a new Strategy for the Arctic. The Strategy presents a new framework of political cooperation for like-minded partners that places people, security, climate and prosperity at its core.
-
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/eu-sets-out-new-strategy-arctic-2026-10-20_en
-
----
-
-## CERIS event on Innovation Uptake
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 14:52:56 +0200
-
-The CERIS event on innovation uptake gathered more than 120 participants. It provided a space for public authorities, security practitioners, policy makers, innovators and researchers to connect and discuss practical ways to support the transition from research results to deployable solutions.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/ceris-event-innovation-uptake-2026-10-20_en
 
 ---
 
@@ -594,18 +606,6 @@ Met de vaststelling van de Visie op Rijksinkoop in de ministerraad wordt een nie
 De negen laatste onderzoeken voor het Nationaal Programma Ruimte voor Defensie (NPRD) zijn afgerond. Het gaat om besluiten over Lelystad Airport, Breezanddijk en Petten, de vliegbases Leeuwarden, Woensdrecht, Gilze-Rijen en Eindhoven en het...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/duidelijkheid-over-locatie-lelystad-breezanddijk-en-petten-in-definitief-nprd
-
----
-
-## Backpay-regeling voor Indische en Molukse weduwen vanaf februari aan te vragen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Vanaf 1 februari 2027 kunnen weduwen en weduwnaars van voormalig ambtenaren en militairen die tijdens de Tweede Wereldoorlog in dienst waren van het Nederlands-Indisch gouvernement, een aanvraag doen voor de zogenoemde Backpay-regeling voor...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/backpay-regeling-voor-indische-en-molukse-weduwen-vanaf-februari-aan-te-vragen
 
 ---
 
