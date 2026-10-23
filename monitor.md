@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T07:31:13.102680+00:00
+Laatste update: 2026-10-23T08:21:40.777395+00:00
+
+## New episode – DGT podcast: Languages and Technology
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 10:00:44 +0200
+
+Listen to episode 14 of the DGT podcast: Languages and Technology!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en
+
+---
 
 ## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
 
@@ -264,18 +276,6 @@ EU-produced wind turbines had an export value of €3.1 billion in 2025, relativ
 Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is visiting Czechia. She will meet with Prime Minister Andrej Babiš and exchange with government officials on the EU Preparedness Union Strategy.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-czechia-discuss-preparedness-resilience-and-equality-2026-10-21_en
-
----
-
-## Working through an app or website? See what’s changing for your rights
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 16:59:00 +0200
-
-Delivering food, driving people from A to B or freelancing online? New EU rules could change your status, unlock employee benefits and stop unfair algorithmic decisions.
-
-**Originele publicatie:** https://eures.europa.eu/working-through-app-or-website-see-whats-changing-your-rights-2026-10-20_en
 
 ---
 
@@ -729,6 +729,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## EU-Western Balkans summit to take place in Brussels on 25 November
+
+**Bron:** Raad van de EU - Persberichten
+
+EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit will highlight the strategic importance of the relations between the EU and the Western Balkans. The President of the European Council will represent the EU at the summit together with the President of the European Commission.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/
+
+---
+
 ## Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission
 
 **Bron:** Raad van de EU - Persberichten
@@ -916,16 +926,6 @@ Council reaches partial negotiating position on an updated set of rules governin
 The Council has approved conclusions calling for greater efforts to boost equality as a means of strengthening economic growth and competitiveness in Europe.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-calls-for-greater-equality-to-boost-eu-competitiveness/
-
----
-
-## Council greenlights measures to protect workers from exposure to hazardous substances
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council of the EU has adopted a set of revised rules aimed at protecting workers in the EU from exposure to hazardous substances that could cause illnesses such as cancer or asthma.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-greenlights-measures-to-protect-workers-from-exposure-to-hazardous-substances/
 
 ---
 
