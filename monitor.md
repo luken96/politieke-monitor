@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T12:12:47.315500+00:00
+Laatste update: 2026-10-23T13:27:32.116790+00:00
 
 ## Enterprise Europe Network Annual Conference 2026: An Agile Network in a Changing World
 
