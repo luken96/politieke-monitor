@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T02:16:18.745002+00:00
+Laatste update: 2026-10-23T03:18:06.272594+00:00
 
 ## EU plastic packaging waste hits 35.9 kg per capita
 
