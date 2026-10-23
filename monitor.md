@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T09:19:40.048898+00:00
+Laatste update: 2026-10-23T10:18:36.306328+00:00
 
 ## Investing in skills for the competitiveness of small and medium companies
 
@@ -230,6 +230,18 @@ Today, the European Commission celebrates 10 years of EU Space Surveillance and 
 
 ---
 
+## EU and New Caledonia sign strategic partnership on sustainable raw materials
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 21 Oct 2026 14:00:32 +0200
+
+Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-and-new-caledonia-sign-strategic-partnership-sustainable-raw-materials-2026-10-20_en
+
+---
+
 ## NCSC: Ernstige kwetsbaarheden in PHP
 
 **Bron:** Rijksoverheid Nieuws
@@ -255,6 +267,18 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 
 ---
 
+## Eurostat: EU trade in wind turbines increased in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 21 Oct 2026 13:44:30 +0200
+
+EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-trade-wind-turbines-increased-2025-2026-10-20_en
+
+---
+
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -264,18 +288,6 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is visiting Czechia. She will meet with Prime Minister Andrej Babiš and exchange with government officials on the EU Preparedness Union Strategy.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-czechia-discuss-preparedness-resilience-and-equality-2026-10-21_en
-
----
-
-## Working through an app or website? See what’s changing for your rights
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 16:59:00 +0200
-
-Delivering food, driving people from A to B or freelancing online? New EU rules could change your status, unlock employee benefits and stop unfair algorithmic decisions.
-
-**Originele publicatie:** https://eures.europa.eu/working-through-app-or-website-see-whats-changing-your-rights-2026-10-20_en
 
 ---
 
@@ -300,18 +312,6 @@ Over €1.2 trillion has been invested in sustainable activities in the EU since
 Tomorrow and on Thursday, Commissioner for Enlargement Marta Kos will be in Montenegro to participate at the Berlin Process Summit and to discuss Montenegro’s progress on its accession path.
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-montenegro-attend-berlin-process-summit-and-discuss-countrys-accession-process-2026-10-20_en
-
----
-
-## How ports can become catalysts for the blue economy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 15:07:52 +0200
-
-Highlighted in the World Economic Forum’s Global Risks Report 2026, long-term risks to Earth systems, society and the economy are dominated by the impact of climate change, with extreme weather events, biodiversity loss and ecosystem collapse, and critical change to Earth systems ranked among the
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/how-ports-can-become-catalysts-blue-economy-2026-10-20_en
 
 ---
 
@@ -561,30 +561,6 @@ De ministerraad heeft ingestemd met de wijziging van het Besluit Energieprestati
 
 ---
 
-## Duidelijkheid over locatie Lelystad, Breezanddijk en Petten in definitief NPRD
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-De negen laatste onderzoeken voor het Nationaal Programma Ruimte voor Defensie (NPRD) zijn afgerond. Het gaat om besluiten over Lelystad Airport, Breezanddijk en Petten, de vliegbases Leeuwarden, Woensdrecht, Gilze-Rijen en Eindhoven en het...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/duidelijkheid-over-locatie-lelystad-breezanddijk-en-petten-in-definitief-nprd
-
----
-
-## Backpay-regeling voor Indische en Molukse weduwen vanaf februari aan te vragen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Vanaf 1 februari 2027 kunnen weduwen en weduwnaars van voormalig ambtenaren en militairen die tijdens de Tweede Wereldoorlog in dienst waren van het Nederlands-Indisch gouvernement, een aanvraag doen voor de zogenoemde Backpay-regeling voor...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/backpay-regeling-voor-indische-en-molukse-weduwen-vanaf-februari-aan-te-vragen
-
----
-
 ## Uitvoeringsstrategie voor een sterke economische toekomst voor Groningen en Noord-Drenthe vastgesteld
 
 **Bron:** Rijksoverheid Nieuws
@@ -606,6 +582,30 @@ De Economische Agenda van Nij Begun richt zich tot en met 2028 op technologie, t
 Met de vaststelling van de Visie op Rijksinkoop in de ministerraad wordt een nieuwe stap gezet in het moderniseren van de rijksinkoop. In deze toekomstvisie geeft het kabinet aan hoe de Rijksoverheid haar inkoopkracht – goed voor zo’n 20 miljard...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/nieuwe-visie-op-rijksinkoop-rijksoverheid-zet-inkoop-in-voor-sterkere-economie-betere-veiligheid-en-meer-efficientie
+
+---
+
+## Duidelijkheid over locatie Lelystad, Breezanddijk en Petten in definitief NPRD
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
+
+De negen laatste onderzoeken voor het Nationaal Programma Ruimte voor Defensie (NPRD) zijn afgerond. Het gaat om besluiten over Lelystad Airport, Breezanddijk en Petten, de vliegbases Leeuwarden, Woensdrecht, Gilze-Rijen en Eindhoven en het...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/duidelijkheid-over-locatie-lelystad-breezanddijk-en-petten-in-definitief-nprd
+
+---
+
+## Backpay-regeling voor Indische en Molukse weduwen vanaf februari aan te vragen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
+
+Vanaf 1 februari 2027 kunnen weduwen en weduwnaars van voormalig ambtenaren en militairen die tijdens de Tweede Wereldoorlog in dienst waren van het Nederlands-Indisch gouvernement, een aanvraag doen voor de zogenoemde Backpay-regeling voor...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/backpay-regeling-voor-indische-en-molukse-weduwen-vanaf-februari-aan-te-vragen
 
 ---
 
@@ -729,6 +729,26 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## EU Inc: Council adopts position on a new EU corporate law for innovative companies
+
+**Bron:** Raad van de EU - Persberichten
+
+Council adopts its negotiating position on the regulation to create a 28th regime corporate legal framework, EU inc.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/
+
+---
+
+## UPDATED Media advisory - Accreditation for the Special European Council, 26-27 November 2026 and the EU-Western Balkans summit, 25 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels. It will be preceded by the EU-Western Balkans summit on 25 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/
+
+---
+
 ## EU-Western Balkans summit to take place in Brussels on 25 November
 
 **Bron:** Raad van de EU - Persberichten
@@ -849,16 +869,6 @@ The Council and the European Parliament have reached a provisional agreement on 
 
 ---
 
-## Media advisory - Accreditation for the Special European Council, 26 and 27 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/media-advisory-accreditation-for-the-special-european-council-26-and-27-november-2026/
-
----
-
 ## One-year badge 2026 - accreditation is open
 
 **Bron:** Raad van de EU - Persberichten
@@ -916,16 +926,6 @@ The Council has adopted a recommendation setting out a person-centred, housing-l
 Council reaches partial negotiating position on an updated set of rules governing the common market organisation for agricultural products in the framework of the negotiations on the post-2027 MFF.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/mff-2028-2034-council-agrees-position-on-the-common-market-organisation-for-agricultural-products/
-
----
-
-## Council calls for greater equality to boost EU competitiveness
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has approved conclusions calling for greater efforts to boost equality as a means of strengthening economic growth and competitiveness in Europe.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-calls-for-greater-equality-to-boost-eu-competitiveness/
 
 ---
 
