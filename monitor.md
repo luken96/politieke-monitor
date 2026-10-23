@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T05:17:15.024340+00:00
+Laatste update: 2026-10-23T06:17:39.911413+00:00
 
 ## EU plastic packaging waste hits 35.9 kg per capita
 
@@ -231,6 +231,18 @@ The European Commission has approved a €500,0000 Slovenian State aid scheme fo
 
 ---
 
+## Eurostat: EU trade in wind turbines increased in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 21 Oct 2026 13:44:30 +0200
+
+EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-trade-wind-turbines-increased-2025-2026-10-20_en
+
+---
+
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -252,18 +264,6 @@ Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is 
 Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
-
----
-
-## Click wisely: promoting online safety during European Cybersecurity Month
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 17:25:42 +0200
-
-Learn about the EU campaign to promote cybersecurity in the Europe and about what the EU is doing to better prepare us for and respond to cybersecurity threats
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/click-wisely-promoting-online-safety-during-european-cybersecurity-month-2026-10-20_en
 
 ---
 
