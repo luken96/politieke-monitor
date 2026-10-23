@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-23T11:16:56.472559+00:00
+Laatste update: 2026-10-23T12:12:47.315500+00:00
+
+## Enterprise Europe Network Annual Conference 2026: An Agile Network in a Changing World
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 13:33:31 +0200
+
+The Enterprise Europe Network Annual Conference 2026 takes place 11-13 November at the Croke Park Conference Centre in Dublin, Ireland, with Network partners and stakeholders. Under the theme 'An Agile Network in a Changing World', 700 participants join onsite and online for 3 days of exchange.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en
+
+---
 
 ## EU civil protection mechanism turns 25
 
@@ -299,18 +311,6 @@ Door 2 lekken in de software die op veel websites gebruikt wordt, zijn woensdag 
 Today, the European Commission celebrates 10 years of EU Space Surveillance and Tracking (EU SST) operations, marking a major milestone for EU cooperation in space and a decade of concrete action to protect space assets and strengthen the EU’s strategic autonomy in space surveillance and tracking.
 
 **Originele publicatie:** https://defence-industry-space.ec.europa.eu/eu-space-surveillance-and-tracking-marks-10-years-operations-decade-space-safety-and-sustainability-2026-10-21_en
-
----
-
-## EU and New Caledonia sign strategic partnership on sustainable raw materials
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 14:00:32 +0200
-
-Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-and-new-caledonia-sign-strategic-partnership-sustainable-raw-materials-2026-10-20_en
 
 ---
 
