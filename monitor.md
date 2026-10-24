@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-24T02:15:50.674224+00:00
+Laatste update: 2026-10-24T03:15:20.984606+00:00
 
 ## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
 
@@ -633,6 +633,18 @@ Food reformulation policies for healthier food and beverage products available t
 
 ---
 
+## A closer look at pesticides in food
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Mon, 28 Sep 2026 22:00:00 GMT
+
+Food authorities in EU countries monitor pesticide residues in food to ensure they do not exceed EU limits, and prevent health risks. 125,000 food samples were collected in the EU, Iceland and Norway in 2024 (the latest reporting year) covering food from all continents.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/8f30d7bb-be06-11f1-9aae-01aa75ed71a1/language-en
+
+---
+
 ## The food and beverage market entry handbook Canada : a practical guide to the market in Canada for European agri-food products
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -666,18 +678,6 @@ This Handbook is intended to act as a reference for those agri-food producers pl
 The Directorate-General for Health and Food Safety of the European Commission develops and implements the Commission’s policies on food safety and public health. Its Directorate for Health and Food Audits and Analysis (“the Directorate”) monitors the implementation and enforcement of European Union (EU) legislation in the areas of food and feed safety, animal health, animal welfare, plant health and in certain areas of human health. The Directorate-General published the Health and food audits and analysis work programme 2026 on the European Commission’s website1. The present document updates the programme of controls for the second half of 2026. It takes account of changes that have become necessary as the year progressed. Annexes 1 to 3 provide the lists of controls planned from July to December 2026 per country. Annex 1 relates to Member States, Annex 2 relates to candidate countries, and Annex 3 to third countries. In addition to the controls listed in these annexes, the Directorate plans to perform other activities in the second half of 2026: - Demand-led controls described in annex 1 to the published work programme 2026, such as medical devices joint assessments, and analyses related to the (re-)designation of border control posts; - Non-control activities described in annex 1 of the published work programme 2026, for which work is in progress.
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/f7a2cead-a288-11f1-b25c-01aa75ed71a1/language-en
-
----
-
-## EU food system monitoring dashboard : measuring progress towards sustainability
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Thu, 20 Aug 2026 22:00:00 GMT
-
-The Joint Research Centre of the European Commission developed the EU Food System Monitoring Framework to monitor the environmental, economic, and social sustainability of the EU food system across the entire food chain.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/757a5b61-9dcf-11f1-b25c-01aa75ed71a1/language-en
 
 ---
 
