@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-25T22:08:39.927382+00:00
+Laatste update: 2026-10-25T23:09:05.196853+00:00
 
 ## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
 
