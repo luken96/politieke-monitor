@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T22:17:14.436096+00:00
+Laatste update: 2026-10-26T23:16:07.228436+00:00
 
 ## Vogelgriep vastgesteld in Lutjegast
 
@@ -519,15 +519,15 @@ Er zijn 2 kritieke kwetsbaarheden gevonden. Er is een publieke Proof of Concept 
 
 ---
 
-## Commission approves €500,000 Slovenian State aid for agriculture, fishery and marine aquaculture companies facing increased fuel prices
+## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Wed, 21 Oct 2026 13:50:58 +0200
+**Gepubliceerd:** Wed, 21 Oct 2026 12:38:55 +0200
 
-The European Commission has approved a €500,0000 Slovenian State aid scheme for agriculture, fishery and marine aquaculture companies facing increased fuel prices due to the Middle East crisis.
+Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is visiting Czechia. She will meet with Prime Minister Andrej Babiš and exchange with government officials on the EU Preparedness Union Strategy.
 
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur500000-slovenian-state-aid-agriculture-fishery-and-marine-aquaculture-2026-10-21_en
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-czechia-discuss-preparedness-resilience-and-equality-2026-10-21_en
 
 ---
 
