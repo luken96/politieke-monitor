@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T19:29:55.814372+00:00
+Laatste update: 2026-10-26T20:16:17.657249+00:00
+
+## Vogelgriep vastgesteld in Lutjegast
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 20:07:00 GMT
+
+In Lutjegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastgesteld op een legpluimveebedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/vogelgriep-vastgesteld-in-lutjegast
+
+---
 
 ## Ukraine Mine Action Conference 2026: clearing the way in partnership
 
@@ -594,18 +606,6 @@ Een bericht over een pakketje dat onderweg is of een aanbieding die te mooi lijk
 Het kabinet stelt € 355 miljoen beschikbaar voor de bereikbaarheid van de 4 nationaal grootschalige woningbouwgebieden die in 2025 werden aangewezen. Het gaat om Alkmaar, Apeldoorn, Helmond en Hengelo/Enschede. In deze gebieden komen in totaal...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/355-miljoen-voor-bereikbaarheid-bijna-30.000-nieuwe-woningen
-
----
-
-## Opkoopbescherming wordt gericht op leefbaarheid in wijken
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 13:17:00 GMT
-
-Minister Boekholt-O’Sullivan van Volkshuisvesting en Ruimtelijke Ordening past de opkoopbescherming aan. Gemeenten kunnen de opkoopbescherming voortaan inzetten in gebieden waar de leefbaarheid onder druk staat. Gemeenten moeten daarbij...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/15/opkoopbescherming-wordt-gericht-op-leefbaarheid-in-wijken
 
 ---
 
