@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T05:20:37.889870+00:00
+Laatste update: 2026-10-26T06:19:50.597971+00:00
 
 ## EU civil protection mechanism turns 25
 
