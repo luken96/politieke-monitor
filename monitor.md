@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T16:41:40.271326+00:00
+Laatste update: 2026-10-26T17:27:35.002224+00:00
+
+## Ukraine Mine Action Conference 2026: clearing the way in partnership
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 17:55:36 +0100
+
+The Ukraine Mine Action Conference (UMAC) is a key international initiative to advance humanitarian mine action in Ukraine, which is an essential part of Ukraine’s recovery, security and resilience.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/ukraine-mine-action-conference-2026-clearing-way-partnership-2026-10-26_en
+
+---
 
 ## CEF Energy 2026 call for PCI/PMI projects attracts strong interest with 67 applications requesting €2.88 billion
 
@@ -495,18 +507,6 @@ Er zijn 2 kritieke kwetsbaarheden gevonden. Er is een publieke Proof of Concept 
 
 ---
 
-## Commission approves €500,000 Slovenian State aid for agriculture, fishery and marine aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 13:50:58 +0200
-
-The European Commission has approved a €500,0000 Slovenian State aid scheme for agriculture, fishery and marine aquaculture companies facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur500000-slovenian-state-aid-agriculture-fishery-and-marine-aquaculture-2026-10-21_en
-
----
-
 ## Commissioner Lahbib visits Czechia to discuss preparedness, resilience and equality
 
 **Bron:** Europese Commissie
@@ -726,6 +726,206 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Baltic Sea: Council reaches agreement on fishing opportunities for 2027
+
+**Bron:** Raad van de EU - Persberichten
+
+Council agrees on Baltic Sea fisheries catch limits for 2027 for key fish stocks, namely herring, sprat, cod, salmon and plaice.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027/
+
+---
+
+## EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility
+
+**Bron:** Raad van de EU - Persberichten
+
+Today the Council adopted a set of decisions mobilising funds for Ukraine under the European Peace Facility. These decisions will allow for the partial reimbursement of previously delivered military aid and provide additional financing for the EU Military Assistance Mission in Support of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-support-for-ukraine-council-mobilises-49-billion-under-the-european-peace-facility/
+
+---
+
+## One-year badge 2027 - accreditation is open
+
+**Bron:** Raad van de EU - Persberichten
+
+Information about accreditation requirements for the one-year badge (2027)
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/one-year-badge-2027-accreditation-is-open/
+
+---
+
+## Media advisory - Accreditation for the European Council, 17 and 18 December 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The European Council will take place on 17 and 18 December 2026 in the Europa building in Brussels.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/media-advisory-accreditation-for-the-european-council-17-and-18-december-2026/
+
+---
+
+## EU sanctions against ISIL/Da’esh and Al-Qaeda: Council renews regime until 2027
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council extended restrictive measures against individuals and groups associated with ISIL/Da'esh and Al-Qaeda for a further year, until 31 October 2027.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/
+
+---
+
+## Forward look: 26 October - 8 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/forward-look-2026/
+
+---
+
+## Weekly schedule of President António Costa
+
+**Bron:** Raad van de EU - Persberichten
+
+Weekly schedule of President António Costa, 26 October-1 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/
+
+---
+
+## Media advisory - Agriculture and Fisheries Council of 26-27 October 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing, public sessions and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-agriculture-and-fisheries-council-of-26-27-october-2026/
+
+---
+
+## Press briefing - EU-Canada summit of 29-30 October 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The press briefing will take place on Tuesday 27 October 2026 at 10:30.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/
+
+---
+
+## Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956
+
+**Bron:** Raad van de EU - Persberichten
+
+On 23 October 2026, European Council President António Costa travelled to Budapest and delivered a speech to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/
+
+---
+
+## EU Inc: Council adopts position on a new EU corporate law for innovative companies
+
+**Bron:** Raad van de EU - Persberichten
+
+Council adopts its negotiating position on the regulation to create a 28th regime corporate legal framework, EU inc.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/
+
+---
+
+## UPDATED Media advisory - Accreditation for the Special European Council, 26-27 November 2026 and the EU-Western Balkans summit, 25 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels. It will be preceded by the EU-Western Balkans summit on 25 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/
+
+---
+
+## EU-Western Balkans summit to take place in Brussels on 25 November
+
+**Bron:** Raad van de EU - Persberichten
+
+EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit will highlight the strategic importance of the relations between the EU and the Western Balkans. The President of the European Council will represent the EU at the summit together with the President of the European Commission.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/
+
+---
+
+## Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission
+
+**Bron:** Raad van de EU - Persberichten
+
+On 22 October 2026, European Council President António Costa and European Commission President Ursula von der Leyen held talks with President of Viet Nam Tô Lâm in Brussels on bilateral cooperation, regional security and global challenges.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/
+
+---
+
+## Presentation of letters of credence to the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen
+
+**Bron:** Raad van de EU - Persberichten
+
+President Costa and President von der Leyen received letters of credence from nineteen new Ambassadors to the European Union.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/presentation-of-letters-of-credence-to-the-president-of-the-european-council-antonio-costa-and-the-president-of-the-european-commission-ursula-von-der-leyen/
+
+---
+
+## Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council and the Parliament agreed new rules to revitalise the EU’s securitisation market - an integral part of the savings and investments union (SIU) and the ‘One Europe, One Market’ roadmap to boost economic growth.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/
+
+---
+
+## Libya/Türkiye: Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/
+
+---
+
+## Simplification: Council agrees negotiating stance to cut red tape for small packaging producers
+
+**Bron:** Raad van de EU - Persberichten
+
+Council agrees negotiating position on proposal for a regulation suspending extended producer responsibility.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/
+
+---
+
+## Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules
+
+**Bron:** Raad van de EU - Persberichten
+
+Simplification: Council agrees position to streamline EU’s data, privacy and cyber reporting rules.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/
+
+---
+
+## ETS market stability reserve: Council and Parliament reach provisional agreement on targeted amendment
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council and the European Parliament reached a provisional agreement on amending the rules on the invalidation of allowances in the market stability reserve, in order to increase long-term market liquidity and predictability within its emission trading system.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/ets-market-stability-reserve-council-and-parliament-reach-provisional-agreement-on-targeted-amendment/
 
 ---
 
