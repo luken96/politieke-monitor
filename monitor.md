@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T11:25:19.183573+00:00
+Laatste update: 2026-10-26T14:16:28.190815+00:00
+
+## Staatssecretaris Tielen grijpt in bij Stichting Islamitisch Onderwijs
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 13:45:00 GMT
+
+Staatssecretaris Tielen heeft het bestuur van Stichting Islamitisch Onderwijs met een aanwijzing opgedragen om per direct orde op zaken stellen zodat de leerlingen weer kunnen rekenen op goed onderwijs. Deze uitzonderlijke stap volgt nadat voor de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/staatssecretaris-tielen-grijpt-in-bij-stichting-islamitisch-onderwijs
+
+---
+
+## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 12:39:42 +0100
+
+Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED)...
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en
+
+---
 
 ## Hydrogen Strategy – Commission launches consultation
 
@@ -374,18 +398,6 @@ The European Commission has confirmed the essential role of the European Network
 
 ---
 
-## Bioeconomy: Commission launches public consultation on bio-based feedstock in plastic packaging
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 10:31:01 +0200
-
-The results will inform an assessment of the technological development and environmental performance of bio-based plastic packaging.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-opens-consultation-bio-based-plastic-packaging-2026-10-21_en
-
----
-
 ## Oil Coordination Group discusses EU fuel market developments
 
 **Bron:** Europese Commissie
@@ -597,18 +609,6 @@ Zolang Nederland gas nodig heeft als energiebron, zorgt het kabinet voor voldoen
 
 ---
 
-## Versterkingsagenda moet leesvaardigheid leerlingen verbeteren
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Nederlandse leerlingen moeten wezenlijk beter leren lezen, schrijven en rekenen. Binnen 3 jaar moet er een kentering zijn. Dit is het doel van de Versterkingsagenda Taal en andere basisvaardigheden, die staatssecretaris Tielen van Onderwijs en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/versterkingsagenda-moet-leesvaardigheid-leerlingen-verbeteren
-
----
-
 ## Food and veterinary audits : programme 2027
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -726,206 +726,6 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
-
----
-
-## EU sanctions against ISIL/Da’esh and Al-Qaeda: Council renews regime until 2027
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council extended restrictive measures against individuals and groups associated with ISIL/Da'esh and Al-Qaeda for a further year, until 31 October 2027.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/
-
----
-
-## Forward look: 26 October - 8 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/forward-look-2026/
-
----
-
-## Weekly schedule of President António Costa
-
-**Bron:** Raad van de EU - Persberichten
-
-Weekly schedule of President António Costa, 26 October-1 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/
-
----
-
-## Media advisory - Agriculture and Fisheries Council of 26-27 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing, public sessions and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-agriculture-and-fisheries-council-of-26-27-october-2026/
-
----
-
-## Press briefing - EU-Canada summit of 29-30 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The press briefing will take place on Tuesday 27 October 2026 at 10:30.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/
-
----
-
-## Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956
-
-**Bron:** Raad van de EU - Persberichten
-
-On 23 October 2026, European Council President António Costa travelled to Budapest and delivered a speech to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/
-
----
-
-## EU Inc: Council adopts position on a new EU corporate law for innovative companies
-
-**Bron:** Raad van de EU - Persberichten
-
-Council adopts its negotiating position on the regulation to create a 28th regime corporate legal framework, EU inc.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/
-
----
-
-## UPDATED Media advisory - Accreditation for the Special European Council, 26-27 November 2026 and the EU-Western Balkans summit, 25 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels. It will be preceded by the EU-Western Balkans summit on 25 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/
-
----
-
-## EU-Western Balkans summit to take place in Brussels on 25 November
-
-**Bron:** Raad van de EU - Persberichten
-
-EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit will highlight the strategic importance of the relations between the EU and the Western Balkans. The President of the European Council will represent the EU at the summit together with the President of the European Commission.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/
-
----
-
-## Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission
-
-**Bron:** Raad van de EU - Persberichten
-
-On 22 October 2026, European Council President António Costa and European Commission President Ursula von der Leyen held talks with President of Viet Nam Tô Lâm in Brussels on bilateral cooperation, regional security and global challenges.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/
-
----
-
-## Presentation of letters of credence to the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen
-
-**Bron:** Raad van de EU - Persberichten
-
-President Costa and President von der Leyen received letters of credence from nineteen new Ambassadors to the European Union.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/presentation-of-letters-of-credence-to-the-president-of-the-european-council-antonio-costa-and-the-president-of-the-european-commission-ursula-von-der-leyen/
-
----
-
-## Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council and the Parliament agreed new rules to revitalise the EU’s securitisation market - an integral part of the savings and investments union (SIU) and the ‘One Europe, One Market’ roadmap to boost economic growth.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/
-
----
-
-## Libya/Türkiye: Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/
-
----
-
-## Simplification: Council agrees negotiating stance to cut red tape for small packaging producers
-
-**Bron:** Raad van de EU - Persberichten
-
-Council agrees negotiating position on proposal for a regulation suspending extended producer responsibility.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/
-
----
-
-## Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules
-
-**Bron:** Raad van de EU - Persberichten
-
-Simplification: Council agrees position to streamline EU’s data, privacy and cyber reporting rules.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/
-
----
-
-## ETS market stability reserve: Council and Parliament reach provisional agreement on targeted amendment
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council and the European Parliament reached a provisional agreement on amending the rules on the invalidation of allowances in the market stability reserve, in order to increase long-term market liquidity and predictability within its emission trading system.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/ets-market-stability-reserve-council-and-parliament-reach-provisional-agreement-on-targeted-amendment/
-
----
-
-## Press briefing - Agriculture and Fisheries Council of 26-27 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Press briefing ahead of the upcoming Agriculture and Fisheries Council will take place on 23 October 2026 at 13:00.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/press-briefing-agriculture-and-fisheries-council-of-26-27-october-2026/
-
----
-
-## Report by President António Costa to the European Parliament plenary session
-
-**Bron:** Raad van de EU - Persberichten
-
-European Council President António Costa debriefed the European Parliament plenary in Strasbourg on the discussions held during the European Council meeting of 15 and 16 October 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/report-by-president-antonio-costa-to-the-european-parliament-plenary-session/
-
----
-
-## Joint statement by the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen
-
-**Bron:** Raad van de EU - Persberichten
-
-Joint statement by the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/20/joint-statement-by-the-president-of-the-european-council-and-the-president-of-the-european-commission/
-
----
-
-## Council and Parliament strike deal on updated measures to support organic farming in the EU
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council and the European Parliament have reached a provisional agreement on simpler and clearer rules on the production, labelling, certification and trade of organic products.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/20/council-and-parliament-strike-deal-on-updated-measures-to-support-organic-farming-in-the-eu/
 
 ---
 
