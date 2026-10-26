@@ -1,6 +1,42 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T07:38:16.003217+00:00
+Laatste update: 2026-10-26T08:29:45.854421+00:00
+
+## Kabinet werkt aan slagvaardige overheid: eenvoudiger, slimmer en kleiner
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 08:00:00 GMT
+
+De overheid is door de jaren heen voor veel inwoners en ondernemers te ingewikkeld geworden. Daarom moet de overheid eenvoudiger, slimmer en kleiner worden. Om proactieve dienstverlening mogelijk te maken, zorgt de overheid ervoor dat gegevens van...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/kabinet-werkt-aan-slagvaardige-overheid-eenvoudiger-slimmer-en-kleiner
+
+---
+
+## Minister Van Essen naar VN-top voor afspraken over natuur
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 07:52:00 GMT
+
+Minister Jaimi van Essen (Landbouw, Visserij, Voedselzekerheid en Natuur) gaat van 27 tot en met 28 oktober naar Armenië om deel te nemen aan de VN-Biodiversiteitstop (COP17). Tijdens de Verenigde Naties-top komen bijna tweehonderd landen samen om...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/minister-van-essen-naar-vn-top-voor-afspraken-over-natuur
+
+---
+
+## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 08:35:43 +0100
+
+Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
+
+---
 
 ## EU civil protection mechanism turns 25
 
@@ -399,18 +435,6 @@ Today’s figures highlight the important role the EU’s sustainable finance f
 
 ---
 
-## GEMS: An EU-funded project tackling radicalisation in online gaming spaces
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 10:57:33 +0200
-
-The EU-funded GEMS project examines how vulnerable individuals are identified and recruited in online gaming spaces and has developed an AI-supported moderation tool to detect extremist activity across the diverse world of gaming, interrupting recruitment attempts in real time.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/gems-eu-funded-project-tackling-radicalisation-online-gaming-spaces-2026-10-20_en
-
----
-
 ## Nieuwe burgemeester in Ameland
 
 **Bron:** Rijksoverheid Nieuws
@@ -582,30 +606,6 @@ De ministerraad heeft ingestemd met de wijziging van het Besluit Energieprestati
 De Economische Agenda van Nij Begun richt zich tot en met 2028 op technologie, talent en toerisme. Dat staat in het meerjarig uitvoeringsplan ‘Samen werken aan uitvoering’ dat door de ministerraad is vastgesteld. Het kabinet heeft hiervoor...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/uitvoeringsstrategie-voor-een-sterke-economische-toekomst-voor-groningen-en-noord-drenthe-vastgesteld
-
----
-
-## Nieuwe Visie op Rijksinkoop: Rijksoverheid zet inkoop in voor sterkere economie, betere veiligheid en meer efficiëntie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Met de vaststelling van de Visie op Rijksinkoop in de ministerraad wordt een nieuwe stap gezet in het moderniseren van de rijksinkoop. In deze toekomstvisie geeft het kabinet aan hoe de Rijksoverheid haar inkoopkracht – goed voor zo’n 20 miljard...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/nieuwe-visie-op-rijksinkoop-rijksoverheid-zet-inkoop-in-voor-sterkere-economie-betere-veiligheid-en-meer-efficientie
-
----
-
-## Duidelijkheid over locatie Lelystad, Breezanddijk en Petten in definitief NPRD
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-De negen laatste onderzoeken voor het Nationaal Programma Ruimte voor Defensie (NPRD) zijn afgerond. Het gaat om besluiten over Lelystad Airport, Breezanddijk en Petten, de vliegbases Leeuwarden, Woensdrecht, Gilze-Rijen en Eindhoven en het...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/duidelijkheid-over-locatie-lelystad-breezanddijk-en-petten-in-definitief-nprd
 
 ---
 
