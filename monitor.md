@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T18:22:51.879686+00:00
+Laatste update: 2026-10-26T19:29:55.814372+00:00
 
 ## Ukraine Mine Action Conference 2026: clearing the way in partnership
 
