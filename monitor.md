@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T08:29:45.854421+00:00
+Laatste update: 2026-10-26T09:26:19.015363+00:00
+
+## Nederland de sterkste medische technologiesector van Europa in 2035
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 09:00:00 GMT
+
+Nederland heeft de ambitie om in 2035 de sterkste medische technologiesector van Europa te hebben. Dat biedt iedereen op termijn niet alleen betere diagnoses en behandelingen, maar zorgt ook voor innovatieve economische kansen. Bedrijfsleven,...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nederland-de-sterkste-medische-technologiesector-van-europa-in-2035
+
+---
+
+## Nederland investeert fors in bescherming tropische bossen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 08:30:00 GMT
+
+Het kabinet wil over een periode van tien jaar maximaal 500 miljoen dollar uittrekken voor een innovatief internationaal initiatief om tropische bossen te beschermen. De kapitaalbijdrage is bestemd voor de Tropical Forest Forever Facility (TFFF),...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nederland-investeert-fors-in-bescherming-tropische-bossen
+
+---
 
 ## Kabinet werkt aan slagvaardige overheid: eenvoudiger, slimmer en kleiner
 
@@ -582,30 +606,6 @@ Het kabinet wil kijken hoe de Lelylijn dichterbij gebracht zou kunnen worden. Ee
 Het kabinet steekt € 18 miljard extra in het onderhoud en de vernieuwing van wegen, bruggen, spoor en waterwerken. Daarmee brengen we de basis van onze infrastructuur weer op orde. Veel infrastructuur is verouderd en is hard toe aan groot...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/extra-investering-van-18-miljard-euro-naar-onderhoud-en-vernieuwing-grootste-verbouwing-van-de-nederlandse-infrastructuur-ooit
-
----
-
-## Voorstel voor lagere energieprestatievergoeding naar Raad van State
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-De ministerraad heeft ingestemd met de wijziging van het Besluit Energieprestatievergoeding (EPV). Met de wijziging worden de effecten van de afschaffing van de salderingsregeling voor een groot deel gedempt voor de huurders die een EPV betalen....
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/voorstel-voor-lagere-energieprestatievergoeding-naar-raad-van-state
-
----
-
-## Uitvoeringsstrategie voor een sterke economische toekomst voor Groningen en Noord-Drenthe vastgesteld
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-De Economische Agenda van Nij Begun richt zich tot en met 2028 op technologie, talent en toerisme. Dat staat in het meerjarig uitvoeringsplan ‘Samen werken aan uitvoering’ dat door de ministerraad is vastgesteld. Het kabinet heeft hiervoor...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/uitvoeringsstrategie-voor-een-sterke-economische-toekomst-voor-groningen-en-noord-drenthe-vastgesteld
 
 ---
 
