@@ -1,16 +1,16 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T10:26:37.939760+00:00
+Laatste update: 2026-10-26T11:25:19.183573+00:00
 
-## Hydrogen Strategy – Commission launches call for evidence
+## Hydrogen Strategy – Commission launches consultation
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Mon, 26 Oct 2026 11:21:45 +0100
+**Gepubliceerd:** Mon, 26 Oct 2026 11:53:48 +0100
 
 The European Commission has today launched a 4-week call for evidence and a 4-week targeted stakeholder consultation to gather input to help shape the forthcoming Hydrogen Strategy.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/hydrogen-strategy-commission-launches-call-evidence-2026-10-26_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/hydrogen-strategy-commission-launches-consultation-2026-10-26_en
 
 ---
 
@@ -20,7 +20,7 @@ The European Commission has today launched a 4-week call for evidence and a 4-we
 
 **Gepubliceerd:** Mon, 26 Oct 2026 10:05:00 GMT
 
-Oude matrassen bevatten waardevolle grondstoffen, zoals staal en schuim, die opnieuw kunnen worden gebruikt. Inmiddels wordt bijna twee derde van de oude matrassen ingezameld voor recycling. Om te voorkomen dat grondstoffen verloren gaan, hebben...
+Oude matrassen bevatten waardevolle grondstoffen, zoals staal en schuim, die opnieuw kunnen worden gebruikt. Inmiddels wordt bijna 2/3 van de oude matrassen ingezameld voor recycling. Om te voorkomen dat grondstoffen verloren gaan, hebben...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nieuwe-afspraken-voor-meer-recycling-van-oude-matrassen
 
@@ -92,7 +92,7 @@ De overheid is door de jaren heen voor veel inwoners en ondernemers te ingewikke
 
 **Gepubliceerd:** Mon, 26 Oct 2026 07:52:00 GMT
 
-Minister Jaimi van Essen (Landbouw, Visserij, Voedselzekerheid en Natuur) gaat van 27 tot en met 28 oktober naar Armenië om deel te nemen aan de VN-Biodiversiteitstop (COP17). Tijdens de Verenigde Naties-top komen bijna tweehonderd landen samen om...
+Minister Jaimi van Essen (Landbouw, Visserij, Voedselzekerheid en Natuur) gaat van 27 tot en met 28 oktober naar Armenië om deel te nemen aan de VN-Biodiversiteitstop (COP17). Tijdens de Verenigde Naties-top komen bijna 200 landen samen om...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/minister-van-essen-naar-vn-top-voor-afspraken-over-natuur
 
@@ -1410,16 +1410,6 @@ Each Council presidency organises informal meetings of ministers to discuss init
 EU agriculture ministers met in Brussels to discuss food safety and food waste aspects of the proposed regulation on packaging and packaging waste, which aims to reduce the amount of packaging waste generated in the EU. They also discussed the market situation for agricultural products with a focus on Russia’s invasion of Ukraine, and the impact of adverse climate conditions on agriculture in southern Europe.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/05/30/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-At today’s Agriculture and Fisheries Council, ministers approved conclusions on the opportunities provided by the bioeconomy in the light of current challenges, with a focus on rural areas. They also discussed agriculture and forestry aspects of the proposed regulation on carbon removals, the state of play of the CAP strategic plans, and the market situation in light of Russia’s ongoing aggression against Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/04/25/
 
 ---
 
