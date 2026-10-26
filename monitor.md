@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T20:16:17.657249+00:00
+Laatste update: 2026-10-26T21:18:32.888856+00:00
 
 ## Vogelgriep vastgesteld in Lutjegast
 
@@ -729,6 +729,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## MFF 2028-2034: Council secures negotiating position for a strong and future-oriented common agricultural policy
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council agrees its negotiating position on the regulation for the post-2027 common agricultural policy, aiming to support a more competitive, sustainable and resilient EU agriculture sector.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy/
+
+---
+
 ## Baltic Sea: Council reaches agreement on fishing opportunities for 2027
 
 **Bron:** Raad van de EU - Persberichten
@@ -916,16 +926,6 @@ Council agrees negotiating position on proposal for a regulation suspending exte
 Simplification: Council agrees position to streamline EU’s data, privacy and cyber reporting rules.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/
-
----
-
-## ETS market stability reserve: Council and Parliament reach provisional agreement on targeted amendment
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council and the European Parliament reached a provisional agreement on amending the rules on the invalidation of allowances in the market stability reserve, in order to increase long-term market liquidity and predictability within its emission trading system.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/ets-market-stability-reserve-council-and-parliament-reach-provisional-agreement-on-targeted-amendment/
 
 ---
 
