@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T04:21:46.279813+00:00
+Laatste update: 2026-10-26T05:20:37.889870+00:00
+
+## EU civil protection mechanism turns 25
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Sun, 25 Oct 2026 19:45:13 +0100
+
+Since its creation, it has been activated more than 900 times by 160 countries and 8 international organisations, coordinating assistance in response to wildfires, floods, earthquakes, health emergencies and other disasters across Europe and around the world.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en
+
+---
 
 ## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
 
@@ -71,18 +83,6 @@ In a recent brief, the Commission's Joint Research Centre notes that AI tools ar
 The Enterprise Europe Network Annual Conference 2026 takes place 11-13 November at the Croke Park Conference Centre in Dublin, Ireland, with Network partners and stakeholders. Under the theme 'An Agile Network in a Changing World', 700 participants join onsite and online for 3 days of exchange.
 
 **Originele publicatie:** https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en
-
----
-
-## EU civil protection mechanism turns 25
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 12:09:09 +0200
-
-Since its creation, it has been activated more than 900 times by 160 countries and 8 international organisations, coordinating assistance in response to wildfires, floods, earthquakes, health emergencies and other disasters across Europe and around the world.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en
 
 ---
 
