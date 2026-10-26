@@ -1,6 +1,42 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T14:16:28.190815+00:00
+Laatste update: 2026-10-26T15:53:55.533431+00:00
+
+## CEF Energy 2026 call for PCI/PMI projects attracts strong interest with 67 applications requesting €2.88 billion
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 16:22:35 +0100
+
+The Commission has received 67 applications for cross-border energy infrastructure projects requesting €2.88 billion in EU co-funding under the Connecting Europe Facility (CEF) Energy programme.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/cef-energy-2026-call-pcipmi-projects-attracts-strong-interest-67-applications-requesting-eur288-2026-10-26_en
+
+---
+
+## Beter grondbeleid moet financiële tekorten bij gemeenten verkleinen en woningbouw versnellen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 15:00:00 GMT
+
+Dit kabinet wil meer, sneller en beter bouwen. Daarvoor is betaalbare grond belangrijk. Ook zijn voldoende financiële middelen voor publieke voorzieningen, zoals wegen, groen en riolering, essentieel. Om de gebiedsontwikkeling te versnellen en het...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/beter-grondbeleid-moet-financiele-tekorten-bij-gemeenten-verkleinen-en-woningbouw-versnellen
+
+---
+
+## Koning, minister-president en staatssecretaris van Koninkrijksrelaties en Slagvaardige Overheid bezoeken Sint Eustatius ter gelegenheid van 250 jaar The First Salute - programma
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 14:19:00 GMT
+
+Zijne Majesteit de Koning woont op maandagochtend 16 november de herdenking van 250 jaar The First Salute op Sint Eustatius bij. Ook minister-president Rob Jetten en staatssecretaris van Koninkrijksrelaties en Slagvaardige Overheid Eric van der...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/koning-minister-president-en-staatssecretaris-van-koninkrijksrelaties-en-slagvaardige-overheid-bezoeken-sint-eustatius-ter-gelegenheid-van-250-jaar-the-first-salute-programma
+
+---
 
 ## Staatssecretaris Tielen grijpt in bij Stichting Islamitisch Onderwijs
 
@@ -446,18 +482,6 @@ Door 2 lekken in de software die op veel websites gebruikt wordt, zijn woensdag 
 
 ---
 
-## EU Space Surveillance and Tracking marks 10 years of operations: a decade of space safety and sustainability made in the EU
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 14:25:25 +0200
-
-Today, the European Commission celebrates 10 years of EU Space Surveillance and Tracking (EU SST) operations, marking a major milestone for EU cooperation in space and a decade of concrete action to protect space assets and strengthen the EU’s strategic autonomy in space surveillance and tracking.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/eu-space-surveillance-and-tracking-marks-10-years-operations-decade-space-safety-and-sustainability-2026-10-21_en
-
----
-
 ## NCSC: Ernstige kwetsbaarheden in PHP
 
 **Bron:** Rijksoverheid Nieuws
@@ -585,30 +609,6 @@ Minister Boekholt-O’Sullivan van Volkshuisvesting en Ruimtelijke Ordening past
 
 ---
 
-## Rijk, overheden en corporaties versnellen huisvesting voor mensen in de knel
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Rijk, provincie, gemeenten en woningcorporaties hebben samen afspraken gemaakt om mensen te helpen die snel een woonplek nodig hebben. Denk aan starters en mensen die net gescheiden zijn of statushouders. Daarbij wordt ingezet op aanvullende...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/rijk-overheden-en-corporaties-versnellen-huisvesting-voor-mensen-in-de-knel
-
----
-
-## Update gas: actualisatie crisisplan en leveringszekerheid winter ’27-‘28
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Zolang Nederland gas nodig heeft als energiebron, zorgt het kabinet voor voldoende aanbod en voor goede voorbereiding op ernstige verstoringen. Daarvoor is het Landelijk Crisisplan Gas (LCP-G): het treedt in werking zodra de gaslevering dreigt uit...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/update-gas-actualisatie-crisisplan-en-leveringszekerheid-winter-27-28
-
----
-
 ## Food and veterinary audits : programme 2027
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -726,490 +726,6 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture ministers will seek to agree on a partial negotiating position on the post-2027 rules for the common agricultural policy (CAP). They will also discuss trade-related agricultural issues, a recurring item on the agenda of the AGRIFISH Council. Fisheries ministers will aim to reach a political agreement on the fishing opportunities in the Baltic Sea for 2027. They will also prepare the ground for the EU’s position for the annual meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT).
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/10/26-27/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/11/23/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/12/14-15/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Council today reached a partial negotiating mandate on the regulation setting out the post-2027 EU support for the fisheries sector. Among other topics, ministers also discussed the proposal for a regulation amending the European Maritime, Fisheries and Aquaculture Fund.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/09/28-29/
-
----
-
-## Informal meeting of agriculture ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/09/06-08/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Irish presidency presented their work programme and main priorities in the agriculture and fisheries sectors. Ministers exchanged views on the Commission’s livestock strategy and protein plan, on trade-related agricultural issues, and held a discussion focusing on the role of women in agriculture.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/07/13/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-During the first day of the Agriculture and Fisheries Council, ministers discussed the evaluation of the common fisheries policy regulation. They also talked about the Commission’s communication on sustainable fishing in the EU: state of play and orientations for 2027.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/06/22-23/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Ministers exchanged views on the availability and affordability of fertilisers in the EU and on the Commission’s fertiliser action plan. They also discussed trade-related agricultural issues.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/05/26/
-
----
-
-## Informal meeting of agriculture ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/05/03-05/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Ministers exchanged views on the post-2027 CAP proposals focused on income support, role of agriculture and forest management in preventing wildfires, and on the current market situation.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/04/27/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Ministers exchanged views on the Vision for Agriculture and Food, trade-related agricultural issues, and on energy transition in the EU fisheries and aquaculture sectors.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/03/30/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Ministers exchanged views on the post-2027 common agricultural policy national recommendations and on the evaluation report on the unfair trading practices directive.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/02/23/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-After the presentation of the Cyprus Presidency programme, the Council discussed the EU updated Bioeconomy Strategy and the proposal to amend the Organic farming Regulation.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/01/26/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Ministers reached a political agreement on the proposals on fishing opportunities in the Atlantic and the North Sea for 2026, 2027 and 2028, and on fishing opportunities in the Mediterranean and Black Seas for 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/12/11-12/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Ministers had a thematic discussion on the CAP post-2027, focusing on food security and targeting of support as well as crisis preparedness and reserves. There also discussed trade-related agricultural issues, including closer relations between the EU and Ukraine.
-On fisheries, ministers exchanged views on the Commission’s proposals for fishing opportunities in the Atlantic and the North Sea, and in the Mediterranean and Black Seas and highlighted their countries’ priorities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/11/17/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-During the first day of the meeting, EU agriculture and fisheries ministers discussed the 2026 fishing opportunities in the Baltic Sea and exchanged views on the upcoming meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT).
-As far as agriculture was concerned, the ministers discussed the post-2027 CAP proposals in relation to the green architecture, and also the market situation, particularly in the context of Russia's war of aggression against Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/10/27-28/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-EU agriculture ministers discussed trade-related agricultural issues and addressed a number of 'other business' items during the second day of their September meeting. In particular, the Council received information from the Commission on the European water resilience strategy.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/09/22-23/
-
----
-
-## Informal meeting of agriculture ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/09/07-09/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Danish presidency presented its work programme and priorities for the second semester of the year. The Council also exchanged views on the market situation for agricultural products and commodities, as well as on the supply, production and sustainability of proteins.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/07/14/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Council reached its position on a new EU-wide forest monitoring framework. Fisheries ministers discussed the state of play of sustainable fishing in the EU, and took note of the progress made on the animal transport and plant reproductive material proposals. During their two-day meeting, agriculture ministers also discussed trade-related agricultural issues and held a policy debate on a proposal for simplification in agriculture.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/06/23-24/
-
----
-
-## Informal meeting of agriculture ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/06/15-17/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Council held a discussion on the vision for agriculture and food, welcoming the vision's emphasis on the need for dialogue with farmers. Ministers also took stock of the latest developments on agricultural markets. Furthermore, the Council received information on a number of 'other business' points, notably the simplification package for the agricultural sector.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/05/26/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Council held a policy debate on the European Commission's vision for agriculture and food. Over the course of an informal lunch, fisheries ministers discussed the future of the common fisheries policy. The Council also dealt with a number of 'other business' points.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/03/24/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture ministers discussed the situation of agricultural markets and commodities and exchanged views on the principle of rural proofing. The Commission presented its vision on agriculture and food.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/02/24/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Council discussed the simplification of the CAP and exchanged views on trade-related agricultural issues and on two regulations aimed at strengthening the position of farmers in the food supply chain. The Polish presidency also presented its priorities for the next six months.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2025/01/27/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-During the second day of the meeting, the Council reached a political agreement on fishing opportunities in the Atlantic, the North Sea, the Mediterranean and the Black Seas for 2025.The Council also discussed the progress made during the Hungarian presidency on several legislative files, i.e. the proposals on plant reproductive material, on forest reproductive material and on the protection of animals during transport.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/12/09-10/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-During today's meeting, the Agriculture and Fisheries Council welcomed the Ukrainian Minister for Agrarian Policy and Food, Vitalii Koval, who presented information about the situation of the agricultural sector in Ukraine to his European counterparts. In the ensuing EU internal discussion, the Council took stock of the EU markets situation for agrifood products.
-Additionally, the Council held an initial exchange of views on two Commission proposals on fishing opportunities, namely one for fishing opportunities in the Atlantic and the North Sea for 2025 and, in the case of some stocks, also for 2026, and one for fishing opportunities for 2025 in the Mediterranean and Black Seas. Today's debate will lay the groundwork for the December Agriculture and Fisheries Council meeting, where ministers are expected to reach a political agreement on the two fisheries proposals.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/11/18/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Agriculture and Fisheries Council met in Luxembourg on 21-22 October 2024.
-Fisheries ministers discussed fishing opportunities in the Baltic Sea, reaching a political agreement on catch limits for 2025. Additionally, they also exchanged views on the upcoming meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT).
-As far as agriculture is concerned, the Council took stock of the main challenges that the EU food chain is facing, and discussed trade-related agricultural issues, as well as the future CAP post-2027.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/10/21-22/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture ministers assessed the second year of implementation of the strategic plans of the common agricultural policy, in order to identify possible improvements for the post-2027 period. The Council also discussed the situation of agricultural markets and commodities, based on information provided by the member states and an update from the Commission. Furthermore, during an informal lunch discussion, ministers exchanged views on the strategic dialogue on the future of EU agriculture.
-Fisheries ministers held an exchange of views on the management in 2025 of fish stocks shared with the United Kingdom. They also discussed the upcoming consultations with Norway on fishing opportunities in 2025, in order to provide political guidance to the Commission on the EU’s position. Finally, fisheries ministers also discussed a Commission proposal to update the fishing opportunities for 2024 and 2025 for certain fish stocks.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/09/23/
-
----
-
-## Informal meeting of agriculture and fisheries ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/09/08-10/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Agriculture and Fisheries Council met on Monday, 15 July 2024.
-The Hungarian presidency presented its work programme for the coming semester, outlining its main priorities in the field of agriculture and fisheries.
-The Council also held a targeted discussion on ways to improve the long-term viability of rural areas, with a focus on generational renewal and demographic aspects.
-Additionally, ministers discussed trade-related agricultural issues and recent developments.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/07/15/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Agriculture and Fisheries Council exchanged views on sustainable fishing in the EU and the main orientations for the fishing opportunities for 2025. During this discussion, ministers expressed their views on their main priorities for this year's exercise of setting fishing opportunities for 2025.
-Furthermore, the Belgian presidency updated the Council on the state of play of some current legislative proposals (forest monitoring framework, plant reproductive material, forest reproductive material, animal protection during transport).
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/06/24/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Agriculture and Fisheries Council met on Monday 27 May 2024 in Brussels. Agriculture ministers discussed the current crisis situation in the agricultural sector. The Council also exchanged views on the market situation, in particular following the invasion of Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/05/27/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture ministers met in Luxembourg to discuss the responses to the current situation in the agricultural sector, based on information from the European Commission. They also exchanged views on trade-related agricultural issues, as well as the member states’ annual performance reports under the common agricultural policy. During an informal lunch, they discussed the strategic dialogue for the future of agriculture.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/04/29/
-
----
-
-## Informal meeting of agriculture ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/04/07-09/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-The Agriculture and Fisheries Council discussed the EU's response to the current concerns in the agricultural sector. The Council welcomed the recent initiatives and proposals made by the Commission and provided further political guidance on the next steps to be taken. Agriculture ministers also welcomed the approval by the Special Committee on Agriculture of the text of the proposal to amend certain parts of the CAP which will allow greater flexibility for complying with certain environmental and other requirements.
-Additionally, agriculture ministers received information from the Ukrainian Minister for Agrarian Policy and Food, Mykola Solskyi, and subsequently exchanged views on the market situation for agrifood products.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/03/26/
-
----
-
-## Informal meeting of fisheries ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/03/24-25/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Against the backdrop of ongoing farmers' protests and based on information from the Belgian presidency and a non-paper on simplification prepared by the European Commission, during February's Council meeting, agriculture ministers discussed the current crisis and challenges in the sector.
-The Council confirmed its political will to respond effectively to the concerns of farmers and, as a first step, agreed on a set of concrete measures that should be a priority for the short-term response to the current crisis, and offered political guidance for the way forward and for a structural approach in the medium and long term.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/02/26/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-During the first Agriculture and Fisheries Council held under the Belgian presidency, ministers discussed trade-related agricultural issues and held an exchange of views on a proposal for a forest monitoring framework. Additionally, based on information from the Commission, the Council discussed the strategic dialogue on the future of agriculture.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2024/01/23/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Fisheries ministers reached a political agreement on the proposal for fishing opportunities in the Atlantic and the North Sea for 2024 and, in the case of some stocks, also for 2025 and 2026, as well as on the proposal concerning fishing opportunities in the Mediterranean and the Black Sea for 2024.
-
-The Council also discussed the market situation and exchanged views on the first year of implementation of the CAP strategic plans.
-Additionally, ministers exchanged views on the progress made regarding several current proposals, namely on new genomic techniques, on the sustainable use of pesticides, and on plant and forest reproductive material.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/12/10-11/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Today, EU agriculture and fisheries ministers met in Brussels and approved Council conclusions on a long-term vision for the EU's rural areas. The conclusions provide political guidance to the Commission and member states on their future actions in support of these areas, which cover more than 80% of the EU's territory.
-Additionally, fisheries ministers held a first exchange of views on two proposals from the Commission on fishing opportunities, namely the proposal for fishing opportunities in the Atlantic and the North Sea for 2024 and, in the case of some stocks, also for 2025 and 2026, as well as the proposal on fishing opportunities in the Mediterranean and the Black Sea for 2024.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/11/20/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture and fisheries ministers met in Luxembourg and discussed Baltic Sea fisheries for 2024, reaching a political agreement during the second day of the Council meeting. They also discussed the upcoming ICCAT annual meeting, and the market situation. Before their discussion on the market situation, ministers welcomed the Ukrainian Minister for Agrarian Policy and Food, who addressed the Council. Among other topics, ministers also discussed the food-related aspects of the waste framework directive.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/10/23-24/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Ministers focused on the agricultural aspects of the directive on soil health, agricultural issues related to trade, including linked to the latest developments related to Russia's war against Ukraine, the long-term vision for the EU's rural areas, as well as annual fisheries consultations for 2024.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/09/18/
-
----
-
-## Informal meeting of agriculture ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/09/03-05/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture and fisheries ministers met in Brussels on 25 July. They heard from the Spanish presidency regarding its priorities and work programme for agriculture and fisheries this semester, and discussed the market situation in light of Russia’s invasion of Ukraine. Ministers also exchanged views on the Commission’s study complementing the impact assessment of the proposal for a regulation on the sustainable use of pesticides, and on the recent proposal on new genomic techniques.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/07/25/
-
----
-
-## Informal meeting of agriculture and fisheries ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/07/17-18/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture and Fisheries ministers discussed the progress made in implementing the Common Fisheries Policy and their priorities for fishing opportunities for 2024. They also exchanged views on the proposal for a regulation on the sustainable use of pesticides, and on trade-related agricultural issues. Ministers also received an update from the presidency on the state of play of current legislative proposals on geographical indications (GIs), the farm sustainability data network (FSDN), and labelling rules for organic pet food.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/06/26-27/
-
----
-
-## Informal meeting of agriculture and fisheries ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Each Council presidency organises informal meetings of ministers to discuss initiatives related to a particular topic or Council configuration.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/06/11-13/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-EU agriculture ministers met in Brussels to discuss food safety and food waste aspects of the proposed regulation on packaging and packaging waste, which aims to reduce the amount of packaging waste generated in the EU. They also discussed the market situation for agricultural products with a focus on Russia’s invasion of Ukraine, and the impact of adverse climate conditions on agriculture in southern Europe.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/05/30/
 
 ---
 
