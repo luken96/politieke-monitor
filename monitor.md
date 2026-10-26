@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T21:18:32.888856+00:00
+Laatste update: 2026-10-26T22:17:14.436096+00:00
 
 ## Vogelgriep vastgesteld in Lutjegast
 
@@ -11,6 +11,18 @@ Laatste update: 2026-10-26T21:18:32.888856+00:00
 In Lutjegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastgesteld op een legpluimveebedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/vogelgriep-vastgesteld-in-lutjegast
+
+---
+
+## AI and skills in Europe – Closing the adoption gap
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 18:55:37 +0100
+
+In a recent brief, the Commission's Joint Research Centre notes that AI tools are now part of everyday work for around 30% of workers in the EU. Many jobs that could use AI do not do so, especially in smaller companies and among mid‑career staff.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en
 
 ---
 
@@ -239,18 +251,6 @@ Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will
 The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
-
----
-
-## AI and skills in Europe – Closing the adoption gap
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 15:59:23 +0200
-
-In a recent brief, the Commission's Joint Research Centre notes that AI tools are now part of everyday work for around 30% of workers in the EU. Many jobs that could use AI do not do so, especially in smaller companies and among mid‑career staff.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en
 
 ---
 
@@ -933,16 +933,6 @@ Simplification: Council agrees position to streamline EU’s data, privacy and c
 
 **Bron:** Raad van de EU - Landbouw en Visserij
 
-Agriculture ministers will seek to agree on a partial negotiating position on the post-2027 rules for the common agricultural policy (CAP). They will also discuss trade-related agricultural issues, a recurring item on the agenda of the AGRIFISH Council. Fisheries ministers will aim to reach a political agreement on the fishing opportunities in the Baltic Sea for 2027. They will also prepare the ground for the EU’s position for the annual meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT).
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/10/26-27/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/11/23/
 
 ---
@@ -952,6 +942,16 @@ Agriculture ministers will seek to agree on a partial negotiating position on th
 **Bron:** Raad van de EU - Landbouw en Visserij
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/12/14-15/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+The Council agreed its partial negotiating position on the regulation for the post-2027 common agricultural policy in the context of the negotiations for the EU’s next long-term budget. Ministers also discussed trade-related agricultural issues. As far as fisheries is concerned, the Council reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, and prepared the ground for the EU’s position for the annual meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT).
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/10/26/
 
 ---
 
@@ -1410,6 +1410,16 @@ Each Council presidency organises informal meetings of ministers to discuss init
 EU agriculture ministers met in Brussels to discuss food safety and food waste aspects of the proposed regulation on packaging and packaging waste, which aims to reduce the amount of packaging waste generated in the EU. They also discussed the market situation for agricultural products with a focus on Russia’s invasion of Ukraine, and the impact of adverse climate conditions on agriculture in southern Europe.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/05/30/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+At today’s Agriculture and Fisheries Council, ministers approved conclusions on the opportunities provided by the bioeconomy in the light of current challenges, with a focus on rural areas. They also discussed agriculture and forestry aspects of the proposed regulation on carbon removals, the state of play of the CAP strategic plans, and the market situation in light of Russia’s ongoing aggression against Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/04/25/
 
 ---
 
