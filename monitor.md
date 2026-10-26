@@ -1,6 +1,54 @@
 # Politieke monitor
 
-Laatste update: 2026-10-26T09:26:19.015363+00:00
+Laatste update: 2026-10-26T10:26:37.939760+00:00
+
+## Hydrogen Strategy – Commission launches call for evidence
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 11:21:45 +0100
+
+The European Commission has today launched a 4-week call for evidence and a 4-week targeted stakeholder consultation to gather input to help shape the forthcoming Hydrogen Strategy.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/hydrogen-strategy-commission-launches-call-evidence-2026-10-26_en
+
+---
+
+## Nieuwe afspraken voor meer recycling van oude matrassen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 10:05:00 GMT
+
+Oude matrassen bevatten waardevolle grondstoffen, zoals staal en schuim, die opnieuw kunnen worden gebruikt. Inmiddels wordt bijna twee derde van de oude matrassen ingezameld voor recycling. Om te voorkomen dat grondstoffen verloren gaan, hebben...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nieuwe-afspraken-voor-meer-recycling-van-oude-matrassen
+
+---
+
+## Deployment of NCTS Phase 6 – Next step in the modernization of customs and transit procedures
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 10:50:38 +0100
+
+The rollout of Phase 6 of the New Computerised Transit System (NCTS), now in use across the 27 EU Member States and the countries of the Common Transit Convention, marks a major step forward in the digital modernisation of customs and transit procedures across 41 participating countries.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/deployment-ncts-phase-6-next-step-modernization-customs-and-transit-procedures-2026-10-26_en
+
+---
+
+## De asielinstroom van week 43 bedroeg ongeveer 770
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 09:49:00 GMT
+
+De asielinstroom van week 43, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 770.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/de-asielinstroom-van-week-43-bedroeg-ongeveer-770
+
+---
 
 ## Nederland de sterkste medische technologiesector van Europa in 2035
 
@@ -71,18 +119,6 @@ Discover the new European Master’s in Translation (EMT) competence framework, 
 Since its creation, it has been activated more than 900 times by 160 countries and 8 international organisations, coordinating assistance in response to wildfires, floods, earthquakes, health emergencies and other disasters across Europe and around the world.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en
-
----
-
-## Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 17:34:59 +0200
-
-Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en
 
 ---
 
@@ -447,18 +483,6 @@ Commissioner for Equality; Preparedness and Crisis Management, Hadja Lahbib, is 
 
 ---
 
-## Commission data shows continued growth in sustainable investments across the EU
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 20 Oct 2026 11:57:23 +0200
-
-Today’s figures highlight the important role the EU’s sustainable finance framework plays in supporting the transition to a more sustainable, resilient, and competitive EU economy
-
-**Originele publicatie:** https://finance.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en
-
----
-
 ## Nieuwe burgemeester in Ameland
 
 **Bron:** Rijksoverheid Nieuws
@@ -585,30 +609,6 @@ Nederlandse leerlingen moeten wezenlijk beter leren lezen, schrijven en rekenen.
 
 ---
 
-## Nieuw perspectief voor Lelylijn
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Het kabinet wil kijken hoe de Lelylijn dichterbij gebracht zou kunnen worden. Een adviescommissie gaat onderzoek doen naar het perspectief voor Noordelijk Nederland en de plek van deze spoorverbinding daarin. De Lelylijn staat immers niet op...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/nieuw-perspectief-voor-lelylijn
-
----
-
-## Extra investering van € 18 miljard naar onderhoud en vernieuwing, grootste verbouwing van de Nederlandse infrastructuur ooit
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 16 Oct 2026 12:00:00 GMT
-
-Het kabinet steekt € 18 miljard extra in het onderhoud en de vernieuwing van wegen, bruggen, spoor en waterwerken. Daarmee brengen we de basis van onze infrastructuur weer op orde. Veel infrastructuur is verouderd en is hard toe aan groot...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/extra-investering-van-18-miljard-euro-naar-onderhoud-en-vernieuwing-grootste-verbouwing-van-de-nederlandse-infrastructuur-ooit
-
----
-
 ## Food and veterinary audits : programme 2027
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -726,6 +726,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## EU sanctions against ISIL/Da’esh and Al-Qaeda: Council renews regime until 2027
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council extended restrictive measures against individuals and groups associated with ISIL/Da'esh and Al-Qaeda for a further year, until 31 October 2027.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/
 
 ---
 
@@ -916,16 +926,6 @@ Joint statement by the President of the European Council António Costa and the 
 The Council and the European Parliament have reached a provisional agreement on simpler and clearer rules on the production, labelling, certification and trade of organic products.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/20/council-and-parliament-strike-deal-on-updated-measures-to-support-organic-farming-in-the-eu/
-
----
-
-## One-year badge 2026 - accreditation is open
-
-**Bron:** Raad van de EU - Persberichten
-
-Information about accreditation requirements for the one-year badge (2026)
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/one-year-badge-2026-accreditation-is-open-3/
 
 ---
 
