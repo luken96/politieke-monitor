@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T07:34:34.185655+00:00
+Laatste update: 2026-10-27T08:29:47.236323+00:00
+
+## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 08:34:51 +0100
+
+Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED)...
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en
+
+---
+
+## Agreement reached on 2027 fishing opportunities for the Baltic Sea
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 08:04:41 +0100
+
+The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-10-27_en
+
+---
 
 ## Wetswijziging die families helpt passende zorg te krijgen voor hun naasten gaat per 1 januari in
 
@@ -95,18 +119,6 @@ Zijne Majesteit de Koning woont op maandagochtend 16 november de herdenking van 
 Staatssecretaris Tielen heeft het bestuur van Stichting Islamitisch Onderwijs met een aanwijzing opgedragen om per direct orde op zaken stellen zodat de leerlingen weer kunnen rekenen op goed onderwijs. Deze uitzonderlijke stap volgt nadat voor de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/staatssecretaris-tielen-grijpt-in-bij-stichting-islamitisch-onderwijs
-
----
-
-## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 12:39:42 +0100
-
-Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED)...
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en
 
 ---
 
@@ -528,18 +540,6 @@ Ernstige kwetsbaarheden in PHP: bereid je voor op patchen.
 Er zijn 2 kritieke kwetsbaarheden gevonden. Er is een publieke Proof of Concept (PoC)- code beschikbaar, maar het Nationaal Cyber Security Centrum (NCSC) heeft nog geen actief misbruik...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/ncsc-ernstige-kwetsbaarheden-in-php
-
----
-
-## Commission approves €500,000 Slovenian State aid for agriculture, fishery and marine aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 21 Oct 2026 13:50:58 +0200
-
-The European Commission has approved a €500,0000 Slovenian State aid scheme for agriculture, fishery and marine aquaculture companies facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur500000-slovenian-state-aid-agriculture-fishery-and-marine-aquaculture-2026-10-21_en
 
 ---
 
