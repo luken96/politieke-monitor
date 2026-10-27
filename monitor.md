@@ -1,6 +1,54 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T11:23:21.342295+00:00
+Laatste update: 2026-10-27T12:22:28.908021+00:00
+
+## OpenFin: nieuw platform voor Wet open overheid
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 27 Oct 2026 12:08:00 GMT
+
+Overheidsinformatie moet makkelijk te vinden zijn. Daarom is vanaf vandaag OpenFin beschikbaar. Een nieuw platform waar je alle openbare informatie kunt vinden, Woo-verzoeken kunt indienen en de voortgang van Woo-verzoeken kunt volgen. Ook kun je...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/openfin-nieuw-platform-voor-wet-open-overheid
+
+---
+
+## EU research and innovation support Europe’s new Framework for Climate Resilience
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:04:51 +0100
+
+From understanding climate risks to developing and demonstrating innovative solutions, EU-funded research and innovation is helping Europe strengthen its climate preparedness, protecting people, preserving critical assets, and safeguarding the continent’s competitiveness and prosperity.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-research-and-innovation-support-europes-new-framework-climate-resilience-2026-10-27_en
+
+---
+
+## Kabinet investeert in toekomstbestendige sport, extra geld voor onderhoud sportaccommodaties
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 27 Oct 2026 12:00:00 GMT
+
+Het kabinet is voornemens om extra te investeren in een toekomstbestendige sport- en beweegsector. Op dit moment zijn veel sportaccommodaties toe aan renovatie en vernieuwing, beweegt een groot deel van jongeren onvoldoende en is sporten voor...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/kabinet-investeert-in-toekomstbestendige-sport-extra-geld-voor-onderhoud-sportaccommodaties
+
+---
+
+## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 12:43:13 +0100
+
+On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
+
+---
 
 ## Protecting Europe with stronger climate-resilience
 
@@ -458,18 +506,6 @@ Entering its second year, the EU-US Fellowship for Young Leaders in Agriculture 
 
 ---
 
-## Ireland partners with the European Skills & VET Week
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 14:50:01 +0200
-
-In November, the Irish Presidency of the Council of the EU is joining the European Skills & VET Week to highlight how vocational education and training can respond to Europe’s rapidly changing skills needs. Read more about the Construction Sector Skills Forum and the 21st Cedefop Brussels Seminar.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ireland-partners-european-skills-vet-week-2026-10-22_en
-
----
-
 ## IMCAP 2027: EU co-funding grants to bring the CAP closer to citizens
 
 **Bron:** Europese Commissie
@@ -503,18 +539,6 @@ Yesterday, the Commission welcomed the political agreement reached between the P
 The latest joint report published by the European Commission and the European Union Intellectual Property Office (EUIPO) today reveals the highest number of counterfeit detentions ever recorded by EU enforcement authorities.
 
 **Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en
-
----
-
-## Taking the European Network of Public Employment Services forward
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 11:00:51 +0200
-
-The European Commission has confirmed the essential role of the European Network of Public Employment Services (PES Network) and proposes to extend its mandate beyond 2027.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/taking-european-network-public-employment-services-forward-2026-10-22_en
 
 ---
 
@@ -582,30 +606,6 @@ De heer Van Keijzerswaard (46 jaar, VVD) is momenteel wethouder in de gemeente 
 Op dit moment is Tytsy...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/nieuwe-burgemeester-in-ameland
-
----
-
-## Nieuwe burgemeester in Dantumadiel
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 19 Oct 2026 14:43:00 GMT
-
-De heer A.G. (Arnold) Rosier is benoemd tot burgemeester van de gemeente Dantumadiel. De benoeming gaat in op 10 november 2026.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/nieuwe-burgemeester-in-dantumadiel
-
----
-
-## De asielinstroom van week 42 bedroeg ongeveer 840
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 19 Oct 2026 08:50:00 GMT
-
-De asielinstroom van week 42, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 840.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/de-asielinstroom-van-week-42-bedroeg-ongeveer-840
 
 ---
 
@@ -726,6 +726,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Media advisory - Accreditation for the EU-UK Summit on 20 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The EU-UK Summit will take place on 20 November 2026 in the Europa building in Brussels.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/media-advisory-accreditation-for-the-eu-uk-summit-on-20-november-2026/
 
 ---
 
@@ -916,16 +926,6 @@ The Council and the Parliament agreed new rules to revitalise the EU’s securit
 Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/
-
----
-
-## Simplification: Council agrees negotiating stance to cut red tape for small packaging producers
-
-**Bron:** Raad van de EU - Persberichten
-
-Council agrees negotiating position on proposal for a regulation suspending extended producer responsibility.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/
 
 ---
 
