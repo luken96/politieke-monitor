@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T14:34:15.480551+00:00
+Laatste update: 2026-10-27T15:32:31.373093+00:00
+
+## Global Bioeconomy Summit 2026 & International Bioeconomy Forum position the bioeconomy as a paradigm for the post-2030 development agenda
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 16:04:14 +0100
+
+The Summit and the Forum showcase the growing global momentum behind the bioeconomy.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/global-bioeconomy-summit-2026-international-bioeconomy-forum-position-bioeconomy-paradigm-post-2030-2026-10-27_en
+
+---
+
+## Results of 26-10-2026 auction (EU-Bonds)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 15:47:15 +0100
+
+Auction results EU-Bonds
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-26-10-2026-auction-eu-bonds-2026-10-26_en
+
+---
 
 ## Emancipatienota 2027-2030: Vrijheid telt!
 
@@ -563,30 +587,6 @@ Yesterday, the Commission welcomed the political agreement reached between the P
 The latest joint report published by the European Commission and the European Union Intellectual Property Office (EUIPO) today reveals the highest number of counterfeit detentions ever recorded by EU enforcement authorities.
 
 **Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en
-
----
-
-## Oil Coordination Group discusses EU fuel market developments
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 10:18:20 +0200
-
-Experts from the European Commission, EU countries, the International Energy Agency (IEA) and the Energy Community met yesterday in the Oil Coordination Group to take stock of the recent developments in fuels markets.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en
-
----
-
-## Beyond rent: the real cost of moving abroad for work
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 10:08:53 +0200
-
-Moving to another EU country for work? Don’t let the hidden costs catch you off guard. From utility deposits to your first pay cheque, here’s your essential guide to financial survival.
-
-**Originele publicatie:** https://eures.europa.eu/beyond-rent-real-cost-moving-abroad-work-2026-10-22_en
 
 ---
 
