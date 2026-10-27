@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T13:37:25.688078+00:00
+Laatste update: 2026-10-27T14:34:15.480551+00:00
+
+## Emancipatienota 2027-2030: Vrijheid telt!
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 27 Oct 2026 14:22:00 GMT
+
+Vrijheid, gelijkwaardigheid en veiligheid voor iedereen – dat zou het Nederland van nu moeten zijn. Helaas is dit voor vrouwen en lhbtiq+ personen in het dagelijks leven niet altijd vanzelfsprekend. Zij ervaren dat deze waarden onder druk staan.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/emancipatienota-2027-2030-vrijheid-telt
+
+---
 
 ## Eerste Kamer neemt wetsvoorstel aan voor sterke lokale publieke omroep voor iedereen
 
@@ -506,18 +518,6 @@ Ruim 1,5 miljoen Nederlanders kiezen vooral ’s ochtends bij het ontbijt voor b
 
 ---
 
-## EU plastic packaging waste hits 35.9 kg per capita
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 18:01:31 +0200
-
-Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en
-
----
-
 ## Renteplafond studieleningen duurder en risicovol, minister in gesprek met parlement
 
 **Bron:** Rijksoverheid Nieuws
@@ -530,27 +530,15 @@ Het voorgestelde renteplafond op studieleningen van 2,5% is duurder dan de in he
 
 ---
 
-## EU and US Young Agricultural Leaders Set for a Week Exploring EU Farming in Policy and Practice
+## Ireland partners with the European Skills & VET Week
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Thu, 22 Oct 2026 16:11:43 +0200
+**Gepubliceerd:** Thu, 22 Oct 2026 14:50:01 +0200
 
-Entering its second year, the EU-US Fellowship for Young Leaders in Agriculture continues to strengthen transatlantic collaboration. The programme deepens understanding of farmers’ challenges and promotes solutions to improve the long-term resilience and profitability of agriculture on both sides.
+In November, the Irish Presidency of the Council of the EU is joining the European Skills & VET Week to highlight how vocational education and training can respond to Europe’s rapidly changing skills needs. Read more about the Construction Sector Skills Forum and the 21st Cedefop Brussels Seminar.
 
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en
-
----
-
-## IMCAP 2027: EU co-funding grants to bring the CAP closer to citizens
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 13:28:43 +0200
-
-The IMCAP 2027 call for proposals opens on 22 October 2026, offering 60% co-funding for projects that bring the CAP closer to citizens and strengthening trust in sustainable agriculture.
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/imcap-2027-eu-co-funding-grants-bring-cap-closer-citizens-2026-10-22_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ireland-partners-european-skills-vet-week-2026-10-22_en
 
 ---
 
@@ -578,6 +566,18 @@ The latest joint report published by the European Commission and the European Un
 
 ---
 
+## Oil Coordination Group discusses EU fuel market developments
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 22 Oct 2026 10:18:20 +0200
+
+Experts from the European Commission, EU countries, the International Energy Agency (IEA) and the Energy Community met yesterday in the Oil Coordination Group to take stock of the recent developments in fuels markets.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en
+
+---
+
 ## Beyond rent: the real cost of moving abroad for work
 
 **Bron:** Europese Commissie
@@ -590,15 +590,15 @@ Moving to another EU country for work? Don’t let the hidden costs catch you of
 
 ---
 
-## Aantal websites Rijksoverheid preventief offline na kwetsbaarheden PHP
+## One sea, shared security: EU and Libya take a first step together against CBRN threats
 
-**Bron:** Rijksoverheid Nieuws
+**Bron:** Europese Commissie
 
-**Gepubliceerd:** Wed, 21 Oct 2026 13:13:00 GMT
+**Gepubliceerd:** Thu, 22 Oct 2026 09:23:01 +0200
 
-Door 2 lekken in de software die op veel websites gebruikt wordt, zijn woensdag 21 oktober 2026 een aantal websites uit voorzorg offline gehaald. Ook een aantal websites van overheidsinstanties in Nederland.
+From 11 to 15 October, Libyan first responders gathered in Tripoli for an EU-funded preparatory training followed by a field drill.
 
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/aantal-websites-rijksoverheid-preventief-offline-na-kwetsbaarheden-php
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/one-sea-shared-security-eu-and-libya-take-first-step-together-against-cbrn-threats-2026-10-22_en
 
 ---
 
