@@ -1,6 +1,54 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T15:32:31.373093+00:00
+Laatste update: 2026-10-27T16:32:50.189278+00:00
+
+## Plants and microbes pair up to remove pollutants from wastewater in human-made wetlands
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 16:40:51 +0100
+
+Microbes work to break down pollutants in constructed wetlands: a sustainable, nature-based solution for wastewater treatment. Enhancing these mechanisms to increase efficiency is possible, finds a new review, further research is needed.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/plants-and-microbes-pair-remove-pollutants-wastewater-human-made-wetlands-2026-10-27_en
+
+---
+
+## Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 16:40:50 +0100
+
+Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en
+
+---
+
+## Polluting ‘forever chemicals’ build up differently across continents, finds study of global freshwater reservoirs
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 16:40:39 +0100
+
+Freshwater reservoirs are contaminated by persistent ‘forever chemicals’. A new study reveals how chemicals build up in these water bodies, finding three key patterns of contamination based on chemical type, source, and history of use.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/polluting-forever-chemicals-build-differently-across-continents-finds-study-global-freshwater-2026-10-27_en
+
+---
+
+## Commission and UNEP reaffirm commitment to global environmental action and multilateralism
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 16:31:40 +0100
+
+An amendment to a Memorandum of Understanding between the two sides was signed at the biennial UN Biodiversity Conference in Armenia.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/commission-unep-pledge-continued-environmental-action-2026-10-27_en
+
+---
 
 ## Global Bioeconomy Summit 2026 & International Bioeconomy Forum position the bioeconomy as a paradigm for the post-2030 development agenda
 
@@ -551,54 +599,6 @@ Ruim 1,5 miljoen Nederlanders kiezen vooral ’s ochtends bij het ontbijt voor b
 Het voorgestelde renteplafond op studieleningen van 2,5% is duurder dan de in het coalitieakkoord gereserveerde € 40 miljoen per jaar. Door stijging van de langetermijnrente kost dit renteplafond nu minimaal € 160 miljoen per jaar. Verdere...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/22/renteplafond-studieleningen-duurder-en-risicovol-minister-in-gesprek-met-parlement
-
----
-
-## Ireland partners with the European Skills & VET Week
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 14:50:01 +0200
-
-In November, the Irish Presidency of the Council of the EU is joining the European Skills & VET Week to highlight how vocational education and training can respond to Europe’s rapidly changing skills needs. Read more about the Construction Sector Skills Forum and the 21st Cedefop Brussels Seminar.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ireland-partners-european-skills-vet-week-2026-10-22_en
-
----
-
-## The Commission welcomes the political agreement reached on the review of the Securitisation Framework
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 12:44:25 +0200
-
-Yesterday, the Commission welcomed the political agreement reached between the Parliament and the Council on the review of the EU Securitisation Framework. The agreed measures aim to support securitisation activity in the EU while safeguarding financial stability.
-
-**Originele publicatie:** https://finance.ec.europa.eu/news/commission-welcomes-political-agreement-reached-review-securitisation-framework-2026-10-22_en
-
----
-
-## EU detains a record 196 million counterfeit items worth € 6.3 billion in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 12:04:34 +0200
-
-The latest joint report published by the European Commission and the European Union Intellectual Property Office (EUIPO) today reveals the highest number of counterfeit detentions ever recorded by EU enforcement authorities.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en
-
----
-
-## One sea, shared security: EU and Libya take a first step together against CBRN threats
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 09:23:01 +0200
-
-From 11 to 15 October, Libyan first responders gathered in Tripoli for an EU-funded preparatory training followed by a field drill.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/one-sea-shared-security-eu-and-libya-take-first-step-together-against-cbrn-threats-2026-10-22_en
 
 ---
 
