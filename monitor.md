@@ -1,6 +1,54 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T12:22:28.908021+00:00
+Laatste update: 2026-10-27T13:37:25.688078+00:00
+
+## Eerste Kamer neemt wetsvoorstel aan voor sterke lokale publieke omroep voor iedereen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:27:00 GMT
+
+De Eerste Kamer heeft het wetsvoorstel van minister Rianne Letschert (OCW) aangenomen om de lokale omroepen te verstevigen en professionaliseren. Hiermee komt er een extra investering van 18 miljoen euro en een herzien stelsel. Door...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/eerste-kamer-neemt-wetsvoorstel-aan-voor-sterke-lokale-omroep-voor-iedereen
+
+---
+
+## Vogelgriep vastgesteld in Middelie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:18:00 GMT
+
+In Middelie (gemeente Edam-Volendam, provincie Noord-Holland) is vogelgriep vastgesteld op een zorgboerderij. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/vogelgriep-vastgesteld-in-middelie
+
+---
+
+## Road safety statistics for 2025 confirm drop in EU road deaths
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:52:06 +0100
+
+The Commission released the final figures on road fatalities for 2025, reporting 19,350 deaths due to road crashes.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/road-safety-statistics-2025-confirm-drop-eu-road-deaths-2026-10-27_en
+
+---
+
+## Joint Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:48:09 +0100
+
+On 17 November 2026, Commissioners Marta Kos and Jozef Síkela will chair an Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor, bringing together the private sector, IFIs and the Commission to discuss support for strategic investment and competitiveness.
+
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/joint-implementation-dialogue-improving-competitiveness-trans-caspian-transport-corridor-2026-10-27_en
+
+---
 
 ## OpenFin: nieuw platform voor Wet open overheid
 
@@ -71,18 +119,6 @@ The EU's proactive and systemic risk management approach to protect Europeans an
 In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
-
----
-
-## Road safety statistics for 2025 confirm drop in EU road deaths
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 11:34:10 +0100
-
-The Commission released the final figures on road fatalities for 2025, reporting 19,350 deaths due to road crashes.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/road-safety-statistics-2025-confirm-drop-eu-road-deaths-2026-10-27_en
 
 ---
 
@@ -542,18 +578,6 @@ The latest joint report published by the European Commission and the European Un
 
 ---
 
-## Oil Coordination Group discusses EU fuel market developments
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 10:18:20 +0200
-
-Experts from the European Commission, EU countries, the International Energy Agency (IEA) and the Energy Community met yesterday in the Oil Coordination Group to take stock of the recent developments in fuels markets.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en
-
----
-
 ## Beyond rent: the real cost of moving abroad for work
 
 **Bron:** Europese Commissie
@@ -575,37 +599,6 @@ Moving to another EU country for work? Don’t let the hidden costs catch you of
 Door 2 lekken in de software die op veel websites gebruikt wordt, zijn woensdag 21 oktober 2026 een aantal websites uit voorzorg offline gehaald. Ook een aantal websites van overheidsinstanties in Nederland.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/aantal-websites-rijksoverheid-preventief-offline-na-kwetsbaarheden-php
-
----
-
-## NCSC: Ernstige kwetsbaarheden in PHP
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 21 Oct 2026 11:59:00 GMT
-
-Ernstige kwetsbaarheden in PHP: bereid je voor op patchen.
-Er zijn 2 kritieke kwetsbaarheden gevonden. Er is een publieke Proof of Concept (PoC)- code beschikbaar, maar het Nationaal Cyber Security Centrum (NCSC) heeft nog geen actief misbruik...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/ncsc-ernstige-kwetsbaarheden-in-php
-
----
-
-## Nieuwe burgemeester in Ameland
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 19 Oct 2026 14:47:00 GMT
-
-De heer S. (Stefan) van Keijzerswaard is benoemd tot burgemeester van de gemeente Ameland.
-
-De benoeming gaat in op 2 november 2026.
-
-De heer Van Keijzerswaard (46 jaar, VVD) is momenteel wethouder in de gemeente Vlieland.
-
-Op dit moment is Tytsy...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/nieuwe-burgemeester-in-ameland
 
 ---
 
