@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T16:32:50.189278+00:00
+Laatste update: 2026-10-27T17:35:00.180228+00:00
+
+## Nederland verhoogt steun voor wereldwijde strijd tegen honger
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 27 Oct 2026 17:15:00 GMT
+
+De humanitaire situatie in veel conflictgebieden verslechtert. Dit komt onder andere door teruglopende financiering van humanitaire hulpverlening en aanhoudende droogte en geweld. Zeker ook in gebieden als Gaza en Soedan waar de noden zeer urgent...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/nederland-verhoogt-steun-voor-wereldwijde-strijd-tegen-honger
+
+---
+
+## Reinforcing Frontex for stronger protection of the EU’s external borders
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 17:35:59 +0100
+
+The Commission has proposed to reinforce Frontex, the EU agency that plays a crucial role in supporting EU and Schengen countries in managing the EU’s external borders.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/reinforcing-frontex-stronger-protection-eus-external-borders-2026-10-27_en
+
+---
 
 ## Plants and microbes pair up to remove pollutants from wastewater in human-made wetlands
 
@@ -290,18 +314,6 @@ In Lutjegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastge
 
 ---
 
-## AI and skills in Europe – Closing the adoption gap
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 18:55:37 +0100
-
-In a recent brief, the Commission's Joint Research Centre notes that AI tools are now part of everyday work for around 30% of workers in the EU. Many jobs that could use AI do not do so, especially in smaller companies and among mid‑career staff.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en
-
----
-
 ## Ukraine Mine Action Conference 2026: clearing the way in partnership
 
 **Bron:** Europese Commissie
@@ -587,18 +599,6 @@ Listen to episode 14 of the DGT podcast: Languages and Technology!
 Ruim 1,5 miljoen Nederlanders kiezen vooral ’s ochtends bij het ontbijt voor biologische producten, zoals yoghurt en kwark. Van de Nederlanders die ’s ochtends voor een biologisch product kiest, is zuivel met 43 procent de onbetwiste nummer 1,...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/22/nieuw-onderzoek-lvvn-toont-aan-ruim-15-miljoen-nederlanders-kiezen-bij-ontbijt-voor-biologische-yoghurt
-
----
-
-## Renteplafond studieleningen duurder en risicovol, minister in gesprek met parlement
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 22 Oct 2026 14:30:00 GMT
-
-Het voorgestelde renteplafond op studieleningen van 2,5% is duurder dan de in het coalitieakkoord gereserveerde € 40 miljoen per jaar. Door stijging van de langetermijnrente kost dit renteplafond nu minimaal € 160 miljoen per jaar. Verdere...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/22/renteplafond-studieleningen-duurder-en-risicovol-minister-in-gesprek-met-parlement
 
 ---
 
