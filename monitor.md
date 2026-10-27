@@ -1,6 +1,42 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T10:24:53.370152+00:00
+Laatste update: 2026-10-27T11:23:21.342295+00:00
+
+## Protecting Europe with stronger climate-resilience
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 12:00:30 +0100
+
+The EU's proactive and systemic risk management approach to protect Europeans and the EU economy from the impacts of climate change.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en
+
+---
+
+## EU gas storage is 75% filled
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 11:57:52 +0100
+
+In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
+
+---
+
+## Road safety statistics for 2025 confirm drop in EU road deaths
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 11:34:10 +0100
+
+The Commission released the final figures on road fatalities for 2025, reporting 19,350 deaths due to road crashes.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/road-safety-statistics-2025-confirm-drop-eu-road-deaths-2026-10-27_en
+
+---
 
 ## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
 
@@ -422,18 +458,6 @@ Entering its second year, the EU-US Fellowship for Young Leaders in Agriculture 
 
 ---
 
-## EU and Western Balkan partners deepen research and innovation cooperation to support EU integration
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 15:07:11 +0200
-
-Research and innovation news alert: The European Union and the Western Balkan partners have endorsed a joint declaration to step up cooperation in research and innovation, reaffirming their shared commitment to the region’s path towards EU membership.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-and-western-balkan-partners-deepen-research-and-innovation-cooperation-support-eu-integration-2026-10-22_en
-
----
-
 ## Ireland partners with the European Skills & VET Week
 
 **Bron:** Europese Commissie
@@ -482,18 +506,6 @@ The latest joint report published by the European Commission and the European Un
 
 ---
 
-## Bio-based Europe Alliance launches to accelerate market uptake of sustainable bio-based solutions
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 11:12:12 +0200
-
-The Alliance aims to provide clearer market signals, reduce investment uncertainty, and unlock the potential of Europe’s bioeconomy.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/bio-based-alliance-launches-drive-sustainable-solutions-2026-10-22_en
-
----
-
 ## Taking the European Network of Public Employment Services forward
 
 **Bron:** Europese Commissie
@@ -527,18 +539,6 @@ Experts from the European Commission, EU countries, the International Energy Age
 Moving to another EU country for work? Don’t let the hidden costs catch you off guard. From utility deposits to your first pay cheque, here’s your essential guide to financial survival.
 
 **Originele publicatie:** https://eures.europa.eu/beyond-rent-real-cost-moving-abroad-work-2026-10-22_en
-
----
-
-## One sea, shared security: EU and Libya take a first step together against CBRN threats
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 22 Oct 2026 09:23:01 +0200
-
-From 11 to 15 October, Libyan first responders gathered in Tripoli for an EU-funded preparatory training followed by a field drill.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/one-sea-shared-security-eu-and-libya-take-first-step-together-against-cbrn-threats-2026-10-22_en
 
 ---
 
