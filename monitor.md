@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T08:29:47.236323+00:00
+Laatste update: 2026-10-27T09:26:41.423222+00:00
+
+## LVB Schiphol gepubliceerd in staatsblad, regels per 1 november van kracht
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 27 Oct 2026 09:15:00 GMT
+
+Het nieuwe Luchthavenverkeerbesluit (LVB) voor Schiphol is dinsdag gepubliceerd in het Staatsblad en treedt 1 november in werking. Het besluit herstelt de rechtsbescherming voor omwonenden, dringt de geluidsoverlast rond Schiphol terug en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/lvb-schiphol-gepubliceerd-in-staatsblad-regels-per-1-november-van-kracht
+
+---
 
 ## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
 
@@ -594,18 +606,6 @@ De asielinstroom van week 42, bestaande uit eerste asielaanvragen, herhaalde asi
 Een bericht over een pakketje dat onderweg is of een aanbieding die te mooi lijkt om waar te zijn. Bijna iedereen krijgt wel eens een verdacht bericht. Uit nieuw onderzoek blijkt dat vrijwel alle Nederlanders van 18 jaar en ouder (94%) weleens...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/persbericht-laat-je-niet-interneppen
-
----
-
-## We twijfelen allemaal, maar klikken toch: 4 op de 10 heeft weleens klikspijt
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 19 Oct 2026 04:00:00 GMT
-
-Een bericht over een pakketje dat onderweg is of een aanbieding die te mooi lijkt om waar te zijn. Bijna iedereen krijgt wel eens een verdacht bericht. Uit nieuw onderzoek blijkt dat vrijwel alle Nederlanders van 18 jaar en ouder (94%) weleens...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/19/we-twijfelen-allemaal-maar-klikken-toch-vier-op-de-tien-heeft-weleens-klikspijt
 
 ---
 
