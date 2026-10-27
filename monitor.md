@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-27T02:19:03.982334+00:00
+Laatste update: 2026-10-27T03:18:50.590409+00:00
 
 ## Vogelgriep vastgesteld in Lutjegast
 
