@@ -1,6 +1,42 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T16:35:23.556317+00:00
+Laatste update: 2026-10-28T17:30:35.239007+00:00
+
+## Landelijke ophok- en afschermplicht ingesteld na vogelgriepuitbraken
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 28 Oct 2026 16:46:00 GMT
+
+Na drie vogelgriepuitbraken in korte tijd stelt staatssecretaris Silvio Erkens van Landbouw, Visserij, Voedselzekerheid en Natuur maatregelen in, waaronder een landelijke ophok- en afschermplicht. Deze maatregelen moeten de kans op nieuwe...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/landelijke-ophok-en-afschermplicht-ingesteld-na-vogelgriepuitbraken
+
+---
+
+## Vogelgriep vastgesteld in Grootegast
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 28 Oct 2026 16:45:00 GMT
+
+In Grootegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastgesteld op een legpluimveebedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/vogelgriep-vastgesteld-in-grootegast
+
+---
+
+## Commission launches High-Level Dialogue with the European oil refining sector
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 17:32:56 +0100
+
+The European Commission launched today the first High-Level Dialogue with the European oil refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-high-level-dialogue-european-oil-refining-sector-2026-10-28_en
+
+---
 
 ## Team Ouders - initiatief over ouderschap en opvoeden - gelanceerd door minister Sterk en staatssecretaris Tielen
 
@@ -530,30 +566,6 @@ De asielinstroom van week 43, bestaande uit eerste asielaanvragen, herhaalde asi
 
 ---
 
-## Nederland de sterkste medische technologiesector van Europa in 2035
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 09:00:00 GMT
-
-Nederland heeft de ambitie om in 2035 de sterkste medische technologiesector van Europa te hebben. Dat biedt iedereen op termijn niet alleen betere diagnoses en behandelingen, maar zorgt ook voor innovatieve economische kansen. Bedrijfsleven,...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nederland-de-sterkste-medische-technologiesector-van-europa-in-2035
-
----
-
-## Nederland investeert fors in bescherming tropische bossen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 08:30:00 GMT
-
-Het kabinet wil over een periode van tien jaar maximaal 500 miljoen dollar uittrekken voor een innovatief internationaal initiatief om tropische bossen te beschermen. De kapitaalbijdrage is bestemd voor de Tropical Forest Forever Facility (TFFF),...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nederland-investeert-fors-in-bescherming-tropische-bossen
-
----
-
 ## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
 
 **Bron:** Europese Commissie
@@ -575,18 +587,6 @@ Discover the new European Master’s in Translation (EMT) competence framework, 
 The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
-
----
-
-## Investing in skills for the competitiveness of small and medium companies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 10:20:29 +0200
-
-As Ireland leads the Presidency of the Council of the European Union, business leaders and policymakers met in Dublin to focus on a pressing question: how can Europe equip its small and medium-sized companies (SME) with the talent and skills they need to grow, innovate and compete?
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en
 
 ---
 
