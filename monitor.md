@@ -1,16 +1,40 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T11:26:10.005481+00:00
+Laatste update: 2026-10-28T12:24:19.754453+00:00
+
+## New Study on Law Enforcement Training in the EU
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 12:21:12 +0100
+
+The European Commission published the Feasibility Study on Law Enforcement Training in the EU – the first comprehensive overview of training for law enforcement across the EU since 2013.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-study-law-enforcement-training-eu-2026-10-28_en
+
+---
+
+## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 12:16:09 +0100
+
+Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED)...
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en
+
+---
 
 ## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Wed, 28 Oct 2026 10:32:47 +0100
+**Gepubliceerd:** Wed, 28 Oct 2026 11:17:48 +0100
 
 The latest episode of PESPod, the podcast of the European Network of Public Employment Services (PES Network), explores how the Swedish Public Employment Service is helping young people with disabilities or health conditions through the transition from education into employment.
 
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/pespod-29-beyond-classroom-lessons-swedens-samstart-and-samstart-2026-10-28-0_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/pespod-29-beyond-classroom-lessons-swedens-samstart-and-samstart-2026-10-28_en
 
 ---
 
@@ -182,18 +206,6 @@ Auction results EU-Bonds
 
 ---
 
-## Emancipatienota 2027-2030: Vrijheid telt!
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 14:22:00 GMT
-
-Vrijheid, gelijkwaardigheid en veiligheid voor iedereen – dat zou het Nederland van nu moeten zijn. Helaas is dit voor vrouwen en lhbtiq+ personen in het dagelijks leven niet altijd vanzelfsprekend. Zij ervaren dat deze waarden onder druk staan.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/emancipatienota-2027-2030-vrijheid-telt
-
----
-
 ## Eerste Kamer neemt wetsvoorstel aan voor sterke lokale publieke omroep voor iedereen
 
 **Bron:** Rijksoverheid Nieuws
@@ -347,18 +359,6 @@ Minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties heeft de Integrale
 Het nieuwe Luchthavenverkeerbesluit (LVB) voor Schiphol is dinsdag gepubliceerd in het Staatsblad en treedt 1 november 2026 in werking. Het besluit herstelt de rechtsbescherming voor omwonenden, dringt de geluidsoverlast rond Schiphol terug en...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/lvb-schiphol-gepubliceerd-in-staatsblad-regels-per-1-november-van-kracht
-
----
-
-## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 08:34:51 +0100
-
-Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED)...
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en
 
 ---
 
@@ -530,6 +530,18 @@ Het kabinet wil over een periode van tien jaar maximaal 500 miljoen dollar uittr
 
 ---
 
+## Kabinet werkt aan slagvaardige overheid: eenvoudiger, slimmer en kleiner
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 26 Oct 2026 08:00:00 GMT
+
+De overheid is door de jaren heen voor veel inwoners en ondernemers te ingewikkeld geworden. Daarom moet de overheid eenvoudiger, slimmer en kleiner worden. Om proactieve dienstverlening mogelijk te maken, zorgt de overheid ervoor dat gegevens van...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/kabinet-werkt-aan-slagvaardige-overheid-eenvoudiger-slimmer-en-kleiner
+
+---
+
 ## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
 
 **Bron:** Europese Commissie
@@ -539,30 +551,6 @@ Het kabinet wil over een periode van tien jaar maximaal 500 miljoen dollar uittr
 Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
 
 **Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
-
----
-
-## Joint ministerial statement on the risk of famine in Sudan
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 17:26:41 +0200
-
-Sudan is experiencing an alarming deterioration in its food security. The risk of famine in the coming months, as warned by the Integrated Food Security Phase Classification, needs urgent action. There is no time to lose to save lives and prevent famine.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en
-
----
-
-## Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 17:15:18 +0200
-
-Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en
 
 ---
 
@@ -578,18 +566,6 @@ The European Commission, UNESCO and the Union for the Mediterranean set the stag
 
 ---
 
-## Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 12:07:40 +0200
-
-The European Commission has opened a formal antitrust investigation to assess whether Omya has breached EU competition rules by requiring customers in the paper industry to purchase all or most of their calcium carbonates from Omya.
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-opens-investigation-possible-anticompetitive-conduct-omya-supply-calcium-carbonates-paper-2026-10-23_en
-
----
-
 ## EU announces an additional €22.5 million to reinforce humanitarian assistance in Yemen
 
 **Bron:** Europese Commissie
@@ -599,6 +575,30 @@ The European Commission has opened a formal antitrust investigation to assess wh
 The European Commission is releasing €22.5 million in humanitarian aid to Yemen, in addition to the €87.5 million previously allocated for 2026, to address the consequences of the renewed conflict escalation and the critical needs of millions of people affected by the protracted crisis.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en
+
+---
+
+## Investing in skills for the competitiveness of small and medium companies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 10:20:29 +0200
+
+As Ireland leads the Presidency of the Council of the European Union, business leaders and policymakers met in Dublin to focus on a pressing question: how can Europe equip its small and medium-sized companies (SME) with the talent and skills they need to grow, innovate and compete?
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en
+
+---
+
+## New episode – DGT podcast: Languages and Technology
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 10:00:44 +0200
+
+Listen to episode 14 of the DGT podcast: Languages and Technology!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en
 
 ---
 
