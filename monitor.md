@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T01:46:11.650383+00:00
+Laatste update: 2026-10-28T02:34:46.945069+00:00
 
 ## Nederland verhoogt steun voor wereldwijde strijd tegen honger
 
@@ -719,6 +719,206 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Media advisory - Accreditation for the EU-UK Summit on 20 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The EU-UK Summit will take place on 20 November 2026 in the Europa building in Brussels.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/media-advisory-accreditation-for-the-eu-uk-summit-on-20-november-2026/
+
+---
+
+## President Costa travels to Montreal for the EU-Canada Summit
+
+**Bron:** Raad van de EU - Persberichten
+
+The President of the European Council, António Costa, will travel to Montreal, Canada, for the 21st EU-Canada summit on 29 and 30 October. He will represent the EU together with the President of the European Commission, Ursula von der Leyen. Canada will be represented by Prime Minister Mark Carney.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/president-costa-travels-to-montreal-for-the-eu-canada-summit/
+
+---
+
+## Press briefing - Transport, Telecommunications and Energy Council (Energy) of 29 October 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Press briefing ahead of the upcoming Transport, Telecommunications and Energy Council (Energy) will take place on 28 October 2026 at 16.30.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/press-briefing-transport-telecommunications-and-energy-council-energy-of-29-october-2026/
+
+---
+
+## MFF 2028-2034: Council secures negotiating position for a strong and future-oriented common agricultural policy
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council agrees its negotiating position on the regulation for the post-2027 common agricultural policy, aiming to support a more competitive, sustainable and resilient EU agriculture sector.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy/
+
+---
+
+## Baltic Sea: Council reaches agreement on fishing opportunities for 2027
+
+**Bron:** Raad van de EU - Persberichten
+
+Council agrees on Baltic Sea fisheries catch limits for 2027 for key fish stocks, namely herring, sprat, cod, salmon and plaice.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027/
+
+---
+
+## EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility
+
+**Bron:** Raad van de EU - Persberichten
+
+Today the Council adopted a set of decisions mobilising funds for Ukraine under the European Peace Facility. These decisions will allow for the partial reimbursement of previously delivered military aid and provide additional financing for the EU Military Assistance Mission in Support of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-support-for-ukraine-council-mobilises-49-billion-under-the-european-peace-facility/
+
+---
+
+## One-year badge 2027 - accreditation is open
+
+**Bron:** Raad van de EU - Persberichten
+
+Information about accreditation requirements for the one-year badge (2027)
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/one-year-badge-2027-accreditation-is-open/
+
+---
+
+## Media advisory - Accreditation for the European Council, 17 and 18 December 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The European Council will take place on 17 and 18 December 2026 in the Europa building in Brussels.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/media-advisory-accreditation-for-the-european-council-17-and-18-december-2026/
+
+---
+
+## EU sanctions against ISIL/Da’esh and Al-Qaeda: Council renews regime until 2027
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council extended restrictive measures against individuals and groups associated with ISIL/Da'esh and Al-Qaeda for a further year, until 31 October 2027.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/
+
+---
+
+## Forward look: 26 October - 8 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/forward-look-2026/
+
+---
+
+## Weekly schedule of President António Costa
+
+**Bron:** Raad van de EU - Persberichten
+
+Weekly schedule of President António Costa, 26 October-1 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/
+
+---
+
+## Press briefing - EU-Canada summit of 29-30 October 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The press briefing will take place on Tuesday 27 October 2026 at 10:30.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/
+
+---
+
+## Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956
+
+**Bron:** Raad van de EU - Persberichten
+
+On 23 October 2026, European Council President António Costa travelled to Budapest and delivered a speech to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/
+
+---
+
+## EU Inc: Council adopts position on a new EU corporate law for innovative companies
+
+**Bron:** Raad van de EU - Persberichten
+
+Council adopts its negotiating position on the regulation to create a 28th regime corporate legal framework, EU inc.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/
+
+---
+
+## UPDATED Media advisory - Accreditation for the Special European Council, 26-27 November 2026 and the EU-Western Balkans summit, 25 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels. It will be preceded by the EU-Western Balkans summit on 25 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/
+
+---
+
+## EU-Western Balkans summit to take place in Brussels on 25 November
+
+**Bron:** Raad van de EU - Persberichten
+
+EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit will highlight the strategic importance of the relations between the EU and the Western Balkans. The President of the European Council will represent the EU at the summit together with the President of the European Commission.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/
+
+---
+
+## Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission
+
+**Bron:** Raad van de EU - Persberichten
+
+On 22 October 2026, European Council President António Costa and European Commission President Ursula von der Leyen held talks with President of Viet Nam Tô Lâm in Brussels on bilateral cooperation, regional security and global challenges.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/
+
+---
+
+## Presentation of letters of credence to the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen
+
+**Bron:** Raad van de EU - Persberichten
+
+President Costa and President von der Leyen received letters of credence from nineteen new Ambassadors to the European Union.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/presentation-of-letters-of-credence-to-the-president-of-the-european-council-antonio-costa-and-the-president-of-the-european-commission-ursula-von-der-leyen/
+
+---
+
+## Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council and the Parliament agreed new rules to revitalise the EU’s securitisation market - an integral part of the savings and investments union (SIU) and the ‘One Europe, One Market’ roadmap to boost economic growth.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/
+
+---
+
+## Libya/Türkiye: Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/
 
 ---
 
