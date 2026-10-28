@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T09:31:31.388943+00:00
+Laatste update: 2026-10-28T10:29:29.088554+00:00
+
+## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 10:32:47 +0100
+
+The latest episode of PESPod, the podcast of the European Network of Public Employment Services (PES Network), explores how the Swedish Public Employment Service is helping young people with disabilities or health conditions through the transition from education into employment.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/pespod-29-beyond-classroom-lessons-swedens-samstart-and-samstart-2026-10-28-0_en
+
+---
 
 ## Koning en minister-president ontvangen president Zelensky van Oekraïne
 
@@ -530,6 +542,30 @@ Discover the new European Master’s in Translation (EMT) competence framework, 
 
 ---
 
+## Joint ministerial statement on the risk of famine in Sudan
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 17:26:41 +0200
+
+Sudan is experiencing an alarming deterioration in its food security. The risk of famine in the coming months, as warned by the Integrated Food Security Phase Classification, needs urgent action. There is no time to lose to save lives and prevent famine.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en
+
+---
+
+## Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 23 Oct 2026 17:15:18 +0200
+
+Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en
+
+---
+
 ## Building bridges through science diplomacy
 
 **Bron:** Europese Commissie
@@ -539,18 +575,6 @@ Discover the new European Master’s in Translation (EMT) competence framework, 
 The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
-
----
-
-## Enterprise Europe Network Annual Conference 2026: An Agile Network in a Changing World
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 13:33:31 +0200
-
-The Enterprise Europe Network Annual Conference 2026 takes place 11-13 November at the Croke Park Conference Centre in Dublin, Ireland, with Network partners and stakeholders. Under the theme 'An Agile Network in a Changing World', 700 participants join onsite and online for 3 days of exchange.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en
 
 ---
 
@@ -575,30 +599,6 @@ The European Commission has opened a formal antitrust investigation to assess wh
 The European Commission is releasing €22.5 million in humanitarian aid to Yemen, in addition to the €87.5 million previously allocated for 2026, to address the consequences of the renewed conflict escalation and the critical needs of millions of people affected by the protracted crisis.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en
-
----
-
-## Investing in skills for the competitiveness of small and medium companies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 10:20:29 +0200
-
-As Ireland leads the Presidency of the Council of the European Union, business leaders and policymakers met in Dublin to focus on a pressing question: how can Europe equip its small and medium-sized companies (SME) with the talent and skills they need to grow, innovate and compete?
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en
-
----
-
-## New episode – DGT podcast: Languages and Technology
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 10:00:44 +0200
-
-Listen to episode 14 of the DGT podcast: Languages and Technology!
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en
 
 ---
 
