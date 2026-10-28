@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T10:29:29.088554+00:00
+Laatste update: 2026-10-28T11:26:10.005481+00:00
 
 ## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
 
