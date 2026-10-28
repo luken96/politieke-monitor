@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T14:38:20.764602+00:00
+Laatste update: 2026-10-28T15:35:57.005246+00:00
+
+## Team Ouders - initiatief over ouderschap en opvoeden - gelanceerd door minister Sterk en staatssecretaris Tielen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 28 Oct 2026 15:15:00 GMT
+
+Minister Mirjam Sterk en staatssecretaris Judith Tielen hebben het nieuwe initiatief Team Ouders gelanceerd op basisschool De Schakel in Utrecht. Met Team Ouders wordt een maatschappelijke dialoog op gang gebracht over hoe ouders beter ondersteund...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/team-ouders-initiatief-over-ouderschap-en-opvoeden-gelanceerd-door-minister-sterk-en-staatssecretaris-tielen
+
+---
 
 ## AU–EU partnership opens new pathways for cooperation on AI in Science
 
@@ -539,18 +551,6 @@ Nederland heeft de ambitie om in 2035 de sterkste medische technologiesector van
 Het kabinet wil over een periode van tien jaar maximaal 500 miljoen dollar uittrekken voor een innovatief internationaal initiatief om tropische bossen te beschermen. De kapitaalbijdrage is bestemd voor de Tropical Forest Forever Facility (TFFF),...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nederland-investeert-fors-in-bescherming-tropische-bossen
-
----
-
-## Kabinet werkt aan slagvaardige overheid: eenvoudiger, slimmer en kleiner
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 08:00:00 GMT
-
-De overheid is door de jaren heen voor veel inwoners en ondernemers te ingewikkeld geworden. Daarom moet de overheid eenvoudiger, slimmer en kleiner worden. Om proactieve dienstverlening mogelijk te maken, zorgt de overheid ervoor dat gegevens van...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/kabinet-werkt-aan-slagvaardige-overheid-eenvoudiger-slimmer-en-kleiner
 
 ---
 
