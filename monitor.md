@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T05:25:43.428590+00:00
+Laatste update: 2026-10-28T06:23:38.330816+00:00
 
 ## Nederland verhoogt steun voor wereldwijde strijd tegen honger
 
