@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T12:24:19.754453+00:00
+Laatste update: 2026-10-28T13:42:48.977830+00:00
 
 ## New Study on Law Enforcement Training in the EU
 
