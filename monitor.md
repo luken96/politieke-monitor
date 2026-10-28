@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T15:35:57.005246+00:00
+Laatste update: 2026-10-28T16:35:23.556317+00:00
 
 ## Team Ouders - initiatief over ouderschap en opvoeden - gelanceerd door minister Sterk en staatssecretaris Tielen
 
