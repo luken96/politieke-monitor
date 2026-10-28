@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T06:23:38.330816+00:00
+Laatste update: 2026-10-28T07:42:35.637376+00:00
+
+## Kabinet: meer Meedoenbalies in azc’s om nieuwkomers aan werk te helpen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 28 Oct 2026 06:30:00 GMT
+
+Het kabinet wil dat nieuwkomers sneller aan het werk gaan. Om dat te stimuleren openen steeds meer azc’s zogenoemde Meedoenbalies. Bij deze balies krijgen asielmigranten informatie over het vinden van een baan, vrijwilligerswerk en taallessen. Zo...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/kabinet-meer-meedoenbalies-in-azcs-om-nieuwkomers-aan-werk-te-helpen
+
+---
 
 ## Nederland verhoogt steun voor wereldwijde strijd tegen honger
 
@@ -587,18 +599,6 @@ As Ireland leads the Presidency of the Council of the European Union, business l
 Listen to episode 14 of the DGT podcast: Languages and Technology!
 
 **Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en
-
----
-
-## Nieuw onderzoek LVVN toont aan: Ruim 1,5 miljoen Nederlanders kiezen bij ontbijt voor biologische yoghurt
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 23 Oct 2026 08:00:00 GMT
-
-Ruim 1,5 miljoen Nederlanders kiezen vooral ’s ochtends bij het ontbijt voor biologische producten, zoals yoghurt en kwark. Van de Nederlanders die ’s ochtends voor een biologisch product kiest, is zuivel met 43 procent de onbetwiste nummer 1,...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/22/nieuw-onderzoek-lvvn-toont-aan-ruim-15-miljoen-nederlanders-kiezen-bij-ontbijt-voor-biologische-yoghurt
 
 ---
 
