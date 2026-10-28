@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T08:33:55.361135+00:00
+Laatste update: 2026-10-28T09:31:31.388943+00:00
+
+## Koning en minister-president ontvangen president Zelensky van Oekraïne
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 28 Oct 2026 08:27:00 GMT
+
+Zijne Majesteit de Koning ontvangt woensdagavond 28 oktober de president van Oekraïne, Volodymyr Zelensky, in audiëntie. De ontvangst vindt plaats op Paleis Huis ten Bosch in Den Haag.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/koning-en-minister-president-ontvangen-president-zelensky-van-oekraine
+
+---
+
+## EU launches Friends of Credits for Nature and Biodiversity at COP17
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 09:20:03 +0100
+
+The initiative aims to build international support for nature credits and strengthen cooperation on biodiversity finance.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/eu-launches-friends-credits-nature-and-biodiversity-2026-10-28_en
+
+---
 
 ## Sjoerdsma kondigt op bezoek in Kyiv nieuw steunpakket aan
 
@@ -8,9 +32,33 @@ Laatste update: 2026-10-28T08:33:55.361135+00:00
 
 **Gepubliceerd:** Wed, 28 Oct 2026 08:15:00 GMT
 
-Het kabinet stelt €1,2 miljard aan niet-militaire steun voor Oekraïne beschikbaar voor de komende drie jaar. Het pakket heeft tot doel om de meest urgente noden in Oekraïne te verlichten, aan herstel en wederopbouw bij te dragen en kansen voor...
+Het kabinet stelt € 1,2 miljard aan niet-militaire steun voor Oekraïne beschikbaar voor de komende 3 jaar. Het pakket heeft tot doel om de meest urgente noden in Oekraïne te verlichten, aan herstel en wederopbouw bij te dragen en kansen voor...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/sjoerdsma-kondigt-op-bezoek-in-kyiv-nieuw-steunpakket-aan
+
+---
+
+## EU-Central Asia Innovation Forum: join the discussion online on 28 October
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 08:52:05 +0100
+
+Researchers, innovators and companies from Europe and Central Asia meet in Tashkent on 28 October to explore new cooperation. Join online!
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-central-asia-innovation-forum-join-discussion-online-28-october-2026-10-27_en
+
+---
+
+## Bavarian carp ponds: cultural heritage at the water’s edge
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 08:49:02 +0100
+
+In Bavaria, traditional carp pond farming is not just a way of producing fish. It is a living cultural landscape, recognised as intangible cultural heritage in Germany since 2021. The Karpfenland Aischgrund e.V. project helped bring it into the spotlight,
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/bavarian-carp-ponds-cultural-heritage-waters-edge-2026-10-28_en
 
 ---
 
@@ -23,18 +71,6 @@ Het kabinet stelt €1,2 miljard aan niet-militaire steun voor Oekraïne beschik
 Het kabinet wil dat nieuwkomers sneller aan het werk gaan. Om dat te stimuleren openen steeds meer azc’s zogenoemde Meedoenbalies. Bij deze balies krijgen asielmigranten informatie over het vinden van een baan, vrijwilligerswerk en taallessen. Zo...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/kabinet-meer-meedoenbalies-in-azcs-om-nieuwkomers-aan-werk-te-helpen
-
----
-
-## EU-Central Asia Innovation Forum: join the discussion online on 28 October
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 22:58:22 +0100
-
-Researchers, innovators and companies from Europe and Central Asia meet in Tashkent on 28 October to explore new cooperation. Join online!
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-central-asia-innovation-forum-join-discussion-online-28-october-2026-10-27_en
 
 ---
 
@@ -482,18 +518,6 @@ Het kabinet wil over een periode van tien jaar maximaal 500 miljoen dollar uittr
 
 ---
 
-## Kabinet werkt aan slagvaardige overheid: eenvoudiger, slimmer en kleiner
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 08:00:00 GMT
-
-De overheid is door de jaren heen voor veel inwoners en ondernemers te ingewikkeld geworden. Daarom moet de overheid eenvoudiger, slimmer en kleiner worden. Om proactieve dienstverlening mogelijk te maken, zorgt de overheid ervoor dat gegevens van...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/kabinet-werkt-aan-slagvaardige-overheid-eenvoudiger-slimmer-en-kleiner
-
----
-
 ## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
 
 **Bron:** Europese Commissie
@@ -503,30 +527,6 @@ De overheid is door de jaren heen voor veel inwoners en ondernemers te ingewikke
 Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
 
 **Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
-
----
-
-## Joint ministerial statement on the risk of famine in Sudan
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 17:26:41 +0200
-
-Sudan is experiencing an alarming deterioration in its food security. The risk of famine in the coming months, as warned by the Integrated Food Security Phase Classification, needs urgent action. There is no time to lose to save lives and prevent famine.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en
-
----
-
-## Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 23 Oct 2026 17:15:18 +0200
-
-Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en
 
 ---
 
