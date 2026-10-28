@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-28T07:42:35.637376+00:00
+Laatste update: 2026-10-28T08:33:55.361135+00:00
+
+## Sjoerdsma kondigt op bezoek in Kyiv nieuw steunpakket aan
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 28 Oct 2026 08:15:00 GMT
+
+Het kabinet stelt €1,2 miljard aan niet-militaire steun voor Oekraïne beschikbaar voor de komende drie jaar. Het pakket heeft tot doel om de meest urgente noden in Oekraïne te verlichten, aan herstel en wederopbouw bij te dragen en kansen voor...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/sjoerdsma-kondigt-op-bezoek-in-kyiv-nieuw-steunpakket-aan
+
+---
 
 ## Kabinet: meer Meedoenbalies in azc’s om nieuwkomers aan werk te helpen
 
@@ -11,6 +23,18 @@ Laatste update: 2026-10-28T07:42:35.637376+00:00
 Het kabinet wil dat nieuwkomers sneller aan het werk gaan. Om dat te stimuleren openen steeds meer azc’s zogenoemde Meedoenbalies. Bij deze balies krijgen asielmigranten informatie over het vinden van een baan, vrijwilligerswerk en taallessen. Zo...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/kabinet-meer-meedoenbalies-in-azcs-om-nieuwkomers-aan-werk-te-helpen
+
+---
+
+## EU-Central Asia Innovation Forum: join the discussion online on 28 October
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 22:58:22 +0100
+
+Researchers, innovators and companies from Europe and Central Asia meet in Tashkent on 28 October to explore new cooperation. Join online!
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-central-asia-innovation-forum-join-discussion-online-28-october-2026-10-27_en
 
 ---
 
@@ -470,18 +494,6 @@ De overheid is door de jaren heen voor veel inwoners en ondernemers te ingewikke
 
 ---
 
-## Minister Van Essen naar VN-top voor afspraken over natuur
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 07:52:00 GMT
-
-Minister Jaimi van Essen (Landbouw, Visserij, Voedselzekerheid en Natuur) gaat van 27 tot en met 28 oktober naar Armenië om deel te nemen aan de VN-Biodiversiteitstop (COP17). Tijdens de Verenigde Naties-top komen bijna 200 landen samen om...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/minister-van-essen-naar-vn-top-voor-afspraken-over-natuur
-
----
-
 ## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
 
 **Bron:** Europese Commissie
@@ -491,18 +503,6 @@ Minister Jaimi van Essen (Landbouw, Visserij, Voedselzekerheid en Natuur) gaat v
 Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
 
 **Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
-
----
-
-## EU civil protection mechanism turns 25
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Sun, 25 Oct 2026 19:45:13 +0100
-
-Since its creation, it has been activated more than 900 times by 160 countries and 8 international organisations, coordinating assistance in response to wildfires, floods, earthquakes, health emergencies and other disasters across Europe and around the world.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en
 
 ---
 
