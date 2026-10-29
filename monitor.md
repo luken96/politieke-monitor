@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T06:26:08.272514+00:00
+Laatste update: 2026-10-29T07:45:02.459162+00:00
 
 ## Landelijke ophok- en afschermplicht ingesteld na vogelgriepuitbraken
 
@@ -8,7 +8,7 @@ Laatste update: 2026-10-29T06:26:08.272514+00:00
 
 **Gepubliceerd:** Wed, 28 Oct 2026 16:46:00 GMT
 
-Na drie vogelgriepuitbraken in korte tijd stelt staatssecretaris Silvio Erkens van Landbouw, Visserij, Voedselzekerheid en Natuur maatregelen in, waaronder een landelijke ophok- en afschermplicht. Deze maatregelen moeten de kans op nieuwe...
+Na 3 vogelgriepuitbraken in korte tijd stelt staatssecretaris Silvio Erkens van Landbouw, Visserij, Voedselzekerheid en Natuur maatregelen in, waaronder een landelijke ophok- en afschermplicht. Deze maatregelen moeten de kans op nieuwe...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/landelijke-ophok-en-afschermplicht-ingesteld-na-vogelgriepuitbraken
 
