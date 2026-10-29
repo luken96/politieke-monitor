@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T15:37:18.767914+00:00
+Laatste update: 2026-10-29T16:36:47.255733+00:00
 
 ## Inzet uitzendkrachten wordt begrensd in tijd
 
@@ -110,18 +110,6 @@ Struggling to recruit? 80% of EU employers face the same issue. Discover how dro
 
 ---
 
-## Council publishes 2025 international climate finance figures
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/council-publishes-2025-international-climate-finance-figures-2026-10-29_en
-
----
-
 ## Commission invites Member States to use €21.3 billion under SAFE to boost Defence Readiness and support to Ukraine
 
 **Bron:** Europese Commissie
@@ -143,6 +131,30 @@ The European Commission is inviting Member States to participate in the second r
 European Cybercrime Training and Education Group (ECTEG) has published new training materials for digital forensic investigations and combating cybercrime. The courses are designed for law enforcement agencies and judicial authorities.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-training-materials-law-enforcement-combat-cybercrime-2026-10-29_en
+
+---
+
+## Council publishes 2025 international climate finance figures
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/council-publishes-2025-international-climate-finance-figures-2026-10-29_en
+
+---
+
+## Investigations supported by Europol expose international migrant smuggling networks
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
 
 ---
 
@@ -587,18 +599,6 @@ In Lutjegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastge
 Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
 
 **Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
-
----
-
-## Deployment of NCTS Phase 6 – Next step in the modernization of customs and transit procedures
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-The rollout of Phase 6 of the New Computerised Transit System (NCTS), now in use across the 27 EU Member States and the countries of the Common Transit Convention, marks a major step forward in the digital modernisation of customs and transit procedures across 41 participating countries.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/deployment-ncts-phase-6-next-step-modernization-customs-and-transit-procedures-2026-10-26_en
 
 ---
 
