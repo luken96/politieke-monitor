@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T10:30:20.563880+00:00
+Laatste update: 2026-10-29T11:26:12.923541+00:00
 
 ## Nieuwe regels voor toeristische verhuur vanaf 1 november 2026
 
@@ -35,6 +35,30 @@ Andema, the association that defends companies' trademark rights in Spain, has 
 An EU-funded campaign tested 40 lift buffers and found that all hydraulic buffers passed the technical tests, while the majority of polyurethane buffers were non-compliant with EU requirements.
 
 **Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-campaign-highlights-lift-buffer-safety-performance-2026-10-29_en
+
+---
+
+## EU agri-food exports stable as imports decline slightly
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+EU agri-food trade surplus rises as exports hold steady and imports fall
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-exports-stable-imports-decline-slightly-2026-10-29_en
+
+---
+
+## Could you be rejecting the people you need? The case for skills-based hiring
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+Struggling to recruit? 80% of EU employers face the same issue. Discover how dropping unnecessary degree requirements can unlock hidden talent, boost retention and close the skills gap.
+
+**Originele publicatie:** https://eures.europa.eu/could-you-be-rejecting-people-you-need-case-skills-based-hiring-2026-10-29_en
 
 ---
 
@@ -122,6 +146,18 @@ The initiative aims to build international support for nature credits and streng
 
 ---
 
+## Bavarian carp ponds: cultural heritage at the water’s edge
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
+
+In Bavaria, traditional carp pond farming is not just a way of producing fish. It is a living cultural landscape, recognised as intangible cultural heritage in Germany since 2021. The Karpfenland Aischgrund e.V. project helped bring it into the spotlight,
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/bavarian-carp-ponds-cultural-heritage-waters-edge-2026-10-28_en
+
+---
+
 ## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
 
 **Bron:** Europese Commissie
@@ -143,18 +179,6 @@ The latest episode of PESPod, the podcast of the European Network of Public Empl
 The European Commission published the Feasibility Study on Law Enforcement Training in the EU – the first comprehensive overview of training for law enforcement across the EU since 2013.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-study-law-enforcement-training-eu-2026-10-28_en
-
----
-
-## Bavarian carp ponds: cultural heritage at the water’s edge
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
-
-In Bavaria, traditional carp pond farming is not just a way of producing fish. It is a living cultural landscape, recognised as intangible cultural heritage in Germany since 2021. The Karpfenland Aischgrund e.V. project helped bring it into the spotlight,
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/bavarian-carp-ponds-cultural-heritage-waters-edge-2026-10-28_en
 
 ---
 
@@ -266,15 +290,27 @@ Vanaf 1 januari 2027 is het mogelijk voor familieleden van kwetsbare mensen om
 
 ---
 
-## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
+## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
+Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.
 
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-27_en
+
+---
+
+## Agreement reached on 2027 fishing opportunities for the Baltic Sea
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-10-27_en
 
 ---
 
@@ -290,15 +326,15 @@ From understanding climate risks to developing and demonstrating innovative solu
 
 ---
 
-## Joint Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor
+## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-On 17 November 2026, Commissioners Marta Kos and Jozef Síkela will chair an Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor, bringing together the private sector, IFIs and the Commission to discuss support for strategic investment and competitiveness.
+On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
 
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/joint-implementation-dialogue-improving-competitiveness-trans-caspian-transport-corridor-2026-10-27_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
 
 ---
 
@@ -314,27 +350,39 @@ The Commission released the final figures on road fatalities for 2025, reporting
 
 ---
 
-## EU gas storage is 75% filled
+## Joint Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
+On 17 November 2026, Commissioners Marta Kos and Jozef Síkela will chair an Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor, bringing together the private sector, IFIs and the Commission to discuss support for strategic investment and competitiveness.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/joint-implementation-dialogue-improving-competitiveness-trans-caspian-transport-corridor-2026-10-27_en
 
 ---
 
-## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
+## EU-Central Asia Innovation Forum: join the discussion online on 28 October
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.
+Researchers, innovators and companies from Europe and Central Asia meet in Tashkent on 28 October to explore new cooperation. Join online!
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-27_en
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-central-asia-innovation-forum-join-discussion-online-28-october-2026-10-27_en
+
+---
+
+## Global Bioeconomy Summit 2026 & International Bioeconomy Forum position the bioeconomy as a paradigm for the post-2030 development agenda
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+The Summit and the Forum showcase the growing global momentum behind the bioeconomy.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/global-bioeconomy-summit-2026-international-bioeconomy-forum-position-bioeconomy-paradigm-post-2030-2026-10-27_en
 
 ---
 
@@ -362,18 +410,6 @@ Freshwater reservoirs are contaminated by persistent ‘forever chemicals’. A 
 
 ---
 
-## Plants and microbes pair up to remove pollutants from wastewater in human-made wetlands
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Microbes work to break down pollutants in constructed wetlands: a sustainable, nature-based solution for wastewater treatment. Enhancing these mechanisms to increase efficiency is possible, finds a new review, further research is needed.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/plants-and-microbes-pair-remove-pollutants-wastewater-human-made-wetlands-2026-10-27_en
-
----
-
 ## Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation
 
 **Bron:** Europese Commissie
@@ -386,27 +422,39 @@ Pharmaceuticals entering the natural environment may harm ecosystems and human h
 
 ---
 
-## Global Bioeconomy Summit 2026 & International Bioeconomy Forum position the bioeconomy as a paradigm for the post-2030 development agenda
+## Plants and microbes pair up to remove pollutants from wastewater in human-made wetlands
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-The Summit and the Forum showcase the growing global momentum behind the bioeconomy.
+Microbes work to break down pollutants in constructed wetlands: a sustainable, nature-based solution for wastewater treatment. Enhancing these mechanisms to increase efficiency is possible, finds a new review, further research is needed.
 
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/global-bioeconomy-summit-2026-international-bioeconomy-forum-position-bioeconomy-paradigm-post-2030-2026-10-27_en
+**Originele publicatie:** https://environment.ec.europa.eu/news/plants-and-microbes-pair-remove-pollutants-wastewater-human-made-wetlands-2026-10-27_en
 
 ---
 
-## Protecting Europe with stronger climate-resilience
+## EU gas storage is 75% filled
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-The EU's proactive and systemic risk management approach to protect Europeans and the EU economy from the impacts of climate change.
+In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
+
+---
+
+## Reinforcing Frontex for stronger protection of the EU’s external borders
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+The Commission has proposed to reinforce Frontex, the EU agency that plays a crucial role in supporting EU and Schengen countries in managing the EU’s external borders.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/reinforcing-frontex-stronger-protection-eus-external-borders-2026-10-27_en
 
 ---
 
@@ -422,39 +470,15 @@ Artificial intelligence (AI) is opening new possibilities for scientific discove
 
 ---
 
-## Agreement reached on 2027 fishing opportunities for the Baltic Sea
+## Protecting Europe with stronger climate-resilience
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
+The EU's proactive and systemic risk management approach to protect Europeans and the EU economy from the impacts of climate change.
 
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-10-27_en
-
----
-
-## EU-Central Asia Innovation Forum: join the discussion online on 28 October
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Researchers, innovators and companies from Europe and Central Asia meet in Tashkent on 28 October to explore new cooperation. Join online!
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-central-asia-innovation-forum-join-discussion-online-28-october-2026-10-27_en
-
----
-
-## Reinforcing Frontex for stronger protection of the EU’s external borders
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-The Commission has proposed to reinforce Frontex, the EU agency that plays a crucial role in supporting EU and Schengen countries in managing the EU’s external borders.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/reinforcing-frontex-stronger-protection-eus-external-borders-2026-10-27_en
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en
 
 ---
 
@@ -518,54 +542,6 @@ Oude matrassen bevatten waardevolle grondstoffen, zoals staal en schuim, die opn
 
 ---
 
-## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
-
----
-
-## Deployment of NCTS Phase 6 – Next step in the modernization of customs and transit procedures
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-The rollout of Phase 6 of the New Computerised Transit System (NCTS), now in use across the 27 EU Member States and the countries of the Common Transit Convention, marks a major step forward in the digital modernisation of customs and transit procedures across 41 participating countries.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/deployment-ncts-phase-6-next-step-modernization-customs-and-transit-procedures-2026-10-26_en
-
----
-
-## Hydrogen Strategy – Commission launches consultation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-The European Commission has today launched a 4-week call for evidence and a 4-week targeted stakeholder consultation to gather input to help shape the forthcoming Hydrogen Strategy.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/hydrogen-strategy-commission-launches-consultation-2026-10-26_en
-
----
-
-## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED)...
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en
-
----
-
 ## Ukraine Mine Action Conference 2026: clearing the way in partnership
 
 **Bron:** Europese Commissie
@@ -599,6 +575,30 @@ The Commission has received 67 applications for cross-border energy infrastructu
 Auction results EU-Bonds
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-26-10-2026-auction-eu-bonds-2026-10-26_en
+
+---
+
+## Deployment of NCTS Phase 6 – Next step in the modernization of customs and transit procedures
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
+
+The rollout of Phase 6 of the New Computerised Transit System (NCTS), now in use across the 27 EU Member States and the countries of the Common Transit Convention, marks a major step forward in the digital modernisation of customs and transit procedures across 41 participating countries.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/deployment-ncts-phase-6-next-step-modernization-customs-and-transit-procedures-2026-10-26_en
+
+---
+
+## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
+
+Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
 
 ---
 
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Council publishes 2025 international climate finance figures
+
+**Bron:** Raad van de EU - Persberichten
+
+In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/
 
 ---
 
@@ -909,16 +919,6 @@ EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit 
 On 22 October 2026, European Council President António Costa and European Commission President Ursula von der Leyen held talks with President of Viet Nam Tô Lâm in Brussels on bilateral cooperation, regional security and global challenges.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/
-
----
-
-## Presentation of letters of credence to the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen
-
-**Bron:** Raad van de EU - Persberichten
-
-President Costa and President von der Leyen received letters of credence from nineteen new Ambassadors to the European Union.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/presentation-of-letters-of-credence-to-the-president-of-the-european-council-antonio-costa-and-the-president-of-the-european-commission-ursula-von-der-leyen/
 
 ---
 
