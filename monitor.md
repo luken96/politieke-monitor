@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T18:27:25.297161+00:00
+Laatste update: 2026-10-29T19:34:24.398026+00:00
 
 ## Inzet uitzendkrachten wordt begrensd in tijd
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Discours du président António Costa au Conseil des relations internationales de Montréal
+
+**Bron:** Raad van de EU - Persberichten
+
+Le 29 octobre 2026, le président António Costa a prononcé un discours devant le Conseil des relations internationales de Montréal (CORIM), en amont du vingt-et-unième sommet UE-Canada, qui se tiendra les 29 et 30 octobre 2026 à Montréal.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/speech-by-president-antonio-costa-at-the-montreal-council-on-foreign-relations/
+
+---
+
 ## European Peace Facility: Council adopts 4th bilateral assistance measure in support of Mauritania
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ Council adopts its negotiating position on the regulation to create a 28th regim
 The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels. It will be preceded by the EU-Western Balkans summit on 25 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/
-
----
-
-## EU-Western Balkans summit to take place in Brussels on 25 November
-
-**Bron:** Raad van de EU - Persberichten
-
-EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit will highlight the strategic importance of the relations between the EU and the Western Balkans. The President of the European Council will represent the EU at the summit together with the President of the European Commission.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/
 
 ---
 
