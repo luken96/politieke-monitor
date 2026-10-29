@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T12:25:20.009942+00:00
+Laatste update: 2026-10-29T13:44:39.256635+00:00
+
+## Doorlooptijden geneesmiddelen vindbaar in vernieuwd dashboard
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 29 Oct 2026 13:15:00 GMT
+
+Het Dashboard Doorlooptijden Geneesmiddelen is vernieuwd. Voor deze vernieuwing hebben patiënten, apothekers, voorschrijvers en geneesmiddelenfabrikanten hun ervaringen en wensen ingebracht. Het vernieuwde dashboard sluit daarmee beter aan bij wat...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/doorlooptijden-geneesmiddelen-vindbaar-in-vernieuwd-dashboard
+
+---
 
 ## Nieuwe regels voor toeristische verhuur vanaf 1 november 2026
 
@@ -530,18 +542,6 @@ Staatssecretaris Tielen heeft het bestuur van Stichting Islamitisch Onderwijs me
 
 ---
 
-## Nieuwe afspraken voor meer recycling van oude matrassen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 10:05:00 GMT
-
-Oude matrassen bevatten waardevolle grondstoffen, zoals staal en schuim, die opnieuw kunnen worden gebruikt. Inmiddels wordt bijna 2/3 van de oude matrassen ingezameld voor recycling. Om te voorkomen dat grondstoffen verloren gaan, hebben...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nieuwe-afspraken-voor-meer-recycling-van-oude-matrassen
-
----
-
 ## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
 
 **Bron:** Europese Commissie
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## European Peace Facility: Council adopts 4th bilateral assistance measure in support of Mauritania
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council adopted the fourth bilateral assistance measure, worth €20 million, under the European Peace Facility (EPF) in support of the armed forces of Mauritania, which will help the country promote stability in the Sahel and safeguard its territorial integrity and sovereignty.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/european-peace-facility-council-adopts-4th-bilateral-assistance-measure-in-support-of-mauritania/
 
 ---
 
@@ -909,16 +919,6 @@ The Special European Council will take place on 26 and 27 November 2026 in the E
 EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit will highlight the strategic importance of the relations between the EU and the Western Balkans. The President of the European Council will represent the EU at the summit together with the President of the European Commission.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/
-
----
-
-## Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission
-
-**Bron:** Raad van de EU - Persberichten
-
-On 22 October 2026, European Council President António Costa and European Commission President Ursula von der Leyen held talks with President of Viet Nam Tô Lâm in Brussels on bilateral cooperation, regional security and global challenges.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/
 
 ---
 
