@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T08:35:37.007706+00:00
+Laatste update: 2026-10-29T09:34:32.411435+00:00
+
+## Nieuwe regels voor toeristische verhuur vanaf 1 november 2026
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 29 Oct 2026 09:14:00 GMT
+
+Vanaf 1 november 2026 treedt de wijziging van de Wet toeristische verhuur in werking. De wetswijziging geeft gemeenten meer inzicht en mogelijkheden om op toeristische verhuur te sturen. Dit maakt gerichter optreden tegen ongewenste situaties...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/nieuwe-regels-voor-toeristische-verhuur-vanaf-1-november-2026
+
+---
 
 ## Landelijke ophok- en afschermplicht ingesteld na vogelgriepuitbraken
 
@@ -398,18 +410,6 @@ The Commission has proposed to reinforce Frontex, the EU agency that plays a cru
 
 ---
 
-## Protecting Europe with stronger climate-resilience
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-The EU's proactive and systemic risk management approach to protect Europeans and the EU economy from the impacts of climate change.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en
-
----
-
 ## AU–EU partnership opens new pathways for cooperation on AI in Science
 
 **Bron:** Europese Commissie
@@ -419,6 +419,18 @@ The EU's proactive and systemic risk management approach to protect Europeans an
 Artificial intelligence (AI) is opening new possibilities for scientific discovery, from improving disease diagnosis and climate predictions to strengthening food security and accelerating innovation.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/au-eu-partnership-opens-new-pathways-cooperation-ai-science-2026-10-27_en
+
+---
+
+## Protecting Europe with stronger climate-resilience
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+The EU's proactive and systemic risk management approach to protect Europeans and the EU economy from the impacts of climate change.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en
 
 ---
 
@@ -482,15 +494,39 @@ Oude matrassen bevatten waardevolle grondstoffen, zoals staal en schuim, die opn
 
 ---
 
-## De asielinstroom van week 43 bedroeg ongeveer 770
+## Ukraine Mine Action Conference 2026: clearing the way in partnership
 
-**Bron:** Rijksoverheid Nieuws
+**Bron:** Europese Commissie
 
-**Gepubliceerd:** Mon, 26 Oct 2026 09:49:00 GMT
+**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
 
-De asielinstroom van week 43, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 770.
+The Ukraine Mine Action Conference (UMAC) is a key international initiative to advance humanitarian mine action in Ukraine, which is an essential part of Ukraine’s recovery, security and resilience.
 
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/de-asielinstroom-van-week-43-bedroeg-ongeveer-770
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/ukraine-mine-action-conference-2026-clearing-way-partnership-2026-10-26_en
+
+---
+
+## CEF Energy 2026 call for PCI/PMI projects attracts strong interest with 67 applications requesting €2.88 billion
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
+
+The Commission has received 67 applications for cross-border energy infrastructure projects requesting €2.88 billion in EU co-funding under the Connecting Europe Facility (CEF) Energy programme.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/cef-energy-2026-call-pcipmi-projects-attracts-strong-interest-67-applications-requesting-eur288-2026-10-26_en
+
+---
+
+## Results of 26-10-2026 auction (EU-Bonds)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
+
+Auction results EU-Bonds
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-26-10-2026-auction-eu-bonds-2026-10-26_en
 
 ---
 
@@ -530,30 +566,6 @@ The European Commission has today launched a 4-week call for evidence and a 4-we
 
 ---
 
-## Ukraine Mine Action Conference 2026: clearing the way in partnership
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-The Ukraine Mine Action Conference (UMAC) is a key international initiative to advance humanitarian mine action in Ukraine, which is an essential part of Ukraine’s recovery, security and resilience.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/ukraine-mine-action-conference-2026-clearing-way-partnership-2026-10-26_en
-
----
-
-## CEF Energy 2026 call for PCI/PMI projects attracts strong interest with 67 applications requesting €2.88 billion
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-The Commission has received 67 applications for cross-border energy infrastructure projects requesting €2.88 billion in EU co-funding under the Connecting Europe Facility (CEF) Energy programme.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/cef-energy-2026-call-pcipmi-projects-attracts-strong-interest-67-applications-requesting-eur288-2026-10-26_en
-
----
-
 ## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
 
 **Bron:** Europese Commissie
@@ -563,18 +575,6 @@ The Commission has received 67 applications for cross-border energy infrastructu
 Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED)...
 
 **Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en
-
----
-
-## Results of 26-10-2026 auction (EU-Bonds)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
-
-Auction results EU-Bonds
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-26-10-2026-auction-eu-bonds-2026-10-26_en
 
 ---
 
@@ -590,15 +590,15 @@ Listen to episode 14 of the DGT podcast: Languages and Technology!
 
 ---
 
-## Building bridges through science diplomacy
+## AI and skills in Europe – Closing the adoption gap
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 23 Oct 2026 00:00:00 +0200
 
-The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.
+In a recent brief, the Commission's Joint Research Centre notes that AI tools are now part of everyday work for around 30% of workers in the EU. Many jobs that could use AI do not do so, especially in smaller companies and among mid‑career staff.
 
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en
 
 ---
 
@@ -749,16 +749,6 @@ The EU-UK Summit will take place on 20 November 2026 in the Europa building in B
 The President of the European Council, António Costa, will travel to Montreal, Canada, for the 21st EU-Canada summit on 29 and 30 October. He will represent the EU together with the President of the European Commission, Ursula von der Leyen. Canada will be represented by Prime Minister Mark Carney.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/president-costa-travels-to-montreal-for-the-eu-canada-summit/
-
----
-
-## Press briefing - Transport, Telecommunications and Energy Council (Energy) of 29 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Press briefing ahead of the upcoming Transport, Telecommunications and Energy Council (Energy) will take place on 28 October 2026 at 16.30.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/press-briefing-transport-telecommunications-and-energy-council-energy-of-29-october-2026/
 
 ---
 
@@ -919,6 +909,16 @@ President Costa and President von der Leyen received letters of credence from ni
 The Council and the Parliament agreed new rules to revitalise the EU’s securitisation market - an integral part of the savings and investments union (SIU) and the ‘One Europe, One Market’ roadmap to boost economic growth.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/
+
+---
+
+## Libya/Türkiye: Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/
 
 ---
 
