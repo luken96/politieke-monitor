@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T07:45:02.459162+00:00
+Laatste update: 2026-10-29T08:35:37.007706+00:00
 
 ## Landelijke ophok- en afschermplicht ingesteld na vogelgriepuitbraken
 
@@ -98,18 +98,6 @@ In Bavaria, traditional carp pond farming is not just a way of producing fish. I
 
 ---
 
-## New Study on Law Enforcement Training in the EU
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
-
-The European Commission published the Feasibility Study on Law Enforcement Training in the EU – the first comprehensive overview of training for law enforcement across the EU since 2013.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-study-law-enforcement-training-eu-2026-10-28_en
-
----
-
 ## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
 
 **Bron:** Europese Commissie
@@ -122,15 +110,27 @@ The latest episode of PESPod, the podcast of the European Network of Public Empl
 
 ---
 
-## Commission launches High-Level Dialogue with the European oil refining sector
+## New Study on Law Enforcement Training in the EU
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
 
-The European Commission launched today the first High-Level Dialogue with the European oil refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
+The European Commission published the Feasibility Study on Law Enforcement Training in the EU – the first comprehensive overview of training for law enforcement across the EU since 2013.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-high-level-dialogue-european-oil-refining-sector-2026-10-28_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-study-law-enforcement-training-eu-2026-10-28_en
+
+---
+
+## Commission launches High-Level Dialogue with the European refining sector
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
+
+The European Commission launched today the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-high-level-dialogue-european-refining-sector-2026-10-28_en
 
 ---
 
