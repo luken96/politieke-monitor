@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T14:40:10.390464+00:00
+Laatste update: 2026-10-29T15:37:18.767914+00:00
+
+## Inzet uitzendkrachten wordt begrensd in tijd
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 29 Oct 2026 15:00:00 GMT
+
+Een uitzendkracht mag straks nog maximaal 3 jaar (36 maanden) bij dezelfde inlener werken. Dit staat in het wetsvoorstel dat vandaag in internetconsultatie gaat. Wil de inlener daarna langer met die arbeidskracht doorwerken? Dan moet er een...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/inzet-uitzendkrachten-wordt-begrensd-in-tijd
+
+---
+
+## Nederland voldoet aan IEA-actie vrijgave deel olievoorraad
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 29 Oct 2026 14:45:00 GMT
+
+Het kabinet heeft in maart toegezegd zo’n 16% van de strategische olievoorraad vrij te geven, als onderdeel van de collectieve actie met 31 landen die zijn aangesloten bij het Internationaal Energieagentschap (IEA). Vandaag wordt het vierde en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/nederland-voldoet-aan-iea-actie-vrijgave-deel-olievoorraad
+
+---
 
 ## Secretaris-generaal Van den Dungen verlaat Financiën
 
@@ -86,18 +110,6 @@ Struggling to recruit? 80% of EU employers face the same issue. Discover how dro
 
 ---
 
-## New training materials for law enforcement to combat cybercrime
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-European Cybercrime Training and Education Group (ECTEG) has published new training materials for digital forensic investigations and combating cybercrime. The courses are designed for law enforcement agencies and judicial authorities.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-training-materials-law-enforcement-combat-cybercrime-2026-10-29_en
-
----
-
 ## Council publishes 2025 international climate finance figures
 
 **Bron:** Europese Commissie
@@ -119,6 +131,18 @@ In 2025, the EU and its 27 member states contributed €32.3 billion in climate 
 The European Commission is inviting Member States to participate in the second round of the Security Action for Europe (SAFE) instrument with an allocation of €21.3 billion. The new funding opportunities available in this second call are part of the €150 billion in long-maturity SAFE loans.
 
 **Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-invites-member-states-use-eur213-billion-under-safe-boost-defence-readiness-and-support-2026-10-29_en
+
+---
+
+## New training materials for law enforcement to combat cybercrime
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+European Cybercrime Training and Education Group (ECTEG) has published new training materials for digital forensic investigations and combating cybercrime. The courses are designed for law enforcement agencies and judicial authorities.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-training-materials-law-enforcement-combat-cybercrime-2026-10-29_en
 
 ---
 
@@ -206,18 +230,6 @@ The initiative aims to build international support for nature credits and streng
 
 ---
 
-## Bavarian carp ponds: cultural heritage at the water’s edge
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
-
-In Bavaria, traditional carp pond farming is not just a way of producing fish. It is a living cultural landscape, recognised as intangible cultural heritage in Germany since 2021. The Karpfenland Aischgrund e.V. project helped bring it into the spotlight,
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/bavarian-carp-ponds-cultural-heritage-waters-edge-2026-10-28_en
-
----
-
 ## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
 
 **Bron:** Europese Commissie
@@ -239,6 +251,18 @@ The latest episode of PESPod, the podcast of the European Network of Public Empl
 The European Commission published the Feasibility Study on Law Enforcement Training in the EU – the first comprehensive overview of training for law enforcement across the EU since 2013.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-study-law-enforcement-training-eu-2026-10-28_en
+
+---
+
+## Bavarian carp ponds: cultural heritage at the water’s edge
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
+
+In Bavaria, traditional carp pond farming is not just a way of producing fish. It is a living cultural landscape, recognised as intangible cultural heritage in Germany since 2021. The Karpfenland Aischgrund e.V. project helped bring it into the spotlight,
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/bavarian-carp-ponds-cultural-heritage-waters-edge-2026-10-28_en
 
 ---
 
@@ -350,27 +374,15 @@ Vanaf 1 januari 2027 is het mogelijk voor familieleden van kwetsbare mensen om
 
 ---
 
-## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
+## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.
+On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-27_en
-
----
-
-## Agreement reached on 2027 fishing opportunities for the Baltic Sea
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-10-27_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
 
 ---
 
@@ -386,15 +398,15 @@ From understanding climate risks to developing and demonstrating innovative solu
 
 ---
 
-## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
+## Joint Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
+On 17 November 2026, Commissioners Marta Kos and Jozef Síkela will chair an Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor, bringing together the private sector, IFIs and the Commission to discuss support for strategic investment and competitiveness.
 
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/joint-implementation-dialogue-improving-competitiveness-trans-caspian-transport-corridor-2026-10-27_en
 
 ---
 
@@ -410,39 +422,27 @@ The Commission released the final figures on road fatalities for 2025, reporting
 
 ---
 
-## Joint Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor
+## EU gas storage is 75% filled
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-On 17 November 2026, Commissioners Marta Kos and Jozef Síkela will chair an Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor, bringing together the private sector, IFIs and the Commission to discuss support for strategic investment and competitiveness.
+In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
 
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/joint-implementation-dialogue-improving-competitiveness-trans-caspian-transport-corridor-2026-10-27_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
 
 ---
 
-## EU-Central Asia Innovation Forum: join the discussion online on 28 October
+## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-Researchers, innovators and companies from Europe and Central Asia meet in Tashkent on 28 October to explore new cooperation. Join online!
+Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.
 
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-central-asia-innovation-forum-join-discussion-online-28-october-2026-10-27_en
-
----
-
-## Global Bioeconomy Summit 2026 & International Bioeconomy Forum position the bioeconomy as a paradigm for the post-2030 development agenda
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-The Summit and the Forum showcase the growing global momentum behind the bioeconomy.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/global-bioeconomy-summit-2026-international-bioeconomy-forum-position-bioeconomy-paradigm-post-2030-2026-10-27_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-27_en
 
 ---
 
@@ -470,18 +470,6 @@ Freshwater reservoirs are contaminated by persistent ‘forever chemicals’. A 
 
 ---
 
-## Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en
-
----
-
 ## Plants and microbes pair up to remove pollutants from wastewater in human-made wetlands
 
 **Bron:** Europese Commissie
@@ -494,15 +482,27 @@ Microbes work to break down pollutants in constructed wetlands: a sustainable, n
 
 ---
 
-## EU gas storage is 75% filled
+## Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
+Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
+**Originele publicatie:** https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en
+
+---
+
+## Global Bioeconomy Summit 2026 & International Bioeconomy Forum position the bioeconomy as a paradigm for the post-2030 development agenda
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+The Summit and the Forum showcase the growing global momentum behind the bioeconomy.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/global-bioeconomy-summit-2026-international-bioeconomy-forum-position-bioeconomy-paradigm-post-2030-2026-10-27_en
 
 ---
 
@@ -518,15 +518,27 @@ Artificial intelligence (AI) is opening new possibilities for scientific discove
 
 ---
 
-## Protecting Europe with stronger climate-resilience
+## Agreement reached on 2027 fishing opportunities for the Baltic Sea
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-The EU's proactive and systemic risk management approach to protect Europeans and the EU economy from the impacts of climate change.
+The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-10-27_en
+
+---
+
+## EU-Central Asia Innovation Forum: join the discussion online on 28 October
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+Researchers, innovators and companies from Europe and Central Asia meet in Tashkent on 28 October to explore new cooperation. Join online!
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-central-asia-innovation-forum-join-discussion-online-28-october-2026-10-27_en
 
 ---
 
@@ -542,6 +554,18 @@ The Commission has proposed to reinforce Frontex, the EU agency that plays a cru
 
 ---
 
+## Protecting Europe with stronger climate-resilience
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+The EU's proactive and systemic risk management approach to protect Europeans and the EU economy from the impacts of climate change.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en
+
+---
+
 ## Vogelgriep vastgesteld in Lutjegast
 
 **Bron:** Rijksoverheid Nieuws
@@ -554,51 +578,27 @@ In Lutjegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastge
 
 ---
 
-## Beter grondbeleid moet financiële tekorten bij gemeenten verkleinen en woningbouw versnellen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 15:00:00 GMT
-
-Dit kabinet wil meer, sneller en beter bouwen. Daarvoor is betaalbare grond belangrijk. Ook zijn voldoende financiële middelen voor publieke voorzieningen, zoals wegen, groen en riolering, essentieel. Om de gebiedsontwikkeling te versnellen en het...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/beter-grondbeleid-moet-financiele-tekorten-bij-gemeenten-verkleinen-en-woningbouw-versnellen
-
----
-
-## Koning, minister-president en staatssecretaris van Koninkrijksrelaties en Slagvaardige Overheid bezoeken Sint Eustatius ter gelegenheid van 250 jaar The First Salute - programma
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 26 Oct 2026 14:19:00 GMT
-
-Zijne Majesteit de Koning woont op maandagochtend 16 november de herdenking van 250 jaar The First Salute op Sint Eustatius bij. Ook minister-president Rob Jetten en staatssecretaris van Koninkrijksrelaties en Slagvaardige Overheid Eric van der...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/koning-minister-president-en-staatssecretaris-van-koninkrijksrelaties-en-slagvaardige-overheid-bezoeken-sint-eustatius-ter-gelegenheid-van-250-jaar-the-first-salute-programma
-
----
-
-## CEF Energy 2026 call for PCI/PMI projects attracts strong interest with 67 applications requesting €2.88 billion
+## New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
 
-The Commission has received 67 applications for cross-border energy infrastructure projects requesting €2.88 billion in EU co-funding under the Connecting Europe Facility (CEF) Energy programme.
+Discover the new European Master’s in Translation (EMT) competence framework, reflecting how AI and language technologies are reshaping the translation profession. It can help universities to prepare future translators to work critically, ethically and effectively in a changing industry.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/cef-energy-2026-call-pcipmi-projects-attracts-strong-interest-67-applications-requesting-eur288-2026-10-26_en
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/new-european-masters-translation-emt-competence-framework-reflects-how-ai-changing-translation-2026-10-26_en
 
 ---
 
-## Results of 26-10-2026 auction (EU-Bonds)
+## Deployment of NCTS Phase 6 – Next step in the modernization of customs and transit procedures
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 26 Oct 2026 00:00:00 +0100
 
-Auction results EU-Bonds
+The rollout of Phase 6 of the New Computerised Transit System (NCTS), now in use across the 27 EU Member States and the countries of the Common Transit Convention, marks a major step forward in the digital modernisation of customs and transit procedures across 41 participating countries.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-26-10-2026-auction-eu-bonds-2026-10-26_en
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/deployment-ncts-phase-6-next-step-modernization-customs-and-transit-procedures-2026-10-26_en
 
 ---
 
