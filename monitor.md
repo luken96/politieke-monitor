@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T19:34:24.398026+00:00
+Laatste update: 2026-10-29T20:27:29.834001+00:00
 
 ## Inzet uitzendkrachten wordt begrensd in tijd
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Closing remarks by President António Costa at the EU-Canada Business Forum
+
+**Bron:** Raad van de EU - Persberichten
+
+On 29 October 2026, President António Costa delivered closing remarks at the EU-Canada Business Forum, ahead of the 21st EU-Canada summit of 29-30 October 2026, in Montreal.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/closing-remarks-by-president-antonio-costa-at-the-eu-canada-business-forum/
+
+---
+
 ## Discours du président António Costa au Conseil des relations internationales de Montréal
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ On 23 October 2026, European Council President António Costa travelled to Budap
 Council adopts its negotiating position on the regulation to create a 28th regime corporate legal framework, EU inc.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/
-
----
-
-## UPDATED Media advisory - Accreditation for the Special European Council, 26-27 November 2026 and the EU-Western Balkans summit, 25 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels. It will be preceded by the EU-Western Balkans summit on 25 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/
 
 ---
 
