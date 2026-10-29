@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-29T04:30:04.041596+00:00
+Laatste update: 2026-10-29T05:28:39.287824+00:00
 
 ## Landelijke ophok- en afschermplicht ingesteld na vogelgriepuitbraken
 
