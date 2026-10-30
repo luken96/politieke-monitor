@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-30T12:24:56.105172+00:00
+Laatste update: 2026-10-30T13:45:47.497396+00:00
 
 ## Tweede Loe de Jong-lezing door Rosita Steenbeek
 
@@ -23,6 +23,18 @@ Op 31 maart 2027 zal Rosita Steenbeek de tweede Loe de Jong-lezing uitspreken. D
 Minister-president Jetten ontvangt op maandag 2 november president Milatović van Montenegro op het Catshuis. De ontmoeting markeert 20 jaar bilaterale relaties tussen Nederland en Montenegro. Tijdens een werkdiner zal onder meer gesproken worden...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/minister-president-jetten-ontvangt-president-milatovic-van-montenegro
+
+---
+
+## Commission publishes the 2027 version of the Combined Nomenclature
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
 
 ---
 
@@ -50,30 +62,6 @@ Auction announcement EU-Bills.
 
 ---
 
-## Commission publishes the 2027 version of the Combined Nomenclature
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
-
----
-
-## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
-
----
-
 ## Commissioner Lahbib to open the 9th European Civil Protection Forum
 
 **Bron:** Europese Commissie
@@ -83,6 +71,18 @@ The European Commission has approved a €212 million budget increase and an ext
 Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
+
+---
+
+## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Europeans continue to show strong support for a coordinated EU approach to disaster preparedness and response, mutual assistance between countries, and further strengthening Europe’s capacity to prepare for and response to future crises, according to the Special Eurobarometer on EU civil protection.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
 
 ---
 
@@ -98,15 +98,39 @@ The European Commission establishes the PreparEU Advisory Group, tasked with pro
 
 ---
 
-## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
+## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-Europeans continue to show strong support for a coordinated EU approach to disaster preparedness and response, mutual assistance between countries, and further strengthening Europe’s capacity to prepare for and response to future crises, according to the Special Eurobarometer on EU civil protection.
+The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
 
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
+
+---
+
+## Commission launches High-Level Dialogue with the European refining sector
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
+
+---
+
+## DG Translation in a city near you: November events
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Join one of our events in November!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
 
 ---
 
@@ -170,63 +194,15 @@ Vanaf 1 november 2026 treedt de wijziging van de Wet toeristische verhuur in w
 
 ---
 
-## New brand association joins the industry-led cooperation to tackle online counterfeiting
+## Investigations supported by Europol expose international migrant smuggling networks
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
 
-Andema, the association that defends companies' trademark rights in Spain, has signed up to the memorandum of understanding (MoU) on the sale of counterfeit goods on the internet as an IP Rights Holder.
+Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
 
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/new-brand-association-joins-industry-led-cooperation-tackle-online-counterfeiting-2026-10-29_en
-
----
-
-## EU campaign highlights lift buffer safety performance
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-An EU-funded campaign tested 40 lift buffers and found that all hydraulic buffers passed the technical tests, while the majority of polyurethane buffers were non-compliant with EU requirements.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-campaign-highlights-lift-buffer-safety-performance-2026-10-29_en
-
----
-
-## Council publishes 2025 international climate finance figures
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/council-publishes-2025-international-climate-finance-figures-2026-10-29_en
-
----
-
-## Could you be rejecting the people you need? The case for skills-based hiring
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-Struggling to recruit? 80% of EU employers face the same issue. Discover how dropping unnecessary degree requirements can unlock hidden talent, boost retention and close the skills gap.
-
-**Originele publicatie:** https://eures.europa.eu/could-you-be-rejecting-people-you-need-case-skills-based-hiring-2026-10-29_en
-
----
-
-## EU agri-food exports stable as imports decline slightly
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-EU agri-food trade surplus rises as exports hold steady and imports fall
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-exports-stable-imports-decline-slightly-2026-10-29_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
 
 ---
 
@@ -254,15 +230,63 @@ European Cybercrime Training and Education Group (ECTEG) has published new train
 
 ---
 
-## Investigations supported by Europol expose international migrant smuggling networks
+## Council publishes 2025 international climate finance figures
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
 
-Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
+In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
 
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/council-publishes-2025-international-climate-finance-figures-2026-10-29_en
+
+---
+
+## EU agri-food exports stable as imports decline slightly
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+EU agri-food trade surplus rises as exports hold steady and imports fall
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-exports-stable-imports-decline-slightly-2026-10-29_en
+
+---
+
+## Could you be rejecting the people you need? The case for skills-based hiring
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+Struggling to recruit? 80% of EU employers face the same issue. Discover how dropping unnecessary degree requirements can unlock hidden talent, boost retention and close the skills gap.
+
+**Originele publicatie:** https://eures.europa.eu/could-you-be-rejecting-people-you-need-case-skills-based-hiring-2026-10-29_en
+
+---
+
+## New brand association joins the industry-led cooperation to tackle online counterfeiting
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+Andema, the association that defends companies' trademark rights in Spain, has signed up to the memorandum of understanding (MoU) on the sale of counterfeit goods on the internet as an IP Rights Holder.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/new-brand-association-joins-industry-led-cooperation-tackle-online-counterfeiting-2026-10-29_en
+
+---
+
+## EU campaign highlights lift buffer safety performance
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+An EU-funded campaign tested 40 lift buffers and found that all hydraulic buffers passed the technical tests, while the majority of polyurethane buffers were non-compliant with EU requirements.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-campaign-highlights-lift-buffer-safety-performance-2026-10-29_en
 
 ---
 
@@ -350,6 +374,18 @@ The European Commission launched today the first High-Level Dialogue with the Eu
 
 ---
 
+## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
+
+The latest episode of PESPod, the podcast of the European Network of Public Employment Services (PES Network), explores how the Swedish Public Employment Service is helping young people with disabilities or health conditions through the transition from education into employment.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/pespod-29-beyond-classroom-lessons-swedens-samstart-and-samstart-2026-10-28_en
+
+---
+
 ## New Study on Law Enforcement Training in the EU
 
 **Bron:** Europese Commissie
@@ -359,18 +395,6 @@ The European Commission launched today the first High-Level Dialogue with the Eu
 The European Commission published the Feasibility Study on Law Enforcement Training in the EU – the first comprehensive overview of training for law enforcement across the EU since 2013.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-study-law-enforcement-training-eu-2026-10-28_en
-
----
-
-## EU launches Friends of Credits for Nature and Biodiversity at COP17
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
-
-The initiative aims to build international support for nature credits and strengthen cooperation on biodiversity finance.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/eu-launches-friends-credits-nature-and-biodiversity-2026-10-28_en
 
 ---
 
@@ -386,15 +410,15 @@ In Bavaria, traditional carp pond farming is not just a way of producing fish. I
 
 ---
 
-## PESPod #29: Beyond the classroom: lessons from Sweden's Samstart and Samstart+
+## EU launches Friends of Credits for Nature and Biodiversity at COP17
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
 
-The latest episode of PESPod, the podcast of the European Network of Public Employment Services (PES Network), explores how the Swedish Public Employment Service is helping young people with disabilities or health conditions through the transition from education into employment.
+The initiative aims to build international support for nature credits and strengthen cooperation on biodiversity finance.
 
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/pespod-29-beyond-classroom-lessons-swedens-samstart-and-samstart-2026-10-28_en
+**Originele publicatie:** https://environment.ec.europa.eu/news/eu-launches-friends-credits-nature-and-biodiversity-2026-10-28_en
 
 ---
 
@@ -482,75 +506,15 @@ Het nieuwe Luchthavenverkeerbesluit (LVB) voor Schiphol is dinsdag gepubliceerd
 
 ---
 
-## Commission and UNEP reaffirm commitment to global environmental action and multilateralism
+## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-An amendment to a Memorandum of Understanding between the two sides was signed at the biennial UN Biodiversity Conference in Armenia.
+On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
 
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-unep-pledge-continued-environmental-action-2026-10-27_en
-
----
-
-## Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en
-
----
-
-## Polluting ‘forever chemicals’ build up differently across continents, finds study of global freshwater reservoirs
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Freshwater reservoirs are contaminated by persistent ‘forever chemicals’. A new study reveals how chemicals build up in these water bodies, finding three key patterns of contamination based on chemical type, source, and history of use.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/polluting-forever-chemicals-build-differently-across-continents-finds-study-global-freshwater-2026-10-27_en
-
----
-
-## Plants and microbes pair up to remove pollutants from wastewater in human-made wetlands
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Microbes work to break down pollutants in constructed wetlands: a sustainable, nature-based solution for wastewater treatment. Enhancing these mechanisms to increase efficiency is possible, finds a new review, further research is needed.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/plants-and-microbes-pair-remove-pollutants-wastewater-human-made-wetlands-2026-10-27_en
-
----
-
-## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-27_en
-
----
-
-## Agreement reached on 2027 fishing opportunities for the Baltic Sea
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-10-27_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
 
 ---
 
@@ -566,15 +530,15 @@ From understanding climate risks to developing and demonstrating innovative solu
 
 ---
 
-## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
+## Joint Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
+On 17 November 2026, Commissioners Marta Kos and Jozef Síkela will chair an Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor, bringing together the private sector, IFIs and the Commission to discuss support for strategic investment and competitiveness.
 
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/joint-implementation-dialogue-improving-competitiveness-trans-caspian-transport-corridor-2026-10-27_en
 
 ---
 
@@ -590,15 +554,51 @@ The Commission released the final figures on road fatalities for 2025, reporting
 
 ---
 
-## Joint Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor
+## EU gas storage is 75% filled
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-On 17 November 2026, Commissioners Marta Kos and Jozef Síkela will chair an Implementation Dialogue on Improving the Competitiveness of the Trans-Caspian Transport Corridor, bringing together the private sector, IFIs and the Commission to discuss support for strategic investment and competitiveness.
+In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
 
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/joint-implementation-dialogue-improving-competitiveness-trans-caspian-transport-corridor-2026-10-27_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
+
+---
+
+## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-27_en
+
+---
+
+## Global Bioeconomy Summit 2026 & International Bioeconomy Forum position the bioeconomy as a paradigm for the post-2030 development agenda
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+The Summit and the Forum showcase the growing global momentum behind the bioeconomy.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/global-bioeconomy-summit-2026-international-bioeconomy-forum-position-bioeconomy-paradigm-post-2030-2026-10-27_en
+
+---
+
+## AU–EU partnership opens new pathways for cooperation on AI in Science
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
+
+Artificial intelligence (AI) is opening new possibilities for scientific discovery, from improving disease diagnosis and climate predictions to strengthening food security and accelerating innovation.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/au-eu-partnership-opens-new-pathways-cooperation-ai-science-2026-10-27_en
 
 ---
 
