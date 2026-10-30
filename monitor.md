@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-30T06:25:46.033794+00:00
+Laatste update: 2026-10-30T07:44:51.164572+00:00
 
 ## Inzet uitzendkrachten wordt begrensd in tijd
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Remarks by President António Costa at the official dinner of the EU-Canada summit
+
+**Bron:** Raad van de EU - Persberichten
+
+On 29 October 2026, President António Costa delivered  remarks at the official dinner of the 21st EU-Canada summit of 29-30 October 2026, in Montreal.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-official-dinner-of-the-eu-canada-summit/
+
+---
+
 ## Closing remarks by President António Costa at the EU-Canada Business Forum
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ The press briefing will take place on Tuesday 27 October 2026 at 10:30.
 On 23 October 2026, European Council President António Costa travelled to Budapest and delivered a speech to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/
-
----
-
-## EU Inc: Council adopts position on a new EU corporate law for innovative companies
-
-**Bron:** Raad van de EU - Persberichten
-
-Council adopts its negotiating position on the regulation to create a 28th regime corporate legal framework, EU inc.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/
 
 ---
 
