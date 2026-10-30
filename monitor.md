@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-30T22:21:54.166066+00:00
+Laatste update: 2026-10-30T23:19:27.858679+00:00
 
 ## Benoemingen bij Gemeenschappelijk Hof van Justitie
 
@@ -134,30 +134,6 @@ Auction announcement EU-Bills.
 
 ---
 
-## Commissioner Lahbib to open the 9th European Civil Protection Forum
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
-
----
-
-## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
-
----
-
 ## Eurostat: EU household gas prices decrease in first half of 2026
 
 **Bron:** Europese Commissie
@@ -179,6 +155,30 @@ In the first half of 2026, average gas prices for EU households fell to €0.11 
 In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-household-electricity-prices-ease-1st-half-2026-2026-10-30_en
+
+---
+
+## Commissioner Lahbib to open the 9th European Civil Protection Forum
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
+
+---
+
+## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
 
 ---
 
@@ -206,30 +206,6 @@ Europeans continue to show strong support for a coordinated EU approach to disas
 
 ---
 
-## DG Translation in a city near you: November events
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Join one of our events in November!
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
-
----
-
-## EU announces establishment and composition of PreparEU Advisory Group
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
-
----
-
 ## Energy Transition Investment Council - Call for applications
 
 **Bron:** Europese Commissie
@@ -251,6 +227,30 @@ The European Commission has launched a 4-week call for applications for membersh
 Today, the European Commission took another step in the implementation of the €90 billion Ukraine Support Loan,  which will provide Ukraine with essential budgetary support and defence products in 2026 and 2027.
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-takes-key-step-forward-2027-financial-support-ukraine-2026-10-30_en
+
+---
+
+## DG Translation in a city near you: November events
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Join one of our events in November!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
+
+---
+
+## EU announces establishment and composition of PreparEU Advisory Group
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
 
 ---
 
