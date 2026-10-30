@@ -1,6 +1,78 @@
 # Politieke monitor
 
-Laatste update: 2026-10-30T15:35:58.500696+00:00
+Laatste update: 2026-10-30T16:32:08.154764+00:00
+
+## Benoeming nieuwe voorzitter WRR
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
+
+De ministerraad heeft op voorstel van de minister-president ingestemd met de benoeming van prof. dr. Dirk Schoenmaker tot voorzitter van de Wetenschappelijke Raad voor het Regeringsbeleid (WRR). Hij wordt de opvolger van Corien Prins die in...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/benoeming-nieuwe-voorzitter-wrr
+
+---
+
+## Benoemingen bij Gemeenschappelijk Hof van Justitie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
+
+Mr. Y (Yvonne) Sneevliet wordt benoemd tot plaatsvervangend lid van het Gemeenschappelijk Hof van Justitie. De Rijksministerraad heeft op voorstel van staatssecretaris Van Bruggen van Justitie en Veiligheid ingestemd met de voordracht. De...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/benoemingen-bij-gemeenschappelijk-hof-van-justitie
+
+---
+
+## Benoeming bij Gemeenschappelijk Hof van Justitie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
+
+Bij het Gemeenschappelijk Hof van Justitie wordt mr. L.N. (Lee-Ann Nathalie) Geerman benoemd tot lid, met als standplaats Curaçao. De Rijksministerraad heeft daarmee ingestemd op voorstel van staatssecretaris Van Bruggen van Justitie en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/benoeming-bij-gemeenschappelijk-hof-van-justitie
+
+---
+
+## Interim-voorzitter Milo Schoenmaker voorgedragen als voorzitter ACVG
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
+
+De ministerraad heeft ingestemd met de voordracht van Milo Schoenmaker als voorzitter van het Adviescollege Veiligheid Groningen (ACVG). Schoenmaker is sinds maart 2026 interim-voorzitter van het college. Met deze voordracht blijft hij voor...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/interim-voorzitter-milo-schoenmaker-voorgedragen-als-voorzitter-acvg
+
+---
+
+## Kabinet wil vliegende start voor jonge kinderen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
+
+Het kabinet wil dat organisaties en ministeries die betrokken zijn bij het opgroeien van jonge kinderen meer en beter gaan samenwerken. Met elkaar én met de ouders. Dat moet ervoor zorgen dat deze kinderen, van baby tot kleuter, zich goed kunnen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/kabinet-wil-vliegende-start-voor-jonge-kinderen
+
+---
+
+## Kabinet steunt EU Kids Act, maar uit zorgen over privacy en grondrechten
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
+
+Het kabinet is positief over het wetsvoorstel van de Europese Commissie om kinderen beter te beschermen tegen online risico’s. De EU Kids Act moet digitale diensten, zoals sociale media, online games en AI-chatbots, veiliger maken voor kinderen....
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/kabinet-steunt-eu-kids-act-maar-uit-zorgen-over-privacy-en-grondrechten
+
+---
 
 ## Tweede Loe de Jong-lezing door Rosita Steenbeek
 
@@ -74,18 +146,6 @@ Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Prote
 
 ---
 
-## EU announces establishment and composition of PreparEU Advisory Group
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
-
----
-
 ## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
 
 **Bron:** Europese Commissie
@@ -95,6 +155,30 @@ The European Commission establishes the PreparEU Advisory Group, tasked with pro
 The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
 
 **Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
+
+---
+
+## Eurostat: EU household gas prices decrease in first half of 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
+
+---
+
+## Eurostat: Household electricity prices ease in 1st half of 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-household-electricity-prices-ease-1st-half-2026-2026-10-30_en
 
 ---
 
@@ -134,27 +218,27 @@ Join one of our events in November!
 
 ---
 
-## Eurostat: EU household gas prices decrease in first half of 2026
+## EU announces establishment and composition of PreparEU Advisory Group
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
+The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
 
 ---
 
-## Eurostat: Household electricity prices ease in 1st half of 2026
+## Commission takes a key step forward on 2027 financial support for Ukraine
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis.
+Today, the European Commission took another step in the implementation of the €90 billion Ukraine Support Loan,  which will provide Ukraine with essential budgetary support and defence products in 2026 and 2027.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-household-electricity-prices-ease-1st-half-2026-2026-10-30_en
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-takes-key-step-forward-2027-financial-support-ukraine-2026-10-30_en
 
 ---
 
@@ -458,78 +542,6 @@ De humanitaire situatie in veel conflictgebieden verslechtert. Dit komt onder an
 
 ---
 
-## Eerste Kamer neemt wetsvoorstel aan voor sterke lokale publieke omroep voor iedereen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 13:27:00 GMT
-
-De Eerste Kamer heeft het wetsvoorstel van minister Rianne Letschert (OCW) aangenomen om de lokale omroepen te verstevigen en professionaliseren. Hiermee komt er een extra investering van 18 miljoen euro en een herzien stelsel. Door...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/eerste-kamer-neemt-wetsvoorstel-aan-voor-sterke-lokale-omroep-voor-iedereen
-
----
-
-## Vogelgriep vastgesteld in Middelie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 13:18:00 GMT
-
-In Middelie (gemeente Edam-Volendam, provincie Noord-Holland) is vogelgriep vastgesteld op een zorgboerderij. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/vogelgriep-vastgesteld-in-middelie
-
----
-
-## OpenFin: nieuw platform voor Wet open overheid
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 12:08:00 GMT
-
-Overheidsinformatie moet makkelijk te vinden zijn. Daarom is vanaf vandaag OpenFin beschikbaar. Een nieuw platform waar je alle openbare informatie kunt vinden, Woo-verzoeken kunt indienen en de voortgang van Woo-verzoeken kunt volgen. Ook kun je...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/openfin-nieuw-platform-voor-wet-open-overheid
-
----
-
-## Kabinet investeert in toekomstbestendige sport, extra geld voor onderhoud sportaccommodaties
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 12:00:00 GMT
-
-Het kabinet is voornemens om extra te investeren in een toekomstbestendige sport- en beweegsector. Op dit moment zijn veel sportaccommodaties toe aan renovatie en vernieuwing, beweegt een groot deel van jongeren onvoldoende en is sporten voor...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/kabinet-investeert-in-toekomstbestendige-sport-extra-geld-voor-onderhoud-sportaccommodaties
-
----
-
-## Jaarlijks overzicht: financiën van gemeenten en provincies stabiel, aandacht voor balans blijft
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 10:04:00 GMT
-
-Minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties heeft de Integrale Overzichten Financiën Gemeenten en Provincies 2026 naar de Tweede Kamer gestuurd. Hij informeert de Eerste en Tweede Kamer hiermee jaarlijks over de gemeentelijke en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/jaarlijks-overzicht-financien-van-gemeenten-en-provincies-stabiel-aandacht-voor-balans-blijft
-
----
-
-## Luchthavenverkeerbesluit Schiphol gepubliceerd in staatsblad, regels per 1 november van kracht
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 09:15:00 GMT
-
-Het nieuwe Luchthavenverkeerbesluit (LVB) voor Schiphol is dinsdag gepubliceerd in het Staatsblad en treedt 1 november 2026 in werking. Het besluit herstelt de rechtsbescherming voor omwonenden, dringt de geluidsoverlast rond Schiphol terug en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/lvb-schiphol-gepubliceerd-in-staatsblad-regels-per-1-november-van-kracht
-
----
-
 ## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
 
 **Bron:** Europese Commissie
@@ -587,18 +599,6 @@ The Commission released the final figures on road fatalities for 2025, reporting
 In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/eu-gas-storage-75-filled-2026-10-27_en
-
----
-
-## Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-27_en
 
 ---
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Forward look: 2 - 15 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/forward-look-2026/
+
+---
+
 ## Remarks by President António Costa at the official dinner of the EU-Canada summit
 
 **Bron:** Raad van de EU - Persberichten
@@ -742,11 +752,11 @@ On 29 October 2026, President António Costa delivered closing remarks at the EU
 
 ---
 
-## Discours du président António Costa au Conseil des relations internationales de Montréal
+## Speech by President António Costa at the Montreal Council on Foreign Relations
 
 **Bron:** Raad van de EU - Persberichten
 
-Le 29 octobre 2026, le président António Costa a prononcé un discours devant le Conseil des relations internationales de Montréal (CORIM), en amont du vingt-et-unième sommet UE-Canada, qui se tiendra les 29 et 30 octobre 2026 à Montréal.
+On 29 October 2026, President António Costa gave a speech to the Montreal Council on Foreign Relations (MCFR) ahead of the 21st EU-Canada summit taking place in Montreal on 29 and 30 October 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/speech-by-president-antonio-costa-at-the-montreal-council-on-foreign-relations/
 
@@ -869,16 +879,6 @@ The European Council will take place on 17 and 18 December 2026 in the Europa bu
 The Council extended restrictive measures against individuals and groups associated with ISIL/Da'esh and Al-Qaeda for a further year, until 31 October 2027.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/
-
----
-
-## Forward look: 26 October - 8 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/forward-look-2026/
 
 ---
 
