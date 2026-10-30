@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-30T00:20:18.534375+00:00
+Laatste update: 2026-10-30T01:45:06.859517+00:00
 
 ## Inzet uitzendkrachten wordt begrensd in tijd
 
