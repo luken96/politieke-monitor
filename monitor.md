@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-30T17:27:55.739996+00:00
+Laatste update: 2026-10-30T18:24:52.924434+00:00
 
 ## Benoemingen bij Gemeenschappelijk Hof van Justitie
 
@@ -98,6 +98,18 @@ Minister-president Jetten ontvangt op maandag 2 november president Milatović va
 
 ---
 
+## Commission publishes the 2027 version of the Combined Nomenclature
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
+
+---
+
 ## Commission acts against imports of PET Spunbond from China
 
 **Bron:** Europese Commissie
@@ -122,27 +134,15 @@ Auction announcement EU-Bills.
 
 ---
 
-## Commission launches High-Level Dialogue with the European refining sector
+## Commissioner Lahbib to open the 9th European Civil Protection Forum
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
+Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
 
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
-
----
-
-## Commission publishes the 2027 version of the Combined Nomenclature
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
 
 ---
 
@@ -158,39 +158,15 @@ The European Commission has approved a €212 million budget increase and an ext
 
 ---
 
-## Commissioner Lahbib to open the 9th European Civil Protection Forum
+## Eurostat: EU household gas prices decrease in first half of 2026
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
+In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
 
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
-
----
-
-## DG Translation in a city near you: November events
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Join one of our events in November!
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
-
----
-
-## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Europeans continue to show strong support for a coordinated EU approach to disaster preparedness and response, mutual assistance between countries, and further strengthening Europe’s capacity to prepare for and response to future crises, according to the Special Eurobarometer on EU civil protection.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
 
 ---
 
@@ -206,15 +182,39 @@ In the first half of 2026, average electricity prices for households in the EU d
 
 ---
 
-## Eurostat: EU household gas prices decrease in first half of 2026
+## Commission launches High-Level Dialogue with the European refining sector
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
+The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
+
+---
+
+## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Europeans continue to show strong support for a coordinated EU approach to disaster preparedness and response, mutual assistance between countries, and further strengthening Europe’s capacity to prepare for and response to future crises, according to the Special Eurobarometer on EU civil protection.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
+
+---
+
+## DG Translation in a city near you: November events
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Join one of our events in November!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
 
 ---
 
@@ -230,6 +230,18 @@ The European Commission establishes the PreparEU Advisory Group, tasked with pro
 
 ---
 
+## Energy Transition Investment Council - Call for applications
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial Institution (IFI) Coordination sub-group.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-30_en
+
+---
+
 ## Commission takes a key step forward on 2027 financial support for Ukraine
 
 **Bron:** Europese Commissie
@@ -242,15 +254,15 @@ Today, the European Commission took another step in the implementation of the �
 
 ---
 
-## Energy Transition Investment Council - Call for applications
+## Circularity Beyond Recycling: Can Cities Put People First?
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial Institution (IFI) Coordination sub-group.
+For years, debates about the circular economy have focused on the production sector, reusing materials, recycling and waste management. Yet, new research suggests that this approach can unintentionally reproduce existing inequalities in cities
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-30_en
+**Originele publicatie:** https://regions-and-cities.ec.europa.eu/whats-new/newsroom/circularity-beyond-recycling-can-cities-put-people-first-2026-10-30_en
 
 ---
 
@@ -326,63 +338,15 @@ Vanaf 1 november 2026 treedt de wijziging van de Wet toeristische verhuur in w
 
 ---
 
-## New brand association joins the industry-led cooperation to tackle online counterfeiting
+## Investigations supported by Europol expose international migrant smuggling networks
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
 
-Andema, the association that defends companies' trademark rights in Spain, has signed up to the memorandum of understanding (MoU) on the sale of counterfeit goods on the internet as an IP Rights Holder.
+Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
 
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/new-brand-association-joins-industry-led-cooperation-tackle-online-counterfeiting-2026-10-29_en
-
----
-
-## EU campaign highlights lift buffer safety performance
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-An EU-funded campaign tested 40 lift buffers and found that all hydraulic buffers passed the technical tests, while the majority of polyurethane buffers were non-compliant with EU requirements.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-campaign-highlights-lift-buffer-safety-performance-2026-10-29_en
-
----
-
-## Council publishes 2025 international climate finance figures
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/council-publishes-2025-international-climate-finance-figures-2026-10-29_en
-
----
-
-## Could you be rejecting the people you need? The case for skills-based hiring
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-Struggling to recruit? 80% of EU employers face the same issue. Discover how dropping unnecessary degree requirements can unlock hidden talent, boost retention and close the skills gap.
-
-**Originele publicatie:** https://eures.europa.eu/could-you-be-rejecting-people-you-need-case-skills-based-hiring-2026-10-29_en
-
----
-
-## EU agri-food exports stable as imports decline slightly
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-EU agri-food trade surplus rises as exports hold steady and imports fall
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-exports-stable-imports-decline-slightly-2026-10-29_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
 
 ---
 
@@ -410,15 +374,63 @@ European Cybercrime Training and Education Group (ECTEG) has published new train
 
 ---
 
-## Investigations supported by Europol expose international migrant smuggling networks
+## Council publishes 2025 international climate finance figures
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
 
-Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
+In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
 
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/council-publishes-2025-international-climate-finance-figures-2026-10-29_en
+
+---
+
+## EU agri-food exports stable as imports decline slightly
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+EU agri-food trade surplus rises as exports hold steady and imports fall
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-exports-stable-imports-decline-slightly-2026-10-29_en
+
+---
+
+## Could you be rejecting the people you need? The case for skills-based hiring
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+Struggling to recruit? 80% of EU employers face the same issue. Discover how dropping unnecessary degree requirements can unlock hidden talent, boost retention and close the skills gap.
+
+**Originele publicatie:** https://eures.europa.eu/could-you-be-rejecting-people-you-need-case-skills-based-hiring-2026-10-29_en
+
+---
+
+## New brand association joins the industry-led cooperation to tackle online counterfeiting
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+Andema, the association that defends companies' trademark rights in Spain, has signed up to the memorandum of understanding (MoU) on the sale of counterfeit goods on the internet as an IP Rights Holder.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/new-brand-association-joins-industry-led-cooperation-tackle-online-counterfeiting-2026-10-29_en
+
+---
+
+## EU campaign highlights lift buffer safety performance
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+An EU-funded campaign tested 40 lift buffers and found that all hydraulic buffers passed the technical tests, while the majority of polyurethane buffers were non-compliant with EU requirements.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-campaign-highlights-lift-buffer-safety-performance-2026-10-29_en
 
 ---
 
@@ -518,18 +530,6 @@ The European Commission published the Feasibility Study on Law Enforcement Train
 
 ---
 
-## EU launches Friends of Credits for Nature and Biodiversity at COP17
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
-
-The initiative aims to build international support for nature credits and strengthen cooperation on biodiversity finance.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/eu-launches-friends-credits-nature-and-biodiversity-2026-10-28_en
-
----
-
 ## Bavarian carp ponds: cultural heritage at the water’s edge
 
 **Bron:** Europese Commissie
@@ -539,6 +539,18 @@ The initiative aims to build international support for nature credits and streng
 In Bavaria, traditional carp pond farming is not just a way of producing fish. It is a living cultural landscape, recognised as intangible cultural heritage in Germany since 2021. The Karpfenland Aischgrund e.V. project helped bring it into the spotlight,
 
 **Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/bavarian-carp-ponds-cultural-heritage-waters-edge-2026-10-28_en
+
+---
+
+## EU launches Friends of Credits for Nature and Biodiversity at COP17
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 28 Oct 2026 00:00:00 +0100
+
+The initiative aims to build international support for nature credits and strengthen cooperation on biodiversity finance.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/eu-launches-friends-credits-nature-and-biodiversity-2026-10-28_en
 
 ---
 
@@ -566,39 +578,27 @@ De humanitaire situatie in veel conflictgebieden verslechtert. Dit komt onder an
 
 ---
 
-## Commission and UNEP reaffirm commitment to global environmental action and multilateralism
+## Commission proposes a stronger Frontex:   more resources, a greater role on returns and effective crisis response
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-An amendment to a Memorandum of Understanding between the two sides was signed at the biennial UN Biodiversity Conference in Armenia.
+On 27 October, the European Commission proposed to further strengthen Frontex, turning it into the EU’s central actor for protecting external borders and organising returns across the Union. The Commission has also proposed a Regulation to digitalise return, readmission and reintegration.
 
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-unep-pledge-continued-environmental-action-2026-10-27_en
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en
 
 ---
 
-## Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation
+## EU research and innovation support Europe’s new Framework for Climate Resilience
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
 
-Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.
+From understanding climate risks to developing and demonstrating innovative solutions, EU-funded research and innovation is helping Europe strengthen its climate preparedness, protecting people, preserving critical assets, and safeguarding the continent’s competitiveness and prosperity.
 
-**Originele publicatie:** https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en
-
----
-
-## Polluting ‘forever chemicals’ build up differently across continents, finds study of global freshwater reservoirs
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Freshwater reservoirs are contaminated by persistent ‘forever chemicals’. A new study reveals how chemicals build up in these water bodies, finding three key patterns of contamination based on chemical type, source, and history of use.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/polluting-forever-chemicals-build-differently-across-continents-finds-study-global-freshwater-2026-10-27_en
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-research-and-innovation-support-europes-new-framework-climate-resilience-2026-10-27_en
 
 ---
 
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Weekly schedule of President António Costa
+
+**Bron:** Raad van de EU - Persberichten
+
+Weekly schedule of President António Costa, 2-8 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/weekly-schedule-of-president-antonio-costa/
 
 ---
 
@@ -909,16 +919,6 @@ The Council extended restrictive measures against individuals and groups associa
 Weekly schedule of President António Costa, 26 October-1 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/
-
----
-
-## Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956
-
-**Bron:** Raad van de EU - Persberichten
-
-On 23 October 2026, European Council President António Costa travelled to Budapest and delivered a speech to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/
 
 ---
 
