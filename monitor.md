@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-10-31T07:38:46.165062+00:00
+Laatste update: 2026-10-31T08:28:57.771300+00:00
 
 ## Benoemingen bij Gemeenschappelijk Hof van Justitie
 
