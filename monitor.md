@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T13:55:31.399236+00:00
+Laatste update: 2026-11-02T15:41:23.899448+00:00
+
+## Wetsvoorstel nieuw stembiljet in consultatie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 02 Nov 2026 14:08:00 GMT
+
+Om de verkiezingen toegankelijker te maken, is een kleiner en overzichtelijker stembiljet ontwikkeld. Minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties (BZK) wil dit nieuwe stembiljet landelijk invoeren. Het wetsvoorstel hiervoor is...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/wetsvoorstel-nieuw-stembiljet-in-consultatie
+
+---
+
+## Subsidieregeling voor groepshulpen in de kinderopvang
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 02 Nov 2026 13:58:00 GMT
+
+Om pedagogische medewerkers in de kinderopvang te ondersteunen, kan een groepshulp een welkome aanvulling zijn voor het personeel. De groepshulp kan ondersteunen door huishoudelijk werk en licht verzorgende werkzaamheden over te nemen van de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/subsidieregeling-voor-groepshulpen-in-de-kinderopvang
+
+---
 
 ## Leennormen 2027: maximale hypotheek iets omhoog
 
@@ -495,30 +519,6 @@ Migrant smuggling poses a major security threat to the EU and the Schengen Area.
 Na 3 vogelgriepuitbraken in korte tijd stelt staatssecretaris Silvio Erkens van Landbouw, Visserij, Voedselzekerheid en Natuur maatregelen in, waaronder een landelijke ophok- en afschermplicht. Deze maatregelen moeten de kans op nieuwe...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/landelijke-ophok-en-afschermplicht-ingesteld-na-vogelgriepuitbraken
-
----
-
-## Vogelgriep vastgesteld in Grootegast
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 28 Oct 2026 16:45:00 GMT
-
-In Grootegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastgesteld op een legpluimveebedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/vogelgriep-vastgesteld-in-grootegast
-
----
-
-## Team Ouders - initiatief over ouderschap en opvoeden - gelanceerd door minister Sterk en staatssecretaris Tielen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 28 Oct 2026 15:15:00 GMT
-
-Minister Mirjam Sterk en staatssecretaris Judith Tielen hebben het nieuwe initiatief Team Ouders gelanceerd op basisschool De Schakel in Utrecht. Met Team Ouders wordt een maatschappelijke dialoog op gang gebracht over hoe ouders beter ondersteund...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/team-ouders-initiatief-over-ouderschap-en-opvoeden-gelanceerd-door-minister-sterk-en-staatssecretaris-tielen
 
 ---
 
