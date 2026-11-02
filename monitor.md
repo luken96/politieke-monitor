@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T05:44:51.528873+00:00
+Laatste update: 2026-11-02T06:49:59.107123+00:00
 
 ## Benoemingen bij Gemeenschappelijk Hof van Justitie
 
@@ -38,18 +38,6 @@ De ministerraad heeft ingestemd met de voordracht van Milo Schoenmaker als voorz
 
 ---
 
-## Kabinet wil vliegende start voor jonge kinderen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
-
-Het kabinet wil dat organisaties en ministeries die betrokken zijn bij het opgroeien van jonge kinderen meer en beter gaan samenwerken. Met elkaar én met de ouders. Dat moet ervoor zorgen dat deze kinderen, van baby tot kleuter, zich goed kunnen...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/kabinet-wil-vliegende-start-voor-jonge-kinderen
-
----
-
 ## Kabinet steunt EU Kids Act, maar uit zorgen over privacy en grondrechten
 
 **Bron:** Rijksoverheid Nieuws
@@ -74,6 +62,18 @@ De ministerraad heeft op voorstel van de minister-president ingestemd met de ben
 
 ---
 
+## Kabinet wil vliegende start voor jonge kinderen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
+
+Het kabinet wil dat organisaties en ministeries die betrokken zijn bij het opgroeien van jonge kinderen meer en beter gaan samenwerken. Met elkaar én met de ouders. Dat moet ervoor zorgen dat deze kinderen, van baby tot kleuter, zich goed kunnen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/kabinet-wil-vliegende-start-voor-jonge-kinderen
+
+---
+
 ## Tweede Loe de Jong-lezing door Rosita Steenbeek
 
 **Bron:** Rijksoverheid Nieuws
@@ -86,13 +86,13 @@ Op 31 maart 2027 zal Rosita Steenbeek de tweede Loe de Jong-lezing uitspreken. D
 
 ---
 
-## Minister-president Jetten ontvangt president Milatović van Montenegro
+## Minister-president Jetten ontvangt premier Spajić van Montenegro
 
 **Bron:** Rijksoverheid Nieuws
 
 **Gepubliceerd:** Fri, 30 Oct 2026 09:23:00 GMT
 
-Minister-president Jetten ontvangt op maandag 2 november president Milatović van Montenegro op het Catshuis. De ontmoeting markeert 20 jaar bilaterale relaties tussen Nederland en Montenegro. Tijdens een werkdiner zal onder meer gesproken worden...
+Minister-president Jetten ontvangt op maandag 2 november premier Spajić van Montenegro op het Catshuis. De ontmoeting markeert 20 jaar bilaterale relaties tussen Nederland en Montenegro. Tijdens een werkdiner zal onder meer gesproken worden over...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/minister-president-jetten-ontvangt-president-milatovic-van-montenegro
 
