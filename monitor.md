@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T12:41:41.762792+00:00
+Laatste update: 2026-11-02T13:55:31.399236+00:00
+
+## Leennormen 2027: maximale hypotheek iets omhoog
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 02 Nov 2026 12:48:00 GMT
+
+In 2027 kunnen bijna alle huishoudens wat meer lenen voor de aankoop van een woning. Het precieze bedrag aan extra leenruimte is afhankelijk van het inkomen en verschilt per huishouden. Een hogere hypotheekrente kan de stijging van de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/leennormen-2027-maximale-hypotheek-iets-omhoog
+
+---
 
 ## Koning en minister van Binnenlandse Zaken en Koninkrijksrelaties brengen werkbezoek in teken van weerbaar bestuur en democratie
 
@@ -507,18 +519,6 @@ In Grootegast (gemeente Westerkwartier, provincie Groningen) is vogelgriep vastg
 Minister Mirjam Sterk en staatssecretaris Judith Tielen hebben het nieuwe initiatief Team Ouders gelanceerd op basisschool De Schakel in Utrecht. Met Team Ouders wordt een maatschappelijke dialoog op gang gebracht over hoe ouders beter ondersteund...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/team-ouders-initiatief-over-ouderschap-en-opvoeden-gelanceerd-door-minister-sterk-en-staatssecretaris-tielen
-
----
-
-## Koning en minister-president ontvangen president Zelensky van Oekraïne
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 28 Oct 2026 08:27:00 GMT
-
-Zijne Majesteit de Koning ontvangt woensdagavond 28 oktober de president van Oekraïne, Volodymyr Zelensky, in audiëntie. De ontvangst vindt plaats op Paleis Huis ten Bosch in Den Haag.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/koning-en-minister-president-ontvangen-president-zelensky-van-oekraine
 
 ---
 
