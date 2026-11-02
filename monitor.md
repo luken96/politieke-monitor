@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T19:41:03.566744+00:00
+Laatste update: 2026-11-02T20:29:53.133427+00:00
 
 ## Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio’s nieuwe aansluitingen mogelijk, in Utrecht nog niet
 
@@ -730,7 +730,7 @@ his study presents a systematic literature review of food waste and loss interve
 
 **Bron:** Raad van de EU - Persberichten
 
-The European Union strongly condemns the Houthis' continued military escalation in Yemen and their attacks against Saudi Arabia, particularly those targeting civilians and civilian infrastructure.
+The European Union strongly condemns Houthi military escalation and attacks on civilian infrastructure and Red Sea shipping, calling for an immediate cease-fire, humanitarian access, and UN-led peace efforts while reaffirming its commitment to Yemen's sovereignty and increased financial support.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/02/statement-of-the-high-representative-on-behalf-of-the-eu-on-the-situation-in-yemen/
 
