@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T10:43:03.186249+00:00
+Laatste update: 2026-11-02T11:38:23.586298+00:00
+
+## Hoe blijft jouw bedrijf draaien als er een noodsituatie ontstaat?
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 02 Nov 2026 11:00:00 GMT
+
+Producten, onderdelen, machines of grondstoffen die ineens niet meer binnenkomen of werken door uitval, door sabotage, of door verstoringen in handelsketens. Afhankelijkheden van ondernemers voor hun processen zijn groot. Daarom roept het...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/hoe-blijft-jouw-bedrijf-draaien-als-er-een-noodsituatie-ontstaat
+
+---
 
 ## Benoemingen bij Gemeenschappelijk Hof van Justitie
 
@@ -566,18 +578,6 @@ The latest episode of PESPod, the podcast of the European Network of Public Empl
 
 ---
 
-## Nederland verhoogt steun voor wereldwijde strijd tegen honger
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 27 Oct 2026 17:15:00 GMT
-
-De humanitaire situatie in veel conflictgebieden verslechtert. Dit komt onder andere door teruglopende financiering van humanitaire hulpverlening en aanhoudende droogte en geweld. Zeker ook in gebieden als Gaza en Soedan waar de noden zeer urgent...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/27/nederland-verhoogt-steun-voor-wereldwijde-strijd-tegen-honger
-
----
-
 ## Commission and UNEP reaffirm commitment to global environmental action and multilateralism
 
 **Bron:** Europese Commissie
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Statement by the High Representative on behalf of the European Union on the situation in Yemen
+
+**Bron:** Raad van de EU - Persberichten
+
+The European Union strongly condemns the Houthis' continued military escalation in Yemen and their attacks against Saudi Arabia, particularly those targeting civilians and civilian infrastructure.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/02/statement-of-the-high-representative-on-behalf-of-the-eu-on-the-situation-in-yemen/
 
 ---
 
@@ -909,16 +919,6 @@ The European Council will take place on 17 and 18 December 2026 in the Europa bu
 The Council extended restrictive measures against individuals and groups associated with ISIL/Da'esh and Al-Qaeda for a further year, until 31 October 2027.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/
-
----
-
-## Weekly schedule of President António Costa
-
-**Bron:** Raad van de EU - Persberichten
-
-Weekly schedule of President António Costa, 26 October-1 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/
 
 ---
 
