@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T16:46:09.250231+00:00
+Laatste update: 2026-11-02T17:41:59.600587+00:00
 
 ## Wetsvoorstel nieuw stembiljet in consultatie
 
