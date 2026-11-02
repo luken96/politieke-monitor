@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T22:27:14.122768+00:00
+Laatste update: 2026-11-02T23:25:37.755288+00:00
 
 ## Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio’s nieuwe aansluitingen mogelijk, in Utrecht nog niet
 
@@ -603,6 +603,126 @@ An amendment to a Memorandum of Understanding between the two sides was signed a
 Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en
+
+---
+
+## Food and veterinary audits : programme 2027
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Mon, 12 Oct 2026 22:00:00 GMT
+
+This document provides the programme of audits and other controls on food and feed safety, animal health and welfare, plant health and import controls for 2027.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/434fb607-c77e-11f1-a77b-01aa75ed71a1/language-en
+
+---
+
+## Monitoring the nutrition quality of Europe’s food offer : insights on gaps and opportunities for food reformulation
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Mon, 05 Oct 2026 22:00:00 GMT
+
+Food reformulation policies for healthier food and beverage products available to consumers are considered among the most cost-effective actions to reduce unhealthy diets. Through different EU-funded programs (EUREMO, and Joint Actions Best-ReMaP and JANPA), several European countries were able to access funding and share best practices to support the harmonized collection of data from packaged foods and beverages. This harmonised data is hosted in the Food and Beverages Labels Explorer (FABLE), created by the Joint Research Centre, and is displayed in an interactive and intuitive way for policy makers, researchers, and the public. This report presents the results of the analysis of the European food-offer across five priority categories (breakfast cereals, bread products, fresh dairy & desserts, delicatessen meats and soft drinks) across 21 European countries. Our findings show that reformulation is both possible and urgently needed, with wide country-to-country variations in nutrient content and many sub-categories displaying large distributions of sugars, fats, salt and fibre. The evidence directly supports EU policy levers - targeted reformulation incentives, updated nutrient benchmarks, and enhanced FABLE-based monitoring - to accelerate healthier product portfolios and reduce diet-related disease burden.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/d737205f-c14e-11f1-988f-01aa75ed71a1/language-en
+
+---
+
+## A closer look at pesticides in food
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Mon, 28 Sep 2026 22:00:00 GMT
+
+Food authorities in EU countries monitor pesticide residues in food to ensure they do not exceed EU limits, and prevent health risks. 125,000 food samples were collected in the EU, Iceland and Norway in 2024 (the latest reporting year) covering food from all continents.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/8f30d7bb-be06-11f1-9aae-01aa75ed71a1/language-en
+
+---
+
+## The food and beverage market entry handbook Canada : a practical guide to the market in Canada for European agri-food products
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Sun, 13 Sep 2026 22:00:00 GMT
+
+This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Canadian market. This Handbook provides step by-step guides on entering the agri-food market in Canada including relevant information such as analysis of the Canadian market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Canadian market.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/73a80c36-b0dd-11f1-b9e5-01aa75ed71a1/language-en
+
+---
+
+## The food and beverage market entry handbook Mexico : a practical guide to the market in Mexico for European agri-food products
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Wed, 02 Sep 2026 22:00:00 GMT
+
+This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Mexican market. This Handbook provides step-by step guides on entering the agri-food market in Mexico including relevant information such as analysis of the Mexican market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Mexican market.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/9f23593d-a806-11f1-b25c-01aa75ed71a1/language-en
+
+---
+
+## Health and food audits : programme July to December 2026
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Wed, 26 Aug 2026 22:00:00 GMT
+
+The Directorate-General for Health and Food Safety of the European Commission develops and implements the Commission’s policies on food safety and public health. Its Directorate for Health and Food Audits and Analysis (“the Directorate”) monitors the implementation and enforcement of European Union (EU) legislation in the areas of food and feed safety, animal health, animal welfare, plant health and in certain areas of human health. The Directorate-General published the Health and food audits and analysis work programme 2026 on the European Commission’s website1. The present document updates the programme of controls for the second half of 2026. It takes account of changes that have become necessary as the year progressed. Annexes 1 to 3 provide the lists of controls planned from July to December 2026 per country. Annex 1 relates to Member States, Annex 2 relates to candidate countries, and Annex 3 to third countries. In addition to the controls listed in these annexes, the Directorate plans to perform other activities in the second half of 2026: - Demand-led controls described in annex 1 to the published work programme 2026, such as medical devices joint assessments, and analyses related to the (re-)designation of border control posts; - Non-control activities described in annex 1 of the published work programme 2026, for which work is in progress.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/f7a2cead-a288-11f1-b25c-01aa75ed71a1/language-en
+
+---
+
+## Building FOOD 2040 stakeholder input for the new EU R&I strategic agenda for food systems : analysis and synthesis of the results from the open consultation survey
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Wed, 08 Jul 2026 22:00:00 GMT
+
+The report summarises input from 631 survey respondents and 63 written submissions to inform Food 2040, the new EU Strategic R&I Agenda for Food Systems. Stakeholders value the systems-thinking approach introduced by Food 2030 and see Food 2040 as an opportunity to build on it by strengthening implementation, impact, deployment and uptake. Key priorities include environmental impact, healthier diets, resilience, strategic autonomy, circularity, protein diversification, short supply chains and the scale-up of food-system innovation.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/388df32b-7cce-11f1-bf5e-01aa75ed71a1/language-en
+
+---
+
+## The food and beverage market entry handbook Thailand : a practical guide to the market in Thailand for European agri-food products
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Tue, 05 May 2026 22:00:00 GMT
+
+This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Thai market. This Handbook provides step-by-step guides on entering the agri-food market in Thailand including relevant information such as analysis of the Thai market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Thai market.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/b192dd99-49bb-11f1-8095-01aa75ed71a1/language-en
+
+---
+
+## Food hygiene rules in the EU : consistent safety across the food chain
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Wed, 04 Feb 2026 23:00:00 GMT
+
+All food businesses operating in the EU — regardless of their size or type — must comply with basic hygiene requirements. Since 2006, the EU has applied a harmonised food hygiene policy known as the “Hygiene Package”, which sets a single framework of rules for all food and food businesses across Member States
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/7cf66af3-03d4-11f1-825d-01aa75ed71a1/language-en
+
+---
+
+## Literature review on the economics of food waste and losses in the food supply chain : evaluation of food waste interventions
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Thu, 22 Jan 2026 23:00:00 GMT
+
+his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
 
 ---
 
