@@ -1,6 +1,34 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T11:38:23.586298+00:00
+Laatste update: 2026-11-02T12:41:41.762792+00:00
+
+## Koning en minister van Binnenlandse Zaken en Koninkrijksrelaties brengen werkbezoek in teken van weerbaar bestuur en democratie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 02 Nov 2026 12:32:00 GMT
+
+Zijne Majesteit de Koning brengt woensdagmiddag 11 november samen met minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties (BZK) een werkbezoek aan de gemeente Zeist. Het bezoek staat in het teken van weerbaar bestuur en de betrokkenheid...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/koning-en-minister-van-binnenlandse-zaken-en-koninkrijksrelaties-brengen-werkbezoek-in-teken-van-weerbaar-bestuur-en-democratie
+
+---
+
+## De asielinstroom van week 44 bedroeg ongeveer 830
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 02 Nov 2026 12:18:00 GMT
+
+De asielinstroom van week 44, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 830.
+ 
+De totale asielinstroom is als volgt onderverdeeld:
+•      610 eerste aanvragen,
+•    ...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/de-asielinstroom-van-week-44-bedroeg-ongeveer-830
+
+---
 
 ## Hoe blijft jouw bedrijf draaien als er een noodsituatie ontstaat?
 
@@ -491,30 +519,6 @@ Minister Mirjam Sterk en staatssecretaris Judith Tielen hebben het nieuwe initia
 Zijne Majesteit de Koning ontvangt woensdagavond 28 oktober de president van Oekraïne, Volodymyr Zelensky, in audiëntie. De ontvangst vindt plaats op Paleis Huis ten Bosch in Den Haag.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/koning-en-minister-president-ontvangen-president-zelensky-van-oekraine
-
----
-
-## Sjoerdsma kondigt op bezoek in Kyiv nieuw steunpakket aan
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 28 Oct 2026 08:15:00 GMT
-
-Het kabinet stelt € 1,2 miljard aan niet-militaire steun voor Oekraïne beschikbaar voor de komende 3 jaar. Het pakket heeft tot doel om de meest urgente noden in Oekraïne te verlichten, aan herstel en wederopbouw bij te dragen en kansen voor...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/sjoerdsma-kondigt-op-bezoek-in-kyiv-nieuw-steunpakket-aan
-
----
-
-## Kabinet: meer Meedoenbalies in azc’s om nieuwkomers aan werk te helpen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 28 Oct 2026 06:30:00 GMT
-
-Het kabinet wil dat nieuwkomers sneller aan het werk gaan. Om dat te stimuleren openen steeds meer azc’s zogenoemde Meedoenbalies. Bij deze balies krijgen asielmigranten informatie over het vinden van een baan, vrijwilligerswerk en taallessen. Zo...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/kabinet-meer-meedoenbalies-in-azcs-om-nieuwkomers-aan-werk-te-helpen
 
 ---
 
