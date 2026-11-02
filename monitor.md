@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-02T17:41:59.600587+00:00
+Laatste update: 2026-11-02T18:38:16.073469+00:00
+
+## Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio’s nieuwe aansluitingen mogelijk, in Utrecht nog niet
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 02 Nov 2026 18:00:00 GMT
+
+De overheid en netbeheerders hebben in april dit jaar aangekondigd dat het stroomnet in de regio Flevopolder, Gelderland, Utrecht de grens had bereikt. Daarom werken de netbeheerders en overheid samen aan oplossingen om het stroomnet betrouwbaar...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/update-stroomnet-flevopolder-gelderland-utrecht-in-aantal-regios-nieuwe-aansluitingen-mogelijk-in-utrecht-nog
+
+---
 
 ## Wetsvoorstel nieuw stembiljet in consultatie
 
@@ -507,18 +519,6 @@ European Cybercrime Training and Education Group (ECTEG) has published new train
 Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
-
----
-
-## Landelijke ophok- en afschermplicht ingesteld na vogelgriepuitbraken
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 28 Oct 2026 16:46:00 GMT
-
-Na 3 vogelgriepuitbraken in korte tijd stelt staatssecretaris Silvio Erkens van Landbouw, Visserij, Voedselzekerheid en Natuur maatregelen in, waaronder een landelijke ophok- en afschermplicht. Deze maatregelen moeten de kans op nieuwe...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/landelijke-ophok-en-afschermplicht-ingesteld-na-vogelgriepuitbraken
 
 ---
 
