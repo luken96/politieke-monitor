@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T18:34:19.657228+00:00
+Laatste update: 2026-11-03T19:37:23.182162+00:00
 
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council
+
+**Bron:** Raad van de EU - Persberichten
+
+EU Heads of State or Government will gather in Dublin (Ireland), to discuss about artificial intelligence.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/informal-meeting-of-heads-of-state-or-government-of-13-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/
+
+---
+
 ## Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2258 concerning restrictive measures in view of Russia’s destabilising activities
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ The Council adopted the fourth bilateral assistance measure, worth €20 million
 In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/
-
----
-
-## Press statement by Eurogroup President Kyriakos Pierrakakis following the announcement of the President of the European Central Bank, Christine Lagarde, to step down on 7 February 2027
-
-**Bron:** Raad van de EU - Persberichten
-
-Eurogroup President, Kyriakos Pierrakakis, commented on the announcement of President of the European Central Bank, Christine Lagarde, to step down on 7 February 2027.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/press-statement-by-eurogroup-president-kyriakos-pierrakakis-following-the-announcement-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027/
 
 ---
 
