@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T19:37:23.182162+00:00
+Laatste update: 2026-11-03T20:30:00.746480+00:00
 
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Statement by President Costa in the context of the Euronews EU Enlargement Summit 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+President of the European Council António Costa made an address in the context of the Euronews EU Enlargement Summit 2026 that took place in Brussels on 3 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/
+
+---
+
 ## Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ On 29 October 2026, President António Costa gave a speech to the Montreal Cou
 The Council adopted the fourth bilateral assistance measure, worth €20 million, under the European Peace Facility (EPF) in support of the armed forces of Mauritania, which will help the country promote stability in the Sahel and safeguard its territorial integrity and sovereignty.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/european-peace-facility-council-adopts-4th-bilateral-assistance-measure-in-support-of-mauritania/
-
----
-
-## Council publishes 2025 international climate finance figures
-
-**Bron:** Raad van de EU - Persberichten
-
-In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/
 
 ---
 
