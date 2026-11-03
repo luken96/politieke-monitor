@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T07:57:01.697150+00:00
+Laatste update: 2026-11-03T09:40:33.236670+00:00
+
+## Wetsvoorstel om rechters door te kunnen laten werken tot 73 jaar naar de Tweede Kamer
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 03 Nov 2026 08:00:00 GMT
+
+Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als plaatsvervanger, is ingediend bij de Tweede Kamer. Vlak na haar aantreden maakte staatssecretaris van Justitie en Veiligheid Claudia van Bruggen bekend de huidige...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/wetsvoorstel-om-rechters-door-te-kunnen-laten-werken-tot-73-jaar-naar-de-tweede-kamer
+
+---
+
+## How social dialogue can help prevent, prepare for and respond to crises
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+At the 2026 Civil Protection Forum, employers and trade unions discussed how social dialogue can help prevent, prepare for and respond to crises. Social partners discuss strengthening preparedness at the Civil Protection Forum.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/how-social-dialogue-can-help-prevent-prepare-and-respond-crises-2026-11-03_en
+
+---
 
 ## Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio’s nieuwe aansluitingen mogelijk, in Utrecht nog niet
 
@@ -87,6 +111,18 @@ De totale asielinstroom is als volgt onderverdeeld:
 Producten, onderdelen, machines of grondstoffen die ineens niet meer binnenkomen of werken door uitval, door sabotage, of door verstoringen in handelsketens. Afhankelijkheden van ondernemers voor hun processen zijn groot. Daarom roept het...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/hoe-blijft-jouw-bedrijf-draaien-als-er-een-noodsituatie-ontstaat
+
+---
+
+## Updated EU rules on social security coordination enter into force
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Sun, 01 Nov 2026 00:00:00 +0100
+
+The revised rules mark an important step towards fairer labour mobility and stronger protection of people’s social security rights when they live, work, retire or look for a job in another EU country.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/updated-eu-rules-social-security-coordination-enter-force-2026-11-01_en
 
 ---
 
@@ -234,18 +270,6 @@ The European Commission has launched a 4-week call for applications for membersh
 
 ---
 
-## DG Translation in a city near you: November events
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Join one of our events in November!
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
-
----
-
 ## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
 
 **Bron:** Europese Commissie
@@ -267,18 +291,6 @@ Europeans continue to show strong support for a coordinated EU approach to disas
 Today, the European Union and Canada concluded negotiations on a landmark Digital Trade Agreement (DTA) at the EU-Canada Leaders’ Summit in Montreal.
 
 **Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-canada-conclude-negotiations-digital-trade-agreement-2026-10-30_en
-
----
-
-## EU announces establishment and composition of PreparEU Advisory Group
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
 
 ---
 
@@ -366,6 +378,30 @@ In the first half of 2026, average gas prices for EU households fell to €0.11 
 
 ---
 
+## EU announces establishment and composition of PreparEU Advisory Group
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
+
+---
+
+## DG Translation in a city near you: November events
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Join one of our events in November!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
+
+---
+
 ## Inzet uitzendkrachten wordt begrensd in tijd
 
 **Bron:** Rijksoverheid Nieuws
@@ -411,18 +447,6 @@ Secretaris-generaal B.E. (Bas) van den Dungen heeft bekendgemaakt dat hij uiterl
 Het Dashboard Doorlooptijden Geneesmiddelen is vernieuwd. Voor deze vernieuwing hebben patiënten, apothekers, voorschrijvers en geneesmiddelenfabrikanten hun ervaringen en wensen ingebracht. Het vernieuwde dashboard sluit daarmee beter aan bij wat...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/doorlooptijden-geneesmiddelen-vindbaar-in-vernieuwd-dashboard
-
----
-
-## Nieuwe regels voor toeristische verhuur vanaf 1 november 2026
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 29 Oct 2026 09:14:00 GMT
-
-Vanaf 1 november 2026 treedt de wijziging van de Wet toeristische verhuur in werking. De wetswijziging geeft gemeenten meer inzicht en mogelijkheden om op toeristische verhuur te sturen. Dit maakt gerichter optreden tegen ongewenste situaties...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/nieuwe-regels-voor-toeristische-verhuur-vanaf-1-november-2026
 
 ---
 
@@ -579,30 +603,6 @@ In Bavaria, traditional carp pond farming is not just a way of producing fish. I
 The latest episode of PESPod, the podcast of the European Network of Public Employment Services (PES Network), explores how the Swedish Public Employment Service is helping young people with disabilities or health conditions through the transition from education into employment.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/pespod-29-beyond-classroom-lessons-swedens-samstart-and-samstart-2026-10-28_en
-
----
-
-## Commission and UNEP reaffirm commitment to global environmental action and multilateralism
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-An amendment to a Memorandum of Understanding between the two sides was signed at the biennial UN Biodiversity Conference in Armenia.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-unep-pledge-continued-environmental-action-2026-10-27_en
-
----
-
-## Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 27 Oct 2026 00:00:00 +0100
-
-Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en
 
 ---
 
