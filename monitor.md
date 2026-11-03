@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T16:37:55.953377+00:00
+Laatste update: 2026-11-03T17:37:14.181623+00:00
+
+## Kabinet helpt industrie met hoge elektriciteitskosten
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 03 Nov 2026 16:19:00 GMT
+
+Het kabinet stelt volgend jaar € 150 miljoen beschikbaar voor de industrie om de hoge elektriciteitskosten te helpen compenseren. Vanaf 2028 is er € 345 miljoen beschikbaar en vanaf 2029 is er € 495 miljoen per jaar beschikbaar tot 2035. Deze...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/kabinet-helpt-industrie-met-hoge-elektriciteitskosten
+
+---
 
 ## Kabinet legt stikstofaanpak vast en zet steun voor boeren klaar
 
@@ -479,18 +491,6 @@ Een uitzendkracht mag straks nog maximaal 3 jaar (36 maanden) bij dezelfde inlen
 Het kabinet heeft in maart toegezegd zo’n 16% van de strategische olievoorraad vrij te geven, als onderdeel van de collectieve actie met 31 landen die zijn aangesloten bij het Internationaal Energieagentschap (IEA). Vandaag wordt het vierde en...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/nederland-voldoet-aan-iea-actie-vrijgave-deel-olievoorraad
-
----
-
-## Secretaris-generaal Van den Dungen verlaat Financiën
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 29 Oct 2026 14:00:00 GMT
-
-Secretaris-generaal B.E. (Bas) van den Dungen heeft bekendgemaakt dat hij uiterlijk per 1 februari 2027 het ministerie van Financiën zal verlaten. Zijn termijn van 7 jaar zit er dan op.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/secretaris-generaal-van-den-dungen-verlaat-financien
 
 ---
 
