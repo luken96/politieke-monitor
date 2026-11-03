@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T17:37:14.181623+00:00
+Laatste update: 2026-11-03T18:34:19.657228+00:00
 
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
