@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T11:37:19.707436+00:00
+Laatste update: 2026-11-03T12:40:54.824033+00:00
 
 ## Wetsvoorstel om rechters door te kunnen laten werken tot 73 jaar naar de Tweede Kamer
 
