@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T09:40:33.236670+00:00
+Laatste update: 2026-11-03T10:41:33.775326+00:00
 
 ## Wetsvoorstel om rechters door te kunnen laten werken tot 73 jaar naar de Tweede Kamer
 
@@ -522,18 +522,6 @@ The European Commission is inviting Member States to participate in the second r
 
 ---
 
-## New training materials for law enforcement to combat cybercrime
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-European Cybercrime Training and Education Group (ECTEG) has published new training materials for digital forensic investigations and combating cybercrime. The courses are designed for law enforcement agencies and judicial authorities.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-training-materials-law-enforcement-combat-cybercrime-2026-10-29_en
-
----
-
 ## Investigations supported by Europol expose international migrant smuggling networks
 
 **Bron:** Europese Commissie
@@ -543,6 +531,18 @@ European Cybercrime Training and Education Group (ECTEG) has published new train
 Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
+
+---
+
+## New training materials for law enforcement to combat cybercrime
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+
+European Cybercrime Training and Education Group (ECTEG) has published new training materials for digital forensic investigations and combating cybercrime. The courses are designed for law enforcement agencies and judicial authorities.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-training-materials-law-enforcement-combat-cybercrime-2026-10-29_en
 
 ---
 
@@ -726,6 +726,26 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Press briefing - Eurogroup meeting of 9 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Press briefing ahead of the upcoming Eurogroup meeting of 9 November will take place on Wednesday, 4 November 2026 at 14.30.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/press-briefing-eurogroup-meeting-of-9-november-2026/
+
+---
+
+## Statement by the High Representative on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-/
+
+---
+
 ## Statement by the High Representative on behalf of the European Union on the situation in Yemen
 
 **Bron:** Raad van de EU - Persberichten
@@ -903,26 +923,6 @@ Today the Council adopted a set of decisions mobilising funds for Ukraine under 
 Information about accreditation requirements for the one-year badge (2027)
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/one-year-badge-2027-accreditation-is-open/
-
----
-
-## Media advisory - Accreditation for the European Council, 17 and 18 December 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The European Council will take place on 17 and 18 December 2026 in the Europa building in Brussels.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/media-advisory-accreditation-for-the-european-council-17-and-18-december-2026/
-
----
-
-## EU sanctions against ISIL/Da’esh and Al-Qaeda: Council renews regime until 2027
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council extended restrictive measures against individuals and groups associated with ISIL/Da'esh and Al-Qaeda for a further year, until 31 October 2027.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/
 
 ---
 
