@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T20:30:00.746480+00:00
+Laatste update: 2026-11-03T21:26:58.921694+00:00
 
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
@@ -726,7 +726,7 @@ his study presents a systematic literature review of food waste and loss interve
 
 **Bron:** Raad van de EU - Persberichten
 
-President of the European Council António Costa made an address in the context of the Euronews EU Enlargement Summit 2026 that took place in Brussels on 3 November 2026.
+President of the European Council António Costa made a statement in the context of the Euronews EU Enlargement Summit 2026 that took place in Brussels on 3 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/
 
