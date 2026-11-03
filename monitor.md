@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-03T01:48:05.907385+00:00
+Laatste update: 2026-11-03T02:33:42.776701+00:00
 
 ## Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio’s nieuwe aansluitingen mogelijk, in Utrecht nog niet
 
