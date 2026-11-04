@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-04T13:54:33.876646+00:00
+Laatste update: 2026-11-04T14:48:54.442280+00:00
 
 ## Nieuwe burgemeester in Reusel-De Mierden
 
@@ -74,18 +74,6 @@ The European Commission is launching the first matching round under the Biometha
 
 ---
 
-## Commission strengthens Europe’s position as the world’s leading tourism destination
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
-
----
-
 ## Results of 04-11-2026 auction (EU-Bills)
 
 **Bron:** Europese Commissie
@@ -95,6 +83,66 @@ The Commission presents a new EU Sustainable Tourism Strategy, to increase the s
 Auction results EU-Bills.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en
+
+---
+
+## Eurostat: Annual fall in non-household gas prices: -6.7%
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-annual-fall-non-household-gas-prices-67-2026-11-04_en
+
+---
+
+## Eurostat: Non-household electricity prices fall further in 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-non-household-electricity-prices-fall-further-2026-2026-11-04_en
+
+---
+
+## 2026 Enlargement Package shows that reform commitment delivers progress towards EU membership
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+Today, the European Commission adopted its annual Enlargement Package, taking stock of progress made by the enlargement partners over the past year and setting out reform priorities for the way forward.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en
+
+---
+
+## Hospitals and healthcare social partners celebrate 20 years of social dialogue
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Healthcare has delivered joint solutions to support workers, employers and resilient healthcare systems across Europe.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en
+
+---
+
+## Commission strengthens Europe’s position as the world’s leading tourism destination
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
 
 ---
 
@@ -134,42 +182,6 @@ Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als
 
 ---
 
-## EU Maritime Security Strategy: joint report highlights progress
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-The European Commission and the High Representative presented today the first Joint Report on the implementation of the EU Maritime Security Strategy since 2023.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-03_en
-
----
-
-## Bpifrance et la Commission européenne signent un accord pour accélérer les partenariats industriels de résilience et de défense entre la France et l'Ukraine
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
-
----
-
-## Product identifiers for e-commerce imports mandatory from 1 November 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
-
----
-
 ## Commission launches public consultation on making products easier to repair
 
 **Bron:** Europese Commissie
@@ -203,6 +215,42 @@ Research and innovation news alert: The new model of ORE, enabled by collective 
 As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
+
+---
+
+## EU Maritime Security Strategy: joint report highlights progress
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+The European Commission and the High Representative presented today the first Joint Report on the implementation of the EU Maritime Security Strategy since 2023.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-03_en
+
+---
+
+## Product identifiers for e-commerce imports mandatory from 1 November 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
+
+---
+
+## Bpifrance et la Commission européenne signent un accord pour accélérer les partenariats industriels de résilience et de défense entre la France et l'Ukraine
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
 
 ---
 
@@ -386,6 +434,150 @@ Op 31 maart 2027 zal Rosita Steenbeek de tweede Loe de Jong-lezing uitspreken. D
 
 ---
 
+## Circularity Beyond Recycling: Can Cities Put People First?
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+For years, debates about the circular economy have focused on the production sector, reusing materials, recycling and waste management. Yet, new research suggests that this approach can unintentionally reproduce existing inequalities in cities
+
+**Originele publicatie:** https://regions-and-cities.ec.europa.eu/whats-new/newsroom/circularity-beyond-recycling-can-cities-put-people-first-2026-10-30_en
+
+---
+
+## EU and Canada conclude negotiations on a digital trade agreement
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Today, the European Union and Canada concluded negotiations on a landmark Digital Trade Agreement (DTA) at the EU-Canada Leaders’ Summit in Montreal.
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-canada-conclude-negotiations-digital-trade-agreement-2026-10-30_en
+
+---
+
+## DG Translation in a city near you: November events
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Join one of our events in November!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
+
+---
+
+## Eurostat: EU household gas prices decrease in first half of 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
+
+---
+
+## Eurostat: Household electricity prices ease in 1st half of 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-household-electricity-prices-ease-1st-half-2026-2026-10-30_en
+
+---
+
+## Commissioner Lahbib to open the 9th European Civil Protection Forum
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
+
+---
+
+## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
+
+---
+
+## Commission launches High-Level Dialogue with the European refining sector
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
+
+---
+
+## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Europeans continue to show strong support for a coordinated EU approach to disaster preparedness and response, mutual assistance between countries, and further strengthening Europe’s capacity to prepare for and response to future crises, according to the Special Eurobarometer on EU civil protection.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
+
+---
+
+## Energy Transition Investment Council - Call for applications
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial Institution (IFI) Coordination sub-group.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-30_en
+
+---
+
+## Commission takes a key step forward on 2027 financial support for Ukraine
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Today, the European Commission took another step in the implementation of the €90 billion Ukraine Support Loan,  which will provide Ukraine with essential budgetary support and defence products in 2026 and 2027.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-takes-key-step-forward-2027-financial-support-ukraine-2026-10-30_en
+
+---
+
+## Commission publishes the 2027 version of the Combined Nomenclature
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
+
+---
+
 ## Commission acts against imports of PET Spunbond from China
 
 **Bron:** Europese Commissie
@@ -407,222 +599,6 @@ Today the European Commission imposed anti-dumping duties on imports into the EU
 Auction announcement EU-Bills.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-04-11-2026-2026-10-30_en
-
----
-
-## Commission takes a key step forward on 2027 financial support for Ukraine
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Today, the European Commission took another step in the implementation of the €90 billion Ukraine Support Loan,  which will provide Ukraine with essential budgetary support and defence products in 2026 and 2027.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-takes-key-step-forward-2027-financial-support-ukraine-2026-10-30_en
-
----
-
-## Energy Transition Investment Council - Call for applications
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial Institution (IFI) Coordination sub-group.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-30_en
-
----
-
-## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Europeans continue to show strong support for a coordinated EU approach to disaster preparedness and response, mutual assistance between countries, and further strengthening Europe’s capacity to prepare for and response to future crises, according to the Special Eurobarometer on EU civil protection.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
-
----
-
-## EU and Canada conclude negotiations on a digital trade agreement
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Today, the European Union and Canada concluded negotiations on a landmark Digital Trade Agreement (DTA) at the EU-Canada Leaders’ Summit in Montreal.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-canada-conclude-negotiations-digital-trade-agreement-2026-10-30_en
-
----
-
-## Circularity Beyond Recycling: Can Cities Put People First?
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-For years, debates about the circular economy have focused on the production sector, reusing materials, recycling and waste management. Yet, new research suggests that this approach can unintentionally reproduce existing inequalities in cities
-
-**Originele publicatie:** https://regions-and-cities.ec.europa.eu/whats-new/newsroom/circularity-beyond-recycling-can-cities-put-people-first-2026-10-30_en
-
----
-
-## Commission launches High-Level Dialogue with the European refining sector
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
-
----
-
-## Commission publishes the 2027 version of the Combined Nomenclature
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
-
----
-
-## Eurostat: Household electricity prices ease in 1st half of 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-household-electricity-prices-ease-1st-half-2026-2026-10-30_en
-
----
-
-## Eurostat: EU household gas prices decrease in first half of 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
-
----
-
-## EU announces establishment and composition of PreparEU Advisory Group
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
-
----
-
-## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
-
----
-
-## Commissioner Lahbib to open the 9th European Civil Protection Forum
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
-
----
-
-## DG Translation in a city near you: November events
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Join one of our events in November!
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
-
----
-
-## New brand association joins the industry-led cooperation to tackle online counterfeiting
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-Andema, the association that defends companies' trademark rights in Spain, has signed up to the memorandum of understanding (MoU) on the sale of counterfeit goods on the internet as an IP Rights Holder.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/new-brand-association-joins-industry-led-cooperation-tackle-online-counterfeiting-2026-10-29_en
-
----
-
-## EU campaign highlights lift buffer safety performance
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-An EU-funded campaign tested 40 lift buffers and found that all hydraulic buffers passed the technical tests, while the majority of polyurethane buffers were non-compliant with EU requirements.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/eu-campaign-highlights-lift-buffer-safety-performance-2026-10-29_en
-
----
-
-## Council publishes 2025 international climate finance figures
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/council-publishes-2025-international-climate-finance-figures-2026-10-29_en
-
----
-
-## Food innovation : building public trust and outreach : Eurobarometer summary
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
-
-Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/1f54451b-d7fd-11f1-8501-01aa75ed71a1/language-en
-
----
-
-## Food innovation : building public trust and outreach : Eurobarometer report
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
-
-Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/43151a21-d7fd-11f1-8501-01aa75ed71a1/language-en
 
 ---
 
@@ -650,6 +626,18 @@ Food reformulation policies for healthier food and beverage products available t
 
 ---
 
+## A closer look at pesticides in food
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Mon, 28 Sep 2026 22:00:00 GMT
+
+Food authorities in EU countries monitor pesticide residues in food to ensure they do not exceed EU limits, and prevent health risks. 125,000 food samples were collected in the EU, Iceland and Norway in 2024 (the latest reporting year) covering food from all continents.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/8f30d7bb-be06-11f1-9aae-01aa75ed71a1/language-en
+
+---
+
 ## The food and beverage market entry handbook Canada : a practical guide to the market in Canada for European agri-food products
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -671,6 +659,18 @@ This Handbook is intended to act as a reference for those agri-food producers pl
 This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Mexican market. This Handbook provides step-by step guides on entering the agri-food market in Mexico including relevant information such as analysis of the Mexican market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Mexican market.
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/9f23593d-a806-11f1-b25c-01aa75ed71a1/language-en
+
+---
+
+## Health and food audits : programme July to December 2026
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Wed, 26 Aug 2026 22:00:00 GMT
+
+The Directorate-General for Health and Food Safety of the European Commission develops and implements the Commission’s policies on food safety and public health. Its Directorate for Health and Food Audits and Analysis (“the Directorate”) monitors the implementation and enforcement of European Union (EU) legislation in the areas of food and feed safety, animal health, animal welfare, plant health and in certain areas of human health. The Directorate-General published the Health and food audits and analysis work programme 2026 on the European Commission’s website1. The present document updates the programme of controls for the second half of 2026. It takes account of changes that have become necessary as the year progressed. Annexes 1 to 3 provide the lists of controls planned from July to December 2026 per country. Annex 1 relates to Member States, Annex 2 relates to candidate countries, and Annex 3 to third countries. In addition to the controls listed in these annexes, the Directorate plans to perform other activities in the second half of 2026: - Demand-led controls described in annex 1 to the published work programme 2026, such as medical devices joint assessments, and analyses related to the (re-)designation of border control posts; - Non-control activities described in annex 1 of the published work programme 2026, for which work is in progress.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/f7a2cead-a288-11f1-b25c-01aa75ed71a1/language-en
 
 ---
 
