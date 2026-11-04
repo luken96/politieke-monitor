@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-04T12:36:32.193304+00:00
+Laatste update: 2026-11-04T13:54:33.876646+00:00
+
+## Nieuwe burgemeester in Reusel-De Mierden
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 04 Nov 2026 12:56:00 GMT
+
+Mevrouw E.C.M. (Liselotte) Franssen-du Maine is benoemd tot burgemeester van de gemeente Reusel-De Mierden.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/nieuwe-burgemeester-in-reusel-de-mierden
+
+---
+
+## Nieuwe burgemeester in Weststellingwerf
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 04 Nov 2026 12:53:00 GMT
+
+De heer M. (Michiel) Schrier is benoemd tot burgemeester van de gemeente Weststellingwerf.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/nieuwe-burgemeester-in-weststellingwerf
+
+---
 
 ## Meer bewustzijn over woondiscriminatie, maar nog geen gelijke kansen voor iedereen
 
@@ -362,18 +386,6 @@ Op 31 maart 2027 zal Rosita Steenbeek de tweede Loe de Jong-lezing uitspreken. D
 
 ---
 
-## Minister-president Jetten ontvangt premier Spajić van Montenegro
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 09:23:00 GMT
-
-Minister-president Jetten ontvangt op maandag 2 november premier Spajić van Montenegro op het Catshuis. De ontmoeting markeert 20 jaar bilaterale relaties tussen Nederland en Montenegro. Tijdens een werkdiner zal onder meer gesproken worden over...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/minister-president-jetten-ontvangt-premier-spajic-van-montenegro
-
----
-
 ## Commission acts against imports of PET Spunbond from China
 
 **Bron:** Europese Commissie
@@ -554,18 +566,6 @@ Join one of our events in November!
 
 ---
 
-## Inzet uitzendkrachten wordt begrensd in tijd
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 29 Oct 2026 15:00:00 GMT
-
-Een uitzendkracht mag straks nog maximaal 3 jaar (36 maanden) bij dezelfde inlener werken. Dit staat in het wetsvoorstel dat vandaag in internetconsultatie gaat. Wil de inlener daarna langer met die arbeidskracht doorwerken? Dan moet er een...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/29/inzet-uitzendkrachten-wordt-begrensd-in-tijd
-
----
-
 ## New brand association joins the industry-led cooperation to tackle online counterfeiting
 
 **Bron:** Europese Commissie
@@ -602,6 +602,30 @@ In 2025, the EU and its 27 member states contributed €32.3 billion in climate 
 
 ---
 
+## Food innovation : building public trust and outreach : Eurobarometer summary
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
+
+Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/1f54451b-d7fd-11f1-8501-01aa75ed71a1/language-en
+
+---
+
+## Food innovation : building public trust and outreach : Eurobarometer report
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
+
+Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/43151a21-d7fd-11f1-8501-01aa75ed71a1/language-en
+
+---
+
 ## Food and veterinary audits : programme 2027
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -626,18 +650,6 @@ Food reformulation policies for healthier food and beverage products available t
 
 ---
 
-## A closer look at pesticides in food
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Mon, 28 Sep 2026 22:00:00 GMT
-
-Food authorities in EU countries monitor pesticide residues in food to ensure they do not exceed EU limits, and prevent health risks. 125,000 food samples were collected in the EU, Iceland and Norway in 2024 (the latest reporting year) covering food from all continents.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/8f30d7bb-be06-11f1-9aae-01aa75ed71a1/language-en
-
----
-
 ## The food and beverage market entry handbook Canada : a practical guide to the market in Canada for European agri-food products
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -659,18 +671,6 @@ This Handbook is intended to act as a reference for those agri-food producers pl
 This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Mexican market. This Handbook provides step-by step guides on entering the agri-food market in Mexico including relevant information such as analysis of the Mexican market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Mexican market.
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/9f23593d-a806-11f1-b25c-01aa75ed71a1/language-en
-
----
-
-## Health and food audits : programme July to December 2026
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Wed, 26 Aug 2026 22:00:00 GMT
-
-The Directorate-General for Health and Food Safety of the European Commission develops and implements the Commission’s policies on food safety and public health. Its Directorate for Health and Food Audits and Analysis (“the Directorate”) monitors the implementation and enforcement of European Union (EU) legislation in the areas of food and feed safety, animal health, animal welfare, plant health and in certain areas of human health. The Directorate-General published the Health and food audits and analysis work programme 2026 on the European Commission’s website1. The present document updates the programme of controls for the second half of 2026. It takes account of changes that have become necessary as the year progressed. Annexes 1 to 3 provide the lists of controls planned from July to December 2026 per country. Annex 1 relates to Member States, Annex 2 relates to candidate countries, and Annex 3 to third countries. In addition to the controls listed in these annexes, the Directorate plans to perform other activities in the second half of 2026: - Demand-led controls described in annex 1 to the published work programme 2026, such as medical devices joint assessments, and analyses related to the (re-)designation of border control posts; - Non-control activities described in annex 1 of the published work programme 2026, for which work is in progress.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/f7a2cead-a288-11f1-b25c-01aa75ed71a1/language-en
 
 ---
 
