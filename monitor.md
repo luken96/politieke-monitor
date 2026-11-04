@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-04T09:43:52.197361+00:00
+Laatste update: 2026-11-04T10:54:14.643194+00:00
 
 ## The European Commission and European Space Agency launch a joint website showcasing collaborative research on our changing planet
 
@@ -602,30 +602,6 @@ Migrant smuggling poses a major security threat to the EU and the Schengen Area.
 
 ---
 
-## Food innovation : building public trust and outreach : Eurobarometer summary
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
-
-Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/1f54451b-d7fd-11f1-8501-01aa75ed71a1/language-en
-
----
-
-## Food innovation : building public trust and outreach : Eurobarometer report
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
-
-Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/43151a21-d7fd-11f1-8501-01aa75ed71a1/language-en
-
----
-
 ## Food and veterinary audits : programme 2027
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -650,6 +626,18 @@ Food reformulation policies for healthier food and beverage products available t
 
 ---
 
+## A closer look at pesticides in food
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Mon, 28 Sep 2026 22:00:00 GMT
+
+Food authorities in EU countries monitor pesticide residues in food to ensure they do not exceed EU limits, and prevent health risks. 125,000 food samples were collected in the EU, Iceland and Norway in 2024 (the latest reporting year) covering food from all continents.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/8f30d7bb-be06-11f1-9aae-01aa75ed71a1/language-en
+
+---
+
 ## The food and beverage market entry handbook Canada : a practical guide to the market in Canada for European agri-food products
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -671,6 +659,18 @@ This Handbook is intended to act as a reference for those agri-food producers pl
 This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Mexican market. This Handbook provides step-by step guides on entering the agri-food market in Mexico including relevant information such as analysis of the Mexican market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Mexican market.
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/9f23593d-a806-11f1-b25c-01aa75ed71a1/language-en
+
+---
+
+## Health and food audits : programme July to December 2026
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Wed, 26 Aug 2026 22:00:00 GMT
+
+The Directorate-General for Health and Food Safety of the European Commission develops and implements the Commission’s policies on food safety and public health. Its Directorate for Health and Food Audits and Analysis (“the Directorate”) monitors the implementation and enforcement of European Union (EU) legislation in the areas of food and feed safety, animal health, animal welfare, plant health and in certain areas of human health. The Directorate-General published the Health and food audits and analysis work programme 2026 on the European Commission’s website1. The present document updates the programme of controls for the second half of 2026. It takes account of changes that have become necessary as the year progressed. Annexes 1 to 3 provide the lists of controls planned from July to December 2026 per country. Annex 1 relates to Member States, Annex 2 relates to candidate countries, and Annex 3 to third countries. In addition to the controls listed in these annexes, the Directorate plans to perform other activities in the second half of 2026: - Demand-led controls described in annex 1 to the published work programme 2026, such as medical devices joint assessments, and analyses related to the (re-)designation of border control posts; - Non-control activities described in annex 1 of the published work programme 2026, for which work is in progress.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/f7a2cead-a288-11f1-b25c-01aa75ed71a1/language-en
 
 ---
 
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Press briefing - Economic and Financial Affairs and Budget Council meetings
+
+**Bron:** Raad van de EU - Persberichten
+
+Press briefing ahead of the upcoming Economic and Financial Affairs and Budget Council meetings will take place on 5 November 2026 at 15:00.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/press-briefing-economic-and-financial-affairs-and-budget-council-meetings/
 
 ---
 
@@ -909,16 +919,6 @@ On 29 October 2026, President António Costa delivered closing remarks at the EU
 On 29 October 2026, President António Costa gave a speech to the Montreal Council on Foreign Relations (MCFR) ahead of the 21st EU-Canada summit taking place in Montreal on 29 and 30 October 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/speech-by-president-antonio-costa-at-the-montreal-council-on-foreign-relations/
-
----
-
-## European Peace Facility: Council adopts 4th bilateral assistance measure in support of Mauritania
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council adopted the fourth bilateral assistance measure, worth €20 million, under the European Peace Facility (EPF) in support of the armed forces of Mauritania, which will help the country promote stability in the Sahel and safeguard its territorial integrity and sovereignty.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/european-peace-facility-council-adopts-4th-bilateral-assistance-measure-in-support-of-mauritania/
 
 ---
 
