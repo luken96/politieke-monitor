@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-04T08:02:38.280666+00:00
+Laatste update: 2026-11-04T09:43:52.197361+00:00
+
+## The European Commission and European Space Agency launch a joint website showcasing collaborative research on our changing planet
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The joint Earth System Science Initiative connects European research projects to better understand environmental change and provide knowledge relevant to European policies and society.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-commission-and-european-space-agency-launch-joint-website-showcasing-collaborative-research-2026-11-04_en
+
+---
 
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
@@ -86,18 +98,6 @@ The European Commission and the High Representative presented today the first Jo
 
 ---
 
-## Product identifiers for e-commerce imports mandatory from 1 November 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
-
----
-
 ## Bpifrance et la Commission européenne signent un accord pour accélérer les partenariats industriels de résilience et de défense entre la France et l'Ukraine
 
 **Bron:** Europese Commissie
@@ -107,6 +107,18 @@ From 1 November 2026, product identifiers (PIDs) must be declared to customs for
 Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
+
+---
+
+## Product identifiers for e-commerce imports mandatory from 1 November 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
 
 ---
 
@@ -410,18 +422,6 @@ The European Commission has published the latest version of the Combined Nomencl
 
 ---
 
-## EU announces establishment and composition of PreparEU Advisory Group
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
-
----
-
 ## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
 
 **Bron:** Europese Commissie
@@ -479,6 +479,18 @@ In the first half of 2026, average electricity prices for households in the EU d
 In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
+
+---
+
+## EU announces establishment and composition of PreparEU Advisory Group
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
 
 ---
 
@@ -590,15 +602,27 @@ Migrant smuggling poses a major security threat to the EU and the Schengen Area.
 
 ---
 
-## New training materials for law enforcement to combat cybercrime
+## Food innovation : building public trust and outreach : Eurobarometer summary
 
-**Bron:** Europese Commissie
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
 
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
 
-European Cybercrime Training and Education Group (ECTEG) has published new training materials for digital forensic investigations and combating cybercrime. The courses are designed for law enforcement agencies and judicial authorities.
+Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
 
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-training-materials-law-enforcement-combat-cybercrime-2026-10-29_en
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/1f54451b-d7fd-11f1-8501-01aa75ed71a1/language-en
+
+---
+
+## Food innovation : building public trust and outreach : Eurobarometer report
+
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
+
+**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
+
+Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
+
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/43151a21-d7fd-11f1-8501-01aa75ed71a1/language-en
 
 ---
 
@@ -626,18 +650,6 @@ Food reformulation policies for healthier food and beverage products available t
 
 ---
 
-## A closer look at pesticides in food
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Mon, 28 Sep 2026 22:00:00 GMT
-
-Food authorities in EU countries monitor pesticide residues in food to ensure they do not exceed EU limits, and prevent health risks. 125,000 food samples were collected in the EU, Iceland and Norway in 2024 (the latest reporting year) covering food from all continents.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/8f30d7bb-be06-11f1-9aae-01aa75ed71a1/language-en
-
----
-
 ## The food and beverage market entry handbook Canada : a practical guide to the market in Canada for European agri-food products
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -659,18 +671,6 @@ This Handbook is intended to act as a reference for those agri-food producers pl
 This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Mexican market. This Handbook provides step-by step guides on entering the agri-food market in Mexico including relevant information such as analysis of the Mexican market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Mexican market.
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/9f23593d-a806-11f1-b25c-01aa75ed71a1/language-en
-
----
-
-## Health and food audits : programme July to December 2026
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Wed, 26 Aug 2026 22:00:00 GMT
-
-The Directorate-General for Health and Food Safety of the European Commission develops and implements the Commission’s policies on food safety and public health. Its Directorate for Health and Food Audits and Analysis (“the Directorate”) monitors the implementation and enforcement of European Union (EU) legislation in the areas of food and feed safety, animal health, animal welfare, plant health and in certain areas of human health. The Directorate-General published the Health and food audits and analysis work programme 2026 on the European Commission’s website1. The present document updates the programme of controls for the second half of 2026. It takes account of changes that have become necessary as the year progressed. Annexes 1 to 3 provide the lists of controls planned from July to December 2026 per country. Annex 1 relates to Member States, Annex 2 relates to candidate countries, and Annex 3 to third countries. In addition to the controls listed in these annexes, the Directorate plans to perform other activities in the second half of 2026: - Demand-led controls described in annex 1 to the published work programme 2026, such as medical devices joint assessments, and analyses related to the (re-)designation of border control posts; - Non-control activities described in annex 1 of the published work programme 2026, for which work is in progress.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/f7a2cead-a288-11f1-b25c-01aa75ed71a1/language-en
 
 ---
 
