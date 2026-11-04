@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-04T06:46:36.079681+00:00
+Laatste update: 2026-11-04T08:02:38.280666+00:00
 
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
@@ -722,7 +722,7 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
-## Statement by President Costa in the context of the Euronews EU Enlargement Summit 2026
+## Statement by President António Costa in the context of the Euronews EU Enlargement Summit 2026
 
 **Bron:** Raad van de EU - Persberichten
 
