@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-04T10:54:14.643194+00:00
+Laatste update: 2026-11-04T11:49:40.196653+00:00
 
 ## The European Commission and European Space Agency launch a joint website showcasing collaborative research on our changing planet
 
@@ -11,6 +11,54 @@ Laatste update: 2026-11-04T10:54:14.643194+00:00
 The joint Earth System Science Initiative connects European research projects to better understand environmental change and provide knowledge relevant to European policies and society.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-commission-and-european-space-agency-launch-joint-website-showcasing-collaborative-research-2026-11-04_en
+
+---
+
+## Third Implementation Dialogue on International Partnerships
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+Following the "Communication for a Simpler and Faster Europe”, which strives to streamline EU laws and enhance their implementation, Commissioner Jozef Síkela will host the third Implementation Dialogue on International Partnerships on 12 November 2026.
+
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/third-implementation-dialogue-international-partnerships-2026-11-04_en
+
+---
+
+## Biomethane Mechanism: First matching round to connect buyers and suppliers
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The European Commission is launching the first matching round under the Biomethane Mechanism to bring potential buyers and suppliers of biomethane together across Europe.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en
+
+---
+
+## Commission strengthens Europe’s position as the world’s leading tourism destination
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
+
+---
+
+## Results of 04-11-2026 auction (EU-Bills)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+Auction results EU-Bills.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en
 
 ---
 
@@ -50,42 +98,6 @@ Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als
 
 ---
 
-## Commission launches public consultation on making products easier to repair
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-The evidence-gathering exercise is open until 9 February 2027 and will inform the impact assessment work for a possible delegated act.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-launches-consultation-easier-product-repairs-2026-11-03_en
-
----
-
-## Eligibility to publish in Open Research Europe without fees expands to researchers in 11 countries
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-Research and innovation news alert: The new model of ORE, enabled by collective funding, brings together 16 research funding and performing organisations across Austria, France, Germany, Italy, the Netherlands, Norway, Portugal, Slovenia, Spain, Sweden and Switzerland, alongside the EC.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eligibility-publish-open-research-europe-without-fees-expands-researchers-11-countries-2026-11-03_en
-
----
-
-## Commission takes new steps to prepare Europeans for growing crisis risks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
-
----
-
 ## EU Maritime Security Strategy: joint report highlights progress
 
 **Bron:** Europese Commissie
@@ -119,6 +131,42 @@ Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de gar
 From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
 
 **Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
+
+---
+
+## Commission launches public consultation on making products easier to repair
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+The evidence-gathering exercise is open until 9 February 2027 and will inform the impact assessment work for a possible delegated act.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/commission-launches-consultation-easier-product-repairs-2026-11-03_en
+
+---
+
+## Eligibility to publish in Open Research Europe without fees expands to researchers in 11 countries
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+Research and innovation news alert: The new model of ORE, enabled by collective funding, brings together 16 research funding and performing organisations across Austria, France, Germany, Italy, the Netherlands, Norway, Portugal, Slovenia, Spain, Sweden and Switzerland, alongside the EC.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eligibility-publish-open-research-europe-without-fees-expands-researchers-11-countries-2026-11-03_en
+
+---
+
+## Commission takes new steps to prepare Europeans for growing crisis risks
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
 
 ---
 
@@ -422,42 +470,6 @@ The European Commission has published the latest version of the Combined Nomencl
 
 ---
 
-## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
-
----
-
-## Commissioner Lahbib to open the 9th European Civil Protection Forum
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
-
----
-
-## DG Translation in a city near you: November events
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Join one of our events in November!
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
-
----
-
 ## Eurostat: Household electricity prices ease in 1st half of 2026
 
 **Bron:** Europese Commissie
@@ -491,6 +503,42 @@ In the first half of 2026, average gas prices for EU households fell to €0.11 
 The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
+
+---
+
+## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
+
+---
+
+## Commissioner Lahbib to open the 9th European Civil Protection Forum
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
+
+---
+
+## DG Translation in a city near you: November events
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Join one of our events in November!
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
 
 ---
 
@@ -554,51 +602,27 @@ In 2025, the EU and its 27 member states contributed €32.3 billion in climate 
 
 ---
 
-## Could you be rejecting the people you need? The case for skills-based hiring
+## Food innovation : building public trust and outreach : Eurobarometer summary
 
-**Bron:** Europese Commissie
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
 
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
 
-Struggling to recruit? 80% of EU employers face the same issue. Discover how dropping unnecessary degree requirements can unlock hidden talent, boost retention and close the skills gap.
+Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
 
-**Originele publicatie:** https://eures.europa.eu/could-you-be-rejecting-people-you-need-case-skills-based-hiring-2026-10-29_en
-
----
-
-## EU agri-food exports stable as imports decline slightly
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-EU agri-food trade surplus rises as exports hold steady and imports fall
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-exports-stable-imports-decline-slightly-2026-10-29_en
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/1f54451b-d7fd-11f1-8501-01aa75ed71a1/language-en
 
 ---
 
-## Commission invites Member States to use €21.3 billion under SAFE to boost Defence Readiness and support to Ukraine
+## Food innovation : building public trust and outreach : Eurobarometer report
 
-**Bron:** Europese Commissie
+**Bron:** EU Publications Office - opgeslagen zoekopdracht
 
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
+**Gepubliceerd:** Tue, 27 Oct 2026 23:00:00 GMT
 
-The European Commission is inviting Member States to participate in the second round of the Security Action for Europe (SAFE) instrument with an allocation of €21.3 billion. The new funding opportunities available in this second call are part of the €150 billion in long-maturity SAFE loans.
+Europe's food systems are facing a growing range of challenges. Climate change, biodiversity loss, pressure on natural resources, changing consumer expectations, global supply chain disruptions and the need to ensure long-term food security are increasingly shaping discussions about the future of food systems. At the same time, the European Union is seeking to strengthen the sustainability, resilience and competitiveness of its agri-food sector while continuing to ensure high standards of food safety and consumer protection. In this context, food innovation is receiving growing attention from policymakers, researchers, farmers, food producers and consumers. New technologies and production methods are being developed to help address challenges such as climate change, resource scarcity, pests and plant diseases, while supporting sustainable food production and expanding consumer choice. Food innovation may also contribute to broader European objectives related to food security, environmental sustainability, economic growth and scientific leadership.
 
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-invites-member-states-use-eur213-billion-under-safe-boost-defence-readiness-and-support-2026-10-29_en
-
----
-
-## Investigations supported by Europol expose international migrant smuggling networks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 29 Oct 2026 00:00:00 +0100
-
-Migrant smuggling poses a major security threat to the EU and the Schengen Area. Europol plays a key role in combating this crime and helping national authorities to dismantle smuggling networks. It supports investigations, facilitates information and provides on-site operational support.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/investigations-supported-europol-expose-international-migrant-smuggling-networks-2026-10-29_en
+**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/43151a21-d7fd-11f1-8501-01aa75ed71a1/language-en
 
 ---
 
@@ -626,18 +650,6 @@ Food reformulation policies for healthier food and beverage products available t
 
 ---
 
-## A closer look at pesticides in food
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Mon, 28 Sep 2026 22:00:00 GMT
-
-Food authorities in EU countries monitor pesticide residues in food to ensure they do not exceed EU limits, and prevent health risks. 125,000 food samples were collected in the EU, Iceland and Norway in 2024 (the latest reporting year) covering food from all continents.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/8f30d7bb-be06-11f1-9aae-01aa75ed71a1/language-en
-
----
-
 ## The food and beverage market entry handbook Canada : a practical guide to the market in Canada for European agri-food products
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -659,18 +671,6 @@ This Handbook is intended to act as a reference for those agri-food producers pl
 This Handbook is intended to act as a reference for those agri-food producers planning for, or in the process of entering, the Mexican market. This Handbook provides step-by step guides on entering the agri-food market in Mexico including relevant information such as analysis of the Mexican market for different product categories, market access and market entry procedures, IP protection, referrals to professional buyers and a signposting and referral system providing useful contacts and ways to penetrate the Mexican market.
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/9f23593d-a806-11f1-b25c-01aa75ed71a1/language-en
-
----
-
-## Health and food audits : programme July to December 2026
-
-**Bron:** EU Publications Office - opgeslagen zoekopdracht
-
-**Gepubliceerd:** Wed, 26 Aug 2026 22:00:00 GMT
-
-The Directorate-General for Health and Food Safety of the European Commission develops and implements the Commission’s policies on food safety and public health. Its Directorate for Health and Food Audits and Analysis (“the Directorate”) monitors the implementation and enforcement of European Union (EU) legislation in the areas of food and feed safety, animal health, animal welfare, plant health and in certain areas of human health. The Directorate-General published the Health and food audits and analysis work programme 2026 on the European Commission’s website1. The present document updates the programme of controls for the second half of 2026. It takes account of changes that have become necessary as the year progressed. Annexes 1 to 3 provide the lists of controls planned from July to December 2026 per country. Annex 1 relates to Member States, Annex 2 relates to candidate countries, and Annex 3 to third countries. In addition to the controls listed in these annexes, the Directorate plans to perform other activities in the second half of 2026: - Demand-led controls described in annex 1 to the published work programme 2026, such as medical devices joint assessments, and analyses related to the (re-)designation of border control posts; - Non-control activities described in annex 1 of the published work programme 2026, for which work is in progress.
-
-**Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/f7a2cead-a288-11f1-b25c-01aa75ed71a1/language-en
 
 ---
 
