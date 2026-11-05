@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T09:43:57.098207+00:00
+Laatste update: 2026-11-05T10:47:06.937686+00:00
 
 ## Kabinet verhoogt tegemoetkoming voor slachtoffers van gewelds- en zedenmisdrijven
 
