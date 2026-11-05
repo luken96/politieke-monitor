@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T16:54:10.296909+00:00
+Laatste update: 2026-11-05T17:44:26.196307+00:00
+
+## Herinneringsmedailles Internationale Missies uitgereikt in de Nieuwe Kerk
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 05 Nov 2026 16:40:00 GMT
+
+Ruim 50 politiemedewerkers, militairen, marechaussees en civiele experts hebben vandaag in de Nieuwe Kerk in Den Haag de Herinneringsmedaille Internationale Missies gekregen. Zij ontvingen deze voor hun inzet tijdens missies in onder meer...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/herinneringsmedailles-internationale-missies-uitgereikt-in-de-nieuwe-kerk
+
+---
 
 ## Kabinet zet werk centraal in de inburgering: wie werkt krijgt meer tijd om in te burgeren
 
@@ -590,18 +602,6 @@ Mr. Y (Yvonne) Sneevliet wordt benoemd tot plaatsvervangend lid van het Gemeensc
 
 ---
 
-## Benoeming bij Gemeenschappelijk Hof van Justitie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
-
-Bij het Gemeenschappelijk Hof van Justitie wordt mr. L.N. (Lee-Ann Nathalie) Geerman benoemd tot lid, met als standplaats Curaçao. De Rijksministerraad heeft daarmee ingestemd op voorstel van staatssecretaris Van Bruggen van Justitie en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/benoeming-bij-gemeenschappelijk-hof-van-justitie
-
----
-
 ## Food innovation : building public trust and outreach : Eurobarometer summary
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)
+
+**Bron:** Raad van de EU - Persberichten
+
+Joint press release following the home affairs day of the EU – Western Balkans ministerial forum on justice and home affairs in Budva, Montenegro.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/05/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/
 
 ---
 
@@ -909,16 +919,6 @@ The leaders of the European Union and Canada held their 21st EU-Canada summit in
 Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/forward-look-2026/
-
----
-
-## Remarks by President António Costa at the official dinner of the EU-Canada summit
-
-**Bron:** Raad van de EU - Persberichten
-
-On 29 October 2026, President António Costa delivered  remarks at the official dinner of the 21st EU-Canada summit of 29-30 October 2026, in Montreal.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-official-dinner-of-the-eu-canada-summit/
 
 ---
 
