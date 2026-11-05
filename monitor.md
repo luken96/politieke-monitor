@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T14:02:05.243120+00:00
+Laatste update: 2026-11-05T15:42:29.930197+00:00
+
+## Enhertu voor maagkanker en Skyclarys vooralsnog niet in basispakket
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 05 Nov 2026 14:15:00 GMT
+
+De geneesmiddelen Skyclarys en Enhertu worden vooralsnog niet vergoed vanuit het basispakket van de zorgverzekering. Bij Skyclarys gaat het om de behandeling van patiënten met een zeldzame spierziekte en bij Enhertu om patiënten met uitgezaaide...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/enhertu-voor-maagkanker-en-skyclarys-vooralsnog-niet-in-basispakket
+
+---
+
+## Nieuw instituut moet innovatie versnellen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 05 Nov 2026 11:34:00 GMT
+
+Defensie lanceerde vandaag het Nationaal Instituut voor Defensie Technologie (NIDT). Dit instituut moet de samenwerking met civiele partners flink aanjagen. Daarmee wordt de innovatiesnelheid verhoogd en de productiecapaciteit van...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/nieuw-instituut-moet-innovatie-versnellen
+
+---
 
 ## Kabinet verhoogt tegemoetkoming voor slachtoffers van gewelds- en zedenmisdrijven
 
@@ -23,6 +47,18 @@ Het kabinet trekt vanaf 2027 jaarlijks € 5 miljoen uit om de financiële tege
 At the 2026 Civil Protection Forum, employers and trade unions discussed how social dialogue can help prevent, prepare for and respond to crises. Social partners discuss strengthening preparedness at the Civil Protection Forum.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/how-social-dialogue-can-help-prevent-prepare-and-respond-crises-2026-11-05_en
+
+---
+
+## Commission aims to unlock business opportunities for EU medical device companies in China
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+The European Commission is today leading a delegation of European medical device companies to Shanghai to support new business opportunities in the Chinese market.
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en
 
 ---
 
@@ -62,27 +98,27 @@ The European Commission adopted the European VET strategy as part of the Educati
 
 ---
 
-## Commission aims to unlock business opportunities for EU medical device companies in China
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
-
-The European Commission is today leading a delegation of European medical device companies to Shanghai to support new business opportunities in the Chinese market.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en
-
----
-
 ## Commission invites nominations for the next President of the European Research Council
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
 
-The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.
+Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-invites-nominations-next-president-european-research-council-2026-11-05_en
+
+---
+
+## Commission meeting on sanctions implementation brings together Member States and international partners
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+The eighth meeting of the High‑Level Group on Union Restrictive Measures (sanctions) is being held today 5 November 2026.
+
+**Originele publicatie:** https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en
 
 ---
 
@@ -158,30 +194,6 @@ Following the "Communication for a Simpler and Faster Europe”, which strives t
 
 ---
 
-## Commission strengthens Europe’s position as the world’s leading tourism destination
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
-
----
-
-## EU sets out a new Strategy for the Arctic
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
-
----
-
 ## Results of 04-11-2026 auction (EU-Bills)
 
 **Bron:** Europese Commissie
@@ -191,6 +203,18 @@ The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arct
 Auction results EU-Bills.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en
+
+---
+
+## Commission strengthens Europe’s position as the world’s leading tourism destination
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
 
 ---
 
@@ -218,6 +242,18 @@ For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Hea
 
 ---
 
+## EU sets out a new Strategy for the Arctic
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
+
+---
+
 ## Strengthening EU Peace Mediation: insights from EU Community of Practice on Peace Mediation 2026
 
 **Bron:** Europese Commissie
@@ -227,18 +263,6 @@ For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Hea
 The 8th edition of the EU Community of Practice (CoP) on Peace Mediation took place in Brussels and brought together over 300 peace practitioners and policymakers from 60 countries.
 
 **Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/strengthening-eu-peace-mediation-insights-eu-community-practice-peace-mediation-2026-2026-11-04_en
-
----
-
-## EU electricity market integration progresses but significant benefits remain untapped
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-Integrated electricity markets are central to a secure, affordable and sustainable EU energy system. By enabling cross-border trade, they increase competition, improve affordability for consumers, support more renewables and strengthen security of supply and system resilience.
-
-**Originele publicatie:** https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped
 
 ---
 
@@ -278,6 +302,18 @@ In the first half of 2026, the average gas price for non-household consumers in 
 
 ---
 
+## EU electricity market integration progresses but significant benefits remain untapped
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+Integrated electricity markets are central to a secure, affordable and sustainable EU energy system. By enabling cross-border trade, they increase competition, improve affordability for consumers, support more renewables and strengthen security of supply and system resilience.
+
+**Originele publicatie:** https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped
+
+---
+
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
 **Bron:** Rijksoverheid Nieuws
@@ -314,6 +350,18 @@ Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als
 
 ---
 
+## Product identifiers for e-commerce imports mandatory from 1 November 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
+
+---
+
 ## Commission launches public consultation on making products easier to repair
 
 **Bron:** Europese Commissie
@@ -338,15 +386,15 @@ Research and innovation news alert: The new model of ORE, enabled by collective 
 
 ---
 
-## Product identifiers for e-commerce imports mandatory from 1 November 2026
+## Commission takes new steps to prepare Europeans for growing crisis risks
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
 
-From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
+As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
 
 ---
 
@@ -359,18 +407,6 @@ From 1 November 2026, product identifiers (PIDs) must be declared to customs for
 The European Union (EU) and the Association of Southeast Asian Nations (ASEAN) held a policy dialogue on higher education focused on how education systems can better respond to evolving skills demands and support the transition towards a sustainable blue economy.
 
 **Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/how-education-systems-can-better-respond-evolving-skills-demands-sustainable-blue-economy-2026-11-03_en
-
----
-
-## Commission takes new steps to prepare Europeans for growing crisis risks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
 
 ---
 
@@ -542,54 +578,6 @@ De ministerraad heeft ingestemd met de voordracht van Milo Schoenmaker als voorz
 
 ---
 
-## Benoeming nieuwe voorzitter WRR
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
-
-De ministerraad heeft op voorstel van de minister-president ingestemd met de benoeming van prof. dr. Dirk Schoenmaker tot voorzitter van de Wetenschappelijke Raad voor het Regeringsbeleid (WRR). Hij wordt de opvolger van Corien Prins die in...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/benoeming-nieuwe-voorzitter-wrr
-
----
-
-## Kabinet steunt EU Kids Act, maar uit zorgen over privacy en grondrechten
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
-
-Het kabinet is positief over het wetsvoorstel van de Europese Commissie om kinderen beter te beschermen tegen online risico’s. De EU Kids Act moet digitale diensten, zoals sociale media, online games en AI-chatbots, veiliger maken voor kinderen....
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/kabinet-steunt-eu-kids-act-maar-uit-zorgen-over-privacy-en-grondrechten
-
----
-
-## EU and Canada conclude negotiations on a digital trade agreement
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Today, the European Union and Canada concluded negotiations on a landmark Digital Trade Agreement (DTA) at the EU-Canada Leaders’ Summit in Montreal.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-canada-conclude-negotiations-digital-trade-agreement-2026-10-30_en
-
----
-
-## DG Translation in a city near you: November events
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Join one of our events in November!
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
-
----
-
 ## Commission launches High-Level Dialogue with the European refining sector
 
 **Bron:** Europese Commissie
@@ -599,6 +587,18 @@ Join one of our events in November!
 The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
 
 **Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
+
+---
+
+## Commission publishes the 2027 version of the Combined Nomenclature
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
 
 ---
 
@@ -732,11 +732,11 @@ EU member states agreed their position on stronger and simpler EU rules to stop 
 
 ---
 
-## Discurso del Presidente António Costa en la sesión plenaria de la XXX Cumbre Iberoamericana
+## Speech by President António Costa at the plenary session of the XXX Ibero-American Summit
 
 **Bron:** Raad van de EU - Persberichten
 
-El presidente del Consejo Europeo, António Costa, viajó a Madrid y pronunció un discurso en la sesión plenaria de la trigésima Cumbre Iberoamericana el 5 de noviembre de 2026.
+The President of the European Council, António Costa, travelled to Madrid and gave a speech at the plenary session of the 30th Ibero-American Summit on 5 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/speech-by-president-antonio-costa-at-the-plenary-session-of-the-30th-ibero-american-summit/
 
