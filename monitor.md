@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T15:42:29.930197+00:00
+Laatste update: 2026-11-05T16:54:10.296909+00:00
+
+## Kabinet zet werk centraal in de inburgering: wie werkt krijgt meer tijd om in te burgeren
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 05 Nov 2026 16:30:00 GMT
+
+Het kabinet wil dat werken de norm wordt tijdens de inburgering. Het overgrote deel van de inburgeraars werkt nu niet en heeft een bijstandsuitkering. Minister Aartsen (Werk en Participatie) wil dat daar verandering in komt. Hij wil dat doen door...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/kabinet-zet-werk-centraal-in-de-inburgering-wie-werkt-krijgt-meer-tijd-om-in-te-burgeren
+
+---
 
 ## Enhertu voor maagkanker en Skyclarys vooralsnog niet in basispakket
 
@@ -119,6 +131,42 @@ Research and innovation news alert: The European Commission has launched the sea
 The eighth meeting of the High‑Level Group on Union Restrictive Measures (sanctions) is being held today 5 November 2026.
 
 **Originele publicatie:** https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en
+
+---
+
+## EU Maritime Security Strategy: joint report highlights progress
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+The European Commission and the High Representative have presented the first Joint Report on the implementation of the EU Maritime Security Strategy since 2023.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-05_en
+
+---
+
+## Commission presents its Vision 2040 for a thriving fisheries and aquaculture sector
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+The European Commission presented its Vision for fisheries and aquaculture towards 2040, setting the direction for the next 15 years to strengthen the environmental and economic viability of the sector.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/commission-presents-its-vision-2040-thriving-fisheries-and-aquaculture-sector-2026-11-05_en
+
+---
+
+## Shaping Europe’s future through education and training
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+The education and skills package helps reverse the decline in basic skills and improve teaching and how digital tools and AI are used in education
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en
 
 ---
 
@@ -530,18 +578,6 @@ Producten, onderdelen, machines of grondstoffen die ineens niet meer binnenkomen
 
 ---
 
-## Updated EU rules on social security coordination enter into force
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Sun, 01 Nov 2026 00:00:00 +0100
-
-The revised rules mark an important step towards fairer labour mobility and stronger protection of people’s social security rights when they live, work, retire or look for a job in another EU country.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/updated-eu-rules-social-security-coordination-enter-force-2026-11-01_en
-
----
-
 ## Benoemingen bij Gemeenschappelijk Hof van Justitie
 
 **Bron:** Rijksoverheid Nieuws
@@ -563,42 +599,6 @@ Mr. Y (Yvonne) Sneevliet wordt benoemd tot plaatsvervangend lid van het Gemeensc
 Bij het Gemeenschappelijk Hof van Justitie wordt mr. L.N. (Lee-Ann Nathalie) Geerman benoemd tot lid, met als standplaats Curaçao. De Rijksministerraad heeft daarmee ingestemd op voorstel van staatssecretaris Van Bruggen van Justitie en...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/benoeming-bij-gemeenschappelijk-hof-van-justitie
-
----
-
-## Interim-voorzitter Milo Schoenmaker voorgedragen als voorzitter ACVG
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
-
-De ministerraad heeft ingestemd met de voordracht van Milo Schoenmaker als voorzitter van het Adviescollege Veiligheid Groningen (ACVG). Schoenmaker is sinds maart 2026 interim-voorzitter van het college. Met deze voordracht blijft hij voor...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/interim-voorzitter-milo-schoenmaker-voorgedragen-als-voorzitter-acvg
-
----
-
-## Commission launches High-Level Dialogue with the European refining sector
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
-
----
-
-## Commission publishes the 2027 version of the Combined Nomenclature
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
 
 ---
 
