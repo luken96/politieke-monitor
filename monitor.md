@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T17:44:26.196307+00:00
+Laatste update: 2026-11-05T18:33:41.381549+00:00
 
 ## Herinneringsmedailles Internationale Missies uitgereikt in de Nieuwe Kerk
 
