@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T06:49:01.500228+00:00
+Laatste update: 2026-11-05T08:03:38.989082+00:00
 
 ## Kabinet en maatschappelijke partijen in gesprek over de klimaat- en energieopgave
 
@@ -86,6 +86,30 @@ The European Commission is launching the first matching round under the Biometha
 
 ---
 
+## Commission strengthens Europe’s position as the world’s leading tourism destination
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
+
+---
+
+## EU sets out a new Strategy for the Arctic
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
+
+---
+
 ## Results of 04-11-2026 auction (EU-Bills)
 
 **Bron:** Europese Commissie
@@ -143,18 +167,6 @@ Today, the European Commission adopted its annual Enlargement Package, taking st
 For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Healthcare has delivered joint solutions to support workers, employers and resilient healthcare systems across Europe.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en
-
----
-
-## Commission strengthens Europe’s position as the world’s leading tourism destination
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
 
 ---
 
@@ -218,30 +230,6 @@ Research and innovation news alert: The new model of ORE, enabled by collective 
 
 ---
 
-## Commission takes new steps to prepare Europeans for growing crisis risks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
-
----
-
-## EU Maritime Security Strategy: joint report highlights progress
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-The European Commission and the High Representative presented today the first Joint Report on the implementation of the EU Maritime Security Strategy since 2023.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-03_en
-
----
-
 ## Product identifiers for e-commerce imports mandatory from 1 November 2026
 
 **Bron:** Europese Commissie
@@ -263,6 +251,42 @@ From 1 November 2026, product identifiers (PIDs) must be declared to customs for
 Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
+
+---
+
+## How education systems can better respond to evolving skills demands in the sustainable blue economy.
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+The European Union (EU) and the Association of Southeast Asian Nations (ASEAN) held a policy dialogue on higher education focused on how education systems can better respond to evolving skills demands and support the transition towards a sustainable blue economy.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/how-education-systems-can-better-respond-evolving-skills-demands-sustainable-blue-economy-2026-11-03_en
+
+---
+
+## Commission takes new steps to prepare Europeans for growing crisis risks
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
+
+---
+
+## EU Maritime Security Strategy: joint report highlights progress
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+The European Commission and the High Representative presented today the first Joint Report on the implementation of the EU Maritime Security Strategy since 2023.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-03_en
 
 ---
 
@@ -434,18 +458,6 @@ Het kabinet wil dat organisaties en ministeries die betrokken zijn bij het opgro
 
 ---
 
-## Circularity Beyond Recycling: Can Cities Put People First?
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-For years, debates about the circular economy have focused on the production sector, reusing materials, recycling and waste management. Yet, new research suggests that this approach can unintentionally reproduce existing inequalities in cities
-
-**Originele publicatie:** https://regions-and-cities.ec.europa.eu/whats-new/newsroom/circularity-beyond-recycling-can-cities-put-people-first-2026-10-30_en
-
----
-
 ## EU and Canada conclude negotiations on a digital trade agreement
 
 **Bron:** Europese Commissie
@@ -494,30 +506,6 @@ In the first half of 2026, average electricity prices for households in the EU d
 
 ---
 
-## Commissioner Lahbib to open the 9th European Civil Protection Forum
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Commissioner Hadja Lahbib, will open the 9th edition of the European Civil Protection Forum, taking place on 3 and 4 November. The Forum will bring together high-level representatives, civil protection professionals, first responders and experts from Europe and beyond to discuss crisis preparedness.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-open-9th-european-civil-protection-forum-2026-10-30_en
-
----
-
-## Commission approves additional €212 million French State aid for agricultural and aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-The European Commission has approved a €212 million budget increase and an extension of the eligibility period for a French State aid scheme for agricultural and aquaculture companies facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-additional-eur212-million-french-state-aid-agricultural-and-aquaculture-2026-10-30_en
-
----
-
 ## Commission launches High-Level Dialogue with the European refining sector
 
 **Bron:** Europese Commissie
@@ -527,18 +515,6 @@ The European Commission has approved a €212 million budget increase and an ext
 The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
 
 **Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
-
----
-
-## Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-Europeans continue to show strong support for a coordinated EU approach to disaster preparedness and response, mutual assistance between countries, and further strengthening Europe’s capacity to prepare for and response to future crises, according to the Special Eurobarometer on EU civil protection.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
 
 ---
 
@@ -599,6 +575,30 @@ Today the European Commission imposed anti-dumping duties on imports into the EU
 Auction announcement EU-Bills.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-04-11-2026-2026-10-30_en
+
+---
+
+## Joint Statement: The European Union and Canada building together an Alliance for the future
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common prosperity and economic security space.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/joint-statement-european-union-and-canada-building-together-alliance-future-2026-10-30_en
+
+---
+
+## Circularity Beyond Recycling: Can Cities Put People First?
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+For years, debates about the circular economy have focused on the production sector, reusing materials, recycling and waste management. Yet, new research suggests that this approach can unintentionally reproduce existing inequalities in cities
+
+**Originele publicatie:** https://regions-and-cities.ec.europa.eu/whats-new/newsroom/circularity-beyond-recycling-can-cities-put-people-first-2026-10-30_en
 
 ---
 
