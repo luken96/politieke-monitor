@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T05:44:46.359555+00:00
+Laatste update: 2026-11-05T06:49:01.500228+00:00
 
 ## Kabinet en maatschappelijke partijen in gesprek over de klimaat- en energieopgave
 
