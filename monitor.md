@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-05T08:03:38.989082+00:00
+Laatste update: 2026-11-05T09:43:57.098207+00:00
+
+## Kabinet verhoogt tegemoetkoming voor slachtoffers van gewelds- en zedenmisdrijven
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 05 Nov 2026 08:05:00 GMT
+
+Het kabinet trekt vanaf 2027 jaarlijks € 5 miljoen uit om de financiële tegemoetkoming voor slachtoffers van ernstige gewelds- en zedenmisdrijven en nabestaanden te verhogen. Het geld wordt gebruikt voor hogere tegemoetkomingen via het Schadefonds...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/kabinet-verhoogt-tegemoetkoming-voor-slachtoffers-van-gewelds-en-zedenmisdrijven
+
+---
 
 ## Kabinet en maatschappelijke partijen in gesprek over de klimaat- en energieopgave
 
@@ -86,30 +98,6 @@ The European Commission is launching the first matching round under the Biometha
 
 ---
 
-## Commission strengthens Europe’s position as the world’s leading tourism destination
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
-
----
-
-## EU sets out a new Strategy for the Arctic
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
-
----
-
 ## Results of 04-11-2026 auction (EU-Bills)
 
 **Bron:** Europese Commissie
@@ -122,27 +110,15 @@ Auction results EU-Bills.
 
 ---
 
-## Eurostat: Annual fall in non-household gas prices: -6.7%
+## Commission strengthens Europe’s position as the world’s leading tourism destination
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
 
-In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.
+The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-annual-fall-non-household-gas-prices-67-2026-11-04_en
-
----
-
-## Eurostat: Non-household electricity prices fall further in 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-non-household-electricity-prices-fall-further-2026-2026-11-04_en
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
 
 ---
 
@@ -158,6 +134,18 @@ Today, the European Commission adopted its annual Enlargement Package, taking st
 
 ---
 
+## Eurostat: Non-household electricity prices fall further in 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-non-household-electricity-prices-fall-further-2026-2026-11-04_en
+
+---
+
 ## Hospitals and healthcare social partners celebrate 20 years of social dialogue
 
 **Bron:** Europese Commissie
@@ -167,6 +155,42 @@ Today, the European Commission adopted its annual Enlargement Package, taking st
 For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Healthcare has delivered joint solutions to support workers, employers and resilient healthcare systems across Europe.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en
+
+---
+
+## Eurostat: Annual fall in non-household gas prices: -6.7%
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-annual-fall-non-household-gas-prices-67-2026-11-04_en
+
+---
+
+## EU sets out a new Strategy for the Arctic
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
+
+---
+
+## Strengthening EU Peace Mediation: insights from EU Community of Practice on Peace Mediation 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The 8th edition of the EU Community of Practice (CoP) on Peace Mediation took place in Brussels and brought together over 300 peace practitioners and policymakers from 60 countries.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/strengthening-eu-peace-mediation-insights-eu-community-practice-peace-mediation-2026-2026-11-04_en
 
 ---
 
@@ -206,6 +230,30 @@ Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als
 
 ---
 
+## Bpifrance et la Commission européenne signent un accord pour accélérer les partenariats industriels de résilience et de défense entre la France et l'Ukraine
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
+
+---
+
+## Product identifiers for e-commerce imports mandatory from 1 November 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
+
+---
+
 ## Commission launches public consultation on making products easier to repair
 
 **Bron:** Europese Commissie
@@ -230,27 +278,15 @@ Research and innovation news alert: The new model of ORE, enabled by collective 
 
 ---
 
-## Product identifiers for e-commerce imports mandatory from 1 November 2026
+## Commission takes new steps to prepare Europeans for growing crisis risks
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
 
-From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
+As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
-
----
-
-## Bpifrance et la Commission européenne signent un accord pour accélérer les partenariats industriels de résilience et de défense entre la France et l'Ukraine
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
 
 ---
 
@@ -263,18 +299,6 @@ Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de gar
 The European Union (EU) and the Association of Southeast Asian Nations (ASEAN) held a policy dialogue on higher education focused on how education systems can better respond to evolving skills demands and support the transition towards a sustainable blue economy.
 
 **Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/how-education-systems-can-better-respond-evolving-skills-demands-sustainable-blue-economy-2026-11-03_en
-
----
-
-## Commission takes new steps to prepare Europeans for growing crisis risks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
 
 ---
 
@@ -446,51 +470,27 @@ Het kabinet is positief over het wetsvoorstel van de Europese Commissie om kinde
 
 ---
 
-## Kabinet wil vliegende start voor jonge kinderen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
-
-Het kabinet wil dat organisaties en ministeries die betrokken zijn bij het opgroeien van jonge kinderen meer en beter gaan samenwerken. Met elkaar én met de ouders. Dat moet ervoor zorgen dat deze kinderen, van baby tot kleuter, zich goed kunnen...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/kabinet-wil-vliegende-start-voor-jonge-kinderen
-
----
-
-## EU and Canada conclude negotiations on a digital trade agreement
+## Commission launches High-Level Dialogue with the European refining sector
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-Today, the European Union and Canada concluded negotiations on a landmark Digital Trade Agreement (DTA) at the EU-Canada Leaders’ Summit in Montreal.
+The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
 
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-canada-conclude-negotiations-digital-trade-agreement-2026-10-30_en
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
 
 ---
 
-## DG Translation in a city near you: November events
+## Commission publishes the 2027 version of the Combined Nomenclature
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-Join one of our events in November!
+The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
 
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
-
----
-
-## Eurostat: EU household gas prices decrease in first half of 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
 
 ---
 
@@ -506,27 +506,27 @@ In the first half of 2026, average electricity prices for households in the EU d
 
 ---
 
-## Commission launches High-Level Dialogue with the European refining sector
+## Eurostat: EU household gas prices decrease in first half of 2026
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-The European Commission launched the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.
+In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.
 
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-high-level-dialogue-european-refining-sector-2026-10-30_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-eu-household-gas-prices-decrease-first-half-2026-2026-10-30_en
 
 ---
 
-## Energy Transition Investment Council - Call for applications
+## DG Translation in a city near you: November events
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial Institution (IFI) Coordination sub-group.
+Join one of our events in November!
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-30_en
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/dg-translation-city-near-you-november-events-2026-10-30_en
 
 ---
 
@@ -542,15 +542,27 @@ Today, the European Commission took another step in the implementation of the �
 
 ---
 
-## Commission publishes the 2027 version of the Combined Nomenclature
+## Energy Transition Investment Council - Call for applications
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-The European Commission has published the latest version of the Combined Nomenclature (CN), which will apply from 1 January 2027.
+The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial Institution (IFI) Coordination sub-group.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-publishes-2027-version-combined-nomenclature-2026-10-30_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-30_en
+
+---
+
+## EU and Canada conclude negotiations on a digital trade agreement
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
+
+Today, the European Union and Canada concluded negotiations on a landmark Digital Trade Agreement (DTA) at the EU-Canada Leaders’ Summit in Montreal.
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-canada-conclude-negotiations-digital-trade-agreement-2026-10-30_en
 
 ---
 
@@ -578,27 +590,15 @@ Auction announcement EU-Bills.
 
 ---
 
-## Joint Statement: The European Union and Canada building together an Alliance for the future
+## EU announces establishment and composition of PreparEU Advisory Group
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
 
-Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common prosperity and economic security space.
+The European Commission establishes the PreparEU Advisory Group, tasked with providing strategic advice on how to best address accelerating disaster risks, including extreme weather events and wildfires.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/joint-statement-european-union-and-canada-building-together-alliance-future-2026-10-30_en
-
----
-
-## Circularity Beyond Recycling: Can Cities Put People First?
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 30 Oct 2026 00:00:00 +0100
-
-For years, debates about the circular economy have focused on the production sector, reusing materials, recycling and waste management. Yet, new research suggests that this approach can unintentionally reproduce existing inequalities in cities
-
-**Originele publicatie:** https://regions-and-cities.ec.europa.eu/whats-new/newsroom/circularity-beyond-recycling-can-cities-put-people-first-2026-10-30_en
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-establishment-and-composition-prepareu-advisory-group-2026-10-30_en
 
 ---
 
