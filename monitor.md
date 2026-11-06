@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-06T17:35:11.051907+00:00
+Laatste update: 2026-11-06T18:33:45.015399+00:00
 
 ## Wetsvoorstel voor gelijkwaardige regeling achternaam kind in consultatie
 
