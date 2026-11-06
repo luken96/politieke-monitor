@@ -1,6 +1,150 @@
 # Politieke monitor
 
-Laatste update: 2026-11-06T12:44:56.713820+00:00
+Laatste update: 2026-11-06T13:56:51.300646+00:00
+
+## Wetsvoorstel voor effectiever afpakken crimineel vermogen naar Tweede Kamer
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
+
+Het wordt mogelijk om crimineel vermogen effectiever af te pakken, ook zonder dat een verdachte is veroordeeld voor een misdrijf of als geen verdachte in beeld is. De ministerraad heeft er op voorstel van minister Van Weel van Justitie en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/wetsvoorstel-voor-effectiever-afpakken-crimineel-vermogen-naar-tweede-kamer
+
+---
+
+## Benoeming inspecteur-generaal Rijksinspectie Digitale Infrastructuur
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
+
+Mark Bressers wordt inspecteur-generaal Rijksinspectie Digitale Infrastructuur bij het ministerie van Economische Zaken en Klimaat. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-inspecteur-generaal-bij-rijksinspectie-digitale-infrastructuur-ezk
+
+---
+
+## Kabinet wil beter zicht op ongewenste drones, eerste praktijkproef in haven Rotterdam
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
+
+Drones bieden volop kansen en dragen bij aan een veilig, bereikbaar en innovatief Nederland. Ze helpen bij het inspecteren van bruggen en sluizen, het vervoeren van bloed en het ondersteunen van hulpdiensten bij incidenten. Tegelijkertijd is het...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-wil-beter-zicht-op-ongewenste-drones-eerste-praktijkproef-in-haven-rotterdam
+
+---
+
+## Benoeming plaatsvervangend secretaris-generaal Defensie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
+
+Drs. R. (Rosanne) Stotijn wordt plaatsvervangend secretaris-generaal bij het ministerie van Defensie. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties. De benoeming gaat in op...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-bij-defensie
+
+---
+
+## Kabinet kiest voor AI die Nederland vooruithelpt
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
+
+Kunstmatige intelligentie (AI) verandert in hoog tempo onze economie, samenleving en veiligheid. De keuzes die Nederland nu maakt, bepalen welke banen en bedrijven hier ontstaan, hoe onze zorg, onderwijs en overheid functioneren en hoeveel invloed...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt
+
+---
+
+## Benoeming inspecteur-generaal der Mijnen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
+
+Frank van Diepenbeek wordt inspecteur-generaal der Mijnen (IGM) en voorzitter collegiaal bestuur bij het Staatstoezicht op de Mijnen bij het ministerie van Economische Zaken en Klimaat. De ministerraad heeft hiermee ingestemd op voorstel van...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-bij-het-staatstoezicht-op-de-mijnen
+
+---
+
+## New guidance on electricity imports under Centralised Clearance for Import (CCI)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
+
+---
+
+## EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en
+
+---
+
+## Commission initiates safeguard investigation into imports of PET resin chemicals
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals.
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en
+
+---
+
+## Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+As announced by President Ursula von der Leyen during her travel to the Western Balkans in October 2026, the European Commission has opened negotiations to integrate Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia into the EU's ‘Roam Like at Home' regime.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en
+
+---
+
+## European Responsible Housing Awards open for applications
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The 2027 edition of the European Responsible Housing Awards is open for applications until 31 December 2026.
+
+**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en
+
+---
+
+## EU to push for accelerated global climate action at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
+
+---
 
 ## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
 
@@ -14,15 +158,39 @@ The European Commission’s Service for Foreign Policy Instruments (FPI) will pu
 
 ---
 
-## New guidance on electricity imports under Centralised Clearance for Import (CCI)
+## EU to push for accelerated global climate action at COP31
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
 
-New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
+
+---
+
+## EU actions to prevent and combat child poverty explained to children and young people
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+A new child-friendly publication, “Breaking the cycle of child poverty - Strengthening the European Child Guarantee”, explains how the EU is working towards every child having a fair chance in life.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en
+
+---
+
+## Celebrating 30 years of the Marie Skłodowska-Curie Actions
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+Over three decades of the European Union’s flagship programme for researcher training, mobility and career development
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/celebrating-30-years-marie-sklodowska-curie-actions-2026-11-06_en
 
 ---
 
@@ -338,18 +506,6 @@ For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Hea
 
 ---
 
-## Strengthening EU Peace Mediation: insights from EU Community of Practice on Peace Mediation 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The 8th edition of the EU Community of Practice (CoP) on Peace Mediation took place in Brussels and brought together over 300 peace practitioners and policymakers from 60 countries.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/strengthening-eu-peace-mediation-insights-eu-community-practice-peace-mediation-2026-2026-11-04_en
-
----
-
 ## Biomethane Mechanism: First matching round to connect buyers and suppliers
 
 **Bron:** Europese Commissie
@@ -383,30 +539,6 @@ In the first half of 2026, the average price of electricity for non-household co
 In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.
 
 **Originele publicatie:** https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-2
-
----
-
-## EU electricity market integration progresses but significant benefits remain untapped
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-Integrated electricity markets are central to a secure, affordable and sustainable EU energy system. By enabling cross-border trade, they increase competition, improve affordability for consumers, support more renewables and strengthen security of supply and system resilience.
-
-**Originele publicatie:** https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped
-
----
-
-## Third Implementation Dialogue on International Partnerships
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-Following the "Communication for a Simpler and Faster Europe”, which strives to streamline EU laws and enhance their implementation, Commissioner Jozef Síkela will host the third Implementation Dialogue on International Partnerships on 12 November 2026.
-
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/third-implementation-dialogue-international-partnerships-2026-11-04_en
 
 ---
 
@@ -446,66 +578,6 @@ Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als
 
 ---
 
-## Commission launches public consultation on making products easier to repair
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-The evidence-gathering exercise is open until 9 February 2027 and will inform the impact assessment work for a possible delegated act.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-launches-consultation-easier-product-repairs-2026-11-03_en
-
----
-
-## Product identifiers for e-commerce imports mandatory from 1 November 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
-
----
-
-## How education systems can better respond to evolving skills demands in the sustainable blue economy.
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-The European Union (EU) and the Association of Southeast Asian Nations (ASEAN) held a policy dialogue on higher education focused on how education systems can better respond to evolving skills demands and support the transition towards a sustainable blue economy.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/how-education-systems-can-better-respond-evolving-skills-demands-sustainable-blue-economy-2026-11-03_en
-
----
-
-## Bpifrance et la Commission européenne signent un accord pour accélérer les partenariats industriels de résilience et de défense entre la France et l'Ukraine
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
-
----
-
-## Commission takes new steps to prepare Europeans for growing crisis risks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
-
----
-
 ## Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio’s nieuwe aansluitingen mogelijk, in Utrecht nog niet
 
 **Bron:** Rijksoverheid Nieuws
@@ -527,78 +599,6 @@ De overheid en netbeheerders hebben in april dit jaar aangekondigd dat het stroo
 Om de verkiezingen toegankelijker te maken, is een kleiner en overzichtelijker stembiljet ontwikkeld. Minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties (BZK) wil dit nieuwe stembiljet landelijk invoeren. Het wetsvoorstel hiervoor is...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/wetsvoorstel-nieuw-stembiljet-in-consultatie
-
----
-
-## Subsidieregeling voor groepshulpen in de kinderopvang
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 02 Nov 2026 13:58:00 GMT
-
-Om pedagogische medewerkers in de kinderopvang te ondersteunen, kan een groepshulp een welkome aanvulling zijn voor het personeel. De groepshulp kan ondersteunen door huishoudelijk werk en licht verzorgende werkzaamheden over te nemen van de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/subsidieregeling-voor-groepshulpen-in-de-kinderopvang
-
----
-
-## Leennormen 2027: maximale hypotheek iets omhoog
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 02 Nov 2026 12:48:00 GMT
-
-In 2027 kunnen bijna alle huishoudens wat meer lenen voor de aankoop van een woning. Het precieze bedrag aan extra leenruimte is afhankelijk van het inkomen en verschilt per huishouden. Een hogere hypotheekrente kan de stijging van de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/leennormen-2027-maximale-hypotheek-iets-omhoog
-
----
-
-## Koning en minister van Binnenlandse Zaken en Koninkrijksrelaties brengen werkbezoek in teken van weerbaar bestuur en democratie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 02 Nov 2026 12:32:00 GMT
-
-Zijne Majesteit de Koning brengt woensdagmiddag 11 november samen met minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties (BZK) een werkbezoek aan de gemeente Zeist. Het bezoek staat in het teken van weerbaar bestuur en de betrokkenheid...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/koning-en-minister-van-binnenlandse-zaken-en-koninkrijksrelaties-brengen-werkbezoek-in-teken-van-weerbaar-bestuur-en-democratie
-
----
-
-## De asielinstroom van week 44 bedroeg ongeveer 830
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 02 Nov 2026 12:18:00 GMT
-
-De asielinstroom van week 44, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 830.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/de-asielinstroom-van-week-44-bedroeg-ongeveer-830
-
----
-
-## Hoe blijft jouw bedrijf draaien als er een noodsituatie ontstaat?
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 02 Nov 2026 11:00:00 GMT
-
-Producten, onderdelen, machines of grondstoffen die ineens niet meer binnenkomen of werken door uitval, door sabotage, of door verstoringen in handelsketens. Afhankelijkheden van ondernemers voor hun processen zijn groot. Daarom roept het...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/hoe-blijft-jouw-bedrijf-draaien-als-er-een-noodsituatie-ontstaat
-
----
-
-## Benoemingen bij Gemeenschappelijk Hof van Justitie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 30 Oct 2026 15:30:00 GMT
-
-Mr. Y (Yvonne) Sneevliet wordt benoemd tot plaatsvervangend lid van het Gemeenschappelijk Hof van Justitie. De Rijksministerraad heeft op voorstel van staatssecretaris Van Bruggen van Justitie en Veiligheid ingestemd met de voordracht. De...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/10/30/benoemingen-bij-gemeenschappelijk-hof-van-justitie
 
 ---
 
@@ -719,6 +719,206 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)
+
+**Bron:** Raad van de EU - Persberichten
+
+Joint press release following the home affairs day of the EU – Western Balkans ministerial forum on justice and home affairs in Budva, Montenegro.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/
+
+---
+
+## Video message of President António Costa for the New Economy Forum
+
+**Bron:** Raad van de EU - Persberichten
+
+President of the European Council António Costa delivered a video message on the occasion of the New Economy Forum award, in which he highlighted the important role of the 2026 awarded Ibero-American General Secretariat in promoting multilateralism and international relations.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/video-message-of-president-antonio-costa-for-the-new-economy-forum/
+
+---
+
+## Simplification: Council agrees position to simplify energy and tyre labelling
+
+**Bron:** Raad van de EU - Persberichten
+
+Council agrees position on simplification and better use of digital options for energy and tyre labelling.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/
+
+---
+
+## Methane regulation: Council agrees to postpone monitoring rules for one year
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has agreed its position on targeted amendments to the methane regulation, postponing import-related monitoring rules for one year.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/
+
+---
+
+## Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)
+
+**Bron:** Raad van de EU - Persberichten
+
+Joint press release following the home affairs day of the EU – Western Balkans ministerial forum on justice and home affairs in Budva, Montenegro.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/05/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/
+
+---
+
+## Fight against illicit drugs: Council backs new rules for chemicals used to make illegal drugs
+
+**Bron:** Raad van de EU - Persberichten
+
+EU member states agreed their position on stronger and simpler EU rules to stop substances that can be used to make illegal drugs – or drug precursors - from reaching criminals involved in illegal drug production.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/fight-against-illicit-drugs-council-backs-new-rules-for-chemicals-used-to-make-illegal-drugs/
+
+---
+
+## Speech by President António Costa at the plenary session of the XXX Ibero-American Summit
+
+**Bron:** Raad van de EU - Persberichten
+
+The President of the European Council, António Costa, travelled to Madrid and gave a speech at the plenary session of the 30th Ibero-American Summit on 5 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/speech-by-president-antonio-costa-at-the-plenary-session-of-the-30th-ibero-american-summit/
+
+---
+
+## Press briefing - Economic and Financial Affairs and Budget Council meetings
+
+**Bron:** Raad van de EU - Persberichten
+
+Press briefing ahead of the upcoming Economic and Financial Affairs and Budget Council meetings will take place on 5 November 2026 at 15:00.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/press-briefing-economic-and-financial-affairs-and-budget-council-meetings/
+
+---
+
+## Statement by President António Costa in the context of the Euronews EU Enlargement Summit 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+President of the European Council António Costa made a statement in the context of the Euronews EU Enlargement Summit 2026 that took place in Brussels on 3 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/
+
+---
+
+## Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council
+
+**Bron:** Raad van de EU - Persberichten
+
+EU Heads of State or Government will gather in Dublin (Ireland), to discuss about artificial intelligence.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/informal-meeting-of-heads-of-state-or-government-of-13-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/
+
+---
+
+## Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2258 concerning restrictive measures in view of Russia’s destabilising activities
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2258 of 8 October 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/
+
+---
+
+## HR statement on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-on-alignment-with-decision-20262264-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
+
+---
+
+## Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-with-council-decision-cfsp-20262192-concerning-restrictive-measures-in-view-of-the-situation-in-russia/
+
+---
+
+## Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262164-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/
+
+---
+
+## HR statement on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+**Bron:** Raad van de EU - Persberichten
+
+HR statement on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2291 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
+
+---
+
+## Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2185 of 28 September 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
+
+---
+
+## Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+**Bron:** Raad van de EU - Persberichten
+
+High Representative's statement on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-alignment-with-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
+
+---
+
+## Press briefing - Eurogroup meeting of 9 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Press briefing ahead of the upcoming Eurogroup meeting of 9 November will take place on Wednesday, 4 November 2026 at 14.30.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/press-briefing-eurogroup-meeting-of-9-november-2026/
+
+---
+
+## Statement by the HR on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the HR on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
+
+---
+
+## Statement by the High Representative on behalf of the European Union on the situation in Yemen
+
+**Bron:** Raad van de EU - Persberichten
+
+The European Union strongly condemns Houthi military escalation and attacks on civilian infrastructure and Red Sea shipping, calling for an immediate cease-fire, humanitarian access, and UN-led peace efforts while reaffirming its commitment to Yemen's sovereignty and increased financial support.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/02/statement-of-the-high-representative-on-behalf-of-the-eu-on-the-situation-in-yemen/
 
 ---
 
