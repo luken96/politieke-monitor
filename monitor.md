@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-06T10:49:41.571205+00:00
+Laatste update: 2026-11-06T11:38:50.560833+00:00
 
 ## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Simplification: Council agrees position to simplify energy and tyre labelling
+
+**Bron:** Raad van de EU - Persberichten
+
+Council agrees position on simplification and better use of digital options for energy and tyre labelling.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/
+
+---
+
 ## Methane regulation: Council agrees to postpone monitoring rules for one year
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ Weekly schedule of President António Costa, 2-8 November 2026.
 President of the European Council António Costa presented the main results of the discussions of the leaders during the 21st EU-Canada summit held in Montreal on 29-30 October 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-canada-summit/
-
----
-
-## Joint statement EU-Canada summit, 30 October 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The leaders of the European Union and Canada held their 21st EU-Canada summit in Montreal on 29-30 October 2026, and agreed on a joint statement.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/
 
 ---
 
