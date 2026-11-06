@@ -1,14 +1,26 @@
 # Politieke monitor
 
-Laatste update: 2026-11-06T15:30:49.752997+00:00
+Laatste update: 2026-11-06T16:37:40.298757+00:00
 
-## 50 miljoen voor batterijparken en stroomnet op Aruba en Curaçao
+## Wetsvoorstel voor gelijkwaardige regeling achternaam kind in consultatie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 16:00:00 GMT
+
+Het wetsvoorstel om de regels voor de achternaam van pasgeboren kinderen te wijzigen gaat in consultatie. Met dit voorstel wil het kabinet een gelijkwaardige regeling voor beide ouders introduceren voor het vastleggen van de achternaam van een...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/wetsvoorstel-voor-gelijkwaardige-regeling-achternaam-kind-in-consultatie
+
+---
+
+## € 50 miljoen voor batterijparken en stroomnet op Aruba en Curaçao
 
 **Bron:** Rijksoverheid Nieuws
 
 **Gepubliceerd:** Fri, 06 Nov 2026 15:10:00 GMT
 
-Het kabinet steunt met circa 50 miljoen de ontwikkeling van twee omvangrijke batterijparken op Aruba en Curaçao om het stroomnet op de twee eilanden robuuster te maken voor verdere economische groei.
+Het kabinet steunt met circa € 50 miljoen de ontwikkeling van 2 omvangrijke batterijparken op Aruba en Curaçao om het stroomnet op de 2 eilanden robuuster te maken voor verdere economische groei.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/50-miljoen-voor-batterijparken-en-stroomnet-op-aruba-en-curacao
 
@@ -590,18 +602,6 @@ Het kabinet legt de stikstofaanpak vast. Het stuurt vandaag een wetsvoorstel naa
 
 ---
 
-## Wetsvoorstel om rechters door te kunnen laten werken tot 73 jaar naar de Tweede Kamer
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 03 Nov 2026 08:00:00 GMT
-
-Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als plaatsvervanger, is ingediend bij de Tweede Kamer. Vlak na haar aantreden maakte staatssecretaris van Justitie en Veiligheid Claudia van Bruggen bekend de huidige...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/wetsvoorstel-om-rechters-door-te-kunnen-laten-werken-tot-73-jaar-naar-de-tweede-kamer
-
----
-
 ## Food innovation : building public trust and outreach : Eurobarometer summary
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -719,6 +719,26 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Statement by the Eurogroup President on the nominations for the post of ECB President
+
+**Bron:** Raad van de EU - Persberichten
+
+President of the Eurogroup, Kyriakos Pierrakakis, issued a statement on the nominations for the post of ECB President.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/
+
+---
+
+## Forward look: 9 - 22 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/forward-look-2026/
 
 ---
 
@@ -899,26 +919,6 @@ Statement by the HR on behalf of the EU on the alignment of certain countries wi
 HR statement on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2291 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
-
----
-
-## Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2185 of 28 September 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
-
----
-
-## Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
-
-**Bron:** Raad van de EU - Persberichten
-
-High Representative's statement on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-alignment-with-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
 
 ---
 
