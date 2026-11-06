@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-06T09:47:39.548722+00:00
+Laatste update: 2026-11-06T10:49:41.571205+00:00
+
+## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
+
+---
+
+## New guidance on electricity imports under Centralised Clearance for Import (CCI)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
+
+---
 
 ## Herinneringsmedailles Internationale Missies uitgereikt in de Nieuwe Kerk
 
@@ -74,18 +98,6 @@ At the 2026 Civil Protection Forum, employers and trade unions discussed how soc
 
 ---
 
-## Commission aims to unlock business opportunities for EU medical device companies in China
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
-
-The European Commission is today leading a delegation of European medical device companies to Shanghai to support new business opportunities in the Chinese market.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en
-
----
-
 ## Commission disburses €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan
 
 **Bron:** Europese Commissie
@@ -122,6 +134,18 @@ The European Commission adopted the European VET strategy as part of the Educati
 
 ---
 
+## Commission aims to unlock business opportunities for EU medical device companies in China
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+The European Commission is today leading a delegation of European medical device companies to Shanghai to support new business opportunities in the Chinese market.
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en
+
+---
+
 ## Commission invites nominations for the next President of the European Research Council
 
 **Bron:** Europese Commissie
@@ -134,15 +158,15 @@ Research and innovation news alert: The European Commission has launched the sea
 
 ---
 
-## Commission meeting on sanctions implementation brings together Member States and international partners
+## Shaping Europe’s future through education and training
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
 
-The eighth meeting of the High‑Level Group on Union Restrictive Measures (sanctions) is being held today 5 November 2026.
+The education and skills package helps reverse the decline in basic skills and improve teaching and how digital tools and AI are used in education
 
-**Originele publicatie:** https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en
 
 ---
 
@@ -170,15 +194,27 @@ The European Commission presented its Vision for fisheries and aquaculture towar
 
 ---
 
-## Shaping Europe’s future through education and training
+## Commission meeting on sanctions implementation brings together Member States and international partners
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
 
-The education and skills package helps reverse the decline in basic skills and improve teaching and how digital tools and AI are used in education
+The eighth meeting of the High‑Level Group on Union Restrictive Measures (sanctions) is being held today 5 November 2026.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en
+**Originele publicatie:** https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en
+
+---
+
+## Commission launches second Annual Migration Management Cycle
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+On 6 November, the Commission launched the second Annual Migration Management Cycle, providing a comprehensive overview of migration trends and risks in the EU over the previous year, identifying Member States facing migratory pressure, and proposing the establishment of the second Solidarity Pool.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en
 
 ---
 
@@ -242,15 +278,27 @@ The joint Earth System Science Initiative connects European research projects to
 
 ---
 
-## Third Implementation Dialogue on International Partnerships
+## Commission strengthens Europe’s position as the world’s leading tourism destination
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
 
-Following the "Communication for a Simpler and Faster Europe”, which strives to streamline EU laws and enhance their implementation, Commissioner Jozef Síkela will host the third Implementation Dialogue on International Partnerships on 12 November 2026.
+The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
 
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/third-implementation-dialogue-international-partnerships-2026-11-04_en
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
+
+---
+
+## EU sets out a new Strategy for the Arctic
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
 
 ---
 
@@ -263,18 +311,6 @@ Following the "Communication for a Simpler and Faster Europe”, which strives t
 Auction results EU-Bills.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en
-
----
-
-## Commission strengthens Europe’s position as the world’s leading tourism destination
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
 
 ---
 
@@ -299,18 +335,6 @@ Today, the European Commission adopted its annual Enlargement Package, taking st
 For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Healthcare has delivered joint solutions to support workers, employers and resilient healthcare systems across Europe.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en
-
----
-
-## EU sets out a new Strategy for the Arctic
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
 
 ---
 
@@ -374,6 +398,18 @@ Integrated electricity markets are central to a secure, affordable and sustainab
 
 ---
 
+## Third Implementation Dialogue on International Partnerships
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
+
+Following the "Communication for a Simpler and Faster Europe”, which strives to streamline EU laws and enhance their implementation, Commissioner Jozef Síkela will host the third Implementation Dialogue on International Partnerships on 12 November 2026.
+
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/third-implementation-dialogue-international-partnerships-2026-11-04_en
+
+---
+
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
 **Bron:** Rijksoverheid Nieuws
@@ -410,18 +446,6 @@ Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als
 
 ---
 
-## Product identifiers for e-commerce imports mandatory from 1 November 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
-
----
-
 ## Commission launches public consultation on making products easier to repair
 
 **Bron:** Europese Commissie
@@ -434,27 +458,15 @@ The evidence-gathering exercise is open until 9 February 2027 and will inform th
 
 ---
 
-## Eligibility to publish in Open Research Europe without fees expands to researchers in 11 countries
+## Product identifiers for e-commerce imports mandatory from 1 November 2026
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
 
-Research and innovation news alert: The new model of ORE, enabled by collective funding, brings together 16 research funding and performing organisations across Austria, France, Germany, Italy, the Netherlands, Norway, Portugal, Slovenia, Spain, Sweden and Switzerland, alongside the EC.
+From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.
 
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eligibility-publish-open-research-europe-without-fees-expands-researchers-11-countries-2026-11-03_en
-
----
-
-## Commission takes new steps to prepare Europeans for growing crisis risks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en
 
 ---
 
@@ -470,30 +482,6 @@ The European Union (EU) and the Association of Southeast Asian Nations (ASEAN) h
 
 ---
 
-## Commission conditionally approves JD.com's acquisition of CECONOMY under the Foreign Subsidies Regulation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-Commission conditionally approves JD.com's acquisition of CECONOMY under the Foreign Subsidies Regulation
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-conditionally-approves-jdcoms-acquisition-ceconomy-under-foreign-subsidies-regulation-2026-11-03_en
-
----
-
-## EU Maritime Security Strategy: joint report highlights progress
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
-
-The European Commission and the High Representative presented today the first Joint Report on the implementation of the EU Maritime Security Strategy since 2023.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-03_en
-
----
-
 ## Bpifrance et la Commission européenne signent un accord pour accélérer les partenariats industriels de résilience et de défense entre la France et l'Ukraine
 
 **Bron:** Europese Commissie
@@ -503,6 +491,18 @@ The European Commission and the High Representative presented today the first Jo
 Le 3 novembre 2026 à Paris – Le dispositif envisagé prévoit 150 M€ de garanties européennes et 13 M€ de subventions avec l'objectif de mobiliser plus de 480 M€ d'interventions financières sur trois ans et de favoriser 30 partenariats avec des startups ukrainiennes dans les technologies de défense...
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/bpifrance-et-la-commission-europeenne-signent-un-accord-pour-accelerer-les-partenariats-industriels-2026-11-03_en
+
+---
+
+## Commission takes new steps to prepare Europeans for growing crisis risks
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 03 Nov 2026 00:00:00 +0100
+
+As Europe faces increasingly frequent and complex crises, the European Commission is stepping up efforts to strengthen preparedness across the EU. From helping citizens protect themselves during emergencies to ensuring that national civil protection systems can keep operating when disaster strikes.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
 
 ---
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Methane regulation: Council agrees to postpone monitoring rules for one year
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has agreed its position on targeted amendments to the methane regulation, postponing import-related monitoring rules for one year.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/
+
+---
+
 ## Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ President of the European Council António Costa presented the main results of t
 The leaders of the European Union and Canada held their 21st EU-Canada summit in Montreal on 29-30 October 2026, and agreed on a joint statement.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/
-
----
-
-## Forward look: 2 - 15 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/forward-look-2026/
 
 ---
 
