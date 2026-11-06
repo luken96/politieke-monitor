@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-06T13:56:51.300646+00:00
+Laatste update: 2026-11-06T15:30:49.752997+00:00
+
+## 50 miljoen voor batterijparken en stroomnet op Aruba en Curaçao
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 15:10:00 GMT
+
+Het kabinet steunt met circa 50 miljoen de ontwikkeling van twee omvangrijke batterijparken op Aruba en Curaçao om het stroomnet op de twee eilanden robuuster te maken voor verdere economische groei.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/50-miljoen-voor-batterijparken-en-stroomnet-op-aruba-en-curacao
+
+---
+
+## Minister-president Jetten ontvangt premiers België en Luxemburg voor Benelux Top
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 14:20:00 GMT
+
+Premier Jetten ontvangt dinsdag 10 november 2026 premier De Wever van België en premier Frieden van Luxemburg voor de Benelux Top. Vanwege het Nederlands voorzitterschap van het Benelux Comité van Ministers (CvM) vindt de top dit jaar plaats in...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/minister-president-jetten-ontvangt-premiers-belgie-en-luxemburg-voor-benelux-top
+
+---
 
 ## Wetsvoorstel voor effectiever afpakken crimineel vermogen naar Tweede Kamer
 
@@ -26,6 +50,18 @@ Mark Bressers wordt inspecteur-generaal Rijksinspectie Digitale Infrastructuur b
 
 ---
 
+## Kabinet kiest voor AI die Nederland vooruithelpt
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
+
+Kunstmatige intelligentie (AI) verandert in hoog tempo onze economie, samenleving en veiligheid. De keuzes die Nederland nu maakt, bepalen welke banen en bedrijven hier ontstaan, hoe onze zorg, onderwijs en overheid functioneren en hoeveel invloed...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt
+
+---
+
 ## Kabinet wil beter zicht op ongewenste drones, eerste praktijkproef in haven Rotterdam
 
 **Bron:** Rijksoverheid Nieuws
@@ -47,18 +83,6 @@ Drones bieden volop kansen en dragen bij aan een veilig, bereikbaar en innovatie
 Drs. R. (Rosanne) Stotijn wordt plaatsvervangend secretaris-generaal bij het ministerie van Defensie. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties. De benoeming gaat in op...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-bij-defensie
-
----
-
-## Kabinet kiest voor AI die Nederland vooruithelpt
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
-
-Kunstmatige intelligentie (AI) verandert in hoog tempo onze economie, samenleving en veiligheid. De keuzes die Nederland nu maakt, bepalen welke banen en bedrijven hier ontstaan, hoe onze zorg, onderwijs en overheid functioneren en hoeveel invloed...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt
 
 ---
 
@@ -110,54 +134,6 @@ Today, the Commission initiated a safeguard investigation to assess whether safe
 
 ---
 
-## Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-As announced by President Ursula von der Leyen during her travel to the Western Balkans in October 2026, the European Commission has opened negotiations to integrate Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia into the EU's ‘Roam Like at Home' regime.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en
-
----
-
-## European Responsible Housing Awards open for applications
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The 2027 edition of the European Responsible Housing Awards is open for applications until 31 December 2026.
-
-**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en
-
----
-
-## EU to push for accelerated global climate action at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
-
----
-
-## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
-
----
-
 ## EU to push for accelerated global climate action at COP31
 
 **Bron:** Europese Commissie
@@ -182,6 +158,42 @@ A new child-friendly publication, “Breaking the cycle of child poverty - Stren
 
 ---
 
+## Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+As announced by President Ursula von der Leyen during her travel to the Western Balkans in October 2026, the European Commission has opened negotiations to integrate Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia into the EU's ‘Roam Like at Home' regime.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en
+
+---
+
+## European Responsible Housing Awards open for applications
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The 2027 edition of the European Responsible Housing Awards is open for applications until 31 December 2026.
+
+**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en
+
+---
+
+## TikTok: preliminary findings on harmful “rabbit hole” effect
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect' of its recommender system.
+
+**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361
+
+---
+
 ## Celebrating 30 years of the Marie Skłodowska-Curie Actions
 
 **Bron:** Europese Commissie
@@ -191,6 +203,30 @@ A new child-friendly publication, “Breaking the cycle of child poverty - Stren
 Over three decades of the European Union’s flagship programme for researcher training, mobility and career development
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/celebrating-30-years-marie-sklodowska-curie-actions-2026-11-06_en
+
+---
+
+## EU to push for accelerated global climate action at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
+
+---
+
+## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
 
 ---
 
@@ -530,18 +566,6 @@ In the first half of 2026, the average price of electricity for non-household co
 
 ---
 
-## Eurostat: Annual fall in non-household gas prices: -6.7%
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.
-
-**Originele publicatie:** https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-2
-
----
-
 ## Kabinet helpt industrie met hoge elektriciteitskosten
 
 **Bron:** Rijksoverheid Nieuws
@@ -575,30 +599,6 @@ Het kabinet legt de stikstofaanpak vast. Het stuurt vandaag een wetsvoorstel naa
 Het wetsvoorstel om rechters die dat willen tot 73 jaar door te laten werken als plaatsvervanger, is ingediend bij de Tweede Kamer. Vlak na haar aantreden maakte staatssecretaris van Justitie en Veiligheid Claudia van Bruggen bekend de huidige...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/wetsvoorstel-om-rechters-door-te-kunnen-laten-werken-tot-73-jaar-naar-de-tweede-kamer
-
----
-
-## Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio’s nieuwe aansluitingen mogelijk, in Utrecht nog niet
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 02 Nov 2026 18:00:00 GMT
-
-De overheid en netbeheerders hebben in april dit jaar aangekondigd dat het stroomnet in de regio Flevopolder, Gelderland, Utrecht de grens had bereikt. Daarom werken de netbeheerders en overheid samen aan oplossingen om het stroomnet betrouwbaar...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/update-stroomnet-flevopolder-gelderland-utrecht-in-aantal-regios-nieuwe-aansluitingen-mogelijk-in-utrecht-nog
-
----
-
-## Wetsvoorstel nieuw stembiljet in consultatie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 02 Nov 2026 14:08:00 GMT
-
-Om de verkiezingen toegankelijker te maken, is een kleiner en overzichtelijker stembiljet ontwikkeld. Minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties (BZK) wil dit nieuwe stembiljet landelijk invoeren. Het wetsvoorstel hiervoor is...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/wetsvoorstel-nieuw-stembiljet-in-consultatie
 
 ---
 
@@ -719,6 +719,36 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Media advisory - Eurogroup meeting and Economic and Financial Affairs Council of 9 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing, public sessions and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/media-advisory-eurogroup-meeting-and-economic-and-financial-affairs-council-of-9-november-2026/
+
+---
+
+## Weekly schedule of President António Costa
+
+**Bron:** Raad van de EU - Persberichten
+
+Weekly schedule of President António Costa, 9-15  November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/weekly-schedule-of-president-antonio-costa/
+
+---
+
+## Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety
+
+**Bron:** Raad van de EU - Persberichten
+
+The EU and Montenegro provisionally closed accession negotiations on free movement of goods (chapter 1) and food safety (chapter 12).
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/enlargement-eu-and-montenegro-close-accession-negotiations-on-free-movement-of-goods-and-food-safety/
 
 ---
 
@@ -889,36 +919,6 @@ Statement by the High Representative on behalf of the European Union on the alig
 High Representative's statement on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-alignment-with-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
-
----
-
-## Press briefing - Eurogroup meeting of 9 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Press briefing ahead of the upcoming Eurogroup meeting of 9 November will take place on Wednesday, 4 November 2026 at 14.30.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/press-briefing-eurogroup-meeting-of-9-november-2026/
-
----
-
-## Statement by the HR on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the HR on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
-
----
-
-## Statement by the High Representative on behalf of the European Union on the situation in Yemen
-
-**Bron:** Raad van de EU - Persberichten
-
-The European Union strongly condemns Houthi military escalation and attacks on civilian infrastructure and Red Sea shipping, calling for an immediate cease-fire, humanitarian access, and UN-led peace efforts while reaffirming its commitment to Yemen's sovereignty and increased financial support.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/02/statement-of-the-high-representative-on-behalf-of-the-eu-on-the-situation-in-yemen/
 
 ---
 
