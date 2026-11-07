@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-07T15:25:56.944564+00:00
+Laatste update: 2026-11-07T16:23:16.651287+00:00
+
+## Kabinet pakt arbeidsmisstanden aan met hogere boetes
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Sat, 07 Nov 2026 07:00:00 GMT
+
+De boetes voor het overtreden van arbeidswetten stijgen met zo’n 22%. Ook worden de boetes vanaf 1 januari 2028 jaarlijks geïndexeerd. Zo wil het kabinet misstanden op de werkvloer aanpakken en kwetsbare werknemers beter beschermen. Het verhogen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-pakt-arbeidsmisstanden-aan-met-hogere-boetes
+
+---
+
+## Kabinet maakt einde aan sluiproute voor goedkope arbeidsmigranten
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Sat, 07 Nov 2026 07:00:00 GMT
+
+Het kabinet wil voorkomen dat derdelanders van buiten de EU via een ander Europees land direct in Nederland gaan werken. Deze vorm van detachering wordt op steeds grotere schaal gebruikt om Nederlandse regels te omzeilen. Dit leidt tot misstanden...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-maakt-einde-aan-sluiproute-voor-goedkope-arbeidsmigranten
+
+---
 
 ## Wetsvoorstel voor gelijkwaardige regeling achternaam kind in consultatie
 
@@ -575,30 +599,6 @@ The European Commission is launching the first matching round under the Biometha
 In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).
 
 **Originele publicatie:** https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1
-
----
-
-## Kabinet helpt industrie met hoge elektriciteitskosten
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 03 Nov 2026 16:19:00 GMT
-
-Het kabinet stelt volgend jaar € 150 miljoen beschikbaar voor de industrie om de hoge elektriciteitskosten te helpen compenseren. Vanaf 2028 is er € 345 miljoen beschikbaar en vanaf 2029 is er € 495 miljoen per jaar beschikbaar tot 2035. Deze...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/kabinet-helpt-industrie-met-hoge-elektriciteitskosten
-
----
-
-## Kabinet legt stikstofaanpak vast en zet steun voor boeren klaar
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 03 Nov 2026 15:00:00 GMT
-
-Het kabinet legt de stikstofaanpak vast. Het stuurt vandaag een wetsvoorstel naar de Tweede Kamer dat de huidige stikstofdoelen vervangt door uitstootdoelen voor landbouw, industrie en mobiliteit. Ook stelt het kabinet het ontwerpprogramma vast...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/kabinet-legt-stikstofaanpak-vast-en-zet-steun-voor-boeren-klaar
 
 ---
 
