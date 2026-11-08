@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-08T19:27:25.137827+00:00
+Laatste update: 2026-11-08T20:21:16.763756+00:00
 
 ## Kabinet pakt arbeidsmisstanden aan met hogere boetes
 
