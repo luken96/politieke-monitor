@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T14:00:21.478817+00:00
+Laatste update: 2026-11-09T15:45:13.075501+00:00
+
+## Minister Aartsen: vier dagen werken de norm in de inburgering
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 15:00:00 GMT
+
+Minister Thierry Aartsen (Werk en Participatie) wil dat vier dagen werken de norm wordt voor statushouders die inburgeren. Te veel statushouders werken niet en krijgen een bijstandsuitkering. Aartsen ondertekende vandaag met werkgeversorganisaties...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/minister-aartsen-vier-dagen-werken-de-norm-in-de-inburgering
+
+---
 
 ## Kabinet, werkgevers en vakbonden stellen agenda op voor sociaal overleg
 
@@ -11,6 +23,18 @@ Laatste update: 2026-11-09T14:00:21.478817+00:00
 Kabinet, werkgevers en vakbonden hebben met elkaar gesproken over hoe ze het sociaal overleg willen vormgeven. In dat overleg staan drie uitdagingen centraal: een verbetering van de sociale zekerheid, een sterkere arbeidsmarkt en het aanjagen van...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/kabinet-werkgevers-en-vakbonden-stellen-agenda-op-voor-sociaal-overleg
+
+---
+
+## Staatsbezoek Qatar
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 12:30:00 GMT
+
+Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodiging van Zijne Hoogheid sjeik Tamim bin Hamad Al Thani, Emir van de staat Qatar, en Hare Hoogheid sjeikha Jawaher bint Hamad bin Suhaim Al Thani, echtgenote van Zijne...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/staatsbezoek-qatar
 
 ---
 
@@ -450,30 +474,6 @@ Het kabinet wil dat werken de norm wordt tijdens de inburgering. Het overgrote d
 
 ---
 
-## Enhertu voor maagkanker en Skyclarys vooralsnog niet in basispakket
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 05 Nov 2026 14:15:00 GMT
-
-De geneesmiddelen Skyclarys en Enhertu worden vooralsnog niet vergoed vanuit het basispakket van de zorgverzekering. Bij Skyclarys gaat het om de behandeling van patiënten met een zeldzame spierziekte en bij Enhertu om patiënten met uitgezaaide...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/enhertu-voor-maagkanker-en-skyclarys-vooralsnog-niet-in-basispakket
-
----
-
-## Nieuw instituut moet innovatie versnellen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 05 Nov 2026 11:34:00 GMT
-
-Defensie lanceerde vandaag het Nationaal Instituut voor Defensie Technologie (NIDT). Dit instituut moet de samenwerking met civiele partners flink aanjagen. Daarmee wordt de innovatiesnelheid verhoogd en de productiecapaciteit van...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/nieuw-instituut-moet-innovatie-versnellen
-
----
-
 ## Commission launches second Annual Migration Management Cycle
 
 **Bron:** Europese Commissie
@@ -726,6 +726,36 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Humanitarian aid: Council approves conclusions on strengthening EU action amid global challenges
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council approved conclusions reaffirming the EU’s commitment to principled humanitarian action, stronger protection of civilians and more effective action amid growing global humanitarian needs.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/humanitarian-aid-council-approves-conclusions-on-strengthening-eu-action-amid-global-challenges/
+
+---
+
+## Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 9 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Remarks by Eurogroup President Kyriakos Pierrakakis on the economic outlook in the euro area, defence financing and joint procurement, progress made on the digital euro and on the outlook for the banking sector, as well as the nomination process for three vacancies on the ECB Executive Board.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-9-november-2026/
+
+---
+
+## Taxation: Council approves further VAT simplification rules for online sales
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council today agreed further measures to improve value-added tax collection on e-commerce sales into the EU. This is the final building block of the broader overhaul of the EU customs framework.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales/
+
+---
+
 ## Press briefing - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -893,36 +923,6 @@ EU Heads of State or Government will gather in Dublin (Ireland), to discuss abou
 Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2258 of 8 October 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/
-
----
-
-## HR statement on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-on-alignment-with-decision-20262264-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
-
----
-
-## Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-with-council-decision-cfsp-20262192-concerning-restrictive-measures-in-view-of-the-situation-in-russia/
-
----
-
-## Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262164-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/
 
 ---
 
