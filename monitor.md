@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T16:51:11.590474+00:00
+Laatste update: 2026-11-09T17:44:40.178605+00:00
 
 ## Minister Aartsen: vier dagen werken de norm in de inburgering
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Ukraine: Council extends EU Military Assistance Mission mandate for two years
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council extended the mandate of the EU Military Assistance Mission in support of Ukraine until 15 November 2028.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/
+
+---
+
 ## Humanitarian aid: Council approves conclusions on strengthening EU action amid global challenges
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ President of the European Council António Costa made a statement in the context
 EU Heads of State or Government will gather in Dublin (Ireland), to discuss about artificial intelligence.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/informal-meeting-of-heads-of-state-or-government-of-13-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/
-
----
-
-## Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2258 concerning restrictive measures in view of Russia’s destabilising activities
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2258 of 8 October 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/
 
 ---
 
