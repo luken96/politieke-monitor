@@ -1,6 +1,22 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T09:44:21.337417+00:00
+Laatste update: 2026-11-09T10:42:33.990653+00:00
+
+## De asielinstroom van week 45 bedroeg ongeveer 790
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 09:56:00 GMT
+
+De asielinstroom van week 45, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 790.
+ 
+De totale asielinstroom is als volgt onderverdeeld:
+•      550 eerste aanvragen,
+•    ...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/de-asielinstroom-van-week-45-bedroeg-ongeveer-790
+
+---
 
 ## Overheid en energiesector spreken doel en acties af voor meer grote batterijen in Nederland
 
@@ -563,18 +579,6 @@ The eighth meeting of the High‑Level Group on Union Restrictive Measures (sanc
 Nederland staat voor een grote opgave om een weerbaarder en betaalbaar energiesysteem te bouwen en klimaatverandering aan te pakken en ons erop aan te passen. Het kabinet heeft daarom op het ministerie van Algemene Zaken met maatschappelijke...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/kabinet-en-maatschappelijke-partijen-in-gesprek-over-de-klimaat-en-energieopgave
-
----
-
-## Nieuwe burgemeester in Reusel-De Mierden
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 04 Nov 2026 12:56:00 GMT
-
-Mevrouw E.C.M. (Liselotte) Franssen-du Maine is benoemd tot burgemeester van de gemeente Reusel-De Mierden. De benoeming gaat in op 30 november 2026.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/nieuwe-burgemeester-in-reusel-de-mierden
 
 ---
 
