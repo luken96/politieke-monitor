@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T15:45:13.075501+00:00
+Laatste update: 2026-11-09T16:51:11.590474+00:00
 
 ## Minister Aartsen: vier dagen werken de norm in de inburgering
 
@@ -38,7 +38,7 @@ Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodig
 
 ---
 
-## Nieuwe ronde investeringsfonds startups ETCI, kabinet investeert €200 miljoen
+## Nieuwe ronde investeringsfonds startups ETCI, kabinet investeert € 200 miljoen
 
 **Bron:** Rijksoverheid Nieuws
 
