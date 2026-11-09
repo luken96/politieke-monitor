@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T12:44:17.208439+00:00
+Laatste update: 2026-11-09T14:00:21.478817+00:00
+
+## Kabinet, werkgevers en vakbonden stellen agenda op voor sociaal overleg
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 13:51:00 GMT
+
+Kabinet, werkgevers en vakbonden hebben met elkaar gesproken over hoe ze het sociaal overleg willen vormgeven. In dat overleg staan drie uitdagingen centraal: een verbetering van de sociale zekerheid, een sterkere arbeidsmarkt en het aanjagen van...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/kabinet-werkgevers-en-vakbonden-stellen-agenda-op-voor-sociaal-overleg
+
+---
 
 ## Nieuwe ronde investeringsfonds startups ETCI, kabinet investeert €200 miljoen
 
@@ -459,18 +471,6 @@ De geneesmiddelen Skyclarys en Enhertu worden vooralsnog niet vergoed vanuit het
 Defensie lanceerde vandaag het Nationaal Instituut voor Defensie Technologie (NIDT). Dit instituut moet de samenwerking met civiele partners flink aanjagen. Daarmee wordt de innovatiesnelheid verhoogd en de productiecapaciteit van...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/nieuw-instituut-moet-innovatie-versnellen
-
----
-
-## Kabinet verhoogt tegemoetkoming voor slachtoffers van gewelds- en zedenmisdrijven
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 05 Nov 2026 08:05:00 GMT
-
-Het kabinet trekt vanaf 2027 jaarlijks € 5 miljoen uit om de financiële tegemoetkoming voor slachtoffers van ernstige gewelds- en zedenmisdrijven en nabestaanden te verhogen. Het geld wordt gebruikt voor hogere tegemoetkomingen via het Schadefonds...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/kabinet-verhoogt-tegemoetkoming-voor-slachtoffers-van-gewelds-en-zedenmisdrijven
 
 ---
 
