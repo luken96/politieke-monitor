@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T17:44:40.178605+00:00
+Laatste update: 2026-11-09T18:37:53.012824+00:00
 
 ## Minister Aartsen: vier dagen werken de norm in de inburgering
 
