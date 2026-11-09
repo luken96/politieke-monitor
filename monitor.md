@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T11:40:36.570421+00:00
+Laatste update: 2026-11-09T12:44:17.208439+00:00
 
 ## Nieuwe ronde investeringsfonds startups ETCI, kabinet investeert €200 miljoen
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Press briefing - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The press briefing will take place on Wednesday 11 November 2026 at 10.00.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/press-briefing-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/
+
+---
+
 ## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
 
 **Bron:** Raad van de EU - Persberichten
@@ -853,16 +863,6 @@ EU member states agreed their position on stronger and simpler EU rules to stop 
 The President of the European Council, António Costa, travelled to Madrid and gave a speech at the plenary session of the 30th Ibero-American Summit on 5 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/speech-by-president-antonio-costa-at-the-plenary-session-of-the-30th-ibero-american-summit/
-
----
-
-## Press briefing - Economic and Financial Affairs and Budget Council meetings
-
-**Bron:** Raad van de EU - Persberichten
-
-Press briefing ahead of the upcoming Economic and Financial Affairs and Budget Council meetings will take place on 5 November 2026 at 15:00.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/press-briefing-economic-and-financial-affairs-and-budget-council-meetings/
 
 ---
 
