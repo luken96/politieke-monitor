@@ -1,16 +1,28 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T06:54:48.124065+00:00
+Laatste update: 2026-11-09T08:13:54.940017+00:00
 
-## Kabinet pakt arbeidsmisstanden aan met hogere boetes
+## Overheid en energiesector spreken doel en acties af voor meer grote batterijen in Nederland
 
 **Bron:** Rijksoverheid Nieuws
 
-**Gepubliceerd:** Sat, 07 Nov 2026 07:00:00 GMT
+**Gepubliceerd:** Mon, 09 Nov 2026 08:00:00 GMT
 
-De boetes voor het overtreden van arbeidswetten stijgen met zo’n 22%. Ook worden de boetes vanaf 1 januari 2028 jaarlijks geïndexeerd. Zo wil het kabinet misstanden op de werkvloer aanpakken en kwetsbare werknemers beter beschermen. Het verhogen...
+Het kabinet publiceert vandaag een ambitieuze visie op de rol van energieopslag in Nederland en bepaalt voor het eerst een richtwaarde voor nieuwe grote batterijen. De verwachting is dat er in 2040 110 gigawattuur (GWh) aan batterijcapaciteit is...
 
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-pakt-arbeidsmisstanden-aan-met-hogere-boetes
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/overheid-en-energiesector-spreken-doel-en-acties-af-voor-meer-grote-batterijen-in-nederland
+
+---
+
+## Minister benoemt 5 nieuwe locaties voor versneld bouwen 25.000 huizen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 07:08:00 GMT
+
+Minister Elanor Boekholt-O'Sullivan van Volkshuisvesting en Ruimtelijke Ordening heeft nog eens 5 locaties aangewezen waar met hulp van het Rijk de bouw van in totaal zo’n 25.000 woningen versneld gaat worden. Het gaat om locaties in de gemeenten...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/minister-benoemt-5-nieuwe-locaties-voor-versneld-bouwen-25.000-huizen
 
 ---
 
@@ -23,6 +35,18 @@ De boetes voor het overtreden van arbeidswetten stijgen met zo’n 22%. Ook word
 Het kabinet wil voorkomen dat derdelanders van buiten de EU via een ander Europees land direct in Nederland gaan werken. Deze vorm van detachering wordt op steeds grotere schaal gebruikt om Nederlandse regels te omzeilen. Dit leidt tot misstanden...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-maakt-einde-aan-sluiproute-voor-goedkope-arbeidsmigranten
+
+---
+
+## Kabinet pakt arbeidsmisstanden aan met hogere boetes
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Sat, 07 Nov 2026 07:00:00 GMT
+
+De boetes voor het overtreden van arbeidswetten stijgen met zo’n 22%. Ook worden de boetes vanaf 1 januari 2028 jaarlijks geïndexeerd. Zo wil het kabinet misstanden op de werkvloer aanpakken en kwetsbare werknemers beter beschermen. Het verhogen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-pakt-arbeidsmisstanden-aan-met-hogere-boetes
 
 ---
 
@@ -134,18 +158,6 @@ Frank van Diepenbeek wordt inspecteur-generaal der Mijnen (IGM) en voorzitter co
 
 ---
 
-## New guidance on electricity imports under Centralised Clearance for Import (CCI)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
-
----
-
 ## EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh
 
 **Bron:** Europese Commissie
@@ -158,6 +170,66 @@ The European Union has allocated an additional €16 million in humanitarian aid
 
 ---
 
+## EU to push for accelerated global climate action at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
+
+---
+
+## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
+
+---
+
+## Commissioner Kos in Moldova to discuss EU accession and strengthen regional connectivity
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+From 8 to 10 November, Commissioner for Enlargement Marta Kos will be in Moldova to discuss the country's progress on its EU accession path and advance regional cooperation on digital connectivity.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-moldova-discuss-eu-accession-and-strengthen-regional-connectivity-2026-11-06_en
+
+---
+
+## CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The Commission and Ministers of the Central and South-East European Energy Connectivity (CESEC) High-level group met in Zagreb today to explore progress on cross-border energy infrastructure, electrification and measures to meet the challenge of high energy prices.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/cesec-ministerial-takes-stock-cross-border-energy-infrastructure-and-prices-and-welcomes-czechia-and-2026-11-06_en
+
+---
+
+## Fourth EU/EURATOM (European Atomic Energy Community) and Ukraine Research and Innovation Committee meeting
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+On 6 November, the 4th EU/EURATOM-Ukraine Joint Research and Innovation Meeting took place in an online format, hosted by the Ministry of Education and Science of Ukraine.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fourth-eueuratom-european-atomic-energy-community-and-ukraine-research-and-innovation-committee-2026-11-06_en
+
+---
+
 ## Commission initiates safeguard investigation into imports of PET resin chemicals
 
 **Bron:** Europese Commissie
@@ -167,6 +239,42 @@ The European Union has allocated an additional €16 million in humanitarian aid
 Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals.
 
 **Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en
+
+---
+
+## Commission approves merger between AkzoNobel and Axalta, subject to conditions
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+Commission approves merger between AkzoNobel and Axalta, subject to conditions
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-merger-between-akzonobel-and-axalta-subject-conditions-2026-11-06_en
+
+---
+
+## 17 new projects, €119 million in action for restoring and protecting Europe’s ocean and waters
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The EU Mission Ocean and Waters welcomes 17 new projects selected under the eight topics of the 2025 call ‘Supporting the implementation of the Restore our Ocean and Waters Mission’ (HORIZON-MISS-2025-03).
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/17-new-projects-eur119-million-action-restoring-and-protecting-europes-ocean-and-waters-2026-11-06_en
+
+---
+
+## Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+Today, the EU and Montenegro provisionally closed accession negotiations on free movement of goods (chapter 1) and food safety, veterinary and phytosanitary policy (chapter 12).
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/enlargement-eu-and-montenegro-close-accession-negotiations-free-movement-goods-and-food-safety-2026-11-06_en
 
 ---
 
@@ -242,27 +350,15 @@ Over three decades of the European Union’s flagship programme for researcher t
 
 ---
 
-## EU to push for accelerated global climate action at COP31
+## New guidance on electricity imports under Centralised Clearance for Import (CCI)
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
 
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
+New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
 
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
-
----
-
-## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
 
 ---
 
@@ -323,6 +419,18 @@ Defensie lanceerde vandaag het Nationaal Instituut voor Defensie Technologie (NI
 Het kabinet trekt vanaf 2027 jaarlijks € 5 miljoen uit om de financiële tegemoetkoming voor slachtoffers van ernstige gewelds- en zedenmisdrijven en nabestaanden te verhogen. Het geld wordt gebruikt voor hogere tegemoetkomingen via het Schadefonds...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/kabinet-verhoogt-tegemoetkoming-voor-slachtoffers-van-gewelds-en-zedenmisdrijven
+
+---
+
+## Commission launches second Annual Migration Management Cycle
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+
+On 6 November, the Commission launched the second Annual Migration Management Cycle, providing a comprehensive overview of migration trends and risks in the EU over the previous year, identifying Member States facing migratory pressure, and proposing the establishment of the second Solidarity Pool.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en
 
 ---
 
@@ -446,18 +554,6 @@ The eighth meeting of the High‑Level Group on Union Restrictive Measures (sanc
 
 ---
 
-## Commission launches second Annual Migration Management Cycle
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
-
-On 6 November, the Commission launched the second Annual Migration Management Cycle, providing a comprehensive overview of migration trends and risks in the EU over the previous year, identifying Member States facing migratory pressure, and proposing the establishment of the second Solidarity Pool.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en
-
----
-
 ## Kabinet en maatschappelijke partijen in gesprek over de klimaat- en energieopgave
 
 **Bron:** Rijksoverheid Nieuws
@@ -482,30 +578,6 @@ Mevrouw E.C.M. (Liselotte) Franssen-du Maine is benoemd tot burgemeester van de 
 
 ---
 
-## Nieuwe burgemeester in Weststellingwerf
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 04 Nov 2026 12:53:00 GMT
-
-De heer M. (Michiel) Schrier is benoemd tot burgemeester van de gemeente Weststellingwerf. De benoeming gaat in op 7 december 2026.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/nieuwe-burgemeester-in-weststellingwerf
-
----
-
-## Meer bewustzijn over woondiscriminatie, maar nog geen gelijke kansen voor iedereen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 04 Nov 2026 12:02:00 GMT
-
-Verhuurbemiddelaars herkennen discriminerende verzoeken van verhuurders voor wie ze bemiddelen steeds vaker, maar wijzen deze nog niet altijd af. Ook hebben woningzoekenden met een Marokkaans klinkende naam minder kans op het kunnen bezichtigen...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/meer-bewustzijn-over-woondiscriminatie-maar-nog-geen-gelijke-kansen-voor-iedereen
-
----
-
 ## The European Commission and European Space Agency launch a joint website showcasing collaborative research on our changing planet
 
 **Bron:** Europese Commissie
@@ -518,87 +590,15 @@ The joint Earth System Science Initiative connects European research projects to
 
 ---
 
-## Commission strengthens Europe’s position as the world’s leading tourism destination
+## Strengthening EU Peace Mediation: insights from EU Community of Practice on Peace Mediation 2026
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
 
-The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.
+The 8th edition of the EU Community of Practice (CoP) on Peace Mediation took place in Brussels and brought together over 300 peace practitioners and policymakers from 60 countries.
 
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en
-
----
-
-## EU sets out a new Strategy for the Arctic
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en
-
----
-
-## Results of 04-11-2026 auction (EU-Bills)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-Auction results EU-Bills.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en
-
----
-
-## 2026 Enlargement Package shows that reform commitment delivers progress towards EU membership
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-Today, the European Commission adopted its annual Enlargement Package, taking stock of progress made by the enlargement partners over the past year and setting out reform priorities for the way forward.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en
-
----
-
-## Hospitals and healthcare social partners celebrate 20 years of social dialogue
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Healthcare has delivered joint solutions to support workers, employers and resilient healthcare systems across Europe.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en
-
----
-
-## Biomethane Mechanism: First matching round to connect buyers and suppliers
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-The European Commission is launching the first matching round under the Biomethane Mechanism to bring potential buyers and suppliers of biomethane together across Europe.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en
-
----
-
-## Eurostat: Non-household electricity prices fall further in 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 04 Nov 2026 00:00:00 +0100
-
-In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).
-
-**Originele publicatie:** https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/strengthening-eu-peace-mediation-insights-eu-community-practice-peace-mediation-2026-2026-11-04_en
 
 ---
 
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
+
+**Bron:** Raad van de EU - Persberichten
+
+The EU and the OACPS member states have issued a joint statement ahead of COP31, reaffirming their commitment to the full implementation of the Paris Agreement and strengthen cooperation on climate action.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/
 
 ---
 
@@ -909,16 +919,6 @@ Statement by the HR on behalf of the EU on the alignment of certain third countr
 Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262164-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/
-
----
-
-## HR statement on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
-
-**Bron:** Raad van de EU - Persberichten
-
-HR statement on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2291 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/
 
 ---
 
