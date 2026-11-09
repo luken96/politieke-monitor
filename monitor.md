@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-09T19:43:19.725249+00:00
+Laatste update: 2026-11-09T20:38:17.631365+00:00
+
+## Vogelgriep vastgesteld in Hierden
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 20:09:00 GMT
+
+In Hierden (gemeente Harderwijk, provincie Gelderland) is vogelgriep vastgesteld op een vleeseendenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/vogelgriep-vastgesteld-in-hierden
+
+---
 
 ## Minister Aartsen: vier dagen werken de norm in de inburgering
 
@@ -462,18 +474,6 @@ Ruim 50 politiemedewerkers, militairen, marechaussees en civiele experts hebben 
 
 ---
 
-## Kabinet zet werk centraal in de inburgering: wie werkt krijgt meer tijd om in te burgeren
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 05 Nov 2026 16:30:00 GMT
-
-Het kabinet wil dat werken de norm wordt tijdens de inburgering. Het overgrote deel van de inburgeraars werkt nu niet en heeft een bijstandsuitkering. Minister Aartsen (Werk en Participatie) wil dat daar verandering in komt. Hij wil dat doen door...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/kabinet-zet-werk-centraal-in-de-inburgering-wie-werkt-krijgt-meer-tijd-om-in-te-burgeren
-
----
-
 ## Commission launches second Annual Migration Management Cycle
 
 **Bron:** Europese Commissie
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/
+
+---
+
 ## Ukraine: Council extends EU Military Assistance Mission mandate for two years
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ The President of the European Council, António Costa, travelled to Madrid and g
 President of the European Council António Costa made a statement in the context of the Euronews EU Enlargement Summit 2026 that took place in Brussels on 3 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/
-
----
-
-## Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council
-
-**Bron:** Raad van de EU - Persberichten
-
-EU Heads of State or Government will gather in Dublin (Ireland), to discuss about artificial intelligence.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/informal-meeting-of-heads-of-state-or-government-of-13-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/
 
 ---
 
