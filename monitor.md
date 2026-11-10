@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-10T07:57:17.196871+00:00
+Laatste update: 2026-11-10T09:45:49.686357+00:00
+
+## Nederland en Duitsland intensiveren samenwerking op spoorgebied
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 08:00:00 GMT
+
+Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen willen het grensoverschrijdende passagiers- en goederenvervoer (inclusief militaire mobiliteit) versterken, ook vanwege het Europese belang hiervan. Doel is dat er meer...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/nederland-en-duitsland-intensiveren-samenwerking-op-spoorgebied
+
+---
 
 ## Vogelgriep vastgesteld in Hierden
 
@@ -14,7 +26,7 @@ In Hierden (gemeente Harderwijk, provincie Gelderland) is vogelgriep vastgesteld
 
 ---
 
-## Minister Aartsen: vier dagen werken de norm in de inburgering
+## Minister Aartsen: 4 dagen werken de norm in de inburgering
 
 **Bron:** Rijksoverheid Nieuws
 
@@ -558,18 +570,6 @@ New guidance supports a harmonised EU approach to electricity imports under the 
 
 ---
 
-## Herinneringsmedailles Internationale Missies uitgereikt in de Nieuwe Kerk
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 05 Nov 2026 16:40:00 GMT
-
-Ruim 50 politiemedewerkers, militairen, marechaussees en civiele experts hebben vandaag in de Nieuwe Kerk in Den Haag de Herinneringsmedaille Internationale Missies gekregen. Zij ontvingen deze voor hun inzet tijdens missies in onder meer...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/05/herinneringsmedailles-internationale-missies-uitgereikt-in-de-nieuwe-kerk
-
----
-
 ## Commission launches second Annual Migration Management Cycle
 
 **Bron:** Europese Commissie
@@ -723,206 +723,6 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
-
----
-
-## Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/
-
----
-
-## Ukraine: Council extends EU Military Assistance Mission mandate for two years
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council extended the mandate of the EU Military Assistance Mission in support of Ukraine until 15 November 2028.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/
-
----
-
-## Humanitarian aid: Council approves conclusions on strengthening EU action amid global challenges
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council approved conclusions reaffirming the EU’s commitment to principled humanitarian action, stronger protection of civilians and more effective action amid growing global humanitarian needs.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/humanitarian-aid-council-approves-conclusions-on-strengthening-eu-action-amid-global-challenges/
-
----
-
-## Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 9 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Remarks by Eurogroup President Kyriakos Pierrakakis on the economic outlook in the euro area, defence financing and joint procurement, progress made on the digital euro and on the outlook for the banking sector, as well as the nomination process for three vacancies on the ECB Executive Board.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-9-november-2026/
-
----
-
-## Taxation: Council approves further VAT simplification rules for online sales
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council today agreed further measures to improve value-added tax collection on e-commerce sales into the EU. This is the final building block of the broader overhaul of the EU customs framework.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales/
-
----
-
-## Press briefing - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The press briefing will take place on Wednesday 11 November 2026 at 10.00.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/press-briefing-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/
-
----
-
-## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
-
-**Bron:** Raad van de EU - Persberichten
-
-The EU and the OACPS member states have issued a joint statement ahead of COP31, reaffirming their commitment to the full implementation of the Paris Agreement and strengthen cooperation on climate action.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/
-
----
-
-## Statement by the Eurogroup President on the nominations for the post of ECB President
-
-**Bron:** Raad van de EU - Persberichten
-
-President of the Eurogroup, Kyriakos Pierrakakis, issued a statement on the nominations for the post of ECB President.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/
-
----
-
-## Forward look: 9 - 22 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/forward-look-2026/
-
----
-
-## Media advisory - Eurogroup meeting and Economic and Financial Affairs Council of 9 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing, public sessions and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/media-advisory-eurogroup-meeting-and-economic-and-financial-affairs-council-of-9-november-2026/
-
----
-
-## Weekly schedule of President António Costa
-
-**Bron:** Raad van de EU - Persberichten
-
-Weekly schedule of President António Costa, 9-15  November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/weekly-schedule-of-president-antonio-costa/
-
----
-
-## Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety
-
-**Bron:** Raad van de EU - Persberichten
-
-The EU and Montenegro provisionally closed accession negotiations on free movement of goods (chapter 1) and food safety (chapter 12).
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/enlargement-eu-and-montenegro-close-accession-negotiations-on-free-movement-of-goods-and-food-safety/
-
----
-
-## Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)
-
-**Bron:** Raad van de EU - Persberichten
-
-Joint press release following the home affairs day of the EU – Western Balkans ministerial forum on justice and home affairs in Budva, Montenegro.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/
-
----
-
-## Video message of President António Costa for the New Economy Forum
-
-**Bron:** Raad van de EU - Persberichten
-
-President of the European Council António Costa delivered a video message on the occasion of the New Economy Forum award, in which he highlighted the important role of the 2026 awarded Ibero-American General Secretariat in promoting multilateralism and international relations.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/video-message-of-president-antonio-costa-for-the-new-economy-forum/
-
----
-
-## Simplification: Council agrees position to simplify energy and tyre labelling
-
-**Bron:** Raad van de EU - Persberichten
-
-Council agrees position on simplification and better use of digital options for energy and tyre labelling.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/
-
----
-
-## Methane regulation: Council agrees to postpone monitoring rules for one year
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has agreed its position on targeted amendments to the methane regulation, postponing import-related monitoring rules for one year.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/
-
----
-
-## Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)
-
-**Bron:** Raad van de EU - Persberichten
-
-Joint press release following the home affairs day of the EU – Western Balkans ministerial forum on justice and home affairs in Budva, Montenegro.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/05/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/
-
----
-
-## Fight against illicit drugs: Council backs new rules for chemicals used to make illegal drugs
-
-**Bron:** Raad van de EU - Persberichten
-
-EU member states agreed their position on stronger and simpler EU rules to stop substances that can be used to make illegal drugs – or drug precursors - from reaching criminals involved in illegal drug production.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/fight-against-illicit-drugs-council-backs-new-rules-for-chemicals-used-to-make-illegal-drugs/
-
----
-
-## Speech by President António Costa at the plenary session of the XXX Ibero-American Summit
-
-**Bron:** Raad van de EU - Persberichten
-
-The President of the European Council, António Costa, travelled to Madrid and gave a speech at the plenary session of the 30th Ibero-American Summit on 5 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/speech-by-president-antonio-costa-at-the-plenary-session-of-the-30th-ibero-american-summit/
-
----
-
-## Statement by President António Costa in the context of the Euronews EU Enlargement Summit 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-President of the European Council António Costa made a statement in the context of the Euronews EU Enlargement Summit 2026 that took place in Brussels on 3 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/
 
 ---
 
