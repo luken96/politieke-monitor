@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-10T18:28:02.041243+00:00
+Laatste update: 2026-11-10T19:38:52.634750+00:00
 
 ## Gerbert Kunst vertrekt als Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten
 
@@ -11,6 +11,18 @@ Laatste update: 2026-11-10T18:28:02.041243+00:00
 Gerbert Kunst verlaat per 1 maart 2027 de post van de Vertegenwoordiging van Nederland in Willemstad. De uitzending wordt op zijn verzoek, vanwege privéomstandigheden voortijdig beëindigd. Gerbert Kunst was vanaf 15 mei 2025 aangesteld als de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/gerbert-kunst-vertrekt-als-vertegenwoordiger-van-nederland-in-aruba-curacao-en-sint-maarten
+
+---
+
+## Minister-president Jetten ontvangt premiers België, Luxemburg en Noordrijn-Westfalen voor Benelux Top in Maastricht
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 15:35:00 GMT
+
+Op dinsdag 10 november ontving minister-president Jetten, Eerste Minister De Wever van België, Premier Frieden van Luxemburg en minister-president Wüst van de Duitse deelstaat Noordrijn-Westfalen voor de Benelux Top, die dit jaar in Maastricht...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/minister-president-jetten-ontvangt-premiers-belgie-luxemburg-en-noordrijn-westfalen-voor-benelux-top-in-maastricht
 
 ---
 
@@ -47,90 +59,6 @@ Scholen gaan aan de slag met een betere aanpak van het signaleren, voorkomen en 
 Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen willen het grensoverschrijdende passagiers- en goederenvervoer (inclusief militaire mobiliteit) versterken, ook vanwege het Europese belang hiervan. Doel is dat er meer...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/nederland-en-duitsland-intensiveren-samenwerking-op-spoorgebied
-
----
-
-## Commission approves €2 billion Belgian State aid to support offshore wind energy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The European Commission has approved a €2.04 billion Belgian scheme to support offshore wind energy in line with the objectives of the Clean Industrial Deal.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur2-billion-belgian-state-aid-support-offshore-wind-energy-2026-11-10_en
-
----
-
-## High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-Yesterday and today, the first High-Level Connectivity Platform Meeting on Digital takes place in Chișinău, Moldova, jointly hosted by the European Commission and the Moldovan Ministry of Economic Development and Digitalisation.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south-2026-11-10_en
-
----
-
-## EU signs up to Global Geothermal Pledge at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The European Union has joined a new global pledge on geothermal energy at the ongoing COP31 talks in Antalya, Türkiye this week.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-signs-global-geothermal-pledge-cop31-2026-11-10_en
-
----
-
-## Discover the new interactive ECO Country Fact Sheets
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The European Construction Observatory (ECO) has launched its first set of revamped Country Fact Sheets, featuring a new interactive design that makes it easier to explore and understand the construction ecosystem across EU countries.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/discover-new-interactive-eco-country-fact-sheets-2026-11-10_en
-
----
-
-## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
-
----
-
-## Are you shaping the future of Africa’s blue economy? Apply to pitch at BlueInvest Africa 2027!
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The search is on for Africa’s most promising blue economy businesses! The call for pitchers for BlueInvest Africa 2027 is now open. African entrepreneurs developing innovative and sustainable solutions for the blue economy have until 31 December 2026 to apply
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/are-you-shaping-future-africas-blue-economy-apply-pitch-blueinvest-africa-2027-2026-11-10_en
-
----
-
-## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-Ten energy communities from six countries share €1 million, awarded for the way they make decisions, share benefits and work with local partners.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en
 
 ---
 
@@ -234,126 +162,6 @@ Minister Elanor Boekholt-O'Sullivan van Volkshuisvesting en Ruimtelijke Ordening
 
 ---
 
-## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The EU and its 27 member states, together with the 77 members of the Organisation of African, Caribbean and Pacific States (OACPS) signatories of the Samoa Agreement, have reaffirmed their commitment to the full implementation of the Paris Agreement and to strengthening their cooperation...
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-and-oacps-reaffirm-commitment-climate-action-focusing-turning-priorities-concrete-2026-11-09_en
-
----
-
-## Commission welcomes Council agreement on removing the €150 threshold for the VAT Import One-Stop Shop
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The Commission welcomes today’s general approach reached by EU Member States in the Council on removing the €150 threshold for the VAT Import One-Stop Shop (IOSS).
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/commission-welcomes-council-agreement-removing-eur150-threshold-vat-import-one-stop-shop-2026-11-09_en
-
----
-
-## Is that job offer really safe? How to spot a quality job before you sign
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-You’ve got a job offer – but is it secure? With nearly one in five EU jobs classed as vulnerable, here’s how to read the fine print, check the warning signs and search smarter with EURES.
-
-**Originele publicatie:** https://eures.europa.eu/job-offer-really-safe-how-spot-quality-job-you-sign-2026-11-09_en
-
----
-
-## Commission launches ‘European Defence: Protect What Matters’ communication campaign
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-the European Commission launched a communication campaign "European defence: protect what matters"  to showcase the European added value in cooperation and investment in common security and defence.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-european-defence-protect-what-matters-communication-campaign-2026-11-09_en
-
----
-
-## EU seeks nominations for stakeholder group on tokenisation standards in finance
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The group aims to establish a framework for monitoring compliance with the agreed standards and may formulate recommendations for EU authorities on how to incentivise compliance with those standards.
-
-**Originele publicatie:** https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en
-
----
-
-## EU emissions continue to fall as clean energy gains ground
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-emissions-continue-fall-clean-energy-gains-ground-2026-11-09_en
-
----
-
-## Have your say: help shape the future of ECO
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The European Construction Observatory (ECO) is inviting stakeholders to share their feedback on its activities, publications and website.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/have-your-say-help-shape-future-eco-2026-11-09_en
-
----
-
-## Another year of ECO - new data, insights and trends of Europe's construction ecosystem
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-Join us on 3 December 2026, from 10:00 to 11:30 CET, for a webinar exploring the latest publications, data and insights from the European Construction Observatory (ECO).
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/another-year-eco-new-data-insights-and-trends-europes-construction-ecosystem-2026-11-09_en
-
----
-
-## Commission launches the EU fertilisers value chain Partnership to provide greater predictability and strengthen cooperation across the value chain
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The EU Fertiliser value chain Partnership aims to ensure affordable, home-grown, improve predictability, and support decarbonisation of the EU fertiliser industry.
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/commission-launches-eu-fertilisers-value-chain-partnership-provide-greater-predictability-and-2026-11-09_en
-
----
-
-## EU emissions continue to fall as clean energy gains ground
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.
-
-**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343
-
----
-
 ## Kabinet maakt einde aan sluiproute voor goedkope arbeidsmigranten
 
 **Bron:** Rijksoverheid Nieuws
@@ -435,174 +243,6 @@ Het wordt mogelijk om crimineel vermogen effectiever af te pakken, ook zonder da
 Mark Bressers wordt inspecteur-generaal Rijksinspectie Digitale Infrastructuur bij het ministerie van Economische Zaken en Klimaat. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-inspecteur-generaal-bij-rijksinspectie-digitale-infrastructuur-ezk
-
----
-
-## Kabinet kiest voor AI die Nederland vooruithelpt
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
-
-Kunstmatige intelligentie (AI) verandert in hoog tempo onze economie, samenleving en veiligheid. De keuzes die Nederland nu maakt, bepalen welke banen en bedrijven hier ontstaan, hoe onze zorg, onderwijs en overheid functioneren en hoeveel invloed...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt
-
----
-
-## CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The Commission and Ministers of the Central and South-East European Energy Connectivity (CESEC) High-level group met in Zagreb today to explore progress on cross-border energy infrastructure, electrification and measures to meet the challenge of high energy prices.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/cesec-ministerial-takes-stock-cross-border-energy-infrastructure-and-prices-and-welcomes-czechia-and-2026-11-06_en
-
----
-
-## 17 new projects, €119 million in action for restoring and protecting Europe’s ocean and waters
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The EU Mission Ocean and Waters welcomes 17 new projects selected under the eight topics of the 2025 call ‘Supporting the implementation of the Restore our Ocean and Waters Mission’ (HORIZON-MISS-2025-03).
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/17-new-projects-eur119-million-action-restoring-and-protecting-europes-ocean-and-waters-2026-11-06_en
-
----
-
-## Fourth EU/EURATOM (European Atomic Energy Community) and Ukraine Research and Innovation Committee meeting
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-On 6 November, the 4th EU/EURATOM-Ukraine Joint Research and Innovation Meeting took place in an online format, hosted by the Ministry of Education and Science of Ukraine.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fourth-eueuratom-european-atomic-energy-community-and-ukraine-research-and-innovation-committee-2026-11-06_en
-
----
-
-## EU actions to prevent and combat child poverty explained to children and young people
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-A new child-friendly publication, “Breaking the cycle of child poverty - Strengthening the European Child Guarantee”, explains how the EU is working towards every child having a fair chance in life.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en
-
----
-
-## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
-
----
-
-## Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-Today, the EU and Montenegro provisionally closed accession negotiations on free movement of goods (chapter 1) and food safety, veterinary and phytosanitary policy (chapter 12).
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/enlargement-eu-and-montenegro-close-accession-negotiations-free-movement-goods-and-food-safety-2026-11-06_en
-
----
-
-## EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en
-
----
-
-## New guidance on electricity imports under Centralised Clearance for Import (CCI)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
-
----
-
-## Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-As announced by President Ursula von der Leyen during her travel to the Western Balkans in October 2026, the European Commission has opened negotiations to integrate Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia into the EU's ‘Roam Like at Home' regime.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en
-
----
-
-## European Responsible Housing Awards open for applications
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The 2027 edition of the European Responsible Housing Awards is open for applications until 31 December 2026.
-
-**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en
-
----
-
-## EU to push for accelerated global climate action at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
-
----
-
-## TikTok: preliminary findings on harmful “rabbit hole” effect
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect' of its recommender system.
-
-**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361
-
----
-
-## Commissioner Kos in Moldova to discuss EU accession and strengthen regional connectivity
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-From 8 to 10 November, Commissioner for Enlargement Marta Kos will be in Moldova to discuss the country's progress on its EU accession path and advance regional cooperation on digital connectivity.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-moldova-discuss-eu-accession-and-strengthen-regional-connectivity-2026-11-06_en
 
 ---
 
