@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-10T09:45:49.686357+00:00
+Laatste update: 2026-11-10T10:45:12.932930+00:00
 
 ## Nederland en Duitsland intensiveren samenwerking op spoorgebied
 
@@ -62,7 +62,7 @@ Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodig
 
 ---
 
-## Nieuwe ronde investeringsfonds startups ETCI, kabinet investeert € 200 miljoen
+## Nieuwe ronde investeringsfonds ETCI, kabinet investeert € 200 miljoen
 
 **Bron:** Rijksoverheid Nieuws
 
@@ -70,7 +70,7 @@ Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodig
 
 De doorgroei van startups in Europa loopt ver achter in vergelijking met bijvoorbeeld de Verenigde Staten. Om meer (durf)kapitaal bij elkaar te brengen, hebben diverse landen waaronder Nederland de handen ineengeslagen via het investeringsfonds...
 
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/nieuwe-ronde-investeringsfonds-startups-etci-kabinet-investeert-euro200-miljoen
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/nieuwe-ronde-investeringsfonds-etci-kabinet-investeert-euro200-miljoen
 
 ---
 
