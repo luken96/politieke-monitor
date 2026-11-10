@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-10T13:55:42.756579+00:00
+Laatste update: 2026-11-10T15:30:28.107442+00:00
+
+## Minister Rianne Letschert bezoekt Sint Maarten, Curaçao en Aruba
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 14:00:00 GMT
+
+Minister Rianne Letschert (Onderwijs, Cultuur en Wetenschap) bezoekt Sint Maarten, Curaçao en Aruba van 16 tot en met 20 november 2026. Het bezoek staat in het teken van het Ministerieel Vierlandenoverleg OCW (M4LO) en dient als kennismaking met...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/minister-rianne-letschert-bezoekt-sint-maarten-curacao-en-aruba
+
+---
 
 ## Scholen krijgen meer grip op verzuim met wet Terugdringen Schoolverzuim
 
@@ -26,6 +38,18 @@ Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen w
 
 ---
 
+## Commission approves €2 billion Belgian State aid to support offshore wind energy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+The European Commission has approved a €2.04 billion Belgian scheme to support offshore wind energy in line with the objectives of the Clean Industrial Deal.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur2-billion-belgian-state-aid-support-offshore-wind-energy-2026-11-10_en
+
+---
+
 ## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
 
 **Bron:** Europese Commissie
@@ -35,6 +59,42 @@ Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen w
 One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
 
 **Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
+
+---
+
+## Are you shaping the future of Africa’s blue economy? Apply to pitch at BlueInvest Africa 2027!
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+The search is on for Africa’s most promising blue economy businesses! The call for pitchers for BlueInvest Africa 2027 is now open. African entrepreneurs developing innovative and sustainable solutions for the blue economy have until 31 December 2026 to apply
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/are-you-shaping-future-africas-blue-economy-apply-pitch-blueinvest-africa-2027-2026-11-10_en
+
+---
+
+## High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+Yesterday and today, the first High-Level Connectivity Platform Meeting on Digital takes place in Chișinău, Moldova, jointly hosted by the European Commission and the Moldovan Ministry of Economic Development and Digitalisation.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south-2026-11-10_en
+
+---
+
+## EU signs up to Global Geothermal Pledge at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+The European Union has joined a new global pledge on geothermal energy at the ongoing COP31 talks in Antalya, Türkiye this week.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-signs-global-geothermal-pledge-cop31-2026-11-10_en
 
 ---
 
@@ -138,15 +198,15 @@ Minister Elanor Boekholt-O'Sullivan van Volkshuisvesting en Ruimtelijke Ordening
 
 ---
 
-## Is that job offer really safe? How to spot a quality job before you sign
+## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
 
-You’ve got a job offer – but is it secure? With nearly one in five EU jobs classed as vulnerable, here’s how to read the fine print, check the warning signs and search smarter with EURES.
+The EU and its 27 member states, together with the 77 members of the Organisation of African, Caribbean and Pacific States (OACPS) signatories of the Samoa Agreement, have reaffirmed their commitment to the full implementation of the Paris Agreement and to strengthening their cooperation...
 
-**Originele publicatie:** https://eures.europa.eu/job-offer-really-safe-how-spot-quality-job-you-sign-2026-11-09_en
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-and-oacps-reaffirm-commitment-climate-action-focusing-turning-priorities-concrete-2026-11-09_en
 
 ---
 
@@ -162,27 +222,15 @@ The Commission welcomes today’s general approach reached by EU Member States i
 
 ---
 
-## EU seeks nominations for stakeholder group on tokenisation standards in finance
+## Is that job offer really safe? How to spot a quality job before you sign
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
 
-The group aims to establish a framework for monitoring compliance with the agreed standards and may formulate recommendations for EU authorities on how to incentivise compliance with those standards.
+You’ve got a job offer – but is it secure? With nearly one in five EU jobs classed as vulnerable, here’s how to read the fine print, check the warning signs and search smarter with EURES.
 
-**Originele publicatie:** https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en
-
----
-
-## Have your say: help shape the future of ECO
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The European Construction Observatory (ECO) is inviting stakeholders to share their feedback on its activities, publications and website.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/have-your-say-help-shape-future-eco-2026-11-09_en
+**Originele publicatie:** https://eures.europa.eu/job-offer-really-safe-how-spot-quality-job-you-sign-2026-11-09_en
 
 ---
 
@@ -198,27 +246,15 @@ the European Commission launched a communication campaign "European defence: pro
 
 ---
 
-## Commission launches the EU fertilisers value chain Partnership to provide greater predictability and strengthen cooperation across the value chain
+## EU seeks nominations for stakeholder group on tokenisation standards in finance
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
 
-The EU Fertiliser value chain Partnership aims to ensure affordable, home-grown, improve predictability, and support decarbonisation of the EU fertiliser industry.
+The group aims to establish a framework for monitoring compliance with the agreed standards and may formulate recommendations for EU authorities on how to incentivise compliance with those standards.
 
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/commission-launches-eu-fertilisers-value-chain-partnership-provide-greater-predictability-and-2026-11-09_en
-
----
-
-## Another year of ECO - new data, insights and trends of Europe's construction ecosystem
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-Join us on 3 December 2026, from 10:00 to 11:30 CET, for a webinar exploring the latest publications, data and insights from the European Construction Observatory (ECO).
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/another-year-eco-new-data-insights-and-trends-europes-construction-ecosystem-2026-11-09_en
+**Originele publicatie:** https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en
 
 ---
 
@@ -234,6 +270,42 @@ The European Commission has today published the 2026 EU Climate Action Progress 
 
 ---
 
+## Have your say: help shape the future of ECO
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+The European Construction Observatory (ECO) is inviting stakeholders to share their feedback on its activities, publications and website.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/have-your-say-help-shape-future-eco-2026-11-09_en
+
+---
+
+## Another year of ECO - new data, insights and trends of Europe's construction ecosystem
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+Join us on 3 December 2026, from 10:00 to 11:30 CET, for a webinar exploring the latest publications, data and insights from the European Construction Observatory (ECO).
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/another-year-eco-new-data-insights-and-trends-europes-construction-ecosystem-2026-11-09_en
+
+---
+
+## Commission launches the EU fertilisers value chain Partnership to provide greater predictability and strengthen cooperation across the value chain
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+The EU Fertiliser value chain Partnership aims to ensure affordable, home-grown, improve predictability, and support decarbonisation of the EU fertiliser industry.
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/commission-launches-eu-fertilisers-value-chain-partnership-provide-greater-predictability-and-2026-11-09_en
+
+---
+
 ## EU emissions continue to fall as clean energy gains ground
 
 **Bron:** Europese Commissie
@@ -242,19 +314,7 @@ The European Commission has today published the 2026 EU Climate Action Progress 
 
 The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-emissions-continue-fall-clean-energy-gains-ground-2026-11-09_en
-
----
-
-## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The EU and its 27 member states, together with the 77 members of the Organisation of African, Caribbean and Pacific States (OACPS) signatories of the Samoa Agreement, have reaffirmed their commitment to the full implementation of the Paris Agreement and to strengthening their cooperation...
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-and-oacps-reaffirm-commitment-climate-action-focusing-turning-priorities-concrete-2026-11-09_en
+**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343
 
 ---
 
@@ -366,66 +426,6 @@ Drones bieden volop kansen en dragen bij aan een veilig, bereikbaar en innovatie
 
 ---
 
-## Benoeming plaatsvervangend secretaris-generaal Defensie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
-
-Drs. R. (Rosanne) Stotijn wordt plaatsvervangend secretaris-generaal bij het ministerie van Defensie. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties. De benoeming gaat in op...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-bij-defensie
-
----
-
-## EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en
-
----
-
-## EU to push for accelerated global climate action at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
-
----
-
-## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
-
----
-
-## Commissioner Kos in Moldova to discuss EU accession and strengthen regional connectivity
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-From 8 to 10 November, Commissioner for Enlargement Marta Kos will be in Moldova to discuss the country's progress on its EU accession path and advance regional cooperation on digital connectivity.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-moldova-discuss-eu-accession-and-strengthen-regional-connectivity-2026-11-06_en
-
----
-
 ## CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group
 
 **Bron:** Europese Commissie
@@ -435,42 +435,6 @@ From 8 to 10 November, Commissioner for Enlargement Marta Kos will be in Moldova
 The Commission and Ministers of the Central and South-East European Energy Connectivity (CESEC) High-level group met in Zagreb today to explore progress on cross-border energy infrastructure, electrification and measures to meet the challenge of high energy prices.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/cesec-ministerial-takes-stock-cross-border-energy-infrastructure-and-prices-and-welcomes-czechia-and-2026-11-06_en
-
----
-
-## Fourth EU/EURATOM (European Atomic Energy Community) and Ukraine Research and Innovation Committee meeting
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-On 6 November, the 4th EU/EURATOM-Ukraine Joint Research and Innovation Meeting took place in an online format, hosted by the Ministry of Education and Science of Ukraine.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fourth-eueuratom-european-atomic-energy-community-and-ukraine-research-and-innovation-committee-2026-11-06_en
-
----
-
-## Commission initiates safeguard investigation into imports of PET resin chemicals
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en
-
----
-
-## Commission approves merger between AkzoNobel and Axalta, subject to conditions
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-Commission approves merger between AkzoNobel and Axalta, subject to conditions
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-merger-between-akzonobel-and-axalta-subject-conditions-2026-11-06_en
 
 ---
 
@@ -486,27 +450,15 @@ The EU Mission Ocean and Waters welcomes 17 new projects selected under the eigh
 
 ---
 
-## Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety
+## Fourth EU/EURATOM (European Atomic Energy Community) and Ukraine Research and Innovation Committee meeting
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
 
-Today, the EU and Montenegro provisionally closed accession negotiations on free movement of goods (chapter 1) and food safety, veterinary and phytosanitary policy (chapter 12).
+On 6 November, the 4th EU/EURATOM-Ukraine Joint Research and Innovation Meeting took place in an online format, hosted by the Ministry of Education and Science of Ukraine.
 
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/enlargement-eu-and-montenegro-close-accession-negotiations-free-movement-goods-and-food-safety-2026-11-06_en
-
----
-
-## EU to push for accelerated global climate action at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fourth-eueuratom-european-atomic-energy-community-and-ukraine-research-and-innovation-committee-2026-11-06_en
 
 ---
 
@@ -519,6 +471,54 @@ At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 Novemb
 A new child-friendly publication, “Breaking the cycle of child poverty - Strengthening the European Child Guarantee”, explains how the EU is working towards every child having a fair chance in life.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en
+
+---
+
+## Paris Peace Forum 2026: Mediating Together for a Peace That Lasts
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en
+
+---
+
+## Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+Today, the EU and Montenegro provisionally closed accession negotiations on free movement of goods (chapter 1) and food safety, veterinary and phytosanitary policy (chapter 12).
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/enlargement-eu-and-montenegro-close-accession-negotiations-free-movement-goods-and-food-safety-2026-11-06_en
+
+---
+
+## EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en
+
+---
+
+## New guidance on electricity imports under Centralised Clearance for Import (CCI)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
 
 ---
 
@@ -546,6 +546,18 @@ The 2027 edition of the European Responsible Housing Awards is open for applicat
 
 ---
 
+## EU to push for accelerated global climate action at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
+
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
+
+---
+
 ## TikTok: preliminary findings on harmful “rabbit hole” effect
 
 **Bron:** Europese Commissie
@@ -558,51 +570,39 @@ The European Commission has preliminarily found TikTok in breach of the Digital 
 
 ---
 
-## Celebrating 30 years of the Marie Skłodowska-Curie Actions
+## Commissioner Kos in Moldova to discuss EU accession and strengthen regional connectivity
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
 
-Over three decades of the European Union’s flagship programme for researcher training, mobility and career development
+From 8 to 10 November, Commissioner for Enlargement Marta Kos will be in Moldova to discuss the country's progress on its EU accession path and advance regional cooperation on digital connectivity.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/celebrating-30-years-marie-sklodowska-curie-actions-2026-11-06_en
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-moldova-discuss-eu-accession-and-strengthen-regional-connectivity-2026-11-06_en
 
 ---
 
-## New guidance on electricity imports under Centralised Clearance for Import (CCI)
+## EU to push for accelerated global climate action at COP31
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
 
-New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
-
----
-
-## Commission launches second Annual Migration Management Cycle
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
-
-On 6 November, the Commission launched the second Annual Migration Management Cycle, providing a comprehensive overview of migration trends and risks in the EU over the previous year, identifying Member States facing migratory pressure, and proposing the establishment of the second Solidarity Pool.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
 
 ---
 
-## How social dialogue can help prevent, prepare for and respond to crises
+## Commission approves merger between AkzoNobel and Axalta, subject to conditions
 
 **Bron:** Europese Commissie
 
-**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
+**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
 
-At the 2026 Civil Protection Forum, employers and trade unions discussed how social dialogue can help prevent, prepare for and respond to crises. Social partners discuss strengthening preparedness at the Civil Protection Forum.
+Commission approves merger between AkzoNobel and Axalta, subject to conditions
 
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/how-social-dialogue-can-help-prevent-prepare-and-respond-crises-2026-11-05_en
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-merger-between-akzonobel-and-axalta-subject-conditions-2026-11-06_en
 
 ---
 
@@ -723,6 +723,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2286 of 12 October 2026 amending Decision (CFSP) 2018/1544 concerning restrictive measures against the proliferation and use of chemical weapons.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/
 
 ---
 
@@ -913,16 +923,6 @@ President of the European Council António Costa delivered a video message on th
 Council agrees position on simplification and better use of digital options for energy and tyre labelling.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/
-
----
-
-## Methane regulation: Council agrees to postpone monitoring rules for one year
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has agreed its position on targeted amendments to the methane regulation, postponing import-related monitoring rules for one year.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/
 
 ---
 
