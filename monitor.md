@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-10T12:40:14.768424+00:00
+Laatste update: 2026-11-10T13:55:42.756579+00:00
+
+## Scholen krijgen meer grip op verzuim met wet Terugdringen Schoolverzuim
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 14:00:00 GMT
+
+Scholen gaan aan de slag met een betere aanpak van het signaleren, voorkomen en terugdringen van het aantal leerlingen en mbo-studenten dat langdurig niet naar school gaat of zelfs helemaal uitvalt. Dat staat in de wet Terugdringen Schoolverzuim...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/scholen-krijgen-meer-grip-op-verzuim-met-wet-terugdringen-schoolverzuim
+
+---
 
 ## Nederland en Duitsland intensiveren samenwerking op spoorgebied
 
@@ -366,18 +378,6 @@ Drs. R. (Rosanne) Stotijn wordt plaatsvervangend secretaris-generaal bij het min
 
 ---
 
-## Benoeming inspecteur-generaal der Mijnen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
-
-Frank van Diepenbeek wordt inspecteur-generaal der Mijnen (IGM) en voorzitter collegiaal bestuur bij het Staatstoezicht op de Mijnen bij het ministerie van Economische Zaken en Klimaat. De ministerraad heeft hiermee ingestemd op voorstel van...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-bij-het-staatstoezicht-op-de-mijnen
-
----
-
 ## EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh
 
 **Bron:** Europese Commissie
@@ -726,6 +726,36 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the Democratic People’s Republic of Korea
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2283 of 12 October 2026 amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People’s Republic of Korea.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-democratic-people-s-republic-of-korea/
+
+---
+
+## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the leadership of the Transnistrian region of the Republic of Moldova
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2397 of 26 October 2026 amending Decision 2010/573/CFSP concerning restrictive measures against the leadership of the Transnistrian region of the Republic of Moldova.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-leadership-of-the-transnistrian-region-of-the-republic-of-moldova/
+
+---
+
+## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2378 of 26 October 2026 amending Decision (CFSP) 2016/1693 concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-isil-da-esh-and-al-qaeda-and-persons-groups-undertakings-and-entities-associated-with-them/
+
+---
+
 ## Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO
 
 **Bron:** Raad van de EU - Persberichten
@@ -893,36 +923,6 @@ Council agrees position on simplification and better use of digital options for 
 The Council has agreed its position on targeted amendments to the methane regulation, postponing import-related monitoring rules for one year.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/
-
----
-
-## Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)
-
-**Bron:** Raad van de EU - Persberichten
-
-Joint press release following the home affairs day of the EU – Western Balkans ministerial forum on justice and home affairs in Budva, Montenegro.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/05/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/
-
----
-
-## Fight against illicit drugs: Council backs new rules for chemicals used to make illegal drugs
-
-**Bron:** Raad van de EU - Persberichten
-
-EU member states agreed their position on stronger and simpler EU rules to stop substances that can be used to make illegal drugs – or drug precursors - from reaching criminals involved in illegal drug production.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/fight-against-illicit-drugs-council-backs-new-rules-for-chemicals-used-to-make-illegal-drugs/
-
----
-
-## Speech by President António Costa at the plenary session of the XXX Ibero-American Summit
-
-**Bron:** Raad van de EU - Persberichten
-
-The President of the European Council, António Costa, travelled to Madrid and gave a speech at the plenary session of the 30th Ibero-American Summit on 5 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/speech-by-president-antonio-costa-at-the-plenary-session-of-the-30th-ibero-american-summit/
 
 ---
 
