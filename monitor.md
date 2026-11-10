@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-10T19:38:52.634750+00:00
+Laatste update: 2026-11-10T20:30:55.738644+00:00
 
 ## Gerbert Kunst vertrekt als Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten
 
