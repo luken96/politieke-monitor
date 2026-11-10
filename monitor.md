@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-10T11:37:52.107521+00:00
+Laatste update: 2026-11-10T12:40:14.768424+00:00
 
 ## Nederland en Duitsland intensiveren samenwerking op spoorgebied
 
@@ -11,6 +11,18 @@ Laatste update: 2026-11-10T11:37:52.107521+00:00
 Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen willen het grensoverschrijdende passagiers- en goederenvervoer (inclusief militaire mobiliteit) versterken, ook vanwege het Europese belang hiervan. Doel is dat er meer...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/nederland-en-duitsland-intensiveren-samenwerking-op-spoorgebied
+
+---
+
+## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
 
 ---
 
@@ -591,18 +603,6 @@ On 6 November, the Commission launched the second Annual Migration Management C
 At the 2026 Civil Protection Forum, employers and trade unions discussed how social dialogue can help prevent, prepare for and respond to crises. Social partners discuss strengthening preparedness at the Civil Protection Forum.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/how-social-dialogue-can-help-prevent-prepare-and-respond-crises-2026-11-05_en
-
----
-
-## Commission disburses €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 05 Nov 2026 00:00:00 +0100
-
-Today, the European Commission disbursed €4.36 billion to Ukraine under the Ukraine Support Loan. This payment includes €3.7 billion for the second instalment of macro-financial assistance (MFA) agreed for 2026 and €658 million under the defence leg of the Loan.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en
 
 ---
 
