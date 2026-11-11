@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-11T05:43:40.590960+00:00
+Laatste update: 2026-11-11T06:47:07.094801+00:00
 
 ## Gerbert Kunst vertrekt als Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## EU budget for 2027: Council and Parliament reach agreement
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council and the European Parliament secured agreement on the EU’s annual budget for 2027 - the seventh and final annual budget of the current multiannual financial framework (MFF) 2021-2027.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/eu-budget-for-2027-council-and-parliament-reach-agreement/
+
+---
+
 ## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ Joint press release following the home affairs day of the EU – Western Balkans
 President of the European Council António Costa delivered a video message on the occasion of the New Economy Forum award, in which he highlighted the important role of the 2026 awarded Ibero-American General Secretariat in promoting multilateralism and international relations.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/video-message-of-president-antonio-costa-for-the-new-economy-forum/
-
----
-
-## Simplification: Council agrees position to simplify energy and tyre labelling
-
-**Bron:** Raad van de EU - Persberichten
-
-Council agrees position on simplification and better use of digital options for energy and tyre labelling.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/
 
 ---
 
