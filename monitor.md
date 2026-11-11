@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-11T15:32:56.977049+00:00
+Laatste update: 2026-11-11T16:42:26.055643+00:00
+
+## Vogelgriep vastgesteld in Hierden
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 11 Nov 2026 15:51:00 GMT
+
+In Hierden (gemeente Harderwijk, provincie Gelderland) is opnieuw vogelgriep vastgesteld. Het gaat nu om een besmetting bij een vermeerderingsbedrijf voor eenden. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw,...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/vogelgriep-vastgesteld-in-hierden
+
+---
 
 ## Staatssecretaris Eric van der Burg naar Bovenwindse eilanden voor Statia Day en Kingdom Summit
 
@@ -146,6 +158,18 @@ On 12 and 13 November, the European Commission, together with Ukrainian authorit
 
 ---
 
+## First USI-IRA call under EDIP attracts a high number of proposals from Member States and Ukraine
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+The first ever USI-IRA call attracted 58 proposals from 11 member States and Ukraine.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/first-usi-ira-call-under-edip-attracts-high-number-proposals-member-states-and-ukraine-2026-11-11_en
+
+---
+
 ## Gerbert Kunst vertrekt als Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten
 
 **Bron:** Rijksoverheid Nieuws
@@ -203,18 +227,6 @@ Scholen gaan aan de slag met een betere aanpak van het signaleren, voorkomen en 
 Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen willen het grensoverschrijdende passagiers- en goederenvervoer (inclusief militaire mobiliteit) versterken, ook vanwege het Europese belang hiervan. Doel is dat er meer...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/nederland-en-duitsland-intensiveren-samenwerking-op-spoorgebied
-
----
-
-## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
 
 ---
 
@@ -299,6 +311,18 @@ The European Construction Observatory (ECO) has launched its first set of revamp
 oday, the European Commission hosted the second Board Meeting of the EU-Ukraine Drone Alliance, following a kick-off event held in September. The Alliance is an industry-led initiative which will strengthen Europe's and Ukraine's security by accelerating the development and production of next-genera
 
 **Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-hosts-2nd-board-meeting-eu-ukraine-drone-alliance-2026-11-10_en
+
+---
+
+## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
 
 ---
 
@@ -558,18 +582,6 @@ De boetes voor het overtreden van arbeidswetten stijgen met zo’n 22%. Ook word
 
 ---
 
-## Wetsvoorstel voor gelijkwaardige regeling achternaam kind in consultatie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 06 Nov 2026 16:00:00 GMT
-
-Het wetsvoorstel om de regels voor de achternaam van pasgeboren kinderen te wijzigen gaat in consultatie. Met dit voorstel wil het kabinet een gelijkwaardige regeling voor beide ouders introduceren voor het vastleggen van de achternaam van een...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/wetsvoorstel-voor-gelijkwaardige-regeling-achternaam-kind-in-consultatie
-
----
-
 ## CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group
 
 **Bron:** Europese Commissie
@@ -591,18 +603,6 @@ The Commission and Ministers of the Central and South-East European Energy Conne
 The EU Mission Ocean and Waters welcomes 17 new projects selected under the eight topics of the 2025 call ‘Supporting the implementation of the Restore our Ocean and Waters Mission’ (HORIZON-MISS-2025-03).
 
 **Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/17-new-projects-eur119-million-action-restoring-and-protecting-europes-ocean-and-waters-2026-11-06_en
-
----
-
-## Fourth EU/EURATOM (European Atomic Energy Community) and Ukraine Research and Innovation Committee meeting
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-On 6 November, the 4th EU/EURATOM-Ukraine Joint Research and Innovation Meeting took place in an online format, hosted by the Ministry of Education and Science of Ukraine.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fourth-eueuratom-european-atomic-energy-community-and-ukraine-research-and-innovation-committee-2026-11-06_en
 
 ---
 
