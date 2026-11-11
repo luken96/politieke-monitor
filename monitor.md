@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-11T06:47:07.094801+00:00
+Laatste update: 2026-11-11T08:02:16.093750+00:00
+
+## Kabinet en regio geven verdere invulling aan prioritering
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 11 Nov 2026 08:00:00 GMT
+
+Rijk en regio hebben de afgelopen week afspraken gemaakt over de recent gepresenteerde herprioritering van alle infrastructurele projecten. Enkele projecten kunnen nu naar de volgende fase in de uitwerking.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/kabinet-en-regio-geven-verdere-invulling-aan-prioritering
+
+---
 
 ## Gerbert Kunst vertrekt als Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten
 
@@ -438,18 +450,6 @@ Het wordt mogelijk om crimineel vermogen effectiever af te pakken, ook zonder da
 
 ---
 
-## Benoeming inspecteur-generaal Rijksinspectie Digitale Infrastructuur
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
-
-Mark Bressers wordt inspecteur-generaal Rijksinspectie Digitale Infrastructuur bij het ministerie van Economische Zaken en Klimaat. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/benoeming-inspecteur-generaal-bij-rijksinspectie-digitale-infrastructuur-ezk
-
----
-
 ## CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group
 
 **Bron:** Europese Commissie
@@ -786,16 +786,6 @@ Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy
 
 ---
 
-## Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/
-
----
-
 ## Ukraine: Council extends EU Military Assistance Mission mandate for two years
 
 **Bron:** Raad van de EU - Persberichten
@@ -876,16 +866,6 @@ Overview of the main subjects to be discussed at meetings of the Council of the 
 
 ---
 
-## Media advisory - Eurogroup meeting and Economic and Financial Affairs Council of 9 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing, public sessions and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/media-advisory-eurogroup-meeting-and-economic-and-financial-affairs-council-of-9-november-2026/
-
----
-
 ## Weekly schedule of President António Costa
 
 **Bron:** Raad van de EU - Persberichten
@@ -923,6 +903,26 @@ Joint press release following the home affairs day of the EU – Western Balkans
 President of the European Council António Costa delivered a video message on the occasion of the New Economy Forum award, in which he highlighted the important role of the 2026 awarded Ibero-American General Secretariat in promoting multilateralism and international relations.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/video-message-of-president-antonio-costa-for-the-new-economy-forum/
+
+---
+
+## Simplification: Council agrees position to simplify energy and tyre labelling
+
+**Bron:** Raad van de EU - Persberichten
+
+Council agrees position on simplification and better use of digital options for energy and tyre labelling.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/
+
+---
+
+## Methane regulation: Council agrees to postpone monitoring rules for one year
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has agreed its position on targeted amendments to the methane regulation, postponing import-related monitoring rules for one year.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/
 
 ---
 
