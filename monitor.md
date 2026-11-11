@@ -1,6 +1,42 @@
 # Politieke monitor
 
-Laatste update: 2026-11-11T10:45:27.182545+00:00
+Laatste update: 2026-11-11T11:41:42.170324+00:00
+
+## Storing Rijksoverheid.nl en andere overheidswebsites
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 11 Nov 2026 11:16:00 GMT
+
+Op woensdagochtend 11 november 2026 is Rijksoverheid.nl gedurende een half uur niet beschikbaar geweest door een storing. Ook andere websites zoals Koninklijkhuis.nl en OM.nl zijn hierdoor geraakt.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/storing-rijksoverheid.nl-en-andere-overheidswebsites
+
+---
+
+## Nieuwe aanvraagronde Expeditie-regeling opent op 16 november
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 11 Nov 2026 09:02:00 GMT
+
+Samenwerkingsverbanden die kennis over duurzame inzetbaarheid en een leven lang ontwikkelen (LLO) verder willen ontwikkelen, kunnen vanaf 16 november weer subsidie aanvragen via de Expeditie-regeling. Voor dit aanvraagtijdvak is € 30 miljoen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/nieuwe-aanvraagronde-expeditie-regeling-opent-op-16-november
+
+---
+
+## Kabinet en regio geven verdere invulling aan prioritering
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 11 Nov 2026 08:00:00 GMT
+
+Rijk en regio hebben de afgelopen week afspraken gemaakt over de recent gepresenteerde herprioritering van alle infrastructurele projecten. Enkele projecten kunnen nu naar de volgende fase in de uitwerking.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/kabinet-en-regio-geven-verdere-invulling-aan-prioritering
+
+---
 
 ## Join the consultation to modernise the European Training Foundation
 
@@ -11,6 +47,102 @@ Laatste update: 2026-11-11T10:45:27.182545+00:00
 Help shape the future of EU skills development by submitting your evidence for the European Training Foundation renewal by 11 December 2026.
 
 **Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-consultation-modernise-european-training-foundation-2026-11-11_en
+
+---
+
+## Commissioner Lahbib travels to Greenland as EU steps up Arctic preparedness cooperation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+Wildfires, landslides, tsunamis, avalanches and flooding from ice melt are among natural hazards in Greenland, which are expected to become more frequent as a consequence of global warming.  These threats pose particular challenges for remote communities.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-travels-greenland-eu-steps-arctic-preparedness-cooperation-2026-11-11_en
+
+---
+
+## Cities Forum is back on 2-4 June 2027
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+The Cities Forum 2027, the European Commission and European Urban Initiative’s flagship event on sustainable urban development will take place from 2 to 4 June in Bilbao, Spain.
+
+**Originele publicatie:** https://regions-and-cities.ec.europa.eu/cities-portal/news-cities/cities-forum-back-2-4-june-2027-2026-11-11_en
+
+---
+
+## Commission launches two flagship security initiatives under the Pact for Mediterranean
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+Today, at the first Senior Officials' Meeting on Internal Security between the European Union and Southern Mediterranean partners, Commissioner for the Mediterranean Dubravka Šuica launched two flagship regional security initiatives under the third pillar of the Pact for the Mediterranean.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-two-flagship-security-initiatives-under-pact-mediterranean-2026-11-11_en
+
+---
+
+## Gerbert Kunst vertrekt als Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 15:39:00 GMT
+
+Gerbert Kunst verlaat per 1 maart 2027 de post van de Vertegenwoordiging van Nederland in Willemstad. De uitzending wordt op zijn verzoek, vanwege privéomstandigheden voortijdig beëindigd. Gerbert Kunst was vanaf 15 mei 2025 aangesteld als de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/gerbert-kunst-vertrekt-als-vertegenwoordiger-van-nederland-in-aruba-curacao-en-sint-maarten
+
+---
+
+## Minister-president Jetten ontvangt premiers België, Luxemburg en Noordrijn-Westfalen voor Benelux Top in Maastricht
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 15:35:00 GMT
+
+Op dinsdag 10 november ontving minister-president Jetten, Eerste Minister De Wever van België, Premier Frieden van Luxemburg en minister-president Wüst van de Duitse deelstaat Noordrijn-Westfalen voor de Benelux Top, die dit jaar in Maastricht...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/minister-president-jetten-ontvangt-premiers-belgie-luxemburg-en-noordrijn-westfalen-voor-benelux-top-in-maastricht
+
+---
+
+## Minister Rianne Letschert bezoekt Sint Maarten, Curaçao en Aruba
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 14:00:00 GMT
+
+Minister Rianne Letschert (Onderwijs, Cultuur en Wetenschap) bezoekt Sint Maarten, Curaçao en Aruba van 16 tot en met 20 november 2026. Het bezoek staat in het teken van het Ministerieel Vierlandenoverleg OCW (M4LO) en dient als kennismaking met...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/minister-rianne-letschert-bezoekt-sint-maarten-curacao-en-aruba
+
+---
+
+## Scholen krijgen meer grip op verzuim met wet Terugdringen Schoolverzuim
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 14:00:00 GMT
+
+Scholen gaan aan de slag met een betere aanpak van het signaleren, voorkomen en terugdringen van het aantal leerlingen en mbo-studenten dat langdurig niet naar school gaat of zelfs helemaal uitvalt. Dat staat in de wet Terugdringen Schoolverzuim...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/scholen-krijgen-meer-grip-op-verzuim-met-wet-terugdringen-schoolverzuim
+
+---
+
+## Nederland en Duitsland intensiveren samenwerking op spoorgebied
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 10 Nov 2026 08:00:00 GMT
+
+Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen willen het grensoverschrijdende passagiers- en goederenvervoer (inclusief militaire mobiliteit) versterken, ook vanwege het Europese belang hiervan. Doel is dat er meer...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/nederland-en-duitsland-intensiveren-samenwerking-op-spoorgebied
 
 ---
 
@@ -95,6 +227,118 @@ The European Union has joined a new global pledge on geothermal energy at the on
 The European Construction Observatory (ECO) has launched its first set of revamped Country Fact Sheets, featuring a new interactive design that makes it easier to explore and understand the construction ecosystem across EU countries.
 
 **Originele publicatie:** https://single-market-economy.ec.europa.eu/news/discover-new-interactive-eco-country-fact-sheets-2026-11-10_en
+
+---
+
+## Commission hosts the 2nd Board Meeting of the EU-Ukraine Drone Alliance
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+oday, the European Commission hosted the second Board Meeting of the EU-Ukraine Drone Alliance, following a kick-off event held in September. The Alliance is an industry-led initiative which will strengthen Europe's and Ukraine's security by accelerating the development and production of next-genera
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-hosts-2nd-board-meeting-eu-ukraine-drone-alliance-2026-11-10_en
+
+---
+
+## Vogelgriep vastgesteld in Hierden
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 20:09:00 GMT
+
+In Hierden (gemeente Harderwijk, provincie Gelderland) is vogelgriep vastgesteld op een vleeseendenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/vogelgriep-vastgesteld-in-hierden
+
+---
+
+## Minister Aartsen: 4 dagen werken de norm in de inburgering
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 15:00:00 GMT
+
+Minister Thierry Aartsen (Werk en Participatie) wil dat vier dagen werken de norm wordt voor statushouders die inburgeren. Te veel statushouders werken niet en krijgen een bijstandsuitkering. Aartsen ondertekende vandaag met werkgeversorganisaties...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/minister-aartsen-vier-dagen-werken-de-norm-in-de-inburgering
+
+---
+
+## Kabinet, werkgevers en vakbonden stellen agenda op voor sociaal overleg
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 13:51:00 GMT
+
+Kabinet, werkgevers en vakbonden hebben met elkaar gesproken over hoe ze het sociaal overleg willen vormgeven. In dat overleg staan drie uitdagingen centraal: een verbetering van de sociale zekerheid, een sterkere arbeidsmarkt en het aanjagen van...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/kabinet-werkgevers-en-vakbonden-stellen-agenda-op-voor-sociaal-overleg
+
+---
+
+## Staatsbezoek Qatar
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 12:30:00 GMT
+
+Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodiging van Zijne Hoogheid sjeik Tamim bin Hamad Al Thani, Emir van de staat Qatar, en Hare Hoogheid sjeikha Jawaher bint Hamad bin Suhaim Al Thani, echtgenote van Zijne...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/staatsbezoek-qatar
+
+---
+
+## Nieuwe ronde investeringsfonds ETCI, kabinet investeert € 200 miljoen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 11:00:00 GMT
+
+De doorgroei van startups in Europa loopt ver achter in vergelijking met bijvoorbeeld de Verenigde Staten. Om meer (durf)kapitaal bij elkaar te brengen, hebben diverse landen waaronder Nederland de handen ineengeslagen via het investeringsfonds...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/nieuwe-ronde-investeringsfonds-etci-kabinet-investeert-euro200-miljoen
+
+---
+
+## De asielinstroom van week 45 bedroeg ongeveer 790
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 09:56:00 GMT
+
+De asielinstroom van week 45, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 790.
+ 
+De totale asielinstroom is als volgt onderverdeeld:
+•      550 eerste aanvragen,
+•    ...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/de-asielinstroom-van-week-45-bedroeg-ongeveer-790
+
+---
+
+## Overheid en energiesector spreken doel en acties af voor meer grote batterijen in Nederland
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 08:00:00 GMT
+
+Het kabinet publiceert vandaag een ambitieuze visie op de rol van energieopslag in Nederland en bepaalt voor het eerst een richtwaarde voor nieuwe grote batterijen. De verwachting is dat er in 2040 110 gigawattuur (GWh) aan batterijcapaciteit is...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/overheid-en-energiesector-spreken-doel-en-acties-af-voor-meer-grote-batterijen-in-nederland
+
+---
+
+## Minister benoemt 5 nieuwe locaties voor versneld bouwen 25.000 huizen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 09 Nov 2026 07:08:00 GMT
+
+Minister Elanor Boekholt-O'Sullivan van Volkshuisvesting en Ruimtelijke Ordening heeft nog eens 5 locaties aangewezen waar met hulp van het Rijk de bouw van in totaal zo’n 25.000 woningen versneld gaat worden. Het gaat om locaties in de gemeenten...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/minister-benoemt-5-nieuwe-locaties-voor-versneld-bouwen-25.000-huizen
 
 ---
 
@@ -218,6 +462,66 @@ the European Commission launched a communication campaign "European defence: pro
 
 ---
 
+## Defence Equity Facility 2.0: mobilising €1 billion to scale up Europe's defence industrial base
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+Today the European Commission committed €100 million to the Defence Equity Facility 2.0 (DEF 2.0), an investment vehicle designed with the EIB and EIF with a target size of up to €1 billion.  Building on the success of its predecessor, the Defence Equity Facility, DEF 2.0 will strengthen access to f
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/defence-equity-facility-20-mobilising-eur1-billion-scale-europes-defence-industrial-base-2026-11-09_en
+
+---
+
+## Kabinet maakt einde aan sluiproute voor goedkope arbeidsmigranten
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Sat, 07 Nov 2026 07:00:00 GMT
+
+Het kabinet wil voorkomen dat derdelanders van buiten de EU via een ander Europees land direct in Nederland gaan werken. Deze vorm van detachering wordt op steeds grotere schaal gebruikt om Nederlandse regels te omzeilen. Dit leidt tot misstanden...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-maakt-einde-aan-sluiproute-voor-goedkope-arbeidsmigranten
+
+---
+
+## Kabinet pakt arbeidsmisstanden aan met hogere boetes
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Sat, 07 Nov 2026 07:00:00 GMT
+
+De boetes voor het overtreden van arbeidswetten stijgen met zo’n 22%. Ook worden de boetes vanaf 1 januari 2028 jaarlijks geïndexeerd. Zo wil het kabinet misstanden op de werkvloer aanpakken en kwetsbare werknemers beter beschermen. Het verhogen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-pakt-arbeidsmisstanden-aan-met-hogere-boetes
+
+---
+
+## Wetsvoorstel voor gelijkwaardige regeling achternaam kind in consultatie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 16:00:00 GMT
+
+Het wetsvoorstel om de regels voor de achternaam van pasgeboren kinderen te wijzigen gaat in consultatie. Met dit voorstel wil het kabinet een gelijkwaardige regeling voor beide ouders introduceren voor het vastleggen van de achternaam van een...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/wetsvoorstel-voor-gelijkwaardige-regeling-achternaam-kind-in-consultatie
+
+---
+
+## € 50 miljoen voor batterijparken en stroomnet op Aruba en Curaçao
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 15:10:00 GMT
+
+Het kabinet steunt met circa € 50 miljoen de ontwikkeling van 2 omvangrijke batterijparken op Aruba en Curaçao om het stroomnet op de 2 eilanden robuuster te maken voor verdere economische groei.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/50-miljoen-voor-batterijparken-en-stroomnet-op-aruba-en-curacao
+
+---
+
 ## CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group
 
 **Bron:** Europese Commissie
@@ -299,66 +603,6 @@ Today, the EU and Montenegro provisionally closed accession negotiations on free
 The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh.
 
 **Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en
-
----
-
-## New guidance on electricity imports under Centralised Clearance for Import (CCI)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en
-
----
-
-## Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-As announced by President Ursula von der Leyen during her travel to the Western Balkans in October 2026, the European Commission has opened negotiations to integrate Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia into the EU's ‘Roam Like at Home' regime.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en
-
----
-
-## European Responsible Housing Awards open for applications
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The 2027 edition of the European Responsible Housing Awards is open for applications until 31 December 2026.
-
-**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en
-
----
-
-## EU to push for accelerated global climate action at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en
-
----
-
-## TikTok: preliminary findings on harmful “rabbit hole” effect
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect' of its recommender system.
-
-**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361
 
 ---
 
