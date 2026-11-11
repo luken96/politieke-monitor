@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-11T08:02:16.093750+00:00
+Laatste update: 2026-11-11T09:43:45.883329+00:00
+
+## Nieuwe aanvraagronde Expeditie-regeling opent op 16 november
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 11 Nov 2026 09:02:00 GMT
+
+Samenwerkingsverbanden die kennis over duurzame inzetbaarheid en een leven lang ontwikkelen (LLO) verder willen ontwikkelen, kunnen vanaf 16 november weer subsidie aanvragen via de Expeditie-regeling. Voor dit aanvraagtijdvak is € 30 miljoen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/nieuwe-aanvraagronde-expeditie-regeling-opent-op-16-november
+
+---
 
 ## Kabinet en regio geven verdere invulling aan prioritering
 
@@ -11,6 +23,18 @@ Laatste update: 2026-11-11T08:02:16.093750+00:00
 Rijk en regio hebben de afgelopen week afspraken gemaakt over de recent gepresenteerde herprioritering van alle infrastructurele projecten. Enkele projecten kunnen nu naar de volgende fase in de uitwerking.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/kabinet-en-regio-geven-verdere-invulling-aan-prioritering
+
+---
+
+## Join the consultation to modernise the European Training Foundation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+Help shape the future of EU skills development by submitting your evidence for the European Training Foundation renewal by 11 December 2026.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-consultation-modernise-european-training-foundation-2026-11-11_en
 
 ---
 
@@ -74,6 +98,42 @@ Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen w
 
 ---
 
+## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
+
+---
+
+## Are you shaping the future of Africa’s blue economy? Apply to pitch at BlueInvest Africa 2027!
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+The search is on for Africa’s most promising blue economy businesses! The call for pitchers for BlueInvest Africa 2027 is now open. African entrepreneurs developing innovative and sustainable solutions for the blue economy have until 31 December 2026 to apply
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/are-you-shaping-future-africas-blue-economy-apply-pitch-blueinvest-africa-2027-2026-11-10_en
+
+---
+
+## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+Ten energy communities from six countries share €1 million, awarded for the way they make decisions, share benefits and work with local partners.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en
+
+---
+
 ## Commission approves €2 billion Belgian State aid to support offshore wind energy
 
 **Bron:** Europese Commissie
@@ -119,42 +179,6 @@ The European Union has joined a new global pledge on geothermal energy at the on
 The European Construction Observatory (ECO) has launched its first set of revamped Country Fact Sheets, featuring a new interactive design that makes it easier to explore and understand the construction ecosystem across EU countries.
 
 **Originele publicatie:** https://single-market-economy.ec.europa.eu/news/discover-new-interactive-eco-country-fact-sheets-2026-11-10_en
-
----
-
-## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
-
----
-
-## Are you shaping the future of Africa’s blue economy? Apply to pitch at BlueInvest Africa 2027!
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The search is on for Africa’s most promising blue economy businesses! The call for pitchers for BlueInvest Africa 2027 is now open. African entrepreneurs developing innovative and sustainable solutions for the blue economy have until 31 December 2026 to apply
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/are-you-shaping-future-africas-blue-economy-apply-pitch-blueinvest-africa-2027-2026-11-10_en
-
----
-
-## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-Ten energy communities from six countries share €1 million, awarded for the way they make decisions, share benefits and work with local partners.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en
 
 ---
 
@@ -258,6 +282,78 @@ Minister Elanor Boekholt-O'Sullivan van Volkshuisvesting en Ruimtelijke Ordening
 
 ---
 
+## Have your say: help shape the future of ECO
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+The European Construction Observatory (ECO) is inviting stakeholders to share their feedback on its activities, publications and website.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/have-your-say-help-shape-future-eco-2026-11-09_en
+
+---
+
+## Another year of ECO - new data, insights and trends of Europe's construction ecosystem
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+Join us on 3 December 2026, from 10:00 to 11:30 CET, for a webinar exploring the latest publications, data and insights from the European Construction Observatory (ECO).
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/another-year-eco-new-data-insights-and-trends-europes-construction-ecosystem-2026-11-09_en
+
+---
+
+## EU seeks nominations for stakeholder group on tokenisation standards in finance
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+The group aims to establish a framework for monitoring compliance with the agreed standards and may formulate recommendations for EU authorities on how to incentivise compliance with those standards.
+
+**Originele publicatie:** https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en
+
+---
+
+## EU emissions continue to fall as clean energy gains ground
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-emissions-continue-fall-clean-energy-gains-ground-2026-11-09_en
+
+---
+
+## Commission launches the EU fertilisers value chain Partnership to provide greater predictability and strengthen cooperation across the value chain
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+The EU Fertiliser value chain Partnership aims to ensure affordable, home-grown, improve predictability, and support decarbonisation of the EU fertiliser industry.
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/commission-launches-eu-fertilisers-value-chain-partnership-provide-greater-predictability-and-2026-11-09_en
+
+---
+
+## EU emissions continue to fall as clean energy gains ground
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
+
+The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.
+
+**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343
+
+---
+
 ## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
 
 **Bron:** Europese Commissie
@@ -303,78 +399,6 @@ You’ve got a job offer – but is it secure? With nearly one in five EU jobs c
 the European Commission launched a communication campaign "European defence: protect what matters"  to showcase the European added value in cooperation and investment in common security and defence.
 
 **Originele publicatie:** https://defence-industry-space.ec.europa.eu/commission-launches-european-defence-protect-what-matters-communication-campaign-2026-11-09_en
-
----
-
-## EU seeks nominations for stakeholder group on tokenisation standards in finance
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The group aims to establish a framework for monitoring compliance with the agreed standards and may formulate recommendations for EU authorities on how to incentivise compliance with those standards.
-
-**Originele publicatie:** https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en
-
----
-
-## EU emissions continue to fall as clean energy gains ground
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-emissions-continue-fall-clean-energy-gains-ground-2026-11-09_en
-
----
-
-## Have your say: help shape the future of ECO
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The European Construction Observatory (ECO) is inviting stakeholders to share their feedback on its activities, publications and website.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/have-your-say-help-shape-future-eco-2026-11-09_en
-
----
-
-## Another year of ECO - new data, insights and trends of Europe's construction ecosystem
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-Join us on 3 December 2026, from 10:00 to 11:30 CET, for a webinar exploring the latest publications, data and insights from the European Construction Observatory (ECO).
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/another-year-eco-new-data-insights-and-trends-europes-construction-ecosystem-2026-11-09_en
-
----
-
-## Commission launches the EU fertilisers value chain Partnership to provide greater predictability and strengthen cooperation across the value chain
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The EU Fertiliser value chain Partnership aims to ensure affordable, home-grown, improve predictability, and support decarbonisation of the EU fertiliser industry.
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/commission-launches-eu-fertilisers-value-chain-partnership-provide-greater-predictability-and-2026-11-09_en
-
----
-
-## EU emissions continue to fall as clean energy gains ground
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 09 Nov 2026 00:00:00 +0100
-
-The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.
-
-**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343
 
 ---
 
@@ -435,18 +459,6 @@ Het kabinet steunt met circa € 50 miljoen de ontwikkeling van 2 omvangrijke 
 Premier Jetten ontvangt dinsdag 10 november 2026 premier De Wever van België en premier Frieden van Luxemburg voor de Benelux Top. Vanwege het Nederlands voorzitterschap van het Benelux Comité van Ministers (CvM) vindt de top dit jaar plaats in...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/minister-president-jetten-ontvangt-premiers-belgie-en-luxemburg-voor-benelux-top
-
----
-
-## Wetsvoorstel voor effectiever afpakken crimineel vermogen naar Tweede Kamer
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 06 Nov 2026 12:45:00 GMT
-
-Het wordt mogelijk om crimineel vermogen effectiever af te pakken, ook zonder dat een verdachte is veroordeeld voor een misdrijf of als geen verdachte in beeld is. De ministerraad heeft er op voorstel van minister Van Weel van Justitie en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/wetsvoorstel-voor-effectiever-afpakken-crimineel-vermogen-naar-tweede-kamer
 
 ---
 
@@ -591,18 +603,6 @@ At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 Novemb
 The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect' of its recommender system.
 
 **Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361
-
----
-
-## Commissioner Kos in Moldova to discuss EU accession and strengthen regional connectivity
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-From 8 to 10 November, Commissioner for Enlargement Marta Kos will be in Moldova to discuss the country's progress on its EU accession path and advance regional cooperation on digital connectivity.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-moldova-discuss-eu-accession-and-strengthen-regional-connectivity-2026-11-06_en
 
 ---
 
@@ -941,6 +941,38 @@ Fisheries ministers will hold an exchange of views on the vision 2040 for fisher
 **Bron:** Raad van de EU - Landbouw en Visserij
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/12/14-15/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2027/01/25/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2027/03/22/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2027/05/24/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2027/06/21/
 
 ---
 
@@ -1379,46 +1411,6 @@ Agriculture and fisheries ministers met in Brussels on 25 July. They heard from 
 **Bron:** Raad van de EU - Landbouw en Visserij
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/07/17-18/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture and Fisheries ministers discussed the progress made in implementing the Common Fisheries Policy and their priorities for fishing opportunities for 2024. They also exchanged views on the proposal for a regulation on the sustainable use of pesticides, and on trade-related agricultural issues. Ministers also received an update from the presidency on the state of play of current legislative proposals on geographical indications (GIs), the farm sustainability data network (FSDN), and labelling rules for organic pet food.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/06/26-27/
-
----
-
-## Informal meeting of agriculture and fisheries ministers
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Each Council presidency organises informal meetings of ministers to discuss initiatives related to a particular topic or Council configuration.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/06/11-13/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-EU agriculture ministers met in Brussels to discuss food safety and food waste aspects of the proposed regulation on packaging and packaging waste, which aims to reduce the amount of packaging waste generated in the EU. They also discussed the market situation for agricultural products with a focus on Russia’s invasion of Ukraine, and the impact of adverse climate conditions on agriculture in southern Europe.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/05/30/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-At today’s Agriculture and Fisheries Council, ministers approved conclusions on the opportunities provided by the bioeconomy in the light of current challenges, with a focus on rural areas. They also discussed agriculture and forestry aspects of the proposed regulation on carbon removals, the state of play of the CAP strategic plans, and the market situation in light of Russia’s ongoing aggression against Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/04/25/
 
 ---
 
