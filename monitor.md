@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-11T13:59:46.527685+00:00
+Laatste update: 2026-11-11T15:32:56.977049+00:00
 
 ## Staatssecretaris Eric van der Burg naar Bovenwindse eilanden voor Statia Day en Kingdom Summit
 
@@ -86,18 +86,6 @@ Today, at the first Senior Officials' Meeting on Internal Security between the E
 
 ---
 
-## Commission to advance Ukraine's recovery, reconstruction, and modernisation at EU-Ukraine Investment Conference
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-On 12 and 13 November, the European Commission, together with Ukrainian authorities, will host the EU-Ukraine Investment Conference at the ReBuild Ukraine Expo in Warsaw. The conference, which will be opened by Commissioner for Enlargement Marta Kos and Ukraine's Minister of Economy and Environment
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-advance-ukraines-recovery-reconstruction-and-modernisation-eu-ukraine-investment-2026-11-11_en
-
----
-
 ## Commissioner Lahbib travels to Greenland as EU steps up Arctic preparedness cooperation
 
 **Bron:** Europese Commissie
@@ -131,6 +119,30 @@ The Cities Forum 2027, the European Commission and European Urban Initiative’s
 The European Commission presented its proposal for a Digital Fairness Act, a major update of the EU consumer protection rules to ensure that consumers in the EU enjoy the same high level of protection online as they do offline.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en
+
+---
+
+## EU and Nigeria sign readmission agreement furthering cooperation on migration and security
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+On 10 November, the EU and the Federal Republic of Nigeria signed a readmission agreement, marking an important step in their partnership on migration and security. Commissioner Brunner represented the EU at the signing ceremony, underlining that this is part of a wider partnership on migration.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/eu-and-nigeria-sign-readmission-agreement-furthering-cooperation-migration-and-security-2026-11-11_en
+
+---
+
+## Commission to advance Ukraine's recovery, reconstruction, and modernisation at EU-Ukraine Investment Conference
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+On 12 and 13 November, the European Commission, together with Ukrainian authorities, will host the EU-Ukraine Investment Conference at the ReBuild Ukraine Expo in Warsaw. The conference, which will be opened by Commissioner for Enlargement Marta Kos and Ukraine's Minister of Economy and Environment
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-advance-ukraines-recovery-reconstruction-and-modernisation-eu-ukraine-investment-2026-11-11_en
 
 ---
 
@@ -591,18 +603,6 @@ The EU Mission Ocean and Waters welcomes 17 new projects selected under the eigh
 On 6 November, the 4th EU/EURATOM-Ukraine Joint Research and Innovation Meeting took place in an online format, hosted by the Ministry of Education and Science of Ukraine.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fourth-eueuratom-european-atomic-energy-community-and-ukraine-research-and-innovation-committee-2026-11-06_en
-
----
-
-## EU actions to prevent and combat child poverty explained to children and young people
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 06 Nov 2026 00:00:00 +0100
-
-A new child-friendly publication, “Breaking the cycle of child poverty - Strengthening the European Child Guarantee”, explains how the EU is working towards every child having a fair chance in life.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en
 
 ---
 
