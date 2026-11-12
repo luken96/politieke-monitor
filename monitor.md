@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-12T22:29:31.011220+00:00
+Laatste update: 2026-11-12T23:26:58.814537+00:00
 
 ## Search is on for Africa’s most promising blue economy businesses
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council reached a provisional agreement with the European Parliament on increasing free carbon allowances for industry sectors falling under the ETS heat and fuel benchmarks from 2026 to 2030.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/
+
+---
+
 ## Remarks by President António Costa at the press conference following the meeting of the European Political Community in Dublin
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ The EU and the OACPS member states have issued a joint statement ahead of COP31,
 President of the Eurogroup, Kyriakos Pierrakakis, issued a statement on the nominations for the post of ECB President.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/
-
----
-
-## Forward look: 9 - 22 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/forward-look-2026/
 
 ---
 
