@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-12T18:36:37.173708+00:00
+Laatste update: 2026-11-12T19:40:22.438221+00:00
 
 ## Search is on for Africa’s most promising blue economy businesses
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Remarks by President António Costa at the press conference following the meeting of the European Political Community in Dublin
+
+**Bron:** Raad van de EU - Persberichten
+
+President of the European Council, António Costa, outlined the main results of the discussions of the leaders during the meeting of the European Political Community held in Dublin, Ireland, on 12 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/remarks-by-president-antonio-costa-at-the-press-conference-following-the-meeting-of-the-european-political-community-in-dublin/
+
+---
+
 ## Fisheries and aquaculture: Council and Parliament agree on modernised framework for statistics
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ President of the Eurogroup, Kyriakos Pierrakakis, issued a statement on the nomi
 Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/forward-look-2026/
-
----
-
-## Weekly schedule of President António Costa
-
-**Bron:** Raad van de EU - Persberichten
-
-Weekly schedule of President António Costa, 9-15  November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/weekly-schedule-of-president-antonio-costa/
 
 ---
 
