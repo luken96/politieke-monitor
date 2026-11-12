@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-12T20:34:56.459606+00:00
+Laatste update: 2026-11-12T21:31:25.398444+00:00
 
 ## Search is on for Africa’s most promising blue economy businesses
 
