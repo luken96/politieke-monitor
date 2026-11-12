@@ -1,18 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-12T15:42:45.942667+00:00
-
-## EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The European Commission and Egypt have reached an important milestone in their digital cooperation, and a significant deliverable of the EU-Egypt Summit of 22 October 2025, by achieving technical alignment of electronic signatures and seal schemes between the European Union and Egypt.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en
-
----
+Laatste update: 2026-11-12T16:45:46.891026+00:00
 
 ## Search is on for Africa’s most promising blue economy businesses
 
@@ -38,15 +26,15 @@ Speech by President von der Leyen at the United Nations Climate Change Conferenc
 
 ---
 
-## Join EAfA’s webinar on integrating basic skills in apprenticeships
+## Agreement reached on 2027 fishing opportunities for the Baltic Sea
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.
+The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
 
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en
 
 ---
 
@@ -62,15 +50,27 @@ The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hos
 
 ---
 
-## Agreement reached on 2027 fishing opportunities for the Baltic Sea
+## Join EAfA’s webinar on integrating basic skills in apprenticeships
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
+On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.
 
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en
+
+---
+
+## EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+The European Commission and Egypt have reached an important milestone in their digital cooperation, and a significant deliverable of the EU-Egypt Summit of 22 October 2025, by achieving technical alignment of electronic signatures and seal schemes between the European Union and Egypt.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en
 
 ---
 
@@ -119,6 +119,18 @@ European Union Drugs Agency (EUDA) published the results of Drug Survey on how p
 EU and Armenia today signed two agreements between the EU and Armenia on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
 
 **Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en
+
+---
+
+## Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en
 
 ---
 
@@ -194,39 +206,15 @@ Europe’s drone community convened in Brussels on 9-10 November for the EU Dron
 
 ---
 
-## Commission launches two flagship security initiatives under the Pact for Mediterranean
+## Making your online experience fairer
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
 
-Today, at the first Senior Officials' Meeting on Internal Security between the European Union and Southern Mediterranean partners, Commissioner for the Mediterranean Dubravka Šuica launched two flagship regional security initiatives under the third pillar of the Pact for the Mediterranean.
+The European Commission presented its proposal for a Digital Fairness Act, a major update of the EU consumer protection rules to ensure that consumers in the EU enjoy the same high level of protection online as they do offline.
 
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-two-flagship-security-initiatives-under-pact-mediterranean-2026-11-11_en
-
----
-
-## Commissioner Lahbib travels to Greenland as EU steps up Arctic preparedness cooperation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-Wildfires, landslides, tsunamis, avalanches and flooding from ice melt are among natural hazards in Greenland, which are expected to become more frequent as a consequence of global warming.  These threats pose particular challenges for remote communities.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-travels-greenland-eu-steps-arctic-preparedness-cooperation-2026-11-11_en
-
----
-
-## Cities Forum is back on 2-4 June 2027
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-The Cities Forum 2027, the European Commission and European Urban Initiative’s flagship event on sustainable urban development will take place from 2 to 4 June in Bilbao, Spain.
-
-**Originele publicatie:** https://regions-and-cities.ec.europa.eu/cities-portal/news-cities/cities-forum-back-2-4-june-2027-2026-11-11_en
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en
 
 ---
 
@@ -254,15 +242,63 @@ Commissioner Zaharieva met with stakeholders through an Implementation Dialogue 
 
 ---
 
-## Making your online experience fairer
+## Commission launches two flagship security initiatives under the Pact for Mediterranean
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
 
-The European Commission presented its proposal for a Digital Fairness Act, a major update of the EU consumer protection rules to ensure that consumers in the EU enjoy the same high level of protection online as they do offline.
+Today, at the first Senior Officials' Meeting on Internal Security between the European Union and Southern Mediterranean partners, Commissioner for the Mediterranean Dubravka Šuica launched two flagship regional security initiatives under the third pillar of the Pact for the Mediterranean.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-two-flagship-security-initiatives-under-pact-mediterranean-2026-11-11_en
+
+---
+
+## First USI-IRA call under EDIP attracts a high number of proposals from Member States and Ukraine
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+The first ever USI-IRA call attracted 58 proposals from 11 member States and Ukraine.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/first-usi-ira-call-under-edip-attracts-high-number-proposals-member-states-and-ukraine-2026-11-11_en
+
+---
+
+## EU will step up cooperation with Yemen on maritime security
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+In view of the Houthis’ continued military escalation in Yemen, their attacks in the region and the continued threats to freedom of navigation in Bab al-Mandab, the Commission will step up its support to Yemen on maritime security.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-will-step-cooperation-yemen-maritime-security-2026-11-11_en
+
+---
+
+## Commissioner Lahbib travels to Greenland as EU steps up Arctic preparedness cooperation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+Wildfires, landslides, tsunamis, avalanches and flooding from ice melt are among natural hazards in Greenland, which are expected to become more frequent as a consequence of global warming.  These threats pose particular challenges for remote communities.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-travels-greenland-eu-steps-arctic-preparedness-cooperation-2026-11-11_en
+
+---
+
+## Cities Forum is back on 2-4 June 2027
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+The Cities Forum 2027, the European Commission and European Urban Initiative’s flagship event on sustainable urban development will take place from 2 to 4 June in Bilbao, Spain.
+
+**Originele publicatie:** https://regions-and-cities.ec.europa.eu/cities-portal/news-cities/cities-forum-back-2-4-june-2027-2026-11-11_en
 
 ---
 
@@ -275,6 +311,18 @@ The European Commission presented its proposal for a Digital Fairness Act, a maj
 On 12 and 13 November, the European Commission, together with Ukrainian authorities, will host the EU-Ukraine Investment Conference at the ReBuild Ukraine Expo in Warsaw. The conference, which will be opened by Commissioner for Enlargement Marta Kos and Ukraine's Minister of Economy and Environment
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-advance-ukraines-recovery-reconstruction-and-modernisation-eu-ukraine-investment-2026-11-11_en
+
+---
+
+## EU and Nigeria sign readmission agreement furthering cooperation on migration and security
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
+
+On 10 November, the EU and the Federal Republic of Nigeria signed a readmission agreement, marking an important step in their partnership on migration and security. Commissioner Brunner represented the EU at the signing ceremony, underlining that this is part of a wider partnership on migration.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/eu-and-nigeria-sign-readmission-agreement-furthering-cooperation-migration-and-security-2026-11-11_en
 
 ---
 
@@ -311,42 +359,6 @@ When industry closes down, what’s the best option for the buildings left behin
 How can we encourage circularity in the construction sector? A study of building firms’ practices in Italy suggests that local relationships may hold one key to improving sustainability.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/local-connections-matter-adopting-circular-practices-construction-2026-11-11_en
-
----
-
-## EU will step up cooperation with Yemen on maritime security
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-In view of the Houthis’ continued military escalation in Yemen, their attacks in the region and the continued threats to freedom of navigation in Bab al-Mandab, the Commission will step up its support to Yemen on maritime security.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-will-step-cooperation-yemen-maritime-security-2026-11-11_en
-
----
-
-## First USI-IRA call under EDIP attracts a high number of proposals from Member States and Ukraine
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-The first ever USI-IRA call attracted 58 proposals from 11 member States and Ukraine.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/first-usi-ira-call-under-edip-attracts-high-number-proposals-member-states-and-ukraine-2026-11-11_en
-
----
-
-## EU and Nigeria sign readmission agreement furthering cooperation on migration and security
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-On 10 November, the EU and the Federal Republic of Nigeria signed a readmission agreement, marking an important step in their partnership on migration and security. Commissioner Brunner represented the EU at the signing ceremony, underlining that this is part of a wider partnership on migration.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/eu-and-nigeria-sign-readmission-agreement-furthering-cooperation-migration-and-security-2026-11-11_en
 
 ---
 
@@ -410,30 +422,6 @@ Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen w
 
 ---
 
-## Commission approves €2 billion Belgian State aid to support offshore wind energy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The European Commission has approved a €2.04 billion Belgian scheme to support offshore wind energy in line with the objectives of the Clean Industrial Deal.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur2-billion-belgian-state-aid-support-offshore-wind-energy-2026-11-10_en
-
----
-
-## Discover the new interactive ECO Country Fact Sheets
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The European Construction Observatory (ECO) has launched its first set of revamped Country Fact Sheets, featuring a new interactive design that makes it easier to explore and understand the construction ecosystem across EU countries.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/discover-new-interactive-eco-country-fact-sheets-2026-11-10_en
-
----
-
 ## Are you shaping the future of Africa’s blue economy? Apply to pitch at BlueInvest Africa 2027!
 
 **Bron:** Europese Commissie
@@ -443,6 +431,30 @@ The European Construction Observatory (ECO) has launched its first set of revamp
 The search is on for Africa’s most promising blue economy businesses! The call for pitchers for BlueInvest Africa 2027 is now open. African entrepreneurs developing innovative and sustainable solutions for the blue economy have until 31 December 2026 to apply
 
 **Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/are-you-shaping-future-africas-blue-economy-apply-pitch-blueinvest-africa-2027-2026-11-10_en
+
+---
+
+## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+Ten energy communities from six countries share €1 million, awarded for the way they make decisions, share benefits and work with local partners.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en
+
+---
+
+## Commission approves €2 billion Belgian State aid to support offshore wind energy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
+
+The European Commission has approved a €2.04 billion Belgian scheme to support offshore wind energy in line with the objectives of the Clean Industrial Deal.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur2-billion-belgian-state-aid-support-offshore-wind-energy-2026-11-10_en
 
 ---
 
@@ -467,18 +479,6 @@ Yesterday and today, the first High-Level Connectivity Platform Meeting on Digit
 The European Union has joined a new global pledge on geothermal energy at the ongoing COP31 talks in Antalya, Türkiye this week.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/eu-signs-global-geothermal-pledge-cop31-2026-11-10_en
-
----
-
-## Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/updated-action-plan-brings-total-30-actions-one-year-under-pact-mediterranean-2026-11-10_en
 
 ---
 
