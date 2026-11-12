@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-12T11:43:08.533558+00:00
+Laatste update: 2026-11-12T12:45:09.157969+00:00
 
 ## Search is on for Africa’s most promising blue economy businesses
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Opening remarks by President António Costa at the meeting of the European Political Community in Dublin
+
+**Bron:** Raad van de EU - Persberichten
+
+On 12 November 2026, the President of the European Council, António Costa, co-chaired the ninth meeting of the European Political Community in Dublin, Ireland.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/
+
+---
+
 ## Media advisory - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ Joint press release following the home affairs day of the EU – Western Balkans
 President of the European Council António Costa delivered a video message on the occasion of the New Economy Forum award, in which he highlighted the important role of the 2026 awarded Ibero-American General Secretariat in promoting multilateralism and international relations.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/video-message-of-president-antonio-costa-for-the-new-economy-forum/
-
----
-
-## Simplification: Council agrees position to simplify energy and tyre labelling
-
-**Bron:** Raad van de EU - Persberichten
-
-Council agrees position on simplification and better use of digital options for energy and tyre labelling.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/
 
 ---
 
