@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T17:37:04.080586+00:00
+Laatste update: 2026-11-13T18:31:13.319173+00:00
 
 ## AOW-leeftijd stijgt niet in 2032
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+During the press conference held after at the end of the informal meeting of Heads of State or Government of 13 November 2026, President António Costa presented the main results of the discussions on artificial intelligence and Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/
+
+---
+
 ## Weekly schedule of President António Costa
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ The Council extended the mandate of the EU Military Assistance Mission in suppor
 The Council approved conclusions reaffirming the EU’s commitment to principled humanitarian action, stronger protection of civilians and more effective action amid growing global humanitarian needs.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/humanitarian-aid-council-approves-conclusions-on-strengthening-eu-action-amid-global-challenges/
-
----
-
-## Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 9 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Remarks by Eurogroup President Kyriakos Pierrakakis on the economic outlook in the euro area, defence financing and joint procurement, progress made on the digital euro and on the outlook for the banking sector, as well as the nomination process for three vacancies on the ECB Executive Board.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-9-november-2026/
 
 ---
 
