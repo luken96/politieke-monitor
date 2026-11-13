@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T22:29:44.828175+00:00
+Laatste update: 2026-11-13T23:26:34.323563+00:00
+
+## Opnieuw vogelgriep vastgesteld in Hierden
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 13 Nov 2026 22:54:00 GMT
+
+In Hierden (gemeente Hardewijk, provincie Gelderland) is voor de derde keer in een week vogelgriep vastgesteld. Deze keer is dat bij een eenden- en legpluimveebedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw,...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/opnieuw-vogelgriep-vastgesteld-in-hierden
+
+---
 
 ## Helmplicht voor jongeren op fatbikes en andere e-bikes gaat naar Tweede Kamer
 
@@ -587,18 +599,6 @@ Kabinet, werkgevers en vakbonden hebben met elkaar gesproken over hoe ze het soc
 Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodiging van Zijne Hoogheid sjeik Tamim bin Hamad Al Thani, Emir van de staat Qatar, en Hare Hoogheid sjeikha Jawaher bint Hamad bin Suhaim Al Thani, echtgenote van Zijne...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/staatsbezoek-qatar
-
----
-
-## Nieuwe ronde investeringsfonds ETCI, kabinet investeert € 200 miljoen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 11:00:00 GMT
-
-De doorgroei van startups in Europa loopt ver achter in vergelijking met bijvoorbeeld de Verenigde Staten. Om meer (durf)kapitaal bij elkaar te brengen, hebben diverse landen waaronder Nederland de handen ineengeslagen via het investeringsfonds...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/nieuwe-ronde-investeringsfonds-etci-kabinet-investeert-euro200-miljoen
 
 ---
 
