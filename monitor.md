@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T16:38:47.929367+00:00
+Laatste update: 2026-11-13T17:37:04.080586+00:00
 
 ## AOW-leeftijd stijgt niet in 2032
 
@@ -23,30 +23,6 @@ De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar e
 Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en
-
----
-
-## 2.3 million tonnes of textile waste generated in 2024
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en
-
----
-
-## Value of agriculture output hits record high in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.
-
-**Originele publicatie:** https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2
 
 ---
 
@@ -74,6 +50,42 @@ Research and innovation news alert: The European Commission has launched the sea
 
 ---
 
+## 2.3 million tonnes of textile waste generated in 2024
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en
+
+---
+
+## Value of agriculture output hits record high in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.
+
+**Originele publicatie:** https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2
+
+---
+
+## Announcement of next auction (EU-Bills) on 18-11-2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+Auction announcement EU-Bills.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en
+
+---
+
 ## Commission assesses Poland’s 2030 National Energy and Climate Plan, welcomes its ambition and encourages full implementation
 
 **Bron:** Europese Commissie
@@ -83,6 +95,126 @@ Research and innovation news alert: The European Commission has launched the sea
 The Commission today published its assessment of Poland’s final updated National Energy and Climate Plan (NECP), acknowledging Poland’s increased ambition compared to its draft plan
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/commission-assesses-polands-2030-necp-2026-11-13_en
+
+---
+
+## President von der Leyen and Commissioner Kos to host second EU Enlargement Forum
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+On Monday, President of European Commission, Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos will host in Brussels the second EU Enlargement Forum, entitled 'Wider Europe - Stronger Europe'.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en
+
+---
+
+## Paris Peace Forum 2026: Peace Mediation Built on Endurance and Empathy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+On 10–11 November, the European Commission’s Service for Foreign Policy Instruments (FPI) participated in the ninth edition of the Paris Peace Forum, placing peace mediation at the heart of its participation.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en
+
+---
+
+## Commission restricts lead in fishing weights and lures to protect people and the environment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-13_en
+
+---
+
+## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
+
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
+
+---
+
+## Learning from Ukraine: Resilience by Design
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The Ukrainian Cluster Alliance (UCA) published a brochure on Resilience by Design and the role of clusters in strengthening it. The brochure presents UA Resilience as a shared ecosystem capability: connecting industrial capacity, effective institutions, security, people and skills, and European coop
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en
+
+---
+
+## EU actions improving access to climate finance
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+As the world’s largest climate finance provider, the European Union (EU) is committed to making international climate finance easier to access, especially for the poorest and most vulnerable countries.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-actions-improving-access-climate-finance-2026-11-13_en
+
+---
+
+## Three new ERC Scientific Council members and two new vice-presidents
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Commission has appointed today three new members and renewed five current members of the ERC Scientific Council. The Scientific Council has also elected two of its new vice-presidents.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/three-new-erc-scientific-council-members-and-two-new-vice-presidents-2026-11-13_en
+
+---
+
+## From advanced sensors to Next-Generation Communications: How the European Defence Fund helps the European defence industry develop critical technologies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The defence landscape is constantly evolving and requires constant innovation. New technologies are mandatory to keep the armed forces of the EU member states always ahead.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en
+
+---
+
+## Commission seeks feedback on limited assurance standards for sustainability reporting
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+The consultation invites feedback on the Committee of European Auditing Oversight Bodies’ (CEAOB) technical advice, as well as on their proposed adjustments to the international standard.
+
+**Originele publicatie:** https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en
+
+---
+
+## Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
 
 ---
 
@@ -110,51 +242,15 @@ Speech by President von der Leyen at the United Nations Climate Change Conferenc
 
 ---
 
-## EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses
+## Young leaders help shape the future of EU international partnerships at Youth Policy Dialogue with Commissioner Síkela
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-Today, the European Commission helped to bring together more than 5,000 representatives from Ukrainian and international businesses, government institutions, financial organisations and international partners at the EU-Ukraine Investment Conference, held during the ReBuild Ukraine Expo in Warsaw.
+Today in Brussels, European Commissioner for International Partnerships Jozef Síkela met with 29 young leaders from around the world for the second Youth Policy Dialogue on International Partnerships.
 
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-steps-support-ukraines-recovery-reconstruction-and-modernisation-opening-new-opportunities-2026-11-12_en
-
----
-
-## Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
-
----
-
-## Join EAfA’s webinar on integrating basic skills in apprenticeships
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en
-
----
-
-## Register for joint Pact for Skills–EAfA webinar on cross-border labour mobility and skills portability
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hosting a Knowledge Exchange Event on cooperation in EU cross-border regions. The webinar will take place on 17 November 2026 from 11:00–12:30 CET
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/young-leaders-help-shape-future-eu-international-partnerships-youth-policy-dialogue-commissioner-2026-11-12_en
 
 ---
 
@@ -170,51 +266,27 @@ The Council of the European Union reached a political agreement on the fishing o
 
 ---
 
-## Commission seeks feedback on limited assurance standards for sustainability reporting
+## Register for joint Pact for Skills–EAfA webinar on cross-border labour mobility and skills portability
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-The consultation invites feedback on the Committee of European Auditing Oversight Bodies’ (CEAOB) technical advice, as well as on their proposed adjustments to the international standard.
+The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hosting a Knowledge Exchange Event on cooperation in EU cross-border regions. The webinar will take place on 17 November 2026 from 11:00–12:30 CET
 
-**Originele publicatie:** https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en
 
 ---
 
-## EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation
+## Join EAfA’s webinar on integrating basic skills in apprenticeships
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
+On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en
-
----
-
-## Commission restricts lead in fishing weights and lures to protect people and the environment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en
-
----
-
-## Young leaders help shape the future of EU international partnerships at Youth Policy Dialogue with Commissioner Síkela
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-Today in Brussels, European Commissioner for International Partnerships Jozef Síkela met with 29 young leaders from around the world for the second Youth Policy Dialogue on International Partnerships.
-
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/young-leaders-help-shape-future-eu-international-partnerships-youth-policy-dialogue-commissioner-2026-11-12_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en
 
 ---
 
@@ -239,6 +311,54 @@ European Union Drugs Agency (EUDA) published the results of Drug Survey on how p
 In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en
+
+---
+
+## EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+Today, the European Commission helped to bring together more than 5,000 representatives from Ukrainian and international businesses, government institutions, financial organisations and international partners at the EU-Ukraine Investment Conference, held during the ReBuild Ukraine Expo in Warsaw.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-steps-support-ukraines-recovery-reconstruction-and-modernisation-opening-new-opportunities-2026-11-12_en
+
+---
+
+## Career guidance for lifelong learning in changing labour markets
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+How can career guidance support lifelong learning in changing labour markets? As part of European Skills & VET Week, UNESCO-UNEVOC brought together international experts to explore inclusive career pathways, skills development and the future of guidance in TVET.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/career-guidance-lifelong-learning-changing-labour-markets-2026-11-12_en
+
+---
+
+## EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en
+
+---
+
+## Commission restricts lead in fishing weights and lures to protect people and the environment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en
 
 ---
 
@@ -311,126 +431,6 @@ Samenwerkingsverbanden die kennis over duurzame inzetbaarheid en een leven lang 
 Rijk en regio hebben de afgelopen week afspraken gemaakt over de recent gepresenteerde herprioritering van alle infrastructurele projecten. Enkele projecten kunnen nu naar de volgende fase in de uitwerking.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/kabinet-en-regio-geven-verdere-invulling-aan-prioritering
-
----
-
-## EU Drone Summit charts the course for a competitive, innovative and secure European drone market
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-Europe’s drone community convened in Brussels on 9-10 November for the EU Drone Summit, a two-day conference on the future of drone operations in the EU.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/eu-drone-summit-charts-course-competitive-innovative-and-secure-european-drone-market-2026-11-11_en
-
----
-
-## Commission launches two flagship security initiatives under the Pact for Mediterranean
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-Today, at the first Senior Officials' Meeting on Internal Security between the European Union and Southern Mediterranean partners, Commissioner for the Mediterranean Dubravka Šuica launched two flagship regional security initiatives under the third pillar of the Pact for the Mediterranean.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-two-flagship-security-initiatives-under-pact-mediterranean-2026-11-11_en
-
----
-
-## Commissioner Lahbib travels to Greenland as EU steps up Arctic preparedness cooperation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-Wildfires, landslides, tsunamis, avalanches and flooding from ice melt are among natural hazards in Greenland, which are expected to become more frequent as a consequence of global warming.  These threats pose particular challenges for remote communities.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-travels-greenland-eu-steps-arctic-preparedness-cooperation-2026-11-11_en
-
----
-
-## Cities Forum is back on 2-4 June 2027
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-The Cities Forum 2027, the European Commission and European Urban Initiative’s flagship event on sustainable urban development will take place from 2 to 4 June in Bilbao, Spain.
-
-**Originele publicatie:** https://regions-and-cities.ec.europa.eu/cities-portal/news-cities/cities-forum-back-2-4-june-2027-2026-11-11_en
-
----
-
-## Join the consultation to modernise the European Training Foundation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-Help shape the future of EU skills development by submitting your evidence for the European Training Foundation renewal by 11 December 2026.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-consultation-modernise-european-training-foundation-2026-11-11_en
-
----
-
-## The European Commission explores implementation challenges and reflects on the state of EU-level support on Research Security
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-Commissioner Zaharieva met with stakeholders through an Implementation Dialogue on Research Security.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-commission-explores-implementation-challenges-and-reflects-state-eu-level-support-research-2026-11-11_en
-
----
-
-## Making your online experience fairer
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-The European Commission presented its proposal for a Digital Fairness Act, a major update of the EU consumer protection rules to ensure that consumers in the EU enjoy the same high level of protection online as they do offline.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en
-
----
-
-## Commission to advance Ukraine's recovery, reconstruction, and modernisation at EU-Ukraine Investment Conference
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-On 12 and 13 November, the European Commission, together with Ukrainian authorities, will host the EU-Ukraine Investment Conference at the ReBuild Ukraine Expo in Warsaw. The conference, which will be opened by Commissioner for Enlargement Marta Kos and Ukraine's Minister of Economy and Environment
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-advance-ukraines-recovery-reconstruction-and-modernisation-eu-ukraine-investment-2026-11-11_en
-
----
-
-## Remediation of landfill leachate: study looks at microbiomes that break down toxic chemicals from municipal waste
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-Leachate from landfill sites can be detoxified by microbes, including any that are found within. New research explores the factors that influence the composition of these microbiomes, with a view to optimising them as a treatment solution.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/remediation-landfill-leachate-study-looks-microbiomes-break-down-toxic-chemicals-municipal-waste-2026-11-11_en
-
----
-
-## Reduce, Re-use, Recycle, Recover: lessons for applying the ‘4R’ concept in industrial redevelopment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-When industry closes down, what’s the best option for the buildings left behind? A study has looked at how circular economy principles have been applied to former breweries, factories and mines in Poland.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/reduce-re-use-recycle-recover-lessons-applying-4r-concept-industrial-redevelopment-2026-11-11_en
 
 ---
 
