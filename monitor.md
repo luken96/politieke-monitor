@@ -1,6 +1,54 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T18:31:13.319173+00:00
+Laatste update: 2026-11-13T19:39:27.000946+00:00
+
+## Voordracht kandidaten Hof van Justitie van de Europese Unie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 13 Nov 2026 18:30:00 GMT
+
+De ministerraad heeft op voorstel van minister Berendsen van Buitenlandse Zaken en staatssecretaris Van Bruggen van Justitie en Veiligheid ingestemd met de voordracht van kandidaten voor 2 functies in het Hof van Justitie van de Europese Unie.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/voordracht-kandidaten-hof-van-justitie-van-de-europese-unie
+
+---
+
+## Helmplicht voor jongeren op fatbikes en andere e-bikes gaat naar Tweede Kamer
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 13 Nov 2026 18:30:00 GMT
+
+De helmplicht tot 18 jaar voor jongeren op elektrische fietsen waaronder fatbikes, is in voorhang naar het parlement gestuurd. De ministerraad heeft daarmee ingestemd op voorstel van minister Karremans van Infrastructuur en Waterstaat. Met de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/helmplicht-voor-jongeren-op-fatbikes-en-andere-e-bikes-gaat-naar-tweede-kamer
+
+---
+
+## Benoeming directeur-generaal Rijksdienst voor Ondernemend Nederland (RVO)
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 13 Nov 2026 18:30:00 GMT
+
+José Lazeroms wordt directeur-generaal Rijksdienst voor Ondernemend Nederland (RVO) bij het ministerie van Economische Zaken en Klimaat. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/benoeming-directeur-generaal-rvo-bij-ezk
+
+---
+
+## Commissie onderzoekt verbetering financiën woningcorporaties
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 13 Nov 2026 18:30:00 GMT
+
+De adviescommissie Duurzaam corporatiestelsel gaat onderzoeken hoe de financiële situatie van woningcorporaties op de lange termijn versterkt kan worden. In 2027 brengt de commissie advies uit aan het kabinet. De ministerraad heeft ingestemd met...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/commissie-onderzoekt-verbetering-financien-woningcorporaties
+
+---
 
 ## AOW-leeftijd stijgt niet in 2032
 
@@ -551,58 +599,6 @@ Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodig
 De doorgroei van startups in Europa loopt ver achter in vergelijking met bijvoorbeeld de Verenigde Staten. Om meer (durf)kapitaal bij elkaar te brengen, hebben diverse landen waaronder Nederland de handen ineengeslagen via het investeringsfonds...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/nieuwe-ronde-investeringsfonds-etci-kabinet-investeert-euro200-miljoen
-
----
-
-## De asielinstroom van week 45 bedroeg ongeveer 790
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 09:56:00 GMT
-
-De asielinstroom van week 45, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 790.
- 
-De totale asielinstroom is als volgt onderverdeeld:
-•      550 eerste aanvragen,
-•    ...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/de-asielinstroom-van-week-45-bedroeg-ongeveer-790
-
----
-
-## Overheid en energiesector spreken doel en acties af voor meer grote batterijen in Nederland
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 08:00:00 GMT
-
-Het kabinet publiceert vandaag een ambitieuze visie op de rol van energieopslag in Nederland en bepaalt voor het eerst een richtwaarde voor nieuwe grote batterijen. De verwachting is dat er in 2040 110 gigawattuur (GWh) aan batterijcapaciteit is...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/overheid-en-energiesector-spreken-doel-en-acties-af-voor-meer-grote-batterijen-in-nederland
-
----
-
-## Minister benoemt 5 nieuwe locaties voor versneld bouwen 25.000 huizen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 07:08:00 GMT
-
-Minister Elanor Boekholt-O'Sullivan van Volkshuisvesting en Ruimtelijke Ordening heeft nog eens 5 locaties aangewezen waar met hulp van het Rijk de bouw van in totaal zo’n 25.000 woningen versneld gaat worden. Het gaat om locaties in de gemeenten...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/minister-benoemt-5-nieuwe-locaties-voor-versneld-bouwen-25.000-huizen
-
----
-
-## Kabinet maakt einde aan sluiproute voor goedkope arbeidsmigranten
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Sat, 07 Nov 2026 07:00:00 GMT
-
-Het kabinet wil voorkomen dat derdelanders van buiten de EU via een ander Europees land direct in Nederland gaan werken. Deze vorm van detachering wordt op steeds grotere schaal gebruikt om Nederlandse regels te omzeilen. Dit leidt tot misstanden...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/07/kabinet-maakt-einde-aan-sluiproute-voor-goedkope-arbeidsmigranten
 
 ---
 
