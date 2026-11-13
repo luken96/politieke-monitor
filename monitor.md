@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T10:44:34.328417+00:00
+Laatste update: 2026-11-13T11:41:28.970811+00:00
 
 ## AOW-leeftijd stijgt niet in 2032
 
@@ -8,7 +8,7 @@ Laatste update: 2026-11-13T10:44:34.328417+00:00
 
 **Gepubliceerd:** Fri, 13 Nov 2026 09:00:00 GMT
 
-De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar en drie maanden. Dat schrijft minister Hans Vijlbrief van Sociale Zaken en Werkgelegenheid aan de Tweede Kamer.
+De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar en 3 maanden. Dat schrijft minister Hans Vijlbrief van Sociale Zaken en Werkgelegenheid aan de Tweede Kamer.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/aow-leeftijd-stijgt-niet-in-2032
 
@@ -26,6 +26,18 @@ Today, the European Commission awarded the first Prize for Governance Innovation
 
 ---
 
+## 2.3 million tonnes of textile waste generated in 2024
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en
+
+---
+
 ## Value of agriculture output hits record high in 2025
 
 **Bron:** Europese Commissie
@@ -34,7 +46,43 @@ Today, the European Commission awarded the first Prize for Governance Innovation
 
 In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.
 
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/value-agriculture-output-hits-record-high-2025-2026-11-13_en
+**Originele publicatie:** https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2
+
+---
+
+## At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean. They are part of the EU’s commitment to work with international partners to accelerate global climate action and deliver on the goals of...
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en
+
+---
+
+## Commission launches first global alliance on climate and health research funding at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en
+
+---
+
+## Commission assesses Poland’s 2030 National Energy and Climate Plan, welcomes its ambition and encourages full implementation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The Commission today published its assessment of Poland’s final updated National Energy and Climate Plan (NECP), acknowledging Poland’s increased ambition compared to its draft plan
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-assesses-polands-2030-necp-2026-11-13_en
 
 ---
 
@@ -383,54 +431,6 @@ Leachate from landfill sites can be detoxified by microbes, including any that a
 When industry closes down, what’s the best option for the buildings left behind? A study has looked at how circular economy principles have been applied to former breweries, factories and mines in Poland.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/reduce-re-use-recycle-recover-lessons-applying-4r-concept-industrial-redevelopment-2026-11-11_en
-
----
-
-## Local connections matter for adopting circular practices in construction
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-How can we encourage circularity in the construction sector? A study of building firms’ practices in Italy suggests that local relationships may hold one key to improving sustainability.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/local-connections-matter-adopting-circular-practices-construction-2026-11-11_en
-
----
-
-## EU will step up cooperation with Yemen on maritime security
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-In view of the Houthis’ continued military escalation in Yemen, their attacks in the region and the continued threats to freedom of navigation in Bab al-Mandab, the Commission will step up its support to Yemen on maritime security.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-will-step-cooperation-yemen-maritime-security-2026-11-11_en
-
----
-
-## First USI-IRA call under EDIP attracts a high number of proposals from Member States and Ukraine
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-The first ever USI-IRA call attracted 58 proposals from 11 member States and Ukraine.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/first-usi-ira-call-under-edip-attracts-high-number-proposals-member-states-and-ukraine-2026-11-11_en
-
----
-
-## EU and Nigeria sign readmission agreement furthering cooperation on migration and security
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 11 Nov 2026 00:00:00 +0100
-
-On 10 November, the EU and the Federal Republic of Nigeria signed a readmission agreement, marking an important step in their partnership on migration and security. Commissioner Brunner represented the EU at the signing ceremony, underlining that this is part of a wider partnership on migration.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/eu-and-nigeria-sign-readmission-agreement-furthering-cooperation-migration-and-security-2026-11-11_en
 
 ---
 
