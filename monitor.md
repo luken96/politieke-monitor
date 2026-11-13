@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T20:37:55.241713+00:00
+Laatste update: 2026-11-13T21:32:58.255619+00:00
 
 ## Voordracht kandidaten Hof van Justitie van de Europese Unie
 
