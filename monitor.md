@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T09:43:21.706570+00:00
+Laatste update: 2026-11-13T10:44:34.328417+00:00
 
 ## AOW-leeftijd stijgt niet in 2032
 
@@ -26,6 +26,18 @@ Today, the European Commission awarded the first Prize for Governance Innovation
 
 ---
 
+## Value of agriculture output hits record high in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/value-agriculture-output-hits-record-high-2025-2026-11-13_en
+
+---
+
 ## Search is on for Africa’s most promising blue economy businesses
 
 **Bron:** Europese Commissie
@@ -47,6 +59,30 @@ The call for pitchers for BlueInvest Africa 2027 has started! African entreprene
 Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)
 
 **Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/speech-president-von-der-leyen-united-nations-climate-change-conference-cop31-2026-11-12_en
+
+---
+
+## EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+Today, the European Commission helped to bring together more than 5,000 representatives from Ukrainian and international businesses, government institutions, financial organisations and international partners at the EU-Ukraine Investment Conference, held during the ReBuild Ukraine Expo in Warsaw.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-steps-support-ukraines-recovery-reconstruction-and-modernisation-opening-new-opportunities-2026-11-12_en
+
+---
+
+## Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
 
 ---
 
@@ -98,63 +134,27 @@ The consultation invites feedback on the Committee of European Auditing Oversi
 
 ---
 
-## The results of EUDA Drug Survey: 6 in 10 people in the EU see drug trafficking and drug use as serious problems
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-European Union Drugs Agency (EUDA) published the results of Drug Survey on how people across Europe view drugs, their impact and how society should respond. The EUDA surveyed 95 883 people (aged 15 and over) in 35 European countries, including  respondents in the 27 EU countries.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en
-
----
-
 ## EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-EU and Armenia today signed two agreements between the EU and Armenia on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
+EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
 
 **Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en
 
 ---
 
-## Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026
+## Commission restricts lead in fishing weights and lures to protect people and the environment
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.
+On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en
-
----
-
-## EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-Today, the European Commission helped to bring together more than 5,000 representatives from Ukrainian and international businesses, government institutions, financial organisations and international partners at the EU-Ukraine Investment Conference, held during the ReBuild Ukraine Expo in Warsaw.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-steps-support-ukraines-recovery-reconstruction-and-modernisation-opening-new-opportunities-2026-11-12_en
-
----
-
-## Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en
 
 ---
 
@@ -167,6 +167,30 @@ The European Commission has decided to close its preliminary antitrust probe int
 Today in Brussels, European Commissioner for International Partnerships Jozef Síkela met with 29 young leaders from around the world for the second Youth Policy Dialogue on International Partnerships.
 
 **Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/young-leaders-help-shape-future-eu-international-partnerships-youth-policy-dialogue-commissioner-2026-11-12_en
+
+---
+
+## The results of EUDA Drug Survey: 6 in 10 people in the EU see drug trafficking and drug use as serious problems
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+European Union Drugs Agency (EUDA) published the results of Drug Survey on how people across Europe view drugs, their impact and how society should respond. The EUDA surveyed 95 883 people (aged 15 and over) in 35 European countries, including  respondents in the 27 EU countries.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en
+
+---
+
+## Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en
 
 ---
 
@@ -467,30 +491,6 @@ Scholen gaan aan de slag met een betere aanpak van het signaleren, voorkomen en 
 Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen willen het grensoverschrijdende passagiers- en goederenvervoer (inclusief militaire mobiliteit) versterken, ook vanwege het Europese belang hiervan. Doel is dat er meer...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/nederland-en-duitsland-intensiveren-samenwerking-op-spoorgebied
-
----
-
-## Commission approves €2 billion Belgian State aid to support offshore wind energy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The European Commission has approved a €2.04 billion Belgian scheme to support offshore wind energy in line with the objectives of the Clean Industrial Deal.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur2-billion-belgian-state-aid-support-offshore-wind-energy-2026-11-10_en
-
----
-
-## Discover the new interactive ECO Country Fact Sheets
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 10 Nov 2026 00:00:00 +0100
-
-The European Construction Observatory (ECO) has launched its first set of revamped Country Fact Sheets, featuring a new interactive design that makes it easier to explore and understand the construction ecosystem across EU countries.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/discover-new-interactive-eco-country-fact-sheets-2026-11-10_en
 
 ---
 
