@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T12:43:57.527026+00:00
+Laatste update: 2026-11-13T13:58:44.464300+00:00
 
 ## AOW-leeftijd stijgt niet in 2032
 
@@ -760,7 +760,7 @@ The Council and European Parliament agree on a modernised framework for fisherie
 
 **Bron:** Raad van de EU - Persberichten
 
-Leaders and representatives of Estonia, France, Latvia, Lithuania, the United Kingdom and the High Representative of the Union for Foreign Affairs and Security Policy, met on 12 November 2026 with Armenian Prime Minister Nikol Pashinyan on the margins of the European Political Community summit in Dublin. Joined by Germany, the Netherlands, Norway, Poland, the President of the European Council and the President of the European Commission, they issued a statement.
+Leaders and representatives of Estonia, France, Latvia, Lithuania, the United Kingdom and the High Representative of the Union for Foreign Affairs and Security Policy, met on 12 November 2026 with Armenian Prime Minister Nikol Pashinyan on the margins of the European Political Community summit in Dublin. Joined by Germany, the Netherlands, Norway, Poland, Sweden, the President of the European Council and the President of the European Commission, they issued a statement.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/statement-after-the-leaders-meeting-of-the-core-group-of-support-to-armenia/
 
