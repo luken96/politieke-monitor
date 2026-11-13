@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T15:31:52.625432+00:00
+Laatste update: 2026-11-13T16:38:47.929367+00:00
 
 ## AOW-leeftijd stijgt niet in 2032
 
@@ -726,6 +726,36 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Weekly schedule of President António Costa
+
+**Bron:** Raad van de EU - Persberichten
+
+Weekly schedule of President António Costa, 16-22 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/weekly-schedule-of-president-antonio-costa/
+
+---
+
+## Forward look: 16 - 29 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/forward-look-2026/
+
+---
+
+## Media advisory - Foreign Affairs Council of 16 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing, public sessions and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/media-advisory-foreign-affairs-council-of-16-november-2026/
+
+---
+
 ## Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries
 
 **Bron:** Raad van de EU - Persberichten
@@ -893,36 +923,6 @@ The Council approved conclusions reaffirming the EU’s commitment to principled
 Remarks by Eurogroup President Kyriakos Pierrakakis on the economic outlook in the euro area, defence financing and joint procurement, progress made on the digital euro and on the outlook for the banking sector, as well as the nomination process for three vacancies on the ECB Executive Board.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-9-november-2026/
-
----
-
-## Taxation: Council approves further VAT simplification rules for online sales
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council today agreed further measures to improve value-added tax collection on e-commerce sales into the EU. This is the final building block of the broader overhaul of the EU customs framework.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales/
-
----
-
-## COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables
-
-**Bron:** Raad van de EU - Persberichten
-
-The EU and the OACPS member states have issued a joint statement ahead of COP31, reaffirming their commitment to the full implementation of the Paris Agreement and strengthen cooperation on climate action.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/
-
----
-
-## Statement by the Eurogroup President on the nominations for the post of ECB President
-
-**Bron:** Raad van de EU - Persberichten
-
-President of the Eurogroup, Kyriakos Pierrakakis, issued a statement on the nominations for the post of ECB President.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/
 
 ---
 
