@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T11:41:28.970811+00:00
+Laatste update: 2026-11-13T12:43:57.527026+00:00
 
 ## AOW-leeftijd stijgt niet in 2032
 
