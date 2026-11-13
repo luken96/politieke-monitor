@@ -1,18 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-13T21:32:58.255619+00:00
-
-## Voordracht kandidaten Hof van Justitie van de Europese Unie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 13 Nov 2026 18:30:00 GMT
-
-De ministerraad heeft op voorstel van minister Berendsen van Buitenlandse Zaken en staatssecretaris Van Bruggen van Justitie en Veiligheid ingestemd met de voordracht van kandidaten voor 2 functies in het Hof van Justitie van de Europese Unie.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/voordracht-kandidaten-hof-van-justitie-van-de-europese-unie
-
----
+Laatste update: 2026-11-13T22:29:44.828175+00:00
 
 ## Helmplicht voor jongeren op fatbikes en andere e-bikes gaat naar Tweede Kamer
 
@@ -23,6 +11,18 @@ De ministerraad heeft op voorstel van minister Berendsen van Buitenlandse Zaken 
 De helmplicht tot 18 jaar voor jongeren op elektrische fietsen waaronder fatbikes, is in voorhang naar het parlement gestuurd. De ministerraad heeft daarmee ingestemd op voorstel van minister Karremans van Infrastructuur en Waterstaat. Met de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/helmplicht-voor-jongeren-op-fatbikes-en-andere-e-bikes-gaat-naar-tweede-kamer
+
+---
+
+## Voordracht kandidaten Hof van Justitie van de Europese Unie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 13 Nov 2026 18:30:00 GMT
+
+De ministerraad heeft op voorstel van minister Berendsen van Buitenlandse Zaken en staatssecretaris Van Bruggen van Justitie en Veiligheid ingestemd met de voordracht van kandidaten voor 2 functies in het Hof van Justitie van de Europese Unie.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/voordracht-kandidaten-hof-van-justitie-van-de-europese-unie
 
 ---
 
