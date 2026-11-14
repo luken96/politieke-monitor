@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-14T15:23:44.640926+00:00
+Laatste update: 2026-11-14T16:24:28.392822+00:00
 
 ## Opnieuw vogelgriep vastgesteld in Hierden
 
