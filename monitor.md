@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-14T11:22:22.669204+00:00
+Laatste update: 2026-11-14T12:25:34.188957+00:00
 
 ## Opnieuw vogelgriep vastgesteld in Hierden
 
@@ -722,6 +722,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza
+
+**Bron:** Raad van de EU - Persberichten
+
+Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/
+
+---
+
 ## Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -909,16 +919,6 @@ Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy
 The Council extended the mandate of the EU Military Assistance Mission in support of Ukraine until 15 November 2028.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/
-
----
-
-## Humanitarian aid: Council approves conclusions on strengthening EU action amid global challenges
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council approved conclusions reaffirming the EU’s commitment to principled humanitarian action, stronger protection of civilians and more effective action amid growing global humanitarian needs.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/humanitarian-aid-council-approves-conclusions-on-strengthening-eu-action-amid-global-challenges/
 
 ---
 
