@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-14T12:25:34.188957+00:00
+Laatste update: 2026-11-14T13:38:41.377421+00:00
 
 ## Opnieuw vogelgriep vastgesteld in Hierden
 
@@ -8,7 +8,7 @@ Laatste update: 2026-11-14T12:25:34.188957+00:00
 
 **Gepubliceerd:** Fri, 13 Nov 2026 22:54:00 GMT
 
-In Hierden (gemeente Hardewijk, provincie Gelderland) is voor de derde keer in een week vogelgriep vastgesteld. Deze keer is dat bij een eenden- en legpluimveebedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw,...
+In Hierden (gemeente Harderwijk, provincie Gelderland) is voor de derde keer in een week vogelgriep vastgesteld. Deze keer is dat bij een eenden- en legpluimveebedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw,...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/opnieuw-vogelgriep-vastgesteld-in-hierden
 
@@ -726,7 +726,7 @@ his study presents a systematic literature review of food waste and loss interve
 
 **Bron:** Raad van de EU - Persberichten
 
-Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza
+The High Representative issued a statement on behalf of the European Union on the humanitarian developments in Gaza.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/
 
