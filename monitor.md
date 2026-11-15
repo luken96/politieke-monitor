@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-15T09:30:34.083917+00:00
+Laatste update: 2026-11-15T10:27:49.096201+00:00
+
+## Vogelgriep vastgesteld in Oosterwolde (Gelderland)
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Sun, 15 Nov 2026 10:20:00 GMT
+
+In Oosterwolde (gemeente Oldebroek, provincie Gelderland) is vogelgriep vastgesteld op een leghennenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/15/vogelgriep-vastgesteld-in-oosterwolde-gelderland
+
+---
 
 ## Opnieuw vogelgriep vastgesteld in Hierden
 
@@ -1931,18 +1943,6 @@ MOTION FOR A RESOLUTION to wind up the debate on the statement by the Vice-Presi
 MOTION FOR A RESOLUTION to wind up the debate on the statement by the Vice-President of the Commission / High Representative of the Union for Foreign Affairs and Security Policy pursuant to Rule 136(2) of the Rules of Procedure on Ukrainian children forcibly deported to Russia or living in Russian-occupied territories in Ukraine (2026/2947(RSP)) Özlem Demirel on behalf of The Left Group Source : © European Union, 2026 - EP
 
 **Originele publicatie:** https://www.europarl.europa.eu/doceo/document/B-10-2026-0496_EN.html
-
----
-
-## Staatsbezoek Qatar
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 12:30:00 GMT
-
-Zijne Majesteit de Koning en Hare Majesteit Koningin Máxima brengen op uitnodiging van Zijne Hoogheid sjeik Tamim bin Hamad Al Thani, Emir van de staat Qatar, en Hare Hoogheid sjeikha Jawaher bint Hamad bin Suhaim Al Thani, echtgenote van Zijne...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/staatsbezoek-qatar
 
 ---
 
