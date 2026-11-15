@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-15T11:24:09.620045+00:00
+Laatste update: 2026-11-15T12:26:27.468987+00:00
 
 ## Vogelgriep vastgesteld in Oosterwolde (Gelderland)
 
@@ -83,18 +83,6 @@ De adviescommissie Duurzaam corporatiestelsel gaat onderzoeken hoe de financiël
 De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar en 3 maanden. Dat schrijft minister Hans Vijlbrief van Sociale Zaken en Werkgelegenheid aan de Tweede Kamer.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/aow-leeftijd-stijgt-niet-in-2032
-
----
-
-## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en
 
 ---
 
@@ -206,30 +194,6 @@ On 12 November 2026, the Commission adopted measures to restrict lead in fishing
 
 ---
 
-## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
-
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
-
----
-
-## Learning from Ukraine: Resilience by Design
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The Ukrainian Cluster Alliance (UCA) published a brochure on Resilience by Design and the role of clusters in strengthening it. The brochure presents UA Resilience as a shared ecosystem capability: connecting industrial capacity, effective institutions, security, people and skills, and European coop
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en
-
----
-
 ## EU actions improving access to climate finance
 
 **Bron:** Europese Commissie
@@ -263,6 +227,162 @@ The European Commission has appointed today three new members and renewed five c
 The defence landscape is constantly evolving and requires constant innovation. New technologies are mandatory to keep the armed forces of the EU member states always ahead.
 
 **Originele publicatie:** https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en
+
+---
+
+## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en
+
+---
+
+## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
+
+**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
+
+---
+
+## Learning from Ukraine: Resilience by Design
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The Ukrainian Cluster Alliance (UCA) published a brochure on Resilience by Design and the role of clusters in strengthening it. The brochure presents UA Resilience as a shared ecosystem capability: connecting industrial capacity, effective institutions, security, people and skills, and European coop
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en
+
+---
+
+## Oil Coordination Group confirms continued supply stability across the EU
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+Experts from the Commission, EU countries, the International Energy Agency (IEA), the Energy Community and NATO met again today in the Oil Coordination Group to take stock, together with industry representatives, of the current oil market situation.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en
+
+---
+
+## Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Commission has sent a Supplementary Statement of Objections to the Greek electricity provider Public Power Corporation S.A. ('PPC').
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en
+
+---
+
+## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
+
+---
+
+## The results of EUDA Drug Survey: 6 in 10 people in the EU see drug trafficking and drug use as serious problems
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+European Union Drugs Agency (EUDA) published the results of Drug Survey on how people across Europe view drugs, their impact and how society should respond. The EUDA surveyed 95 883 people (aged 15 and over) in 35 European countries, including  respondents in the 27 EU countries.
+
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en
+
+---
+
+## Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en
+
+---
+
+## EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+Today, the European Commission helped to bring together more than 5,000 representatives from Ukrainian and international businesses, government institutions, financial organisations and international partners at the EU-Ukraine Investment Conference, held during the ReBuild Ukraine Expo in Warsaw.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-steps-support-ukraines-recovery-reconstruction-and-modernisation-opening-new-opportunities-2026-11-12_en
+
+---
+
+## Career guidance for lifelong learning in changing labour markets
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+How can career guidance support lifelong learning in changing labour markets? As part of European Skills & VET Week, UNESCO-UNEVOC brought together international experts to explore inclusive career pathways, skills development and the future of guidance in TVET.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/career-guidance-lifelong-learning-changing-labour-markets-2026-11-12_en
+
+---
+
+## Commission restricts lead in fishing weights and lures to protect people and the environment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en
+
+---
+
+## EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+Today, the European Commission and Egypt have reached an important milestone in their digital cooperation, and a significant deliverable of the EU-Egypt Summit of 22 October 2025, by achieving technical alignment of electronic signatures and seal schemes between the European Union and Egypt.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en
+
+---
+
+## EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
+
+EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en
 
 ---
 
@@ -323,126 +443,6 @@ Speech by President von der Leyen at the United Nations Climate Change Conferenc
 Today in Brussels, European Commissioner for International Partnerships Jozef Síkela met with 29 young leaders from around the world for the second Youth Policy Dialogue on International Partnerships.
 
 **Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/young-leaders-help-shape-future-eu-international-partnerships-youth-policy-dialogue-commissioner-2026-11-12_en
-
----
-
-## Agreement reached on 2027 fishing opportunities for the Baltic Sea
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en
-
----
-
-## Register for joint Pact for Skills–EAfA webinar on cross-border labour mobility and skills portability
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hosting a Knowledge Exchange Event on cooperation in EU cross-border regions. The webinar will take place on 17 November 2026 from 11:00–12:30 CET
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en
-
----
-
-## Join EAfA’s webinar on integrating basic skills in apprenticeships
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en
-
----
-
-## The results of EUDA Drug Survey: 6 in 10 people in the EU see drug trafficking and drug use as serious problems
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-European Union Drugs Agency (EUDA) published the results of Drug Survey on how people across Europe view drugs, their impact and how society should respond. The EUDA surveyed 95 883 people (aged 15 and over) in 35 European countries, including  respondents in the 27 EU countries.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en
-
----
-
-## Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en
-
----
-
-## EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-Today, the European Commission helped to bring together more than 5,000 representatives from Ukrainian and international businesses, government institutions, financial organisations and international partners at the EU-Ukraine Investment Conference, held during the ReBuild Ukraine Expo in Warsaw.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-steps-support-ukraines-recovery-reconstruction-and-modernisation-opening-new-opportunities-2026-11-12_en
-
----
-
-## Career guidance for lifelong learning in changing labour markets
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-How can career guidance support lifelong learning in changing labour markets? As part of European Skills & VET Week, UNESCO-UNEVOC brought together international experts to explore inclusive career pathways, skills development and the future of guidance in TVET.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/career-guidance-lifelong-learning-changing-labour-markets-2026-11-12_en
-
----
-
-## EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en
-
----
-
-## Commission restricts lead in fishing weights and lures to protect people and the environment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en
-
----
-
-## EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-Today, the European Commission and Egypt have reached an important milestone in their digital cooperation, and a significant deliverable of the EU-Egypt Summit of 22 October 2025, by achieving technical alignment of electronic signatures and seal schemes between the European Union and Egypt.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en
 
 ---
 
