@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-15T22:25:07.483780+00:00
+Laatste update: 2026-11-15T23:30:50.321448+00:00
 
 ## Vogelgriep vastgesteld in Oosterwolde (Gelderland)
 
