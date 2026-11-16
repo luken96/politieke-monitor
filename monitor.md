@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-16T16:27:36.615094+00:00
+Laatste update: 2026-11-16T17:48:27.816666+00:00
 
 ## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Speech by President António Costa at the EU Enlargement Forum 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The President of the European Council, António Costa, gave a speech at the EU Enlargement Forum  on 16 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/speech-by-president-antonio-costa-at-the-eu-enlargement-forum-2026/
+
+---
+
 ## Media advisory - Foreign Affairs Council (Defence) of 17 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ President Costa and President von der Leyen issued a joint statement following t
 On 12 November 2026, the President of the European Council, António Costa, co-chaired the ninth meeting of the European Political Community in Dublin, Ireland.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/
-
----
-
-## Media advisory - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing, public sessions and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/
 
 ---
 
