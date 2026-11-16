@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-16T10:06:53.262791+00:00
+Laatste update: 2026-11-16T11:51:26.649464+00:00
 
 ## De asielinstroom van week 46 bedroeg ongeveer 870
 
@@ -42,6 +42,18 @@ Bij het verlenen van een werk- en verblijfsvergunning wordt voortaan getoetst of
 
 ---
 
+## Translating Europe Forum 2026: Language professionals matter!
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+Discover the key takeaways and highlights from #2026TEF.
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en
+
+---
+
 ## Commission publishes technical guidance to support implementation of the Digital Product Passport Registry
 
 **Bron:** Europese Commissie
@@ -66,15 +78,27 @@ The EU electricity market is suitably prepared for the winter, but it is necessa
 
 ---
 
-## Translating Europe Forum 2026: Language professionals matter!
+## Commission unconditionally approves UniCredit's acquisition of Commerzbank
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-Discover the key takeaways and highlights from #2026TEF.
+The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by UniCredit of Commerzbank. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA').
 
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en
+
+---
+
+## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
 
 ---
 
@@ -162,63 +186,15 @@ De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar e
 
 ---
 
-## At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean
+## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
 
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean. They are part of the EU’s commitment to work with international partners to accelerate global climate action and deliver on the goals of...
+Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.
 
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en
-
----
-
-## Commission launches first global alliance on climate and health research funding at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en
-
----
-
-## 2.3 million tonnes of textile waste generated in 2024
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en
-
----
-
-## Value of agriculture output hits record high in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.
-
-**Originele publicatie:** https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2
-
----
-
-## Announcement of next auction (EU-Bills) on 18-11-2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Auction announcement EU-Bills.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en
 
 ---
 
@@ -234,30 +210,6 @@ The Commission today published its assessment of Poland’s final updated Nation
 
 ---
 
-## President von der Leyen and Commissioner Kos to host second EU Enlargement Forum
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-On Monday, President of European Commission, Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos will host in Brussels the second EU Enlargement Forum, entitled 'Wider Europe - Stronger Europe'.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en
-
----
-
-## Paris Peace Forum 2026: Peace Mediation Built on Endurance and Empathy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-On 10–11 November, the European Commission’s Service for Foreign Policy Instruments (FPI) participated in the ninth edition of the Paris Peace Forum, placing peace mediation at the heart of its participation.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en
-
----
-
 ## Commission restricts lead in fishing weights and lures to protect people and the environment
 
 **Bron:** Europese Commissie
@@ -267,6 +219,18 @@ On 10–11 November, the European Commission’s Service for Foreign Policy Inst
 On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-13_en
+
+---
+
+## President von der Leyen and Commissioner Kos to host second EU Enlargement Forum
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+On Monday, President of European Commission, Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos will host in Brussels the second EU Enlargement Forum, entitled 'Wider Europe - Stronger Europe'.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en
 
 ---
 
@@ -294,27 +258,111 @@ The European Commission has appointed today three new members and renewed five c
 
 ---
 
-## From advanced sensors to Next-Generation Communications: How the European Defence Fund helps the European defence industry develop critical technologies
+## Commission approves €286 million German State aid to port of Hamburg
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
 
-The defence landscape is constantly evolving and requires constant innovation. New technologies are mandatory to keep the armed forces of the EU member states always ahead.
+The European Commission has approved, under EU State aid rules, two €143 million German measures to support infrastructure works in the port of Hamburg. The measures concern two distinct infrastructure projects, one at the Salzgitter quay and one at the Steinwerder quay.
 
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-eur286-million-german-state-aid-port-hamburg-2026-11-13_en
 
 ---
 
-## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
+## 2.3 million tonnes of textile waste generated in 2024
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
 
-Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.
+In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en
+**Originele publicatie:** https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en
+
+---
+
+## Value of agriculture output hits record high in 2025
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.
+
+**Originele publicatie:** https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2
+
+---
+
+## At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean. They are part of the EU’s commitment to work with international partners to accelerate global climate action and deliver on the goals of...
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en
+
+---
+
+## Commission launches first global alliance on climate and health research funding at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en
+
+---
+
+## Announcement of next auction (EU-Bills) on 18-11-2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+Auction announcement EU-Bills.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en
+
+---
+
+## Paris Peace Forum 2026: Peace Mediation Built on Endurance and Empathy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+On 10–11 November, the European Commission’s Service for Foreign Policy Instruments (FPI) participated in the ninth edition of the Paris Peace Forum, placing peace mediation at the heart of its participation.
+
+**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en
+
+---
+
+## Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Commission has sent a Supplementary Statement of Objections to the Greek electricity provider Public Power Corporation S.A. ('PPC').
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en
+
+---
+
+## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
 
 ---
 
@@ -354,51 +402,15 @@ Experts from the Commission, EU countries, the International Energy Agency (IEA)
 
 ---
 
-## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
+## From advanced sensors to Next-Generation Communications: How the European Defence Fund helps the European defence industry develop critical technologies
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
 
-The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
+The defence landscape is constantly evolving and requires constant innovation. New technologies are mandatory to keep the armed forces of the EU member states always ahead.
 
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
-
----
-
-## Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The European Commission has sent a Supplementary Statement of Objections to the Greek electricity provider Public Power Corporation S.A. ('PPC').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en
-
----
-
-## The results of EUDA Drug Survey: 6 in 10 people in the EU see drug trafficking and drug use as serious problems
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-European Union Drugs Agency (EUDA) published the results of Drug Survey on how people across Europe view drugs, their impact and how society should respond. The EUDA surveyed 95 883 people (aged 15 and over) in 35 European countries, including  respondents in the 27 EU countries.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en
-
----
-
-## Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en
 
 ---
 
@@ -414,51 +426,51 @@ Today, the European Commission helped to bring together more than 5,000 represen
 
 ---
 
-## Career guidance for lifelong learning in changing labour markets
+## Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-How can career guidance support lifelong learning in changing labour markets? As part of European Skills & VET Week, UNESCO-UNEVOC brought together international experts to explore inclusive career pathways, skills development and the future of guidance in TVET.
+The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
 
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/career-guidance-lifelong-learning-changing-labour-markets-2026-11-12_en
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
 
 ---
 
-## Commission restricts lead in fishing weights and lures to protect people and the environment
+## Join EAfA’s webinar on integrating basic skills in apprenticeships
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
+On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.
 
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en
 
 ---
 
-## EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals
+## Register for joint Pact for Skills–EAfA webinar on cross-border labour mobility and skills portability
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-Today, the European Commission and Egypt have reached an important milestone in their digital cooperation, and a significant deliverable of the EU-Egypt Summit of 22 October 2025, by achieving technical alignment of electronic signatures and seal schemes between the European Union and Egypt.
+The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hosting a Knowledge Exchange Event on cooperation in EU cross-border regions. The webinar will take place on 17 November 2026 from 11:00–12:30 CET
 
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en
 
 ---
 
-## EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation
+## Agreement reached on 2027 fishing opportunities for the Baltic Sea
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
 
-EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.
+The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en
 
 ---
 
@@ -471,18 +483,6 @@ EU and Armenia today signed two agreements on Armenia’s participation in the E
 The consultation invites feedback on the Committee of European Auditing Oversight Bodies’ (CEAOB) technical advice, as well as on their proposed adjustments to the international standard.
 
 **Originele publicatie:** https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en
-
----
-
-## Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
 
 ---
 
@@ -726,6 +726,46 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Ukraine: EU lists 113 individuals and entities to further restrict Russia’s ability to finance its war of aggression
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has imposed restrictive measures on 12 individuals and 101 entities active in the banking, financial and energy sectors for their role in financing Russia’s war efforts and supporting its shadow fleet.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-eu-lists-113-individuals-and-entities-to-further-restrict-russia-s-ability-to-finance-its-war-of-aggression/
+
+---
+
+## EU Global Human Rights Sanctions Regime: Council lists four Haitian entities over serious human rights violations
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council adopted restrictive measures against four Haitian criminal armed groups responsible for grave violations against children in armed conflict, including killings, sexual violence and the recruitment of children.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/eu-global-human-rights-sanctions-regime-council-lists-four-haitian-entities-over-serious-human-rights-violations/
+
+---
+
+## Russia’s FIMI and malicious cyber activities: Council imposes sanctions on 30 individuals and two entities
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council adopted restrictive measures against 30 individuals and one entity responsible for actions on behalf of the Russian Federation undermining and threatening democracy, stability or security in the EU and some its Member States or in third countries. It also listed one entity responsible for cyber-attacks on Ukrainian, US, and EU government bodies, critical infrastructure, and private companies.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/
+
+---
+
+## Hamas and the Palestinian Islamic Jihad: EU adds one entity and its founder to the sanctions list
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has added one individual and one entity to the sanctions list against Hamas and the Palestinian Islamic Jihad, for their role in financing Hamas.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/hamas-and-the-palestinian-islamic-jihad-eu-adds-one-entity-and-its-founder-to-the-sanctions-list/
+
+---
+
 ## Ukraine Facility: Council approves largest-ever payment of €8 billion to Kyiv
 
 **Bron:** Raad van de EU - Persberichten
@@ -883,46 +923,6 @@ Main agenda items, approximate timing, public sessions and press opportunities.
 Press briefing ahead of the upcoming Foreign Affairs Council and the Foreign Affairs Council (Defence) will take place on 13 November at 16.00.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/press-briefing-ahead-of-the-foreign-affairs-council-and-the-foreign-affairs-defence-councils-of-16-and-17-november-2026/
-
----
-
-## EU budget for 2027: Council and Parliament reach agreement
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council and the European Parliament secured agreement on the EU’s annual budget for 2027 - the seventh and final annual budget of the current multiannual financial framework (MFF) 2021-2027.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/eu-budget-for-2027-council-and-parliament-reach-agreement/
-
----
-
-## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2286 of 12 October 2026 amending Decision (CFSP) 2018/1544 concerning restrictive measures against the proliferation and use of chemical weapons.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/
-
----
-
-## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the Democratic People’s Republic of Korea
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2283 of 12 October 2026 amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People’s Republic of Korea.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-democratic-people-s-republic-of-korea/
-
----
-
-## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the leadership of the Transnistrian region of the Republic of Moldova
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2397 of 26 October 2026 amending Decision 2010/573/CFSP concerning restrictive measures against the leadership of the Transnistrian region of the Republic of Moldova.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-leadership-of-the-transnistrian-region-of-the-republic-of-moldova/
 
 ---
 
