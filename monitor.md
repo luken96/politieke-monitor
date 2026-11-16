@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-16T19:44:34.876050+00:00
+Laatste update: 2026-11-16T20:36:38.936706+00:00
 
 ## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
 
