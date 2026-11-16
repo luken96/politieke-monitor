@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-16T11:51:26.649464+00:00
+Laatste update: 2026-11-16T14:25:54.490580+00:00
 
 ## De asielinstroom van week 46 bedroeg ongeveer 870
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Media advisory - Foreign Affairs Council (Defence) of 17 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing, public sessions and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/media-advisory-foreign-affairs-council-defence-of-17-november-2026/
+
+---
+
 ## Ukraine: EU lists 113 individuals and entities to further restrict Russia’s ability to finance its war of aggression
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ On 12 November 2026, the President of the European Council, António Costa, co-c
 Main agenda items, approximate timing, public sessions and press opportunities.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/
-
----
-
-## Press briefing ahead of the Foreign Affairs Council and the Foreign Affairs (Defence) Councils of 16 and 17 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Press briefing ahead of the upcoming Foreign Affairs Council and the Foreign Affairs Council (Defence) will take place on 13 November at 16.00.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/press-briefing-ahead-of-the-foreign-affairs-council-and-the-foreign-affairs-defence-councils-of-16-and-17-november-2026/
 
 ---
 
