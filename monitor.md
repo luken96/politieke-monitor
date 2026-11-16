@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-16T14:25:54.490580+00:00
+Laatste update: 2026-11-16T16:27:36.615094+00:00
+
+## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 16 Nov 2026 15:06:00 GMT
+
+Rwanda, Nederland, Denemarken, Duitsland, Griekenland en Oostenrijk werken samen aan de oprichting van een terugkeerhub in Rwanda. De terugkeerhub wordt onderdeel van een breed partnerschap met Rwanda en vijf Europese landen.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/nederland-en-europese-partners-werken-samen-met-rwanda-aan-een-terugkeerhub
+
+---
 
 ## De asielinstroom van week 46 bedroeg ongeveer 870
 
@@ -591,18 +603,6 @@ Minister Rianne Letschert (Onderwijs, Cultuur en Wetenschap) bezoekt Sint Maarte
 Scholen gaan aan de slag met een betere aanpak van het signaleren, voorkomen en terugdringen van het aantal leerlingen en mbo-studenten dat langdurig niet naar school gaat of zelfs helemaal uitvalt. Dat staat in de wet Terugdringen Schoolverzuim...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/scholen-krijgen-meer-grip-op-verzuim-met-wet-terugdringen-schoolverzuim
-
----
-
-## Nederland en Duitsland intensiveren samenwerking op spoorgebied
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 10 Nov 2026 08:00:00 GMT
-
-Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen willen het grensoverschrijdende passagiers- en goederenvervoer (inclusief militaire mobiliteit) versterken, ook vanwege het Europese belang hiervan. Doel is dat er meer...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/nederland-en-duitsland-intensiveren-samenwerking-op-spoorgebied
 
 ---
 
