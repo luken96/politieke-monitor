@@ -1,6 +1,82 @@
 # Politieke monitor
 
-Laatste update: 2026-11-16T07:24:19.485031+00:00
+Laatste update: 2026-11-16T10:06:53.262791+00:00
+
+## De asielinstroom van week 46 bedroeg ongeveer 870
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 16 Nov 2026 09:43:00 GMT
+
+De asielinstroom van week 46, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 870.
+ 
+De totale asielinstroom is als volgt onderverdeeld:
+•      590 eerste aanvragen,
+•    ...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/de-asielinstroom-van-week-46-bedroeg-ongeveer-870
+
+---
+
+## Nota Ruimte: ruimtelijke keuzes voor de toekomst van Nederland
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 16 Nov 2026 09:00:00 GMT
+
+We hebben ruimte nodig voor woningen, water, bedrijven, energie, landbouw en natuur. Door te kiezen waar ontwikkelingen plaatsvinden, functies slim te combineren en nieuwe mogelijkheden te creëren, werkt het kabinet aan een Nederland waarin mensen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/nota-ruimte-ruimtelijke-keuzes-voor-de-toekomst-van-nederland
+
+---
+
+## Internetconsultatie: uitleners zonder toelating krijgen geen werk- en verblijfsvergunning voor arbeidsmigranten van buiten de EU
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 16 Nov 2026 08:00:00 GMT
+
+Bij het verlenen van een werk- en verblijfsvergunning wordt voortaan getoetst of de uitlener een toelating (vergunning) heeft. Vanaf 2028 moeten bedrijven een toelating hebben als zij personeel uitlenen. Het kabinet komt nu met een aanvulling...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/internetconsultatie-uitleners-zonder-toelating-krijgen-geen-werk-en-verblijfsvergunning-voor-arbeidsmigranten-van-buiten-de-eu
+
+---
+
+## Commission publishes technical guidance to support implementation of the Digital Product Passport Registry
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+A complete set of technical documentation is now available to help organisations prepare their systems for the EU Digital Product Passport (DPP) Registry.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en
+
+---
+
+## Electricity Coordination Group considers EU electricity market prepared for the winter
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination Group (ECG) meeting that took place yesterday.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en
+
+---
+
+## Translating Europe Forum 2026: Language professionals matter!
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+Discover the key takeaways and highlights from #2026TEF.
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en
+
+---
 
 ## Vogelgriep vastgesteld in Oosterwolde (Gelderland)
 
@@ -278,18 +354,6 @@ Experts from the Commission, EU countries, the International Energy Agency (IEA)
 
 ---
 
-## Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The European Commission has sent a Supplementary Statement of Objections to the Greek electricity provider Public Power Corporation S.A. ('PPC').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en
-
----
-
 ## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
 
 **Bron:** Europese Commissie
@@ -299,6 +363,18 @@ The European Commission has sent a Supplementary Statement of Objections to the 
 The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
 
 **Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
+
+---
+
+## Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+The European Commission has sent a Supplementary Statement of Objections to the Greek electricity provider Public Power Corporation S.A. ('PPC').
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en
 
 ---
 
@@ -407,42 +483,6 @@ The consultation invites feedback on the Committee of European Auditing Oversi
 The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
 
 **Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
-
----
-
-## Search is on for Africa’s most promising blue economy businesses
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The call for pitchers for BlueInvest Africa 2027 has started! African entrepreneurs who are developing innovative and sustainable solutions for the blue economy are invited to apply. The call remains open until 31 December 2026.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/search-africas-most-promising-blue-economy-businesses-2026-11-12_en
-
----
-
-## Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/speech-president-von-der-leyen-united-nations-climate-change-conference-cop31-2026-11-12_en
-
----
-
-## Young leaders help shape the future of EU international partnerships at Youth Policy Dialogue with Commissioner Síkela
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-Today in Brussels, European Commissioner for International Partnerships Jozef Síkela met with 29 young leaders from around the world for the second Youth Policy Dialogue on International Partnerships.
-
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/young-leaders-help-shape-future-eu-international-partnerships-youth-policy-dialogue-commissioner-2026-11-12_en
 
 ---
 
@@ -566,42 +606,6 @@ Nederland en Duitsland gaan intensiever samenwerken op het spoor. Beide landen w
 
 ---
 
-## Vogelgriep vastgesteld in Hierden
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 20:09:00 GMT
-
-In Hierden (gemeente Harderwijk, provincie Gelderland) is vogelgriep vastgesteld op een vleeseendenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/vogelgriep-vastgesteld-in-hierden
-
----
-
-## Minister Aartsen: 4 dagen werken de norm in de inburgering
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 15:00:00 GMT
-
-Minister Thierry Aartsen (Werk en Participatie) wil dat vier dagen werken de norm wordt voor statushouders die inburgeren. Te veel statushouders werken niet en krijgen een bijstandsuitkering. Aartsen ondertekende vandaag met werkgeversorganisaties...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/minister-aartsen-vier-dagen-werken-de-norm-in-de-inburgering
-
----
-
-## Kabinet, werkgevers en vakbonden stellen agenda op voor sociaal overleg
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 09 Nov 2026 13:51:00 GMT
-
-Kabinet, werkgevers en vakbonden hebben met elkaar gesproken over hoe ze het sociaal overleg willen vormgeven. In dat overleg staan drie uitdagingen centraal: een verbetering van de sociale zekerheid, een sterkere arbeidsmarkt en het aanjagen van...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/kabinet-werkgevers-en-vakbonden-stellen-agenda-op-voor-sociaal-overleg
-
----
-
 ## Food innovation : building public trust and outreach : Eurobarometer summary
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -722,13 +726,43 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Ukraine Facility: Council approves largest-ever payment of €8 billion to Kyiv
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council approved a record payment of just under €8 billion for Ukraine under the Ukraine Facility, following Ukraine’s successful completion of over 20 target steps under the Ukraine Plan.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-facility-council-approves-largest-ever-payment-of-8-billion-to-kyiv/
+
+---
+
+## Press briefing - Education, Youth, Culture and Sport Council of 19 and 20 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Press briefing ahead of the upcoming Education, Youth, Culture and Sport Council will take place on 16 November 2026 at 11.00
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/press-briefing-education-youth-culture-and-sport-council-of-19-and-20-november-2026/
+
+---
+
+## European Peace Facility: Council increases support for maritime security in the Gulf of Guinea to €31 million
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council increased financial support through the European Peace Facility (EPF) from €21 million to €31 million, benefitting military actors and navies of coastal states involved in maritime security operations in the Gulf of Guinea.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/european-peace-facility-council-increases-support-for-maritime-security-in-the-gulf-of-guinea-to-31-million/
+
+---
+
 ## ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza
 
 **Bron:** Raad van de EU - Persberichten
 
 The High Representative issued a statement on behalf of the European Union on the humanitarian developments in Gaza.
 
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/israelpalestine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-humanitarian-developments-in-gaza/
 
 ---
 
@@ -889,36 +923,6 @@ Statement by the High Representative on behalf of the European Union on the alig
 Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2397 of 26 October 2026 amending Decision 2010/573/CFSP concerning restrictive measures against the leadership of the Transnistrian region of the Republic of Moldova.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-leadership-of-the-transnistrian-region-of-the-republic-of-moldova/
-
----
-
-## Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2378 of 26 October 2026 amending Decision (CFSP) 2016/1693 concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-isil-da-esh-and-al-qaeda-and-persons-groups-undertakings-and-entities-associated-with-them/
-
----
-
-## Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO
-
-**Bron:** Raad van de EU - Persberichten
-
-Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-on-today-s-meeting-in-abu-dhabi-between-the-eu-france-germany-italy-united-kingdom-ukraine-united-states-and-nato/
-
----
-
-## Ukraine: Council extends EU Military Assistance Mission mandate for two years
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council extended the mandate of the EU Military Assistance Mission in support of Ukraine until 15 November 2028.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/
 
 ---
 
