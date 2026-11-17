@@ -1,6 +1,78 @@
 # Politieke monitor
 
-Laatste update: 2026-11-17T12:41:47.141658+00:00
+Laatste update: 2026-11-17T13:59:58.630279+00:00
+
+## Eerste Kamer akkoord met alcoholmeter en verbetering aanpak rijden onder invloed
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 17 Nov 2026 13:00:00 GMT
+
+Na de Tweede Kamer heeft vandaag ook de Eerste Kamer groen licht gegeven voor de verplichte alcoholmeter. Hiermee kan beter worden gecontroleerd op naleving van een door de rechter of officier van justitie opgelegd alcoholverbod, bijvoorbeeld na...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/eerste-kamer-akkoord-met-alcoholmeter-en-verbetering-aanpak-rijden-onder-invloed
+
+---
+
+## EU advances Syrian recovery and reconstruction through Syria Partnership Coordination Forum in Damascus
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Today, the Syria Partnership Coordination Forum (SPCF) convened in Damascus for the first time to advance Syria's recovery and reconstruction, showcase investment opportunities and agree on concrete steps forward.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-advances-syrian-recovery-and-reconstruction-through-syria-partnership-coordination-forum-damascus-2026-11-17_en
+
+---
+
+## Commission approves amended German State aid schemes for energy-intensive companies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the CISAF and METSAF.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
+
+---
+
+## NEAFC endorses stronger fisheries control and conservation measures, but overfishing persists despite EU efforts
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The EU welcomes the outcome of this year’s 45th North-East Atlantic Fisheries Commission (NEAFC) annual meeting. During this year’s negotiations, positive cooperation with like-minded partners led to concrete results on important issues for the EU.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en
+
+---
+
+## In focus: Industrial carbon management – how it works and why we need it
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for  the EU to become the world’s first climate-neutral continent by 2050.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en
+
+---
+
+## Commission approves €9.5 billion Dutch State aid to support offshore wind energy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
+
+---
 
 ## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
 
@@ -54,15 +126,15 @@ Bij het verlenen van een werk- en verblijfsvergunning wordt voortaan getoetst of
 
 ---
 
-## Translating Europe Forum 2026: Language professionals matter!
+## Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-Discover the key takeaways and highlights from #2026TEF.
+High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya.
 
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en
 
 ---
 
@@ -78,15 +150,63 @@ A complete set of technical documentation is now available to help organisations
 
 ---
 
-## Electricity Coordination Group considers EU electricity market prepared for the winter
+## Ministers from EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination Group (ECG) meeting that took place yesterday.
+Today, the High Representative for Foreign Affairs and Security Policy/Vice-President of the European Commission Kaja Kallas, Commissioner for Enlargement Marta Kos, and Commissioner for International Partnerships Jozef Síkela hosted representatives from the EU, the Black Sea region, the South...
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/ministers-eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-cross-regional-security-2026-11-16_en
+
+---
+
+## Moving abroad for work? What women need to know before they go
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+Female employment has soared, but the gender gap persists – and it looks different in every EU country. Here’s what to check about pay, childcare and working conditions before you pack your bags.
+
+**Originele publicatie:** https://eures.europa.eu/moving-abroad-work-what-women-need-know-they-go-2026-11-16_en
+
+---
+
+## CBAM: Commission adopts rules on the recognition of carbon prices paid in non-EU countries
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+Implementing Regulation published today specifies the rules
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/cbam-commission-adopts-rules-recognition-carbon-prices-paid-non-eu-countries-2026-11-16_en
+
+---
+
+## Commission imposes anti-dumping duties on certain cold-rolled flat steel products
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam.
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en
+
+---
+
+## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
 
 ---
 
@@ -102,15 +222,63 @@ The European Commission has unconditionally approved, under the EU Merger Regula
 
 ---
 
-## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
+## Commissioner Šuica in Syria for discussions on recovery and investments
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
+Tomorrow, Commissioner for the Mediterranean Dubravka Šuica will be in Damascus for her second visit to Syria since the fall of the Assad regime. During her visit, she will co-chair the Syria Partnership Cooperation Forum (SPCF).
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commissioner-suica-syria-discussions-recovery-and-investments-2026-11-16_en
+
+---
+
+## Electricity Coordination Group considers EU electricity market prepared for the winter
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination Group (ECG) meeting on 12 November.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en
+
+---
+
+## Simpler building permits to help deliver more affordable homes
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+A new Commission study, published on 5 November, identifies practical ways to improve building permitting procedures and help turn housing projects into completed homes.
+
+**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/simpler-building-permits-help-deliver-more-affordable-homes-2026-11-16_en
+
+---
+
+## AI requires rigorous safeguards and rules that keep pace with technological advances– experts tell the European Commission
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+New statement from the Commission’s Ethical and Scientific advisors recognises promise of AI, but warns against weakening existing safeguards.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ai-requires-rigorous-safeguards-and-rules-keep-pace-technological-advances-experts-tell-european-2026-11-16_en
+
+---
+
+## Translating Europe Forum 2026: Language professionals matter!
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+Discover the key takeaways and highlights from #2026TEF.
+
+**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en
 
 ---
 
@@ -342,162 +510,6 @@ Auction announcement EU-Bills.
 
 ---
 
-## Paris Peace Forum 2026: Peace Mediation Built on Endurance and Empathy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-On 10–11 November, the European Commission’s Service for Foreign Policy Instruments (FPI) participated in the ninth edition of the Paris Peace Forum, placing peace mediation at the heart of its participation.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en
-
----
-
-## Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The European Commission has sent a Supplementary Statement of Objections to the Greek electricity provider Public Power Corporation S.A. ('PPC').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en
-
----
-
-## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
-
----
-
-## EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.
-
-**Originele publicatie:** https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en
-
----
-
-## Learning from Ukraine: Resilience by Design
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The Ukrainian Cluster Alliance (UCA) published a brochure on Resilience by Design and the role of clusters in strengthening it. The brochure presents UA Resilience as a shared ecosystem capability: connecting industrial capacity, effective institutions, security, people and skills, and European coop
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en
-
----
-
-## Oil Coordination Group confirms continued supply stability across the EU
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Experts from the Commission, EU countries, the International Energy Agency (IEA), the Energy Community and NATO met again today in the Oil Coordination Group to take stock, together with industry representatives, of the current oil market situation.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en
-
----
-
-## From advanced sensors to Next-Generation Communications: How the European Defence Fund helps the European defence industry develop critical technologies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The defence landscape is constantly evolving and requires constant innovation. New technologies are mandatory to keep the armed forces of the EU member states always ahead.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en
-
----
-
-## EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-Today, the European Commission helped to bring together more than 5,000 representatives from Ukrainian and international businesses, government institutions, financial organisations and international partners at the EU-Ukraine Investment Conference, held during the ReBuild Ukraine Expo in Warsaw.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-steps-support-ukraines-recovery-reconstruction-and-modernisation-opening-new-opportunities-2026-11-12_en
-
----
-
-## Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en
-
----
-
-## Join EAfA’s webinar on integrating basic skills in apprenticeships
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en
-
----
-
-## Register for joint Pact for Skills–EAfA webinar on cross-border labour mobility and skills portability
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hosting a Knowledge Exchange Event on cooperation in EU cross-border regions. The webinar will take place on 17 November 2026 from 11:00–12:30 CET
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en
-
----
-
-## Agreement reached on 2027 fishing opportunities for the Baltic Sea
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the Commission proposal made in August this year.
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en
-
----
-
-## Commission seeks feedback on limited assurance standards for sustainability reporting
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 12 Nov 2026 00:00:00 +0100
-
-The consultation invites feedback on the Committee of European Auditing Oversight Bodies’ (CEAOB) technical advice, as well as on their proposed adjustments to the international standard.
-
-**Originele publicatie:** https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en
-
----
-
 ## Vogelgriep vastgesteld in Hierden
 
 **Bron:** Rijksoverheid Nieuws
@@ -591,18 +603,6 @@ Op dinsdag 10 november ontving minister-president Jetten, Eerste Minister De�
 Minister Rianne Letschert (Onderwijs, Cultuur en Wetenschap) bezoekt Sint Maarten, Curaçao en Aruba van 16 tot en met 20 november 2026. Het bezoek staat in het teken van het Ministerieel Vierlandenoverleg OCW (M4LO) en dient als kennismaking met...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/minister-rianne-letschert-bezoekt-sint-maarten-curacao-en-aruba
-
----
-
-## Scholen krijgen meer grip op verzuim met wet Terugdringen Schoolverzuim
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 10 Nov 2026 14:00:00 GMT
-
-Scholen gaan aan de slag met een betere aanpak van het signaleren, voorkomen en terugdringen van het aantal leerlingen en mbo-studenten dat langdurig niet naar school gaat of zelfs helemaal uitvalt. Dat staat in de wet Terugdringen Schoolverzuim...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/scholen-krijgen-meer-grip-op-verzuim-met-wet-terugdringen-schoolverzuim
 
 ---
 
@@ -780,7 +780,7 @@ The Council adopted restrictive measures against four Haitian criminal armed gro
 
 **Bron:** Raad van de EU - Persberichten
 
-The Council adopted restrictive measures against 30 individuals and one entity responsible for actions on behalf of the Russian Federation undermining and threatening democracy, stability or security in the EU and some its Member States or in third countries. It also listed one entity responsible for cyber-attacks on Ukrainian, US, and EU government bodies, critical infrastructure, and private companies.
+The Council adopted restrictive measures against 30 individuals and one entity responsible for actions on behalf of the Russian Federation undermining and threatening democracy, stability or security in the EU and some of its Member States or in third countries. It also listed one entity responsible for cyber-attacks on Ukrainian, US, and EU government bodies, critical infrastructure, and private companies.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/
 
