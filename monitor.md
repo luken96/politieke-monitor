@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-17T18:40:05.760473+00:00
+Laatste update: 2026-11-17T19:50:53.727715+00:00
+
+## Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 17 Nov 2026 19:30:00 GMT
+
+Minister Mirjam Sterk (Langdurige Zorg, Jeugd en Sport) neemt op donderdag 19 november deel aan het Bestuurlijk Vierlandenoverleg Volksgezondheid samen met ministers van Aruba, Curaçao en Sint Maarten. Minister Sterk leidt de delegatie van...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/minister-sterk-naar-aruba-voor-bestuurlijk-vierlandenoverleg-volksgezondheid
+
+---
 
 ## Vogelgriep vastgesteld in Ermelo
 
@@ -591,18 +603,6 @@ Op woensdagochtend 11 november 2026 is Rijksoverheid.nl gedurende een half uur n
 Samenwerkingsverbanden die kennis over duurzame inzetbaarheid en een leven lang ontwikkelen (LLO) verder willen ontwikkelen, kunnen vanaf 16 november weer subsidie aanvragen via de Expeditie-regeling. Voor dit aanvraagtijdvak is € 30 miljoen...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/nieuwe-aanvraagronde-expeditie-regeling-opent-op-16-november
-
----
-
-## Kabinet en regio geven verdere invulling aan prioritering
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 11 Nov 2026 08:00:00 GMT
-
-Rijk en regio hebben de afgelopen week afspraken gemaakt over de recent gepresenteerde herprioritering van alle infrastructurele projecten. Enkele projecten kunnen nu naar de volgende fase in de uitwerking.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/kabinet-en-regio-geven-verdere-invulling-aan-prioritering
 
 ---
 
