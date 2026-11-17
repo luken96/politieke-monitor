@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-17T21:37:27.638980+00:00
+Laatste update: 2026-11-17T22:38:59.937634+00:00
 
 ## Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid
 
