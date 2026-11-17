@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-17T13:59:58.630279+00:00
+Laatste update: 2026-11-17T15:39:44.004746+00:00
+
+## Vogelgriep vastgesteld in Tzummarum
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 17 Nov 2026 14:15:00 GMT
+
+In Tzummarum (gemeente Waadhoeke, provincie Friesland) is vogelgriep vastgesteld op een vleeskuikenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/vogelgriep-vastgesteld-in-tzummarum
+
+---
 
 ## Eerste Kamer akkoord met alcoholmeter en verbetering aanpak rijden onder invloed
 
@@ -38,15 +50,15 @@ The European Commission has approved, under EU State aid rules, Germany's amende
 
 ---
 
-## NEAFC endorses stronger fisheries control and conservation measures, but overfishing persists despite EU efforts
+## Commission approves €9.5 billion Dutch State aid to support offshore wind energy
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
 
-The EU welcomes the outcome of this year’s 45th North-East Atlantic Fisheries Commission (NEAFC) annual meeting. During this year’s negotiations, positive cooperation with like-minded partners led to concrete results on important issues for the EU.
+The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
 
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
 
 ---
 
@@ -62,15 +74,39 @@ Industrial carbon management is not a replacement for clean energy technologies.
 
 ---
 
-## Commission approves €9.5 billion Dutch State aid to support offshore wind energy
+## NEAFC endorses stronger fisheries control and conservation measures, but overfishing persists despite EU efforts
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
 
-The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
+The EU welcomes the outcome of this year’s 45th North-East Atlantic Fisheries Commission (NEAFC) annual meeting. During this year’s negotiations, positive cooperation with like-minded partners led to concrete results on important issues for the EU.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en
+
+---
+
+## Marine Weather Intelligence: Bringing ocean racing knowledge to commercial shipping
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+What if the tools that guide yachts in offshore worldwide sailing races could help commercial ships save fuel and avoid costly delays? This is the idea behind Marine Weather Intelligence (MWI), a French company founded in 2023 and supported by BlueInvest, the EU’s innovation and investment platform
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en
+
+---
+
+## Autumn 2026 Economic Forecast: continued growth amid higher inflation
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The Autumn 2026 Economic Forecast shows that the EU economy held up better than expected in the first three quarters of 2026. It is set to keep expanding, despite stronger and more persistent inflationary pressures and tighter financing conditions.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/autumn-2026-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en
 
 ---
 
@@ -486,30 +522,6 @@ At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission t
 
 ---
 
-## Commission launches first global alliance on climate and health research funding at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en
-
----
-
-## Announcement of next auction (EU-Bills) on 18-11-2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Auction announcement EU-Bills.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en
-
----
-
 ## Vogelgriep vastgesteld in Hierden
 
 **Bron:** Rijksoverheid Nieuws
@@ -591,18 +603,6 @@ Gerbert Kunst verlaat per 1 maart 2027 de post van de Vertegenwoordiging van Ned
 Op dinsdag 10 november ontving minister-president Jetten, Eerste Minister De Wever van België, Premier Frieden van Luxemburg en minister-president Wüst van de Duitse deelstaat Noordrijn-Westfalen voor de Benelux Top, die dit jaar in Maastricht...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/minister-president-jetten-ontvangt-premiers-belgie-luxemburg-en-noordrijn-westfalen-voor-benelux-top-in-maastricht
-
----
-
-## Minister Rianne Letschert bezoekt Sint Maarten, Curaçao en Aruba
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 10 Nov 2026 14:00:00 GMT
-
-Minister Rianne Letschert (Onderwijs, Cultuur en Wetenschap) bezoekt Sint Maarten, Curaçao en Aruba van 16 tot en met 20 november 2026. Het bezoek staat in het teken van het Ministerieel Vierlandenoverleg OCW (M4LO) en dient als kennismaking met...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/minister-rianne-letschert-bezoekt-sint-maarten-curacao-en-aruba
 
 ---
 
@@ -723,6 +723,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Press briefing - Agriculture and Fisheries Council of 23 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Press briefing ahead of the upcoming Agriculture and Fisheries Council will take place on 20 November 2026 at 13:00.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/17/press-briefing-agriculture-and-fisheries-council-of-23-november-2026/
 
 ---
 
@@ -916,21 +926,11 @@ Leaders and representatives of Estonia, France, Latvia, Lithuania, the United Ki
 
 ---
 
-## Joint statement by President Costa and President von der Leyen following their meeting with President Zelenskyy in Dublin
-
-**Bron:** Raad van de EU - Persberichten
-
-President Costa and President von der Leyen issued a joint statement following their meeting with President of Ukraine, Volodymyr Zelenskyy in Dublin, on 12 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/
-
----
-
 ## Agriculture and Fisheries Council
 
 **Bron:** Raad van de EU - Landbouw en Visserij
 
-Fisheries ministers will hold an exchange of views on the vision 2040 for fisheries and aquaculture. They will also discuss fishing opportunities for 2027 in the Atlantic and North Sea, as well as in the Mediterranean and Black Seas, following a presentation by the Commission of its two proposals. On agriculture, as a recurring item on the Council’s agenda, ministers will discuss the market situation, with a particular focus on developments in the context of Russia’s war of aggression against Ukraine.
+Fisheries ministers will hold an exchange of views on the vision 2040 for fisheries and aquaculture. They will also discuss fishing opportunities for 2027 in the Atlantic and North Sea, as well as in the Mediterranean and Black Seas, following a presentation by the Commission of its two proposals. On agriculture, ministers will discuss the market situation, as a recurring item on the agenda of the Council following Russia’s war of aggression against Ukraine.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/11/23/
 
