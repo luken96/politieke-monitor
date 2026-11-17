@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-17T17:48:27.020790+00:00
+Laatste update: 2026-11-17T18:40:05.760473+00:00
+
+## Vogelgriep vastgesteld in Ermelo
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 17 Nov 2026 18:16:00 GMT
+
+In Ermelo (gemeente Ermelo, provincie Gelderland) is vogelgriep vastgesteld op een vermeerderings- en opfokbedrijf met eenden. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/vogelgriep-vastgesteld-in-ermelo
+
+---
 
 ## Woningwet-BES voor behandeling naar Tweede Kamer
 
@@ -591,18 +603,6 @@ Samenwerkingsverbanden die kennis over duurzame inzetbaarheid en een leven lang 
 Rijk en regio hebben de afgelopen week afspraken gemaakt over de recent gepresenteerde herprioritering van alle infrastructurele projecten. Enkele projecten kunnen nu naar de volgende fase in de uitwerking.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/kabinet-en-regio-geven-verdere-invulling-aan-prioritering
-
----
-
-## Gerbert Kunst vertrekt als Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 10 Nov 2026 15:39:00 GMT
-
-Gerbert Kunst verlaat per 1 maart 2027 de post van de Vertegenwoordiging van Nederland in Willemstad. De uitzending wordt op zijn verzoek, vanwege privéomstandigheden voortijdig beëindigd. Gerbert Kunst was vanaf 15 mei 2025 aangesteld als de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/10/gerbert-kunst-vertrekt-als-vertegenwoordiger-van-nederland-in-aruba-curacao-en-sint-maarten
 
 ---
 
