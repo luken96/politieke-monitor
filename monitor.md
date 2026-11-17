@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-17T09:46:04.755736+00:00
+Laatste update: 2026-11-17T10:47:23.683751+00:00
 
 ## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
 
@@ -736,6 +736,16 @@ The President of the European Council, António Costa, gave a speech at the EU E
 
 ---
 
+## Co-Chairs’ Conclusions on Cross-Regional Security and Connectivity
+
+**Bron:** Raad van de EU - Persberichten
+
+On 16 November, following the second cross-regional security and connectivity ministerial meetings, the Co-Chairs issued conclusions on the security, stability, and resilience in the Black Sea region, as well as the cross-regional connectivity agenda.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/co-chairs-conclusions-on-cross-regional-security-and-connectivity/
+
+---
+
 ## Media advisory - Foreign Affairs Council (Defence) of 17 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ Leaders and representatives of Estonia, France, Latvia, Lithuania, the United Ki
 President Costa and President von der Leyen issued a joint statement following their meeting with President of Ukraine, Volodymyr Zelenskyy in Dublin, on 12 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/
-
----
-
-## Opening remarks by President António Costa at the meeting of the European Political Community in Dublin
-
-**Bron:** Raad van de EU - Persberichten
-
-On 12 November 2026, the President of the European Council, António Costa, co-chaired the ninth meeting of the European Political Community in Dublin, Ireland.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/
 
 ---
 
