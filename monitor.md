@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-17T23:36:29.750304+00:00
+Laatste update: 2026-11-18T00:37:32.600636+00:00
 
 ## Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Grids package: Council and Parliament agree to streamline permitting for a faster clean energy transition
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council reached a provisional agreement with the European Parliament to accelerate permitting for renewables and grids to boost their deployment in the EU.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/
+
+---
+
 ## Press briefing - General Affairs Council of 19 November and General Affairs Council (Cohesion) of 23 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ Main agenda items, approximate timing, public sessions and press opportunities.
 The Council reached a provisional agreement with the European Parliament on increasing free carbon allowances for industry sectors falling under the ETS heat and fuel benchmarks from 2026 to 2030.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/
-
----
-
-## Remarks by President António Costa at the press conference following the meeting of the European Political Community in Dublin
-
-**Bron:** Raad van de EU - Persberichten
-
-President of the European Council, António Costa, outlined the main results of the discussions of the leaders during the meeting of the European Political Community held in Dublin, Ireland, on 12 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/remarks-by-president-antonio-costa-at-the-press-conference-following-the-meeting-of-the-european-political-community-in-dublin/
 
 ---
 
