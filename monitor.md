@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-18T14:00:36.265979+00:00
+Laatste update: 2026-11-18T15:43:47.330029+00:00
+
+## Kabinet investeert in technisch talent in partnerlanden
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 18 Nov 2026 14:15:00 GMT
+
+De vraag naar technisch talent groeit in hoog tempo, in Nederland en wereldwijd. Het tekort aan vakspecialisten belemmert economische ontwikkeling en beperkt Nederlandse handelsmogelijkheden, onder meer in de (micro)chipindustrie. Met het nieuwe...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/18/kabinet-investeert-in-technisch-talent-in-partnerlanden
+
+---
 
 ## Digitale registratie gebruik van gewasbeschermingsmiddelen vanaf 1 januari 2027 verplicht
 
@@ -594,18 +606,6 @@ In Hierden (gemeente Harderwijk, provincie Gelderland) is opnieuw vogelgriep vas
 
 ---
 
-## Staatssecretaris Eric van der Burg naar Bovenwindse eilanden voor Statia Day en Kingdom Summit
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 11 Nov 2026 13:58:00 GMT
-
-Staatssecretaris Eric van der Burg van Binnenlandse Zaken en Koninkrijksrelaties brengt van 12 tot en met 18 november een werkbezoek aan de Bovenwindse eilanden. De viering van Statia Day 2026 en de herdenking van 250 jaar First Salute evenals de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/staatssecretaris-eric-van-der-burg-naar-bovenwindse-eilanden-voor-statia-day-en-kingdom-summit
-
----
-
 ## Food innovation : building public trust and outreach : Eurobarometer summary
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -726,6 +726,36 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Media advisory - EU-United Kingdom summit
+
+**Bron:** Raad van de EU - Persberichten
+
+Approximate timings and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/media-advisory-eu-united-kingdom-summit/
+
+---
+
+## Media advisory - Education, Youth, Culture and Sport Council of 19-20 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing, public sessions and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/media-advisory-education-youth-culture-and-sport-council-of-19-20-november-2026/
+
+---
+
+## Media advisory - General Affairs Council and accession conference with Montenegro of 19 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Main agenda items, approximate timing, public sessions and press opportunities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/media-advisory-general-affairs-council-and-accession-conference-with-montenegro-of-19-november-2026/
+
+---
+
 ## Grids package: Council and Parliament agree to streamline permitting for a faster clean energy transition
 
 **Bron:** Raad van de EU - Persberichten
@@ -733,16 +763,6 @@ his study presents a systematic literature review of food waste and loss interve
 The Council reached a provisional agreement with the European Parliament to accelerate permitting for renewables and grids to boost their deployment in the EU.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/
-
----
-
-## Press briefing - General Affairs Council of 19 November and General Affairs Council (Cohesion) of 23 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Press briefing ahead of the upcoming General Affairs Council and General Affairs Cohesion will take place on Wednesday, 18 November 2026 at 13.00
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/17/press-briefing-general-affairs-council-of-19-november-and-general-affairs-council-cohesion-of-23-november-2026/
 
 ---
 
@@ -836,16 +856,6 @@ The Council approved a record payment of just under €8 billion for Ukraine und
 
 ---
 
-## Press briefing - Education, Youth, Culture and Sport Council of 19 and 20 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Press briefing ahead of the upcoming Education, Youth, Culture and Sport Council will take place on 16 November 2026 at 11.00
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/press-briefing-education-youth-culture-and-sport-council-of-19-and-20-november-2026/
-
----
-
 ## European Peace Facility: Council increases support for maritime security in the Gulf of Guinea to €31 million
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ Main agenda items, approximate timing, public sessions and press opportunities.
 The Council reached a provisional agreement with the European Parliament on increasing free carbon allowances for industry sectors falling under the ETS heat and fuel benchmarks from 2026 to 2030.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/
-
----
-
-## Remarks by President António Costa at the press conference following the meeting of the European Political Community in Dublin
-
-**Bron:** Raad van de EU - Persberichten
-
-President of the European Council, António Costa, outlined the main results of the discussions of the leaders during the meeting of the European Political Community held in Dublin, Ireland, on 12 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/remarks-by-president-antonio-costa-at-the-press-conference-following-the-meeting-of-the-european-political-community-in-dublin/
 
 ---
 
