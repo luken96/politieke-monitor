@@ -1,6 +1,102 @@
 # Politieke monitor
 
-Laatste update: 2026-11-18T08:02:26.806708+00:00
+Laatste update: 2026-11-18T09:43:44.098015+00:00
+
+## Written question - Measures vis-à-vis third countries refusing to cooperate in the readmission of their nationals - P-004685/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Wed, 18 Nov 2026 08:33:08 GMT
+
+Priority question for written answer P-004685/2026 to the Commission Rule 144 Christophe Bay (PfE), André Rougé (PfE), Aleksandar Nikolic (PfE), Alvise Pérez (NI), France Jamet (PfE), Jana Nagyová (PfE), Mélanie Disdier (PfE), Silvia Sardone (PfE), Marie-Luce Brasier-Clain (PfE), Sander Smit (ECR), António Tânger Corrêa (PfE), Nikola Bartůšek (ECR), Dominik Tarczyński (ECR), Julie Rechagneux (PfE), Ewa Zajączkowska-Hernik (PfE), Gilles Pennelle (PfE), Alexandre Varaut (PfE), Fabrice Leggeri (PfE), Pascale Piera (PfE), Geadis Geadi (ECR) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-004685_EN.html
+
+---
+
+## Written question - Escalation of hybrid threats and cyberattacks against European institutions and strategic infrastructure - E-004611/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Wed, 18 Nov 2026 08:26:59 GMT
+
+Question for written answer E-004611/2026 to the Commission Rule 144 Letizia Moratti (PPE), Fulvio Martusciello (PPE), Massimiliano Salini (PPE), Herbert Dorfmann (PPE), Marco Falcone (PPE), Caterina Chinnici (PPE), Giusi Princi (PPE), Salvatore De Meo (PPE), Flavio Tosi (PPE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004611_EN.html
+
+---
+
+## Written question - Calling on the EU to ensure food security and availability for citizens in the wake of the recent supermarket fridge cyber-attacks - E-004513/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Wed, 18 Nov 2026 08:26:51 GMT
+
+Question for written answer E-004513/2026 to the Commission Rule 144 Marco Falcone (PPE), Caterina Chinnici (PPE), Salvatore De Meo (PPE), Letizia Moratti (PPE), Fulvio Martusciello (PPE), Giusi Princi (PPE), Massimiliano Salini (PPE), Flavio Tosi (PPE), Herbert Dorfmann (PPE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004513_EN.html
+
+---
+
+## Written question - Commission’s role in mandatory COVID-19 vaccination - E-004648/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Wed, 18 Nov 2026 08:26:51 GMT
+
+Question for written answer E-004648/2026 to the Commission Rule 144 Gerald Hauser (PfE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004648_EN.html
+
+---
+
+## Written question - Soaring levels of migration from Libya to Greece - E-004615/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Wed, 18 Nov 2026 08:23:44 GMT
+
+Question for written answer E-004615/2026 to the Commission Rule 144 Nikolas Farantouris (S&D) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004615_EN.html
+
+---
+
+## MOTION FOR A RESOLUTION on the draft Commission implementing decision amending Implementing Decision (EU) 2016/2323 as regards updates to the European List of ship recycling facilities - B10-0505/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 18 Nov 2026 08:13:03 GMT
+
+MOTION FOR A RESOLUTION pursuant to Rule 115(2) and (3) of the Rules of Procedure on the draft Commission implementing decision amending Implementing Decision (EU) 2016/2323 as regards updates to the European List of ship recycling facilities (2026/2922(RSP)) Committee on the Environment, Climate and Food Safety Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/B-10-2026-0505_EN.html
+
+---
+
+## Press release - Electricity grids: MEPs reach deal with Council on faster project permitting
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:23:01 GMT
+
+The provisional agreement should speed up permitting for electricity grids and renewables projects, to help cut energy prices through the domestic supply of clean energy. Committee on Industry, Research and Energy Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261116IPR48904/
+
+---
+
+## EU endorses Global Electrification Pledge at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-endorses-global-electrification-pledge-cop31-2026-11-18_en
+
+---
 
 ## Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid
 
@@ -26,6 +122,30 @@ In Ermelo (gemeente Ermelo, provincie Gelderland) is vogelgriep vastgesteld op e
 
 ---
 
+## Written question - Pilot fatigue and safety of European aviation - E-004475/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 17:24:59 GMT
+
+Question for written answer E-004475/2026/rev.1 to the Commission Rule 144 Loucas Fourlas (PPE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004475_EN.html
+
+---
+
+## Written question - Unfair competition from South African mandarin imports and lack of preference for EU produce - E-004558/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 17:24:50 GMT
+
+Question for written answer E-004558/2026/rev.1 to the Commission Rule 144 Mireia Borrás Pabón (PfE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004558_EN.html
+
+---
+
 ## Woningwet-BES voor behandeling naar Tweede Kamer
 
 **Bron:** Rijksoverheid Nieuws
@@ -35,6 +155,102 @@ In Ermelo (gemeente Ermelo, provincie Gelderland) is vogelgriep vastgesteld op e
 Minister Boekholt-O’Sullivan van Volkshuisvesting en Ruimtelijk Ordening heeft de Woningwet-BES naar de Tweede Kamer gestuurd. De wet moet de bouw van betaalbare woningen in Caribisch Nederland makkelijker maken. Woningstichtingen op Bonaire, Sint...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/woningwet-bes-voor-behandeling-naar-tweede-kamer
+
+---
+
+## Written question - Public opinion surveys on public support for the President of the Commission - E-004323/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 16:14:43 GMT
+
+Question for written answer E-004323/2026 to the Commission Rule 144 Balázs Orbán (PfE), Sebastian Tynkkynen (ECR), Ondřej Knotek (PfE), Milan Uhrík (ESN), Petras Gražulis (ESN), Barbara Bonte (PfE), Tom Vandendriessche (PfE), György Hölvényi (PfE), Zsuzsanna Borvendég (ESN), Fernand Kartheiser (NI), Virginie Joron (PfE), Gerald Hauser (PfE), Alvise Pérez (NI), António Tânger Corrêa (PfE), Tobiasz Bocheński (ECR), Gheorghe Piperea (ECR), Diana Iovanovici Şoşoacă (NI), Branko Grims (NI), Kateřina Konečná (PfE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004323_EN.html
+
+---
+
+## POSITION OF THE EUROPEAN PARLIAMENT adopted at first reading on 12 November 2026 with a view to the adoption of Regulation (EU) 2026/… of the European Parliament and of the Council amending Regulation (EU) No 1286/2014 as regards the modernisation of the key information document - TC1-COD-2023-0166
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 17 Nov 2026 16:13:31 GMT
+
+***I POSITION OF THE EUROPEAN PARLIAMENT adopted at first reading on 12 November 2026 with a view to the adoption of Regulation (EU) 2026/… of the European Parliament and of the Council amending Regulation (EU) No 1286/2014 as regards the modernisation of the key information document (EP-PE_TC1-COD(2023)0166) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TC1-COD-2023-0166_EN.pdf
+
+---
+
+## Written question - Investigation into possible fraud involving European funds and the Madrid-Seville railway line - E-004618/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 16:04:38 GMT
+
+Question for written answer E-004618/2026 to the Commission Rule 144 Elena Nevado del Campo (PPE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004618_EN.html
+
+---
+
+## Written question - Data centres in the EU and their electricity and water consumption - E-004674/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 16:04:17 GMT
+
+Question for written answer E-004674/2026 to the Commission Rule 144 Per Clausen (The Left) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004674_EN.html
+
+---
+
+## Written question - Non-EU sanctions, financial de-risking and the operational resilience of the EU banking system - E-004639/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 16:03:50 GMT
+
+Question for written answer E-004639/2026 to the Commission Rule 144 Pasquale Tridico (The Left), Danilo Della Valle (The Left), Mario Furore (The Left), Dario Tamburrano (The Left), Carolina Morace (The Left), Benedetta Scuderi (Verts/ALE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004639_EN.html
+
+---
+
+## Answer to a written question - New follow-up question to written question E-000437/2026 (Concerns about funding of the NGO ECPS) - E-003568/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 15:55:21 GMT
+
+See question(s) : E-003568/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003568-ASW_EN.pdf
+
+---
+
+## POSITION OF THE EUROPEAN PARLIAMENT adopted at first reading on 12 November 2026 with a view to the adoption of Regulation (EU) 2026/… of the European Parliament and of the Council on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021 - TC1-COD-2025-0207
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 17 Nov 2026 15:43:26 GMT
+
+***I POSITION OF THE EUROPEAN PARLIAMENT adopted at first reading on 12 November 2026 with a view to the adoption of Regulation (EU) 2026/… of the European Parliament and of the Council on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021 (EP-PE_TC1-COD(2025)0207) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TC1-COD-2025-0207_EN.pdf
+
+---
+
+## POSITION OF THE EUROPEAN PARLIAMENT adopted at first reading on 12 November 2026 with a view to the adoption of Regulation (EU) 2026/… of the European Parliament and of the Council amending Regulation (EU) 2019/1753 as regards amendments to the Common Regulations under the Lisbon Agreement for the Protection of Appellations of Origin and their International Registration and the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications - TC1-COD-2026-0044
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 17 Nov 2026 15:33:04 GMT
+
+***I POSITION OF THE EUROPEAN PARLIAMENT adopted at first reading on 12 November 2026 with a view to the adoption of Regulation (EU) 2026/… of the European Parliament and of the Council amending Regulation (EU) 2019/1753 as regards amendments to the Common Regulations under the Lisbon Agreement for the Protection of Appellations of Origin and their International Registration and the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications (EP-PE_TC1-COD(2026)0044) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TC1-COD-2026-0044_EN.pdf
 
 ---
 
@@ -62,51 +278,255 @@ Na de Tweede Kamer heeft vandaag ook de Eerste Kamer groen licht gegeven voor de
 
 ---
 
-## EU advances Syrian recovery and reconstruction through Syria Partnership Coordination Forum in Damascus
+## REPORT on the joint text on the draft general budget of the European Union for the financial year 2027 approved by the Conciliation Committee under the budgetary procedure - A10-0305/2026
 
-**Bron:** Europese Commissie
+**Bron:** Europees Parlement - Plenaire vergadering
 
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+**Gepubliceerd:** Tue, 17 Nov 2026 12:33:03 GMT
 
-Today, the Syria Partnership Coordination Forum (SPCF) convened in Damascus for the first time to advance Syria's recovery and reconstruction, showcase investment opportunities and agree on concrete steps forward.
+REPORT on the joint text on the draft general budget of the European Union for the financial year 2027 approved by the Conciliation Committee under the budgetary procedure Nils Ušakovs, Michalis Hadjipantela Source : © European Union, 2026 - EP
 
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-advances-syrian-recovery-and-reconstruction-through-syria-partnership-coordination-forum-damascus-2026-11-17_en
-
----
-
-## Commission approves amended German State aid schemes for energy-intensive companies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the CISAF and METSAF.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0305_EN.html
 
 ---
 
-## In focus: Industrial carbon management – how it works and why we need it
+## Written question - Blocking Telegram groups used by Antifa terrorists and rioters - E-004624/2026
 
-**Bron:** Europese Commissie
+**Bron:** Europees Parlement - Schriftelijke vragen
 
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+**Gepubliceerd:** Tue, 17 Nov 2026 11:03:05 GMT
 
-Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for  the EU to become the world’s first climate-neutral continent by 2050.
+Question for written answer E-004624/2026 to the Commission Rule 144 Catherine Griset (PfE) Source : © European Union, 2026 - EP
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004624_EN.html
 
 ---
 
-## Commission approves €9.5 billion Dutch State aid to support offshore wind energy
+## Written question - Dock dues levied on products with no local production in the French outermost regions - E-004608/2026
 
-**Bron:** Europese Commissie
+**Bron:** Europees Parlement - Schriftelijke vragen
 
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+**Gepubliceerd:** Tue, 17 Nov 2026 11:03:04 GMT
 
-The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
+Question for written answer E-004608/2026 to the Commission Rule 144 André Rougé (PfE) Source : © European Union, 2026 - EP
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004608_EN.html
+
+---
+
+## Written question - Exclusion of farmers in the Azores and Madeira from extraordinary State aid in 2023 and possible remedies - P-004668/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 11:01:04 GMT
+
+Priority question for written answer P-004668/2026 to the Commission Rule 144 Paulo do Nascimento Cabral (PPE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-004668_EN.html
+
+---
+
+## Written question - Closure of European refineries and impact of Green Deal policies on EU energy security and competitiveness - P-004684/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 11:00:32 GMT
+
+Priority question for written answer P-004684/2026 to the Commission Rule 144 Şerban Dimitrie Sturdza (ECR) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-004684_EN.html
+
+---
+
+## Minutes - Wednesday, 4 November 2026 - Thursday, 5 November 2026 - PE797.598v01-00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Tue, 17 Nov 2026 10:43:07 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-PV-2026-11-04-1_EN.pdf
+
+---
+
+## Written question - Exchanges with third countries under the aegis of EUROSUR - P-004659/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 10:33:39 GMT
+
+Priority question for written answer P-004659/2026 to the Commission Rule 144 Özlem Demirel (The Left) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-004659_EN.html
+
+---
+
+## Written question - Paramilitary training for European neo-Nazi groups in Ukraine - E-004612/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 10:33:11 GMT
+
+Question for written answer E-004612/2026 to the Commission Rule 144 Estrella Galán (The Left) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004612_EN.html
+
+---
+
+## Answer to a written question - Waste-to-energy plant in Bergamo Province: compliance with EU standards - E-003978/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 10:33:09 GMT
+
+See question(s) : E-003978/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003978-ASW_EN.pdf
+
+---
+
+## Written question - In Greece, millions of euros are being spent on consultants rather than on social housing - E-004448/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 10:33:08 GMT
+
+Question for written answer E-004448/2026/rev.1 to the Commission Rule 144 Emmanouil Fragkos (ECR) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004448_EN.html
+
+---
+
+## Answer to a written question - The use of AI for threats and terrorist purposes - E-003409/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 10:11:09 GMT
+
+See question(s) : E-003409/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003409-ASW_EN.pdf
+
+---
+
+## Answer to a written question - Recent statements of French President Macron - E-003701/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:33:13 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003701-ASW_EN.pdf
+
+---
+
+## Answer to a written question - Pre-frontier intelligence in EU border management - E-003331/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:33:11 GMT
+
+See question(s) : E-003331/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003331-ASW_EN.pdf
+
+---
+
+## Written question - Testing new defence systems to protect the EU’s external borders - E-004614/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:33:10 GMT
+
+Question for written answer E-004614/2026 to the Commission Rule 144 Mary Khan (ESN) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004614_EN.html
+
+---
+
+## Written question - Restrictions on the reuse of used vehicle parts resulting from VIN locking and part pairing - E-004679/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:33:10 GMT
+
+Question for written answer E-004679/2026 to the Commission Rule 144 Seán Kelly (PPE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004679_EN.html
+
+---
+
+## Written question - Protection of the Yazidi community in Iraq - E-004613/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:14:01 GMT
+
+Question for written answer E-004613/2026 to the Commission Rule 144 Martin Schirdewan (The Left) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004613_EN.html
+
+---
+
+## Written question - Ensuring regulatory predictability and effective implementation of the Digital Product Passport to strengthen European competitiveness - E-004644/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:13:59 GMT
+
+Question for written answer E-004644/2026 to the Commission Rule 144 Verena Mertens (PPE), Norbert Herhammer (PPE), Alexandra Mehnert (PPE), Monika Hohlmeier (PPE), Norbert Lins (PPE), Dirk Gotink (PPE), Jens Gieseke (PPE), Angelika Niebler (PPE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004644_EN.html
+
+---
+
+## Written question - Proposed amendments to Article 20(2) of Regulation (EC) 1107/2009 concerning grace periods - P-004666/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:13:37 GMT
+
+Priority question for written answer P-004666/2026 to the Commission Rule 144 Martin Häusling (Verts/ALE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-004666_EN.html
+
+---
+
+## Written question - Schoolbooks and ‘pay for slay’ - P-004688/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:13:33 GMT
+
+Priority question for written answer P-004688/2026 to the Commission Rule 144 Moritz Körner (Renew) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-004688_EN.html
+
+---
+
+## Written question - Commission acknowledges health risks posed by wind turbines - E-004495/2026
+
+**Bron:** Europees Parlement - Schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 09:13:29 GMT
+
+Question for written answer E-004495/2026 to the Commission Rule 144 Gerald Hauser (PfE) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004495_EN.html
+
+---
+
+## Answer to a written question - Reuse obligations and effective recycling systems under the Packaging and Packaging Waste Regulation - E-003752/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Tue, 17 Nov 2026 07:13:01 GMT
+
+See question(s) : E-003752/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003752-ASW_EN.pdf
 
 ---
 
@@ -134,6 +554,42 @@ What if the tools that guide yachts in offshore worldwide sailing races could he
 
 ---
 
+## Commission approves €9.5 billion Dutch State aid to support offshore wind energy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
+
+---
+
+## In focus: Industrial carbon management – how it works and why we need it
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for  the EU to become the world’s first climate-neutral continent by 2050.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en
+
+---
+
+## 17 new projects, €119 million in action for restoring and protecting Europe’s ocean and waters
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The EU Mission Ocean and Waters has welcomed 17 new projects selected under the eight topics of the 2025 call ‘Supporting the implementation of the Restore our Ocean and Waters Mission’ (HORIZON-MISS-2025-03).
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/17-new-projects-eur119-million-action-restoring-and-protecting-europes-ocean-and-waters-2026-11-17_en
+
+---
+
 ## Autumn 2026 Economic Forecast: continued growth amid higher inflation
 
 **Bron:** Europese Commissie
@@ -146,6 +602,90 @@ The Autumn 2026 Economic Forecast shows that the EU economy held up better than 
 
 ---
 
+## Commission adopts measures to restrict lead gunshot to protect health and the environment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+On 16 November 2026, the European Commission adopted new rules to better protect human health and the environment by restricting lead gunshot under the EU’s chemicals legislation, REACH.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-adopts-measures-restrict-lead-gunshot-protect-health-and-environment-2026-11-17_en
+
+---
+
+## Executive Vice-President Séjourné and Commissioners Várhelyi, Kos and Síkela, and Brunner host Implementation Dialogues on SMEs, feed, the Trans-Caspian Transport Corridor and critical infrastructure resilience
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Today, Executive Vice-President for Prosperity and Industrial Strategy Stéphane Séjourné will chair an Implementation Dialogue with businesses and industry representatives on the challenges and opportunities for small and medium-sized enterprises (SMEs) in strengthening SME financing...
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/executive-vice-president-sejourne-and-commissioners-varhelyi-kos-and-sikela-and-brunner-host-2026-11-17_en
+
+---
+
+## EU advances Syrian recovery and reconstruction through Syria Partnership Coordination Forum in Damascus
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Today, the Syria Partnership Coordination Forum (SPCF) convened in Damascus for the first time to advance Syria's recovery and reconstruction, showcase investment opportunities and agree on concrete steps forward.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-advances-syrian-recovery-and-reconstruction-through-syria-partnership-coordination-forum-damascus-2026-11-17_en
+
+---
+
+## Commission approves amended German State aid schemes for energy-intensive companies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the CISAF and METSAF.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
+
+---
+
+## Seventh meeting of the Digital Markets Act High-Level Group
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Today, the High-Level Group for the Digital Markets Act (High-Level Group) convened for its seventh Plenary meeting in Brussels.
+
+**Originele publicatie:** https://digital-markets-act.ec.europa.eu/seventh-meeting-digital-markets-act-high-level-group-2026-11-17_en
+
+---
+
+## REPORT on the proposal for a Directive of the European Parliament and of the Council amending Directives 2001/18/EC and 2010/53/EU as regards the placing on the market of genetically modified micro-organisms and the processing of organs - A10-0304/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Mon, 16 Nov 2026 17:43:04 GMT
+
+REPORT on the proposal for a Directive of the European Parliament and of the Council amending Directives 2001/18/EC and 2010/53/EU as regards the placing on the market of genetically modified micro-organisms and the processing of organs Committee on the Environment, Public Health and Food Safety Committee on Public Health Marta Temido, Adam Jarubas Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0304_EN.html
+
+---
+
+## REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the Connecting Europe Facility for the period 2028-2034, amending Regulation (EU) 2024/1679 and repealing Regulation (EU) 2021/1153 - A10-0301/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Mon, 16 Nov 2026 16:16:10 GMT
+
+REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the Connecting Europe Facility for the period 2028-2034, amending Regulation (EU) 2024/1679 and repealing Regulation (EU) 2021/1153 Committee on Industry, Research and Energy Committee on Transport and Tourism Oihane Agirregoitia Martínez, Kamila Gasiuk-Pihowicz Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0301_EN.html
+
+---
+
 ## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
 
 **Bron:** Rijksoverheid Nieuws
@@ -155,6 +695,138 @@ The Autumn 2026 Economic Forecast shows that the EU economy held up better than 
 Rwanda, Nederland, Denemarken, Duitsland, Griekenland en Oostenrijk werken samen aan de oprichting van een terugkeerhub in Rwanda. De terugkeerhub wordt onderdeel van een breed partnerschap met Rwanda en vijf Europese landen.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/nederland-en-europese-partners-werken-samen-met-rwanda-aan-een-terugkeerhub
+
+---
+
+## REPORT on the proposal for a Directive of the European Parliament and of the Council amending Directives (EU) 2016/2341 and 2016/97 as regards the strengthening of the framework for occupational retirement provision - A10-0302/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Mon, 16 Nov 2026 14:33:03 GMT
+
+REPORT on the proposal for a Directive of the European Parliament and of the Council amending Directives (EU) 2016/2341 and 2016/97 as regards the strengthening of the framework for occupational retirement provision Committee on Economic and Monetary Affairs Damian Boeselager Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0302_EN.html
+
+---
+
+## Answer to a written question - Is the Commission treating non-European immigration as a demographic adjustment variable? - E-003635/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 13:53:09 GMT
+
+See question(s) : E-003635/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003635-ASW_EN.html
+
+---
+
+## Answer to a written question - Security rights of pledgees and mortgagees in EU Inc. insolvency proceedings - E-003746/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 13:53:08 GMT
+
+See question(s) : E-003746/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003746-ASW_EN.html
+
+---
+
+## Answer to a written question - Patient safety, licensing of private healthcare facilities and professional training - E-003667/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 13:53:01 GMT
+
+See question(s) : E-003667/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003667-ASW_EN.html
+
+---
+
+## Answer to a written question - Participation in the Multinational Maritime Defence Coalition - E-003618/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 12:43:03 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003618-ASW_EN.pdf
+
+---
+
+## Answer to a written question - Competitiveness and Cohesion Programme 2021­‑2027 - E-003889/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 12:33:01 GMT
+
+See question(s) : E-003889/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003889-ASW_EN.html
+
+---
+
+## Answer to a written question - Use of RRF-supported clean vehicles in Lithuania - E-003225/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 11:53:18 GMT
+
+See question(s) : E-003225/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003225-ASW_EN.pdf
+
+---
+
+## Answer to a written question - Unused fishing days under the Adriatic demersal effort regime - E-004025/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 11:08:16 GMT
+
+See question(s) : E-004025/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-004025-ASW_EN.html
+
+---
+
+## Answer to a written question - Application of the Digital Services Act following the Ceuta crisis - E-003259/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 11:07:10 GMT
+
+See question(s) : E-003259/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003259-ASW_EN.html
+
+---
+
+## Answer to a written question - Anti-abuse bracelets (Cometa system): shortcomings, milestone 472 of the Spanish recovery plan and seventh Recovery and Resilience Facility payment with partial waiver of funds - P-004219/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 10:40:23 GMT
+
+See question(s) : P-004219/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-004219-ASW_EN.html
+
+---
+
+## Answer to a written question - Greece’s purchase of Israeli air defence systems and compatibility with SAFE and other EU instruments - E-003474/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 10:28:00 GMT
+
+See question(s) : E-003474/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003474-ASW_EN.pdf
 
 ---
 
@@ -171,6 +843,54 @@ De totale asielinstroom is als volgt onderverdeeld:
 •    ...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/de-asielinstroom-van-week-46-bedroeg-ongeveer-870
+
+---
+
+## Answer to a written question - Ensuring the continued operation of the MERE chain in Greece and protecting employees, suppliers and consumers - E-003221/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 09:33:26 GMT
+
+See question(s) : E-003221/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003221-ASW_EN.pdf
+
+---
+
+## Answer to a written question - Legal classification of e-money tokens fully backed by central bank money in the CSDR reform - E-003674/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 09:33:26 GMT
+
+See question(s) : E-003674/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003674-ASW_EN.pdf
+
+---
+
+## Answer to a written question - US interference, protection of digital rights and countering extraterritorial sanctions in the Autistici/Inventati case - E-003612/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 09:33:25 GMT
+
+See question(s) : E-003612/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003612-ASW_EN.pdf
+
+---
+
+## Answer to a written question - Impact of the planned extension of the Carbon Border Adjustment Mechanism (CBAM) on the competitiveness of European industry and SMEs - E-003443/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 09:33:12 GMT
+
+See question(s) : E-003443/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003443-ASW_EN.html
 
 ---
 
@@ -198,6 +918,30 @@ Bij het verlenen van een werk- en verblijfsvergunning wordt voortaan getoetst of
 
 ---
 
+## Answer to a written question - Extended producer responsibility for batteries and packaging and packaging waste - P-003972/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Mon, 16 Nov 2026 07:23:01 GMT
+
+See question(s) : P-003972/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/P-10-2026-003972-ASW_EN.html
+
+---
+
+## Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en
+
+---
+
 ## Commission publishes technical guidance to support implementation of the Digital Product Passport Registry
 
 **Bron:** Europese Commissie
@@ -207,42 +951,6 @@ Bij het verlenen van een werk- en verblijfsvergunning wordt voortaan getoetst of
 A complete set of technical documentation is now available to help organisations prepare their systems for the EU Digital Product Passport (DPP) Registry.
 
 **Originele publicatie:** https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en
-
----
-
-## Commission imposes anti-dumping duties on certain cold-rolled flat steel products
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en
-
----
-
-## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
-
----
-
-## Commissioner Šuica in Syria for discussions on recovery and investments
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Tomorrow, Commissioner for the Mediterranean Dubravka Šuica will be in Damascus for her second visit to Syria since the fall of the Assad regime. During her visit, she will co-chair the Syria Partnership Cooperation Forum (SPCF).
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commissioner-suica-syria-discussions-recovery-and-investments-2026-11-16_en
 
 ---
 
@@ -282,27 +990,27 @@ Implementing Regulation published today specifies the rules
 
 ---
 
-## Commission unconditionally approves UniCredit's acquisition of Commerzbank
+## Commission imposes anti-dumping duties on certain cold-rolled flat steel products
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by UniCredit of Commerzbank. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA').
+Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam.
 
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en
 
 ---
 
-## Simpler building permits to help deliver more affordable homes
+## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-A new Commission study, published on 5 November, identifies practical ways to improve building permitting procedures and help turn housing projects into completed homes.
+The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
 
-**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/simpler-building-permits-help-deliver-more-affordable-homes-2026-11-16_en
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
 
 ---
 
@@ -318,6 +1026,18 @@ The EU electricity market is suitably prepared for the winter, but it is necessa
 
 ---
 
+## Simpler building permits to help deliver more affordable homes
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+A new Commission study, published on 5 November, identifies practical ways to improve building permitting procedures and help turn housing projects into completed homes.
+
+**Originele publicatie:** https://housing.ec.europa.eu/whats-new/news/simpler-building-permits-help-deliver-more-affordable-homes-2026-11-16_en
+
+---
+
 ## AI requires rigorous safeguards and rules that keep pace with technological advances– experts tell the European Commission
 
 **Bron:** Europese Commissie
@@ -330,18 +1050,6 @@ New statement from the Commission’s Ethical and Scientific advisors recognises
 
 ---
 
-## Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en
-
----
-
 ## Translating Europe Forum 2026: Language professionals matter!
 
 **Bron:** Europese Commissie
@@ -351,6 +1059,30 @@ High-level representatives of the Open Coalition on Compliance Carbon Markets (O
 Discover the key takeaways and highlights from #2026TEF.
 
 **Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en
+
+---
+
+## Commission unconditionally approves UniCredit's acquisition of Commerzbank
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by UniCredit of Commerzbank. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA').
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en
+
+---
+
+## Commissioner Šuica in Syria for discussions on recovery and investments
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+Tomorrow, Commissioner for the Mediterranean Dubravka Šuica will be in Damascus for her second visit to Syria since the fall of the Assad regime. During her visit, she will co-chair the Syria Partnership Cooperation Forum (SPCF).
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commissioner-suica-syria-discussions-recovery-and-investments-2026-11-16_en
 
 ---
 
@@ -426,6 +1158,222 @@ De adviescommissie Duurzaam corporatiestelsel gaat onderzoeken hoe de financiël
 
 ---
 
+## REPORT on the proposal for a regulation of the European Parliament and of the Council establishing Horizon Europe, the Framework Programme for Research and Innovation, for the period 2028-2034 laying down its rules for participation and dissemination, and repealing Regulation (EU) 2021/695 - A10-0299/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 13:53:07 GMT
+
+REPORT on the proposal for a regulation of the European Parliament and of the Council establishing Horizon Europe, the Framework Programme for Research and Innovation, for the period 2028-2034 laying down its rules for participation and dissemination, and repealing Regulation (EU) 2021/695 Committee on Industry, Research and Energy Christian Ehler Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0299_EN.html
+
+---
+
+## REPORT on the implementation of the VAT reverse-charge mechanism - A10-0300/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 12:41:00 GMT
+
+REPORT on the implementation of the VAT reverse-charge mechanism Committee on Economic and Monetary Affairs Pierre Pimpie Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0300_EN.html
+
+---
+
+## Agenda - The Week Ahead 16 – 22 November 2026
+
+**Bron:** Europees Parlement - Agenda's en nieuws
+
+**Gepubliceerd:** Fri, 13 Nov 2026 12:14:47 GMT
+
+Committee and political group meetings Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/agenda/weekly-agenda/2026-47
+
+---
+
+## Answer to a written question - Overcapacity in Chinese production and consequences for the European automotive market - E-003817/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Fri, 13 Nov 2026 12:03:24 GMT
+
+See question(s) : E-003817/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003817-ASW_EN.html
+
+---
+
+## Answer to a written question - IOC decision to lift the suspension of the Russian Olympic Committee - E-003006/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Fri, 13 Nov 2026 12:03:17 GMT
+
+See question(s) : E-003006/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003006-ASW_EN.html
+
+---
+
+## Answer to a written question - Is Seahorse Advanced replacing the SIVE network on West Africa’s Atlantic coast? - E-003316/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Fri, 13 Nov 2026 12:03:02 GMT
+
+See question(s) : E-003316/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003316-ASW_EN.html
+
+---
+
+## Answer to a written question - Golden visas and the Oliville Halkidiki complex - E-003788/2026(ASW)
+
+**Bron:** Europees Parlement - Antwoorden op schriftelijke vragen
+
+**Gepubliceerd:** Fri, 13 Nov 2026 12:03:01 GMT
+
+See question(s) : E-003788/2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/E-10-2026-003788-ASW_EN.html
+
+---
+
+## MOTION FOR A RESOLUTION on fair trading relations in the supply chain of everyday consumer goods - B10-0490/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 11:43:42 GMT
+
+MOTION FOR A RESOLUTION pursuant to Rule 149 of the Rules of Procedure on fair trading relations in the supply chain of everyday consumer goods Piotr Müller Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/B-10-2026-0490_EN.html
+
+---
+
+## RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of the Council laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulation (EC) No 1394/2007 and Regulation (EU) No 536/2014 and repealing Regulation (EC) No 726/2004, Regulation (EC) No 141/2000 and Regulation (EC) No 1901/2006 - A10-0296/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 11:41:01 GMT
+
+RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of the Council laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulation (EC) No 1394/2007 and Regulation (EU) No 536/2014 and repealing Regulation (EC) No 726/2004, Regulation (EC) No 141/2000 and Regulation (EC) No 1901/2006 Committee on Public Health Tiemo Wölken Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0296_EN.html
+
+---
+
+## RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a directive of the European Parliament and of the Council on the Union code relating to medicinal products for human use, and repealing Directives 2001/83/EC and 2009/35/EC - A10-0297/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 11:27:14 GMT
+
+RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a directive of the European Parliament and of the Council on the Union code relating to medicinal products for human use, and repealing Directives 2001/83/EC and 2009/35/EC Committee on Public Health Dolors Montserrat Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0297_EN.html
+
+---
+
+## Press release - World e-Parliament Conference returns to the European Parliament after 18 years
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Fri, 13 Nov 2026 11:23:03 GMT
+
+The 2026 World e-Parliament Conference brings together political leaders, senior parliamentary staff and IT experts to discuss innovative technologies in parliamentary work. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261111IPR48786/
+
+---
+
+## Press release - MEP delegation to push for faster fossil fuel phase-out at COP31 in Türkiye
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Fri, 13 Nov 2026 11:23:02 GMT
+
+A Parliament delegation arrives in Türkiye on Monday to attend the UN Climate Change Summit and push for implementation of climate commitments. Committee on the Environment, Public Health and Food Safety Committee on Industry, Research and Energy Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261109IPR48723/
+
+---
+
+## Debates - Thursday, 12 November 2026 - Brussels - Revised edition
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 10:53:05 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/CRE-10-2026-11-12_EN.html
+
+---
+
+## REPORT on amendments to Parliament’s Rules of Procedure on proxy voting during pregnancy and immediately after childbirth - A10-0298/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 10:51:01 GMT
+
+REPORT on amendments to Parliament’s Rules of Procedure on proxy voting during pregnancy and immediately after childbirth Committee on Constitutional Affairs Juan Fernando López Aguilar Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0298_EN.html
+
+---
+
+## Minutes - Thursday, 12 November 2026 - Brussels - Roll-call votes - Final edition
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 10:40:27 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-12-RCV_EN.pdf
+
+---
+
+## Minutes - Thursday, 12 November 2026 - Brussels - Results of votes - Final edition
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 10:33:20 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-12-VOT_EN.pdf
+
+---
+
+## REPORT on the proposal for a Council decision on establishing the Specific Programme implementing Horizon Europe - the Framework Programme for Research and Innovation for the period 2028-2034, laying down the rules for participation and dissemination under that Programme, and repealing Decision (EU) 2021/764 - A10-0295/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 09:57:40 GMT
+
+REPORT on the proposal for a Council decision on establishing the Specific Programme implementing Horizon Europe - the Framework Programme for Research and Innovation for the period 2028-2034, laying down the rules for participation and dissemination under that Programme, and repealing Decision (EU) 2021/764 Committee on Industry, Research and Energy René Repasi Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0295_EN.html
+
+---
+
+## Minutes - Thursday, 12 November 2026 - Brussels - Final edition
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Fri, 13 Nov 2026 09:53:16 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-12_EN.html
+
+---
+
 ## AOW-leeftijd stijgt niet in 2032
 
 **Bron:** Rijksoverheid Nieuws
@@ -438,63 +1386,15 @@ De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar e
 
 ---
 
-## At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean
+## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
 
-At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean. They are part of the EU’s commitment to work with international partners to accelerate global climate action and deliver on the goals of...
+Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.
 
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en
-
----
-
-## Commission launches first global alliance on climate and health research funding at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en
-
----
-
-## 2.3 million tonnes of textile waste generated in 2024
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en
-
----
-
-## Value of agriculture output hits record high in 2025
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.
-
-**Originele publicatie:** https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2
-
----
-
-## Announcement of next auction (EU-Bills) on 18-11-2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Auction announcement EU-Bills.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en
 
 ---
 
@@ -510,30 +1410,6 @@ The Commission today published its assessment of Poland’s final updated Nation
 
 ---
 
-## President von der Leyen and Commissioner Kos to host second EU Enlargement Forum
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-On Monday, President of European Commission, Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos will host in Brussels the second EU Enlargement Forum, entitled 'Wider Europe - Stronger Europe'.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en
-
----
-
-## Paris Peace Forum 2026: Peace Mediation Built on Endurance and Empathy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-On 10–11 November, the European Commission’s Service for Foreign Policy Instruments (FPI) participated in the ninth edition of the Paris Peace Forum, placing peace mediation at the heart of its participation.
-
-**Originele publicatie:** https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en
-
----
-
 ## Commission restricts lead in fishing weights and lures to protect people and the environment
 
 **Bron:** Europese Commissie
@@ -543,6 +1419,18 @@ On 10–11 November, the European Commission’s Service for Foreign Policy Inst
 On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-13_en
+
+---
+
+## President von der Leyen and Commissioner Kos to host second EU Enlargement Forum
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
+
+On Monday, President of European Commission, Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos will host in Brussels the second EU Enlargement Forum, entitled 'Wider Europe - Stronger Europe'.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en
 
 ---
 
@@ -558,6 +1446,270 @@ As the world’s largest climate finance provider, the European Union (EU) is co
 
 ---
 
+## REPORT on the proposal for a Council regulation on establishing the research and training programme of the European Atomic Energy Community for the period 2028-2032, complementing Horizon Europe, the Framework Programme for Research and Innovation, and providing for the Community’s contribution to the ITER project, and repealing Regulation (Euratom) 2025/1304 - A10-0293/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 16:51:01 GMT
+
+REPORT on the proposal for a Council regulation on establishing the research and training programme of the European Atomic Energy Community for the period 2028-2032, complementing Horizon Europe, the Framework Programme for Research and Innovation, and providing for the Community’s contribution to the ITER project, and repealing Regulation (Euratom) 2025/1304 Committee on Industry, Research and Energy Sophie Wilmès Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0293_EN.html
+
+---
+
+## Text adopted - Ukrainian children forcibly deported to Russia or living in Russian-occupied territories in Ukraine - P10_TA(2026)0380 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:51:42 GMT
+
+European Parliament resolution of 12 November 2026 on Ukrainian children forcibly deported or living in Russian-occupied territories in Ukraine (2026/2947(RSP)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0380_EN.html
+
+---
+
+## Text adopted - From prototypes to capabilities – enabling new defence actors to scale up - P10_TA(2026)0379 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:51:40 GMT
+
+European Parliament resolution of 12 November 2026 From prototypes to capabilities – enabling new defence actors to scale up (2026/2025(INI)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0379_EN.html
+
+---
+
+## Text adopted - EU agri-food promotion policy - P10_TA(2026)0377 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:51:39 GMT
+
+European Parliament resolution of 12 November 2026 on the implementation of the EU agri-food promotion policy (2025/2089(INI)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0377_EN.html
+
+---
+
+## Text adopted - Europe’s Beating Cancer Plan - P10_TA(2026)0376 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:51:34 GMT
+
+European Parliament resolution of 12 November 2026 on the implementation of Europe’s Beating Cancer Plan (2025/2139(INI)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0376_EN.html
+
+---
+
+## Text adopted - Union Civil Protection Mechanism and Union support for health emergency preparedness and response - P10_TA(2026)0371 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:51:21 GMT
+
+Amendments adopted by the European Parliament on 12 November 2026 on the proposal for a regulation of the European Parliament and of the Council on the Union Civil Protection Mechanism and Union support for health emergency preparedness and response, and repealing Decision No 1313/2013/EU (Union Civil Protection Mechanism) (COM(2025)0548 – C10-0174/2025 – 2025/0223(COD)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0371_EN.html
+
+---
+
+## Text adopted - Institutional aspects of artificial intelligence in the context of European integration - P10_TA(2026)0378 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:51:05 GMT
+
+European Parliament resolution of 12 November 2026 ‘Institutional aspects of artificial intelligence in the context of European integration’ (2025/2118(INI)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0378_EN.html
+
+---
+
+## Text adopted - Association of the overseas countries and territories with the EU including EU/Greenland/Denmark relations - P10_TA(2026)0375 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:51:02 GMT
+
+European Parliament legislative resolution of 12 November 2026 on the proposal for a Council decision amending Decision (EU) 2021/1764 on the Association of the Overseas Countries and Territories with the European Union including relations between the European Union on the one hand, and Greenland and the Kingdom of Denmark on the other (COM(2025)0599 – C10-0248/2025 – 2025/0264(CNS)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0375_EN.html
+
+---
+
+## Text adopted - European Chemicals Agency and amending regulations - P10_TA(2026)0373 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:31:21 GMT
+
+European Parliament legislative resolution of 12 November 2026 on the proposal for a regulation of the European Parliament and of the Council on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021 (COM(2025)0386 – C10-0141/2025 – 2025/0207(COD)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0373_EN.html
+
+---
+
+## Text adopted - Geographical indications: aligning EU rules with changes to the implementing provisions under the Lisbon Agreement - P10_TA(2026)0374 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 13:31:20 GMT
+
+European Parliament legislative resolution of 12 November 2026 on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon Agreement on Appellations of Origin and Geographical Indications (COM(2026)0069 – C10-0030/2026 – 2026/0044(COD)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0374_EN.html
+
+---
+
+## Text adopted - Modernisation of the key information document - P10_TA(2026)0372 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 12:21:11 GMT
+
+European Parliament legislative resolution of 12 November 2026 on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 1286/2014 as regards the modernisation of the key information document (COM(2023)0278 – C9-0180/2023 – 2023/0166(COD)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0372_EN.html
+
+---
+
+## Debates - Wednesday, 11 November 2026 - Brussels - Revised edition
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 11:53:01 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/CRE-10-2026-11-11_EN.html
+
+---
+
+## Text adopted - Amendments to the Statute for Members of the European Parliament, as regards proxy voting - P10_TA(2026)0370 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 11:31:06 GMT
+
+European Parliament legislative resolution of 12 November 2026 on a draft regulation of the European Parliament amending Decision 2005/684/EC, Euratom adopting the Statute for Members of the European Parliament, as regards proxy voting (2026/2052(INL) – 2026/0900(APP)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0370_EN.html
+
+---
+
+## Text adopted - Request for the waiver of the immunity of Afroditi Latinopoulou - P10_TA(2026)0369 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 11:31:04 GMT
+
+European Parliament decision of 12 November 2026 on the request for the waiver of the immunity of Afroditi Latinopoulou (2026/2049(IMM)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0369_EN.html
+
+---
+
+## Text adopted - Request for the waiver of the immunity of András Tivadar Kulja - P10_TA(2026)0368 - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 11:31:01 GMT
+
+European Parliament decision of 12 November 2026 on the request for the waiver of the immunity of András Tivadar Kulja (2026/2016(IMM)) Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/TA-10-2026-0368_EN.html
+
+---
+
+## Press release - AI in democracy: ensuring oversight and compliance with EU values
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Thu, 12 Nov 2026 11:13:06 GMT
+
+The European Parliament calls for parliamentary scrutiny and regulation of the impact of artificial intelligence on EU democratic processes, institutional balance, and fundamental rights. Committee on Constitutional Affairs Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261110IPR48745/
+
+---
+
+## Press release - Civil protection mechanism: making the EU crisis-ready
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Thu, 12 Nov 2026 10:43:03 GMT
+
+MEPs want the next EU crisis prevention and response tool to do more to anticipate crises before they happen, and to do better at supporting recovery efforts. Committee on the Environment, Public Health and Food Safety Committee on Public Health Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261110IPR48738/
+
+---
+
+## Press release - Tilly Metz elected Vice-President of the European Parliament
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Thu, 12 Nov 2026 10:33:02 GMT
+
+On Thursday, MEPs elected Tilly Metz as Parliament Vice-President, replacing Nicolae Ștefănuță. Committee on Legal Affairs Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261110IPR48739/
+
+---
+
+## Press release - Parliament back change to allow proxy voting before and after childbirth
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Thu, 12 Nov 2026 10:33:02 GMT
+
+On Thursday, Parliament endorsed changes to the statute governing the work of MEPs to allow them to delegate their voting rights before and after childbirth. Committee on Legal Affairs Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261110IPR48740/
+
+---
+
+## REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the European Social Fund as part of the National and Regional Partnership Plan set out in Regulation (EU) […] [NRPPlan] establishing conditions for the implementation of the Union support to quality employment, skills and social inclusion for the period from 2028 to 2034 - A10-0291/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 10:19:32 GMT
+
+REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the European Social Fund as part of the National and Regional Partnership Plan set out in Regulation (EU) […] [NRPPlan] establishing conditions for the implementation of the Union support to quality employment, skills and social inclusion for the period from 2028 to 2034 Committee on Employment and Social Affairs David Casa, Marit Maij Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0291_EN.html
+
+---
+
+## Minutes - Wednesday, 11 November 2026 - Brussels - Final edition
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Thu, 12 Nov 2026 09:18:49 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-11_EN.html
+
+---
+
+## Press release - EP TODAY
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Thu, 12 Nov 2026 07:33:00 GMT
+
+Thursday 12 November 2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261111IPR48787/
+
+---
+
 ## Vogelgriep vastgesteld in Hierden
 
 **Bron:** Rijksoverheid Nieuws
@@ -567,6 +1719,42 @@ As the world’s largest climate finance provider, the European Union (EU) is co
 In Hierden (gemeente Harderwijk, provincie Gelderland) is opnieuw vogelgriep vastgesteld. Het gaat nu om een besmetting bij een vermeerderingsbedrijf voor eenden. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw,...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/vogelgriep-vastgesteld-in-hierden
+
+---
+
+## Press release - Opening: 11-12 November plenary session in Brussels
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Wed, 11 Nov 2026 15:17:11 GMT
+
+Parliament held a minute’s silence for victims of the Bulgarian motorway accident, the shooting in Krakow, the racist attack in Trappes and La Verrière, and the Urda train collision. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261110IPR48736/
+
+---
+
+## Agenda - Thursday, 12 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 14:25:21 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html
+
+---
+
+## Agenda - Wednesday, 11 November 2026 - Brussels
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 14:22:33 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-11_EN.html
 
 ---
 
@@ -582,6 +1770,18 @@ Staatssecretaris Eric van der Burg van Binnenlandse Zaken en Koninkrijksrelaties
 
 ---
 
+## REPORT on the proposal for a regulation of the European Parliament and of the Council on speeding-up environmental assessments - A10-0290/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 13:51:02 GMT
+
+REPORT on the proposal for a regulation of the European Parliament and of the Council on speeding-up environmental assessments Committee on the Environment, Public Health and Food Safety Emma Ytterell Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0290_EN.html
+
+---
+
 ## Storing Rijksoverheid.nl en andere overheidswebsites
 
 **Bron:** Rijksoverheid Nieuws
@@ -594,6 +1794,90 @@ Op woensdagochtend 11 november 2026 is Rijksoverheid.nl gedurende een half uur n
 
 ---
 
+## REPORT on the protection of the Union’s financial interests in the post-2027 multiannual financial framework through the revision of the anti-fraud architecture - A10-0288/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 11:09:18 GMT
+
+REPORT on the protection of the Union’s financial interests in the post-2027 multiannual financial framework through the revision of the anti-fraud architecture Committee on Budgetary Control Tomáš Zdechovský, Dick Erixon Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0288_EN.html
+
+---
+
+## REPORT on the proposal for a Directive of the European Parliament and of the Council amending Directive 92/6/EEC to exempt certain N2 electric vehicles from the requirement to install and use a speed limitation device - A10-0285/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 11:09:16 GMT
+
+REPORT on the proposal for a Directive of the European Parliament and of the Council amending Directive 92/6/EEC to exempt certain N2 electric vehicles from the requirement to install and use a speed limitation device Committee on Transport and Tourism Merja Kyllönen Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0285_EN.html
+
+---
+
+## REPORT on the proposal for a Council directive amending Directive 2006/112/EC as regards the extension of the application period of the optional reverse charge mechanism in relation to supplies of certain goods and services susceptible to fraud and of the Quick Reaction Mechanism against VAT fraud - A10-0282/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 11:09:15 GMT
+
+REPORT on the proposal for a Council directive amending Directive 2006/112/EC as regards the extension of the application period of the optional reverse charge mechanism in relation to supplies of certain goods and services susceptible to fraud and of the Quick Reaction Mechanism against VAT fraud Committee on Economic and Monetary Affairs Aurore Lalucq Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0282_EN.html
+
+---
+
+## REPORT ‘Towards an EU strategy to protect and strengthen the international justice system and its institutions, mechanisms and partners’ - A10-0281/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 11:09:13 GMT
+
+REPORT ‘Towards an EU strategy to protect and strengthen the international justice system and its institutions, mechanisms and partners’ Committee on Foreign Affairs Mounir Satouri Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0281_EN.html
+
+---
+
+## REPORT on EU-Syria political relations - A10-0278/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 11:09:07 GMT
+
+REPORT on EU-Syria political relations Committee on Foreign Affairs Nathalie Loiseau Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0278_EN.html
+
+---
+
+## REPORT on the multiannual plan for the fisheries exploiting demersal stocks in the Western Mediterranean Sea - A10-0279/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Wed, 11 Nov 2026 11:07:07 GMT
+
+REPORT on the multiannual plan for the fisheries exploiting demersal stocks in the Western Mediterranean Sea Committee on Fisheries Carmen Crespo Díaz Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0279_EN.html
+
+---
+
+## Press release - EP TODAY
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Wed, 11 Nov 2026 10:01:43 GMT
+
+Wednesday 11 November 2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261110IPR48747/
+
+---
+
 ## Nieuwe aanvraagronde Expeditie-regeling opent op 16 november
 
 **Bron:** Rijksoverheid Nieuws
@@ -603,6 +1887,282 @@ Op woensdagochtend 11 november 2026 is Rijksoverheid.nl gedurende een half uur n
 Samenwerkingsverbanden die kennis over duurzame inzetbaarheid en een leven lang ontwikkelen (LLO) verder willen ontwikkelen, kunnen vanaf 16 november weer subsidie aanvragen via de Expeditie-regeling. Voor dit aanvraagtijdvak is € 30 miljoen...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/nieuwe-aanvraagronde-expeditie-regeling-opent-op-16-november
+
+---
+
+## Press release - Press briefing on this week’s plenary session
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Wed, 11 Nov 2026 08:33:00 GMT
+
+The European Parliament spokesperson will hold a last-minute briefing on the 11 – 12 November plenary session today at 13.30. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261110IPR48746/
+
+---
+
+## Press release - MEPs back new fund to boost Europe’s competitiveness
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Tue, 10 Nov 2026 20:23:01 GMT
+
+On Tuesday, Industry Committee MEPs proposed to reshape the European Competitiveness Fund’s scope, governance and budget, with a focus on industrial and security dimensions. Committee on Industry, Research and Energy Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261109IPR48712/
+
+---
+
+## Press release - Horizon Europe: MEPs back plans to strengthen the EU’s scientific base
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Tue, 10 Nov 2026 17:33:03 GMT
+
+Research MEPs seek to boost EU scientific excellence, empower expert advice, and improve links between research and competitiveness. Committee on Industry, Research and Energy Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261109IPR48713/
+
+---
+
+## REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the Union support for internal security for the period from 2028 to 2034 - A10-0289/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 10 Nov 2026 16:51:35 GMT
+
+REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the Union support for internal security for the period from 2028 to 2034 Committee on Civil Liberties, Justice and Home Affairs Assita Kanko Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0289_EN.html
+
+---
+
+## AMENDMENTS 001-003 - JOINT MOTION FOR A RESOLUTION on Ukrainian children forcibly deported or living in Russian-occupied territories in Ukraine - RC-B10-0497/2026(001-003)
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 10 Nov 2026 16:50:50 GMT
+
+AMENDMENTS 001-003 JOINT MOTION FOR A RESOLUTION pursuant to Rule 136(2) and (4) of the Rules of Procedure replacing the following motions: B10-0497/2026 (PPE) B10-0498/2026 (Renew) B10-0499/2026 (Verts/ALE) B10-0500/2026 (S&D) B10-0501/2026 (ECR) on Ukrainian children forcibly deported or living in Russian-occupied territories in Ukraine (2026/2947(RSP)) Michael Gahler, Ewa Kopacz, Andrzej Halicki, David McAllister, Sebastião Bugalho, Siegfried Mureşan, Željana Zovko, Isabel Wiseler-Lima, Mika Aaltola, Wouter Beke, Ioan-Rareş Bogdan, Krzysztof Brejza, Jan Farský, Rasa Juknevičienė, Sandra Kalniete, Łukasz Kohut, Ondřej Kolář, Andrey Kovatchev, Miriam Lexmann, Reinhold Lopatka, Antonio López-Istúriz White, Liudas Mažylis, Verena Mertens, Danuše Nerudová, Nicolás Pascual de la Parte, Ana Miguel Pedro, Davor Ivo Stier, Michał Szczerba, Alice Teodorescu Måwe, Ingeborg Ter Laak, Riho Terras, Pekka Toveri, Inese Vaidere, Mirosława Nykiel on behalf of the PPE Group Yannis Maniatis, Nacho Sánchez Amor, Thijs Reuten, Heléne Fritzon on behalf of the S&D Group Adam Bielan, Rihards Kols, Michał Dworczyk, Nikola Bartůšek, Aurelijus Veryga, Arkadiusz Mularczyk, Joachim Stanisław Brudziński, Charlie Weimers, Beatrice Timgren, Małgorzata Gosiewska, Veronika Vrecionová, Waldemar Buda, Sebastian Tynkkynen, Cristian Terheş, Mariusz Kamiński, Roberts Zīle, Maciej Wąsik on behalf of the ECR Group Petras Auštrevičius, Dan Barna, Michał Kobosko, Ilhan Kyuchyuk, Urmas Paet, Pina Picierno, Marie-Agnes Strack-Zimmermann, Lucia Yar, Dainius Žalimas on behalf of the Renew Group Villy Søvndal on behalf of the Verts/ALE Group Merja Kyllönen, Li Andersson, Jussi Saramo Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/RC-10-2026-0497-AM-001-003_EN.pdf
+
+---
+
+## JOINT MOTION FOR A RESOLUTION on Ukrainian children forcibly deported or living in Russian-occupied territories in Ukraine - RC-B10-0497/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 10 Nov 2026 16:35:19 GMT
+
+JOINT MOTION FOR A RESOLUTION pursuant to Rule 136(2) and (4) of the Rules of Procedure replacing the following motions: B10-0497/2026 (PPE) B10-0498/2026 (Renew) B10-0499/2026 (Verts/ALE) B10-0500/2026 (S&D) B10-0501/2026 (ECR) on Ukrainian children forcibly deported or living in Russian-occupied territories in Ukraine (2026/2947(RSP)) Michael Gahler, Ewa Kopacz, Andrzej Halicki, David McAllister, Sebastião Bugalho, Siegfried Mureşan, Željana Zovko, Isabel Wiseler-Lima, Mika Aaltola, Wouter Beke, Ioan-Rareş Bogdan, Krzysztof Brejza, Jan Farský, Rasa Juknevičienė, Sandra Kalniete, Łukasz Kohut, Ondřej Kolář, Andrey Kovatchev, Miriam Lexmann, Reinhold Lopatka, Antonio López-Istúriz White, Liudas Mažylis, Verena Mertens, Danuše Nerudová, Nicolás Pascual de la Parte, Ana Miguel Pedro, Davor Ivo Stier, Michał Szczerba, Alice Teodorescu Måwe, Ingeborg Ter Laak, Riho Terras, Pekka Toveri, Inese Vaidere, Mirosława Nykiel on behalf of the PPE Group Yannis Maniatis, Nacho Sánchez Amor, Thijs Reuten, Heléne Fritzon on behalf of the S&D Group Adam Bielan, Rihards Kols, Michał Dworczyk, Nikola Bartůšek, Aurelijus Veryga, Arkadiusz Mularczyk, Joachim Stanisław Brudziński, Charlie Weimers, Beatrice Timgren, Małgorzata Gosiewska, Veronika Vrecionová, Waldemar Buda, Sebastian Tynkkynen, Cristian Terheş, Mariusz Kamiński, Roberts Zīle, Maciej Wąsik on behalf of the ECR Group Petras Auštrevičius, Dan Barna, Michał Kobosko, Ilhan Kyuchyuk, Urmas Paet, Pina Picierno, Marie-Agnes Strack-Zimmermann, Lucia Yar, Dainius Žalimas on behalf of the Renew Group Villy Søvndal on behalf of the Verts/ALE Group Merja Kyllönen, Li Andersson, Jussi Saramo Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/RC-10-2026-0497_EN.html
+
+---
+
+## Press release - Connecting Europe Facility: boosting investment in the EU’s strategic infrastructure
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Tue, 10 Nov 2026 15:22:53 GMT
+
+Parliament’s Energy and Transport Committees agreed to strengthen the 2028-2034 Connecting Europe Facility, EU’s main funding tool for key cross-border infrastructure projects. Committee on Industry, Research and Energy Committee on Transport and Tourism Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261109IPR48718/
+
+---
+
+## REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the Justice programme for the period 2028-2034 and repealing Regulation (EU) 2021/693 - A10-0287/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 10 Nov 2026 13:13:02 GMT
+
+REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the Justice programme for the period 2028-2034 and repealing Regulation (EU) 2021/693 Committee on Legal Affairs Committee on Civil Liberties, Justice and Home Affairs Jaroslav Bžoch Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0287_EN.html
+
+---
+
+## Press release - The Employment and Social Affairs committee adopts its position on a new European Social Fund
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Tue, 10 Nov 2026 09:53:02 GMT
+
+Employment and Social Affairs Committee MEPs voted their position on the 2028-2034 European Social Fund (ESF), aimed at supporting quality employment, skills and social protection. Committee on Employment and Social Affairs Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261109IPR48709/
+
+---
+
+## REPORT on the proposal for a regulation of the European Parliament and of the Council on monitoring and controlling drug precursors and repealing Regulations (EC) No 273/2004 and (EC) No 111/2005 - A10-0286/2026
+
+**Bron:** Europees Parlement - Plenaire vergadering
+
+**Gepubliceerd:** Tue, 10 Nov 2026 08:13:01 GMT
+
+REPORT on the proposal for a regulation of the European Parliament and of the Council on monitoring and controlling drug precursors and repealing Regulations (EC) No 273/2004 and (EC) No 111/2005 Committee on International Trade Committee on Civil Liberties, Justice and Home Affairs Nicolas Bay, Bartłomiej Sienkiewicz Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0286_EN.html
+
+---
+
+## Press release - The closure of Novaya Gazeta is the latest step by an authoritarian regime that fears its own citizens’ access to the truth
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Mon, 09 Nov 2026 15:34:58 GMT
+
+Leading MEPs issued the following joint statement today. Subcommittee on Human Rights Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261109IPR48724/
+
+---
+
+## Latest news - Next meetings of the Committee on Agricultural and Rural Development - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Mon, 09 Nov 2026 09:54:49 GMT
+
+30 November-1 December 2026 7 December 2026 AGRI Calendar 2026 AGRI Calendar 2027 European Parliament's Calendar All Committees Top Page Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20200226CAL09796
+
+---
+
+## Agenda - The Week Ahead 09 – 15 November 2026
+
+**Bron:** Europees Parlement - Agenda's en nieuws
+
+**Gepubliceerd:** Fri, 06 Nov 2026 12:25:12 GMT
+
+Plenary session, Brussels Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/agenda/weekly-agenda/2026-46
+
+---
+
+## Press release - MEPs to host parliamentarians from Africa, Caribbean and Pacific
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Thu, 05 Nov 2026 13:53:00 GMT
+
+Next week about 160 parliamentarians from the African, Caribbean and Pacific states and MEPs will meet in the European Parliament to discuss global challenges. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261103IPR48623/
+
+---
+
+## Video of a committee meeting - Thursday, 5 November 2026 - 10:00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Thu, 05 Nov 2026 11:35:01 GMT
+
+Length of video : 120' Disclaimer : The interpretation of debates serves to facilitate communication and does not constitute an authentic record of proceedings. Only the original speech or the revised written translation is authentic. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://multimedia.europarl.europa.eu/en/committees_20261105-1000-COMMITTEE-AGRI_vd
+
+---
+
+## Video of a committee meeting - Wednesday, 4 November 2026 - 15:00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 04 Nov 2026 17:20:26 GMT
+
+Length of video : 210' Disclaimer : The interpretation of debates serves to facilitate communication and does not constitute an authentic record of proceedings. Only the original speech or the revised written translation is authentic. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://multimedia.europarl.europa.eu/en/committees_20261104-1500-COMMITTEE-AGRI_vd
+
+---
+
+## Opinion on the conclusion of an agreement between the EU and Canada on the apportionment of WTO tariff-rate quotas following Brexit [2026/0282 (NLE)] - PE797.366v01-00
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 04 Nov 2026 16:26:06 GMT
+
+Opinion on the conclusion of an agreement between the EU and Canada on the apportionment of WTO tariff-rate quotas following Brexit [2026/0282 (NLE)] Committee on Agriculture and Rural Development Veronika Vrecionová Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-AL-797366_EN.pdf
+
+---
+
+## Opinion on the conclusion of the Comprehensive Economic Partnership Agreement between the European Union and Indonesia - PE796.325v01-00
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 04 Nov 2026 16:10:57 GMT
+
+Opinion on the conclusion of the Comprehensive Economic Partnership Agreement between the European Union and Indonesia Committee on Agriculture and Rural Development Veronika Vrecionová Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-AL-796325_EN.pdf
+
+---
+
+## Press release - CO2 emissions: adjusted targets, more incentives for clean vehicles
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Wed, 04 Nov 2026 14:39:48 GMT
+
+On Wednesday, Parliament’s Environment Committee adopted its proposal for revised CO2 emissions targets for new cars and vans and incentives for clean vehicles made in the EU. Committee on the Environment, Public Health and Food Safety Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261103IPR48613/
+
+---
+
+## Press release - Corporate fleets: accelerating the uptake of zero- and low-emission vehicles
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Wed, 04 Nov 2026 14:17:04 GMT
+
+On Wednesday, Transport and Environment Committees MEPs adopted their position on how the EU should speed up the share of clean vehicles in corporate fleets. Committee on the Environment, Public Health and Food Safety Committee on Transport and Tourism Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261103IPR48612/
+
+---
+
+## Press release - Automotive sector: boost electric vehicles, simplify measures
+
+**Bron:** Europees Parlement - Persberichten
+
+**Gepubliceerd:** Wed, 04 Nov 2026 13:53:04 GMT
+
+Parliament’s Environment, Internal Market and Transport Committees suggest simplifying and improving certain rules governing the EU automotive industry. Committee on the Environment, Public Health and Food Safety Committee on the Internal Market and Consumer Protection Committee on Transport and Tourism Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261103IPR48611/
+
+---
+
+## Video of a committee meeting - Wednesday, 4 November 2026 - 09:00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 04 Nov 2026 10:23:30 GMT
+
+Length of video : 150' Disclaimer : The interpretation of debates serves to facilitate communication and does not constitute an authentic record of proceedings. Only the original speech or the revised written translation is authentic. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://multimedia.europarl.europa.eu/en/committees_20261104-0900-COMMITTEE-AGRI_vd
+
+---
+
+## Minutes - Monday, 5 October 2026 - PE796.364v02-00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 28 Oct 2026 14:45:26 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-PV-2026-10-05-1_EN.pdf
 
 ---
 
@@ -630,6 +2190,151 @@ Europe's food systems are facing a growing range of challenges. Climate change, 
 
 ---
 
+## Highlights - Votes: generational renewal, Indonesia, Canada and organics  - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:50:30 GMT
+
+On 4 November 2026, the AGRI Committee will adopt its report on generational renewal in agriculture and its opinions on the Partnership Agreement with Indonesia, and the agreement on WTO tariff-rate quotas with Canada. The Committee will also vote on the provisional interinstitutional agreement on Organic Legislation. Agenda and documents for the meeting of 4-5 November 2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20261027CAN79810
+
+---
+
+## Highlights - Commissioner Hansen: funding for promotion and progress report on simplification - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:44:54 GMT
+
+On 5 November 2026, AGRI Members and Commissioner  Christophe Hansen will explore ways to appropriately fund the EU promotion policy, while the Commission's draft budget for 2027 proposes significant cuts thereto. Furthermore, in light of the second EC Annual Report on Simplification, Implementation and Enforcement, the Commissioner will take stock of past achievements, such as the CAP simplification package, and the next steps exemplified by the Food and Feed Omnibus. Agenda and documents for the meeting of 4-5 November 2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20261027CAN79809
+
+---
+
+## Highlights - New strategic approach to research and innovation for agri-food - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:34:12 GMT
+
+On 4 November 2026, Members will exchange on the Commission’s new strategy for research and innovation in agriculture, forestry, rural areas and food systems. This new approach is intended to bring research closer to farmers and help innovation reach the market faster. It will be implemented through the Horizon Europe 2028-2034 programme, and the European Competitiveness Fund. Agenda and documents for the meeting of 4-5 November 2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20261027CAN79808
+
+---
+
+## Hearings - Women’s Leadership – Shaping the change and inspiring the next generation of leaders - 04-11-2026 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Tue, 27 Oct 2026 13:22:35 GMT
+
+As part of the EP annual Gender Equality Week, young women active in farming and business in
+rural areas of Germany and Ireland will share their experiences and the challenges they must overcome. An FAO representative will take part in the discussion in the context of “UN International Year of the Woman Farmer”. Location : SPAAK 3C050 Programme Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20261027CHE14494
+
+---
+
+## Newsletters - November 2026 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Tue, 27 Oct 2026 10:44:15 GMT
+
+AGRI Newsletter 4-5 November 2026 Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20261027CNW21534
+
+---
+
+## At a Glance - At a glance note for the Research for the AGRI Committee: The Multiannual Financial Framework and the Common Agricultural Policy for the period 2028-2034: The new CAP architecture and its potential impacts on EU farm viability - PE 783.512 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Thu, 22 Oct 2026 22:00:00 GMT
+
+The study prepared at the request of the European Parliament’s Committee on Agriculture and Rural Development (AGRI), assesses the potential implications of the proposed 2028-2034 Multiannual Financial Framework and Common Agricultural Policy reforms for EU farm viability. It examines budgetary changes, income support reforms, environmental measures and resilience instruments, evaluating their likely effects across farm types, farm sizes and Member States, with particular attention to vulnerable farming sectors and regions. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/RegData/etudes/ATAG/2026/783512/CASP_ATA(2026)783512_EN.pdf
+
+---
+
+## Draft agenda - Wednesday, 4 November 2026 - Thursday, 5 November 2026 - PE797.425v01-00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Thu, 22 Oct 2026 11:50:02 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-OJ-2026-11-04-1_EN.html
+
+---
+
+## Study - Research for the AGRI Committee: The Multiannual Financial Framework and the Common Agricultural Policy for the period 2028-2034: The new CAP architecture and its potential impacts on EU farm viability - PE 783.511 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 21 Oct 2026 22:00:00 GMT
+
+This study prepared at the request of the European Parliament’s Committee on Agriculture and Rural Development (AGRI), assesses the potential implications of the proposed 2028-2034 Multiannual Financial Framework and Common Agricultural Policy reforms for EU farm viability. It examines budgetary changes, income support reforms, environmental measures and resilience instruments, evaluating their likely effects across farm types, farm sizes and Member States, with particular attention to vulnerable farming sectors and regions. Study : EN Executive summary : EN Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/RegData/etudes/STUD/2026/783511/CASP_STU(2026)783511_EN.pdf
+
+---
+
+## Minutes - Wednesday, 2 September 2026 - PE792.191v01-00 - Committee on Agriculture and Rural Development , Committee on the Environment, Public Health and Food Safety
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 21 Oct 2026 12:03:01 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/CJ14-PV-2026-09-02-1_EN.pdf
+
+---
+
+## Other events - Study presentation - 04-11-2026 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Mon, 19 Oct 2026 09:52:14 GMT
+
+On Wednesday 4 November 2026 at 15h15 during the AGRI committee meeting the Policy Department for Regional Development, Agriculture and Fisheries will present a new study entitled "The Multiannual Financial Framework and the Common Agricultural Policy for the period 2028-2034: The new CAP architecture and its potential impacts on EU farm viability". This study prepared at the request of the European Parliament’s Committee on Agriculture and Rural Development (AGRI), assesses the potential implications of the proposed 2028-2034 Multiannual Financial Framework and Common Agricultural Policy reforms for EU farm viability. It examines budgetary changes, income support reforms, environmental measures and resilience instruments, evaluating their likely effects across farm types, farm sizes and Member States, with particular attention to vulnerable farming sectors and regions. Location : SPAAK 3C50 Webstreaming and study Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20261019EOT09632
+
+---
+
+## Minutes - Wednesday, 2 September 2026 - Thursday, 3 September 2026 - PE792.192v01-00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Thu, 15 Oct 2026 11:13:10 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-PV-2026-09-02-1_EN.pdf
+
+---
+
+## Minutes - Monday, 28 September 2026 - PE796.243v01-00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Tue, 13 Oct 2026 10:23:00 GMT
+
+Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-PV-2026-09-28-1_EN.pdf
+
+---
+
 ## Food and veterinary audits : programme 2027
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -642,6 +2347,30 @@ This document provides the programme of audits and other controls on food and fe
 
 ---
 
+## REPORT on the implementation of the EU agri-food promotion policy - A10-0269/2026
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Mon, 12 Oct 2026 07:33:02 GMT
+
+REPORT on the implementation of the EU agri-food promotion policy Committee on Agriculture and Rural Development Salvatore De Meo Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/A-10-2026-0269_EN.html
+
+---
+
+## MISSION REPORT following the mission of the AGRI Committee to Occitanie, France - PE796.428v01-00
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Fri, 09 Oct 2026 09:48:04 GMT
+
+MISSION REPORT following the mission of the AGRI Committee to Occitanie, France Committee on Agriculture and Rural Development Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/doceo/document/AGRI-CR-796428_EN.pdf
+
+---
+
 ## Monitoring the nutrition quality of Europe’s food offer : insights on gaps and opportunities for food reformulation
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -651,6 +2380,42 @@ This document provides the programme of audits and other controls on food and fe
 Food reformulation policies for healthier food and beverage products available to consumers are considered among the most cost-effective actions to reduce unhealthy diets. Through different EU-funded programs (EUREMO, and Joint Actions Best-ReMaP and JANPA), several European countries were able to access funding and share best practices to support the harmonized collection of data from packaged foods and beverages. This harmonised data is hosted in the Food and Beverages Labels Explorer (FABLE), created by the Joint Research Centre, and is displayed in an interactive and intuitive way for policy makers, researchers, and the public. This report presents the results of the analysis of the European food-offer across five priority categories (breakfast cereals, bread products, fresh dairy & desserts, delicatessen meats and soft drinks) across 21 European countries. Our findings show that reformulation is both possible and urgently needed, with wide country-to-country variations in nutrient content and many sub-categories displaying large distributions of sugars, fats, salt and fibre. The evidence directly supports EU policy levers - targeted reformulation incentives, updated nutrient benchmarks, and enhanced FABLE-based monitoring - to accelerate healthier product portfolios and reduce diet-related disease burden.
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/d737205f-c14e-11f1-988f-01aa75ed71a1/language-en
+
+---
+
+## Video of a committee meeting - Monday, 5 October 2026 - 18:00 - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Mon, 05 Oct 2026 18:27:32 GMT
+
+Length of video : 15' Disclaimer : The interpretation of debates serves to facilitate communication and does not constitute an authentic record of proceedings. Only the original speech or the revised written translation is authentic. Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://multimedia.europarl.europa.eu/en/committees_20261005-2000-COMMITTEE-AGRI_vd
+
+---
+
+## Press release - Highlights of the next AGRI meeting
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Fri, 02 Oct 2026 11:33:00 GMT
+
+Committee on Agriculture and Rural Development (AGRI) to meet on Monday 5 October from 8:00 to 9:00 pm in Strasbourg Committee on Agriculture and Rural Development Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/news/en/press-room/20261002IPR47878/
+
+---
+
+## Highlights - Votes: EU agri-food promotion policy - Committee on Agriculture and Rural Development
+
+**Bron:** Europees Parlement - AGRI
+
+**Gepubliceerd:** Wed, 30 Sep 2026 15:05:16 GMT
+
+On 5 October 2026, the AGRI Committee will be voting on the report on the EU agri-food promotion policy (rapporteur Salvatore De Meo). Source : © European Union, 2026 - EP
+
+**Originele publicatie:** https://www.europarl.europa.eu/committees/en/product/product-details/20260930CAN79696
 
 ---
 
