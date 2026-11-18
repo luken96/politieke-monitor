@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-18T11:43:59.708800+00:00
+Laatste update: 2026-11-18T12:46:35.686753+00:00
 
 ## Digitale registratie gebruik van gewasbeschermingsmiddelen vanaf 1 januari 2027 verplicht
 
@@ -95,6 +95,18 @@ Member State authorities and key stakeholders will discuss challenges and best p
 Auction results EU-Bills.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-18-11-2026-auction-eu-bills-2026-11-18_en
+
+---
+
+## Announcement of next auction (EU-Bonds) on 23-11-2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+Auction announcement EU-Bonds.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bonds-23-11-2026-2026-11-18_en
 
 ---
 
@@ -483,18 +495,6 @@ A new Commission study, published on 5 November, identifies practical ways to im
 New statement from the Commission’s Ethical and Scientific advisors recognises promise of AI, but warns against weakening existing safeguards.
 
 **Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ai-requires-rigorous-safeguards-and-rules-keep-pace-technological-advances-experts-tell-european-2026-11-16_en
-
----
-
-## Translating Europe Forum 2026: Language professionals matter!
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Discover the key takeaways and highlights from #2026TEF.
-
-**Originele publicatie:** https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en
 
 ---
 
