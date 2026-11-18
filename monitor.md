@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-18T10:46:04.473124+00:00
+Laatste update: 2026-11-18T11:43:59.708800+00:00
 
 ## Digitale registratie gebruik van gewasbeschermingsmiddelen vanaf 1 januari 2027 verplicht
 
@@ -50,7 +50,7 @@ The OceanEye International Alliance for the Global Ocean Observing System (GOOS)
 
 ---
 
-## Extension of CBAM to Norway and Iceland
+## Extension of CBAM to Iceland and Norway
 
 **Bron:** Europese Commissie
 
@@ -58,7 +58,43 @@ The OceanEye International Alliance for the Global Ocean Observing System (GOOS)
 
 CBAM will be extended to Norway and Iceland following the entry into force of the EEA Joint Committee Decision. As of 1 January 2027, CBAM will apply in Norway and Iceland to goods imported into their customs territories, in the same way that it applies to goods entering the EU customs territory.
 
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/extension-cbam-norway-and-iceland-2026-11-18_en
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en
+
+---
+
+## Commission invites public to shape new carbon storage certification for buildings
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en
+
+---
+
+## Second structured dialogue on managing Great Cormorant conflicts
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+Member State authorities and key stakeholders will discuss challenges and best practices related to large waterbirds.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/second-structured-dialogue-managing-great-cormorant-conflicts-2026-11-18_en
+
+---
+
+## Results of 18-11-2026 auction (EU-Bills)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+Auction results EU-Bills.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-18-11-2026-auction-eu-bills-2026-11-18_en
 
 ---
 
@@ -266,6 +302,18 @@ The European Commission has approved, under EU State aid rules, a €9.5 billion
 
 ---
 
+## Commission approves amended German State aid schemes for energy-intensive companies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under CISAF and METSAF
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
+
+---
+
 ## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
 
 **Bron:** Rijksoverheid Nieuws
@@ -450,30 +498,6 @@ Discover the key takeaways and highlights from #2026TEF.
 
 ---
 
-## Commission unconditionally approves UniCredit's acquisition of Commerzbank
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by UniCredit of Commerzbank. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA').
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en
-
----
-
-## Commissioner Šuica in Syria for discussions on recovery and investments
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Tomorrow, Commissioner for the Mediterranean Dubravka Šuica will be in Damascus for her second visit to Syria since the fall of the Assad regime. During her visit, she will co-chair the Syria Partnership Cooperation Forum (SPCF).
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commissioner-suica-syria-discussions-recovery-and-investments-2026-11-16_en
-
----
-
 ## Vogelgriep vastgesteld in Oosterwolde (Gelderland)
 
 **Bron:** Rijksoverheid Nieuws
@@ -555,30 +579,6 @@ De adviescommissie Duurzaam corporatiestelsel gaat onderzoeken hoe de financiël
 De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar en 3 maanden. Dat schrijft minister Hans Vijlbrief van Sociale Zaken en Werkgelegenheid aan de Tweede Kamer.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/aow-leeftijd-stijgt-niet-in-2032
-
----
-
-## Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en
-
----
-
-## Commission assesses Poland’s 2030 National Energy and Climate Plan, welcomes its ambition and encourages full implementation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 13 Nov 2026 00:00:00 +0100
-
-The Commission today published its assessment of Poland’s final updated National Energy and Climate Plan (NECP), acknowledging Poland’s increased ambition compared to its draft plan
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-assesses-polands-2030-necp-2026-11-13_en
 
 ---
 
