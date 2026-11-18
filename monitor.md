@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-18T15:43:47.330029+00:00
+Laatste update: 2026-11-18T16:48:08.016677+00:00
 
 ## Kabinet investeert in technisch talent in partnerlanden
 
@@ -38,18 +38,6 @@ Het kabinet wil dat ondernemers de aangifte omzetbelasting zelf direct én digit
 
 ---
 
-## OceanEye International Alliance gets bigger at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-The OceanEye International Alliance for the Global Ocean Observing System (GOOS) gained further international support at COP31, with new countries and organisations joining the initiative and announcing commitments to strengthen global ocean observation.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/oceaneye-international-alliance-gets-bigger-cop31-2026-11-18_en
-
----
-
 ## EU endorses Global Electrification Pledge at COP31
 
 **Bron:** Europese Commissie
@@ -74,15 +62,27 @@ CBAM will be extended to Norway and Iceland following the entry into force of th
 
 ---
 
-## Announcement of next auction (EU-Bonds) on 23-11-2026
+## Commission invites public to shape new carbon storage certification for buildings
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
 
-Auction announcement EU-Bonds.
+The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bonds-23-11-2026-2026-11-18_en
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en
+
+---
+
+## OceanEye International Alliance gets bigger at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The OceanEye International Alliance for the Global Ocean Observing System (GOOS) gained further international support at COP31, with new countries and organisations joining the initiative and announcing commitments to strengthen global ocean observation.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/oceaneye-international-alliance-gets-bigger-cop31-2026-11-18_en
 
 ---
 
@@ -98,27 +98,27 @@ Today, Commissioner Maria Luís Albuquerque hosts the first of two events to rai
 
 ---
 
-## Commissioner Jørgensen in Poland to discuss energy and housing priorities
+## Announcement of next auction (EU-Bonds) on 23-11-2026
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
 
-From tomorrow until Monday, Commissioner for Energy and Housing Dan Jørgensen will be in Warsaw and Gdańsk, Poland, to discuss with Polish decision makers and stakeholders about two key priorities for European citizens: affordable, secure and clean energy, and access to affordable housing.
+Auction announcement EU-Bonds.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-poland-discuss-energy-and-housing-priorities-2026-11-18_en
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bonds-23-11-2026-2026-11-18_en
 
 ---
 
-## Commission invites public to shape new carbon storage certification for buildings
+## EDF D-STORM project launches first open call for cascade funding
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
 
-The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.
+The project is developing affordable and scalable tactical munitions and associated operational concepts.
 
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-d-storm-project-launches-first-open-call-cascade-funding-2026-11-18_en
 
 ---
 
@@ -146,15 +146,15 @@ Member State authorities and key stakeholders will discuss challenges and best p
 
 ---
 
-## EDF D-STORM project launches first open call for cascade funding
+## Commissioner Jørgensen in Poland to discuss energy and housing priorities
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
 
-The project is developing affordable and scalable tactical munitions and associated operational concepts.
+From tomorrow until Monday, Commissioner for Energy and Housing Dan Jørgensen will be in Warsaw and Gdańsk, Poland, to discuss with Polish decision makers and stakeholders about two key priorities for European citizens: affordable, secure and clean energy, and access to affordable housing.
 
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-d-storm-project-launches-first-open-call-cascade-funding-2026-11-18_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-poland-discuss-energy-and-housing-priorities-2026-11-18_en
 
 ---
 
@@ -218,39 +218,15 @@ Na de Tweede Kamer heeft vandaag ook de Eerste Kamer groen licht gegeven voor de
 
 ---
 
-## EU advances Syrian recovery and reconstruction through Syria Partnership Coordination Forum in Damascus
+## Marine Weather Intelligence: Bringing ocean racing knowledge to commercial shipping
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
 
-Today, the Syria Partnership Coordination Forum (SPCF) convened in Damascus for the first time to advance Syria's recovery and reconstruction, showcase investment opportunities and agree on concrete steps forward.
+What if the tools that guide yachts in offshore worldwide sailing races could help commercial ships save fuel and avoid costly delays? This is the idea behind Marine Weather Intelligence (MWI), a French company founded in 2023 and supported by BlueInvest, the EU’s innovation and investment platform
 
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-advances-syrian-recovery-and-reconstruction-through-syria-partnership-coordination-forum-damascus-2026-11-17_en
-
----
-
-## Commission approves amended German State aid schemes for energy-intensive companies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the CISAF and METSAF.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
-
----
-
-## In focus: Industrial carbon management – how it works and why we need it
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for  the EU to become the world’s first climate-neutral continent by 2050.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en
 
 ---
 
@@ -263,18 +239,6 @@ Industrial carbon management is not a replacement for clean energy technologies.
 The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
-
----
-
-## Marine Weather Intelligence: Bringing ocean racing knowledge to commercial shipping
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-What if the tools that guide yachts in offshore worldwide sailing races could help commercial ships save fuel and avoid costly delays? This is the idea behind Marine Weather Intelligence (MWI), a French company founded in 2023 and supported by BlueInvest, the EU’s innovation and investment platform
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en
 
 ---
 
@@ -326,6 +290,30 @@ Today, Executive Vice-President for Prosperity and Industrial Strategy Stéphane
 
 ---
 
+## EU advances Syrian recovery and reconstruction through Syria Partnership Coordination Forum in Damascus
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Today, the Syria Partnership Coordination Forum (SPCF) convened in Damascus for the first time to advance Syria's recovery and reconstruction, showcase investment opportunities and agree on concrete steps forward.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-advances-syrian-recovery-and-reconstruction-through-syria-partnership-coordination-forum-damascus-2026-11-17_en
+
+---
+
+## Commission approves amended German State aid schemes for energy-intensive companies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the CISAF and METSAF.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
+
+---
+
 ## Seventh meeting of the Digital Markets Act High-Level Group
 
 **Bron:** Europese Commissie
@@ -335,18 +323,6 @@ Today, Executive Vice-President for Prosperity and Industrial Strategy Stéphane
 Today, the High-Level Group for the Digital Markets Act (High-Level Group) convened for its seventh Plenary meeting in Brussels.
 
 **Originele publicatie:** https://digital-markets-act.ec.europa.eu/seventh-meeting-digital-markets-act-high-level-group-2026-11-17_en
-
----
-
-## NEAFC endorses stronger fisheries control and conservation measures, but overfishing persists despite EU efforts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The EU welcomes the outcome of this year’s 45th North-East Atlantic Fisheries Commission (NEAFC) annual meeting. During this year’s negotiations, positive cooperation with like-minded partners led to concrete results on important issues for the EU.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en
 
 ---
 
@@ -371,6 +347,30 @@ The European Commission has approved, under EU State aid rules, a €9.5 billion
 The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under CISAF and METSAF
 
 **Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
+
+---
+
+## NEAFC endorses stronger fisheries control and conservation measures, but overfishing persists despite EU efforts
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+The EU welcomes the outcome of this year’s 45th North-East Atlantic Fisheries Commission (NEAFC) annual meeting. During this year’s negotiations, positive cooperation with like-minded partners led to concrete results on important issues for the EU.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en
+
+---
+
+## In focus: Industrial carbon management – how it works and why we need it
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
+
+Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for  the EU to become the world’s first climate-neutral continent by 2050.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en
 
 ---
 
@@ -426,39 +426,27 @@ Bij het verlenen van een werk- en verblijfsvergunning wordt voortaan getoetst of
 
 ---
 
-## Commission imposes anti-dumping duties on certain cold-rolled flat steel products
+## Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam.
+High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya.
 
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en
 
 ---
 
-## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
+## Commission publishes technical guidance to support implementation of the Digital Product Passport Registry
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
+A complete set of technical documentation is now available to help organisations prepare their systems for the EU Digital Product Passport (DPP) Registry.
 
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
-
----
-
-## Commissioner Šuica in Syria for discussions on recovery and investments
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Tomorrow, Commissioner for the Mediterranean Dubravka Šuica will be in Damascus for her second visit to Syria since the fall of the Assad regime. During her visit, she will co-chair the Syria Partnership Cooperation Forum (SPCF).
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/commissioner-suica-syria-discussions-recovery-and-investments-2026-11-16_en
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en
 
 ---
 
@@ -498,15 +486,27 @@ Implementing Regulation published today specifies the rules
 
 ---
 
-## Commission unconditionally approves UniCredit's acquisition of Commerzbank
+## Commission imposes anti-dumping duties on certain cold-rolled flat steel products
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
 
-The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by UniCredit of Commerzbank. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA').
+Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam.
 
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en
+
+---
+
+## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
+
+The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
 
 ---
 
@@ -726,7 +726,17 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
-## Media advisory - EU-United Kingdom summit
+## EU-Indonesia: Council greenlights signature of landmark trade and investment agreements
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has authorised the signature and provisional application of the EU-Indonesia comprehensive economic partnership agreement (CEPA) and the investment protection agreement (IPA).
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/eu-indonesia-council-greenlights-signature-of-landmark-trade-and-investment-agreements/
+
+---
+
+## Media advisory - EU-United Kingdom summit of 20 November 2026
 
 **Bron:** Raad van de EU - Persberichten
 
@@ -913,16 +923,6 @@ Overview of the main subjects to be discussed at meetings of the Council of the 
 Main agenda items, approximate timing, public sessions and press opportunities.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/media-advisory-foreign-affairs-council-of-16-november-2026/
-
----
-
-## Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council reached a provisional agreement with the European Parliament on increasing free carbon allowances for industry sectors falling under the ETS heat and fuel benchmarks from 2026 to 2030.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/
 
 ---
 
