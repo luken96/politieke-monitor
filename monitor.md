@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-18T20:40:05.136782+00:00
+Laatste update: 2026-11-18T21:39:27.976814+00:00
 
 ## Kabinet investeert in technisch talent in partnerlanden
 
