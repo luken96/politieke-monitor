@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-19T12:49:15.660217+00:00
+Laatste update: 2026-11-19T14:04:35.038782+00:00
 
 ## Werkagenda voor het Koninkrijk moet leiden tot concrete resultaten voor inwoners
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Equipping Europeans for the age of AI: Council approves conclusions
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has approved conclusions highlighting the need for citizens at all stages of life to be equipped with the skills and competences to engage critically and responsibly with artificial intelligence.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/equipping-europeans-for-the-age-of-ai-council-approves-conclusions/
+
+---
+
 ## Internal market for services: Council adopts regulation on the e-declaration of posted workers
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ The Council adopted restrictive measures against 30 individuals and one entity r
 The Council has added one individual and one entity to the sanctions list against Hamas and the Palestinian Islamic Jihad, for their role in financing Hamas.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/hamas-and-the-palestinian-islamic-jihad-eu-adds-one-entity-and-its-founder-to-the-sanctions-list/
-
----
-
-## Ukraine Facility: Council approves largest-ever payment of €8 billion to Kyiv
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council approved a record payment of just under €8 billion for Ukraine under the Ukraine Facility, following Ukraine’s successful completion of over 20 target steps under the Ukraine Plan.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-facility-council-approves-largest-ever-payment-of-8-billion-to-kyiv/
 
 ---
 
