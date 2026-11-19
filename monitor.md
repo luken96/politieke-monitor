@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-19T21:37:12.624241+00:00
+Laatste update: 2026-11-19T22:36:04.921797+00:00
 
 ## Defensie sluit contracten met ruim 10 bedrijven
 
