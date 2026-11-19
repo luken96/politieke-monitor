@@ -1,6 +1,54 @@
 # Politieke monitor
 
-Laatste update: 2026-11-19T08:08:05.022154+00:00
+Laatste update: 2026-11-19T09:46:37.987643+00:00
+
+## Kabinet trekt extra geld uit voor agrarisch natuurbeheer
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 19 Nov 2026 09:00:00 GMT
+
+Het kabinet breidt de inzet op agrarisch natuurbeheer uit. Het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) trekt 1,2 miljard euro extra uit voor agrarisch natuurbeheer tot 2035. Het versterken van het agrarisch...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/kabinet-trekt-extra-geld-uit-voor-agrarisch-natuurbeheer
+
+---
+
+## Nieuw programma moet innovatie en opschaling defensie-industrie versnellen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 19 Nov 2026 09:00:00 GMT
+
+Op eigen kracht kunnen bouwen en vertrouwen. Met de voortdurende machtsverschuivingen is dat belangrijker dan ooit. Om dat in de praktijk te brengen, moet de Nederlandse industrie sneller innoveren en meer produceren waardoor de afhankelijkheid...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/nieuw-programma-moet-innovatie-en-opschaling-defensie-industrie-versnellen
+
+---
+
+## EU and Jordan advance strategic partnership backed by €3 billion to boost investment, create jobs and strengthen regional stability
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+Today, European Commission President Ursula von der Leyen and Commissioner for the Mediterranean Dubravka Šuica took part in the EU-Jordan Investment Conference at the Dead Sea. Alongside His Majesty King Abdullah II bin Al-Hussein, President von der Leyen witnessed the signing of agreements to...
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-jordan-advance-strategic-partnership-backed-eur3-billion-boost-investment-create-jobs-and-2026-11-19_en
+
+---
+
+## EU and Jordan launch negotiations for a Sustainable Investment Facilitation Agreement
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+Today, at the EU-Jordan Investment Conference, European Commission President Ursula von der Leyen and the King of Jordan, Abdullah II bin Al-Hussein, announced the launch of negotiations between the EU and Jordan for a Sustainable Investment Facilitation Agreement (SIFA).
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-jordan-launch-negotiations-sustainable-investment-facilitation-agreement-2026-11-19_en
+
+---
 
 ## Kabinet investeert in technisch talent in partnerlanden
 
@@ -59,18 +107,6 @@ The European Union has endorsed the 35-by-35 Global Electrification Pledge at th
 CBAM will be extended to Norway and Iceland following the entry into force of the EEA Joint Committee Decision. As of 1 January 2027, CBAM will apply in Norway and Iceland to goods imported into their customs territories, in the same way that it applies to goods entering the EU customs territory.
 
 **Originele publicatie:** https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en
-
----
-
-## Commission invites public to shape new carbon storage certification for buildings
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en
 
 ---
 
@@ -155,6 +191,54 @@ Member State authorities and key stakeholders will discuss challenges and best p
 From tomorrow until Monday, Commissioner for Energy and Housing Dan Jørgensen will be in Warsaw and Gdańsk, Poland, to discuss with Polish decision makers and stakeholders about two key priorities for European citizens: affordable, secure and clean energy, and access to affordable housing.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-poland-discuss-energy-and-housing-priorities-2026-11-18_en
+
+---
+
+## European Commission signs €25 million contribution agreement for the Fund for responding to Loss and Damage at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The European Commission announced today that it has signed a €25 million Contribution Agreement to the Fund for responding to Loss and Damage (FRLD) on the margins of COP31 in Antalya, Türkiye.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/european-commission-signs-eur25-million-contribution-agreement-fund-responding-loss-and-damage-cop31-2026-11-18_en
+
+---
+
+## Commission proposes €45 billion in additional financial support for Ukraine in 2027
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+Today, the European Commission adopted a set of legislative proposals to provide up to €45 billion in additional financial support to Ukraine in 2027, helping to address the country's estimated €70 billion financing gap for next year.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en
+
+---
+
+## Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-welcomes-political-agreement-faster-and-simpler-permitting-grids-clean-energy-projects-2026-11-18_en
+
+---
+
+## Commission invites public to shape new carbon storage certification for buildings
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en
 
 ---
 
@@ -450,66 +534,6 @@ A complete set of technical documentation is now available to help organisations
 
 ---
 
-## Ministers from EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Today, the High Representative for Foreign Affairs and Security Policy/Vice-President of the European Commission Kaja Kallas, Commissioner for Enlargement Marta Kos, and Commissioner for International Partnerships Jozef Síkela hosted representatives from the EU, the Black Sea region, the South...
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/ministers-eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-cross-regional-security-2026-11-16_en
-
----
-
-## Moving abroad for work? What women need to know before they go
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Female employment has soared, but the gender gap persists – and it looks different in every EU country. Here’s what to check about pay, childcare and working conditions before you pack your bags.
-
-**Originele publicatie:** https://eures.europa.eu/moving-abroad-work-what-women-need-know-they-go-2026-11-16_en
-
----
-
-## CBAM: Commission adopts rules on the recognition of carbon prices paid in non-EU countries
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Implementing Regulation published today specifies the rules
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/cbam-commission-adopts-rules-recognition-carbon-prices-paid-non-eu-countries-2026-11-16_en
-
----
-
-## Commission imposes anti-dumping duties on certain cold-rolled flat steel products
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en
-
----
-
-## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
-
----
-
 ## Vogelgriep vastgesteld in Oosterwolde (Gelderland)
 
 **Bron:** Rijksoverheid Nieuws
@@ -579,30 +603,6 @@ José Lazeroms wordt directeur-generaal Rijksdienst voor Ondernemend Nederland (
 De adviescommissie Duurzaam corporatiestelsel gaat onderzoeken hoe de financiële situatie van woningcorporaties op de lange termijn versterkt kan worden. In 2027 brengt de commissie advies uit aan het kabinet. De ministerraad heeft ingestemd met...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/commissie-onderzoekt-verbetering-financien-woningcorporaties
-
----
-
-## AOW-leeftijd stijgt niet in 2032
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 13 Nov 2026 09:00:00 GMT
-
-De leeftijd waarop mensen AOW ontvangen blijft in 2032 ongewijzigd op 67 jaar en 3 maanden. Dat schrijft minister Hans Vijlbrief van Sociale Zaken en Werkgelegenheid aan de Tweede Kamer.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/aow-leeftijd-stijgt-niet-in-2032
-
----
-
-## Vogelgriep vastgesteld in Hierden
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 11 Nov 2026 15:51:00 GMT
-
-In Hierden (gemeente Harderwijk, provincie Gelderland) is opnieuw vogelgriep vastgesteld. Het gaat nu om een besmetting bij een vermeerderingsbedrijf voor eenden. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw,...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/11/vogelgriep-vastgesteld-in-hierden
 
 ---
 
@@ -723,6 +723,56 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Internal market for services: Council adopts regulation on the e-declaration of posted workers
+
+**Bron:** Raad van de EU - Persberichten
+
+Council gives its final approval to the regulation on the e-declaration of posted workers.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/internal-market-for-services-council-adopts-regulation-on-the-e-declaration-of-posted-workers/
+
+---
+
+## Council calls for action to empower young people in an evolving information environment
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has approved conclusions aimed at empowering young people in an evolving information environment.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/council-calls-for-action-to-empower-young-people-in-an-evolving-information-environment/
+
+---
+
+## Council greenlights new EU rules to protect vulnerable adults
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council today formally adopted rules ensuring that adults in need of support with decision-making are better protected in cross-border situations when it comes to medical care, managing property and moving to another country.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/council-greenlights-new-eu-rules-to-protect-vulnerable-adults/
+
+---
+
+## Simplification: Council signs off on new law simplifying and streamlining rules on chemical products
+
+**Bron:** Raad van de EU - Persberichten
+
+Council signs off on new law simplifying and streamlining rules on chemical products.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/simplification-council-signs-off-on-new-law-simplifying-and-streamlining-rules-on-chemical-products/
+
+---
+
+## Eurogroup President Pierrakakis' report to the President of the Euro Summit
+
+**Bron:** Raad van de EU - Persberichten
+
+The President of the Eurogroup, Kyriakos Pierrakakis, has sent a letter to the President of the Euro Summit, António Costa, to report on the recent work by the Eurogroup and upcoming work priorities.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/eurogroup-president-pierrakakis-report-to-the-president-of-the-euro-summit/
 
 ---
 
@@ -873,56 +923,6 @@ The Council has added one individual and one entity to the sanctions list agains
 The Council approved a record payment of just under €8 billion for Ukraine under the Ukraine Facility, following Ukraine’s successful completion of over 20 target steps under the Ukraine Plan.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-facility-council-approves-largest-ever-payment-of-8-billion-to-kyiv/
-
----
-
-## European Peace Facility: Council increases support for maritime security in the Gulf of Guinea to €31 million
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council increased financial support through the European Peace Facility (EPF) from €21 million to €31 million, benefitting military actors and navies of coastal states involved in maritime security operations in the Gulf of Guinea.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/european-peace-facility-council-increases-support-for-maritime-security-in-the-gulf-of-guinea-to-31-million/
-
----
-
-## ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza
-
-**Bron:** Raad van de EU - Persberichten
-
-The High Representative issued a statement on behalf of the European Union on the humanitarian developments in Gaza.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/israelpalestine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-humanitarian-developments-in-gaza/
-
----
-
-## Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-During the press conference held after at the end of the informal meeting of Heads of State or Government of 13 November 2026, President António Costa presented the main results of the discussions on artificial intelligence and Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/
-
----
-
-## Weekly schedule of President António Costa
-
-**Bron:** Raad van de EU - Persberichten
-
-Weekly schedule of President António Costa, 16-22 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/weekly-schedule-of-president-antonio-costa/
-
----
-
-## Forward look: 16 - 29 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/forward-look-2026/
 
 ---
 
