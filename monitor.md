@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-19T11:42:57.340335+00:00
+Laatste update: 2026-11-19T12:49:15.660217+00:00
 
 ## Werkagenda voor het Koninkrijk moet leiden tot concrete resultaten voor inwoners
 
