@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-19T14:04:35.038782+00:00
+Laatste update: 2026-11-19T15:44:06.540360+00:00
+
+## IBO-onderzoek: het lukt de overheid om ouderen een goed inkomen te geven
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 19 Nov 2026 15:30:00 GMT
+
+Nederland slaagt er grotendeels in om armoede bij ouderen te voorkomen. Ouderen hebben een goede inkomenspositie. Wel wordt de uitvoering van de AOW in de toekomst ingewikkelder. Deze conclusies staan in het Interdepartementale Beleidsonderzoek...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/ibo-onderzoek-het-lukt-de-overheid-om-ouderen-een-goed-inkomen-te-geven
+
+---
 
 ## Werkagenda voor het Koninkrijk moet leiden tot concrete resultaten voor inwoners
 
@@ -11,6 +23,18 @@ Laatste update: 2026-11-19T14:04:35.038782+00:00
 Een werkagenda met concrete samenwerkingsafspraken tussen de regeringen van de vier landen in het belang van de inwoners. En de afspraak om elkaar jaarlijks te ontmoeten in de vorm van een Kingdom Summit of Koninkrijksconferentie. Dat is de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/werkagenda-voor-het-koninkrijk-moet-leiden-tot-concrete-resultaten-voor-inwoners
+
+---
+
+## Nieuw programma moet innovatie en opschaling defensie-industrie versnellen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 19 Nov 2026 09:00:00 GMT
+
+Op eigen kracht kunnen bouwen en vertrouwen. Met de voortdurende machtsverschuivingen is dat belangrijker dan ooit. Om dat in de praktijk te brengen, moet de Nederlandse industrie sneller innoveren en meer produceren waardoor de afhankelijkheid...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/nieuw-programma-moet-innovatie-en-opschaling-defensie-industrie-versnellen
 
 ---
 
@@ -26,15 +50,111 @@ Het kabinet breidt de inzet op agrarisch natuurbeheer uit. Het ministerie van La
 
 ---
 
-## Nieuw programma moet innovatie en opschaling defensie-industrie versnellen
+## New EMN-OECD joint inform on drivers and policies to retain global talent
 
-**Bron:** Rijksoverheid Nieuws
+**Bron:** Europese Commissie
 
-**Gepubliceerd:** Thu, 19 Nov 2026 09:00:00 GMT
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
 
-Op eigen kracht kunnen bouwen en vertrouwen. Met de voortdurende machtsverschuivingen is dat belangrijker dan ooit. Om dat in de praktijk te brengen, moet de Nederlandse industrie sneller innoveren en meer produceren waardoor de afhankelijkheid...
+The latest EMN and OECD joint inform explores how EMN Member and Observer Countries approach the retention of global talent, covering the factors that support or hinder retention and the policies and practices introduced to support longer-term stay. Read more.
 
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/nieuw-programma-moet-innovatie-en-opschaling-defensie-industrie-versnellen
+**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-emn-oecd-joint-inform-drivers-and-policies-retain-global-talent-2026-11-19_en
+
+---
+
+## Commission adopts measures to restrict lead gunshot to protect health and environment
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+The new rules ban the use and sale of gunshot containing 1% lead or more to protect human health and the environment.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/commission-adopts-measures-restricting-lead-gunshot-2026-11-19_en
+
+---
+
+## EU and EIB announce €7.5 million grant to mobilise €130 million for green and digital investment in Jordan
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+EU and EIB announce €7.5 million grant to mobilise €130 million for green and digital investment in Jordan
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-eib-announce-eur75-million-grant-mobilise-eur130-million-green-and-digital-investment-jordan-2026-11-19_en
+
+---
+
+## EBRD supports green investment and trade in Jordan with EU and GCF backing
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+EBRD supports green investment and trade in Jordan with EU and GCF backing
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/ebrd-supports-green-investment-and-trade-jordan-eu-and-gcf-backing-2026-11-19_en
+
+---
+
+## November infringements package: key decisions on energy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+In the list of November infringements, there is one energy-related letter of formal notice and one reasoned opinion.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/november-infringements-package-key-decisions-energy-2026-11-19_en
+
+---
+
+## EU spending on electricity support measures reached €12 billion, as reliance grows
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+Secure electricity supply is key for European citizens and economy. As EU countries increasingly rely on support measures, cooperation and coordination between Member States on these measures is needed to deliver security of supply at the most affordable cost for consumers.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-spending-electricity-support-measures-reached-eur12-billion-reliance-grows-2026-11-19_en
+
+---
+
+## EBRD and EU back Jordan’s Aqaba Digital Hub
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+EBRD and EU back Jordan’s Aqaba Digital Hub
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/ebrd-and-eu-back-jordans-aqaba-digital-hub-2026-11-19_en
+
+---
+
+## Jordan: EU and EIB back flagship water system providing water for 11 million people from one of the world’s largest desalination plants
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+The European Investment Bank will support the Aqaba–Amman Water Desalination and Conveyance Project with a $400 million project finance loan backed by an EU guarantee, alongside its existing €300 million sovereign loan, a €97 million EU grant and a €30 million Dutch grant, both managed by the EIB.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/jordan-eu-and-eib-back-flagship-water-system-providing-water-11-million-people-one-worlds-largest-2026-11-19_en
+
+---
+
+## EU and EIB back Medusa to strengthen Mediterranean digital links and connect Jordan’s research community
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+A €11.1 million European Union grant, channelled through the EIB, will support the extension of the Medusa submarine cable system from its Egyptian landing point to Jordan, improving connectivity for research and education.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-eib-back-medusa-strengthen-mediterranean-digital-links-and-connect-jordans-research-community-2026-11-19_en
 
 ---
 
@@ -59,6 +179,54 @@ Today, European Commission President Ursula von der Leyen and Commissioner for t
 Today, at the EU-Jordan Investment Conference, European Commission President Ursula von der Leyen and the King of Jordan, Abdullah II bin Al-Hussein, announced the launch of negotiations between the EU and Jordan for a Sustainable Investment Facilitation Agreement (SIFA).
 
 **Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-jordan-launch-negotiations-sustainable-investment-facilitation-agreement-2026-11-19_en
+
+---
+
+## EBRD and EU strengthen Jordan’s water security
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+EBRD and EU strengthen Jordan’s water security
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/ebrd-and-eu-strengthen-jordans-water-security-2026-11-19_en
+
+---
+
+## COP31: EU submits second Biennial Transparency Report under Paris Agreement, and calls on others to follow
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+The European Union (EU) today published its second Biennial Transparency Report (BTR2) under the Paris Agreement.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-submits-second-biennial-transparency-report-under-paris-agreement-and-calls-others-follow-2026-11-19_en
+
+---
+
+## Co-legislators agree on a targeted amendment to Methane Regulation to ensure supply security amid energy crisis
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+This morning, the European Parliament and Council reached a provisional agreement on the amendment to the EU Methane Regulation to postpone by 2 years the application of certain requirements for natural gas, crude oil and coal importers and EU operators.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/co-legislators-agree-targeted-amendment-methane-regulation-ensure-supply-security-amid-energy-crisis-2026-11-19_en
+
+---
+
+## COP31: EU joins ‘Global SF6 Pledge’  to fight world’s most potent greenhouse gas
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
+
+Today, at COP31 in Antalya, the European Union joined the Global SF6 Pledge, an initiative launched by Germany to reduce global emissions from Sulphur Hexafluoride (SF6) in the power sector.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-joins-global-sf6-pledge-fight-worlds-most-potent-greenhouse-gas-2026-11-19_en
 
 ---
 
@@ -98,30 +266,6 @@ Het kabinet wil dat ondernemers de aangifte omzetbelasting zelf direct én digit
 
 ---
 
-## OceanEye International Alliance gets bigger at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-The OceanEye International Alliance for the Global Ocean Observing System (GOOS) gained further international support at COP31, with new countries and organisations joining the initiative and announcing commitments to strengthen global ocean observation.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/oceaneye-international-alliance-gets-bigger-cop31-2026-11-18_en
-
----
-
-## EU endorses Global Electrification Pledge at COP31
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-endorses-global-electrification-pledge-cop31-2026-11-18_en
-
----
-
 ## Results of 18-11-2026 auction (EU-Bills)
 
 **Bron:** Europese Commissie
@@ -131,54 +275,6 @@ The European Union has endorsed the 35-by-35 Global Electrification Pledge at th
 Auction results EU-Bills.
 
 **Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-18-11-2026-auction-eu-bills-2026-11-18_en
-
----
-
-## Announcement of next auction (EU-Bonds) on 23-11-2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-Auction announcement EU-Bonds.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bonds-23-11-2026-2026-11-18_en
-
----
-
-## Commissioner Albuquerque hosts high-level events to champion financial literacy across the EU
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-Today, Commissioner Maria Luís Albuquerque hosts the first of two events to raise awareness of the importance of financial literacy and empowering citizens to make sound financial decisions that will ultimately improve their well-being, financial security, and independence.
-
-**Originele publicatie:** https://finance.ec.europa.eu/news/commissioner-albuquerque-hosts-high-level-events-champion-financial-literacy-across-eu-2026-11-18_en
-
----
-
-## Extension of CBAM to Iceland and Norway
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-CBAM will be extended to Norway and Iceland following the entry into force of the EEA Joint Committee Decision. As of 1 January 2027, CBAM will apply in Norway and Iceland to goods imported into their customs territories, in the same way that it applies to goods entering the EU customs territory.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en
-
----
-
-## EDF D-STORM project launches first open call for cascade funding
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-The project is developing affordable and scalable tactical munitions and associated operational concepts.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-d-storm-project-launches-first-open-call-cascade-funding-2026-11-18_en
 
 ---
 
@@ -206,6 +302,78 @@ From tomorrow until Monday, Commissioner for Energy and Housing Dan Jørgensen w
 
 ---
 
+## European Commission signs €25 million contribution agreement for the Fund for responding to Loss and Damage at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The European Commission announced today that it has signed a €25 million Contribution Agreement to the Fund for responding to Loss and Damage (FRLD) on the margins of COP31 in Antalya, Türkiye.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/european-commission-signs-eur25-million-contribution-agreement-fund-responding-loss-and-damage-cop31-2026-11-18_en
+
+---
+
+## Extension of CBAM to Iceland and Norway
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+CBAM will be extended to Norway and Iceland following the entry into force of the EEA Joint Committee Decision. As of 1 January 2027, CBAM will apply in Norway and Iceland to goods imported into their customs territories, in the same way that it applies to goods entering the EU customs territory.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en
+
+---
+
+## OceanEye International Alliance gets bigger at COP31
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The OceanEye International Alliance for the Global Ocean Observing System (GOOS) gained further international support at COP31, with new countries and organisations joining the initiative and announcing commitments to strengthen global ocean observation.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/oceaneye-international-alliance-gets-bigger-cop31-2026-11-18_en
+
+---
+
+## Commissioner Albuquerque hosts high-level events to champion financial literacy across the EU
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+Today, Commissioner Maria Luís Albuquerque hosts the first of two events to raise awareness of the importance of financial literacy and empowering citizens to make sound financial decisions that will ultimately improve their well-being, financial security, and independence.
+
+**Originele publicatie:** https://finance.ec.europa.eu/news/commissioner-albuquerque-hosts-high-level-events-champion-financial-literacy-across-eu-2026-11-18_en
+
+---
+
+## Announcement of next auction (EU-Bonds) on 23-11-2026
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+Auction announcement EU-Bonds.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bonds-23-11-2026-2026-11-18_en
+
+---
+
+## EDF D-STORM project launches first open call for cascade funding
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
+
+The project is developing affordable and scalable tactical munitions and associated operational concepts.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-d-storm-project-launches-first-open-call-cascade-funding-2026-11-18_en
+
+---
+
 ## Commission proposes €45 billion in additional financial support for Ukraine in 2027
 
 **Bron:** Europese Commissie
@@ -218,15 +386,15 @@ Today, the European Commission adopted a set of legislative proposals to provide
 
 ---
 
-## European Commission signs €25 million contribution agreement for the Fund for responding to Loss and Damage at COP31
+## Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
 
-The European Commission announced today that it has signed a €25 million Contribution Agreement to the Fund for responding to Loss and Damage (FRLD) on the margins of COP31 in Antalya, Türkiye.
+The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.
 
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/european-commission-signs-eur25-million-contribution-agreement-fund-responding-loss-and-damage-cop31-2026-11-18_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/commission-welcomes-political-agreement-faster-and-simpler-permitting-grids-clean-energy-projects-2026-11-18_en
 
 ---
 
@@ -242,15 +410,15 @@ The Commission has launched a public consultation on a new methodology to certif
 
 ---
 
-## Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects
+## EU endorses Global Electrification Pledge at COP31
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
 
-The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.
+The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-welcomes-political-agreement-faster-and-simpler-permitting-grids-clean-energy-projects-2026-11-18_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-endorses-global-electrification-pledge-cop31-2026-11-18_en
 
 ---
 
@@ -338,138 +506,6 @@ The European Commission has approved, under EU State aid rules, Germany's amende
 
 ---
 
-## Commission approves €9.5 billion Dutch State aid to support offshore wind energy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
-
----
-
-## Marine Weather Intelligence: Bringing ocean racing knowledge to commercial shipping
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-What if the tools that guide yachts in offshore worldwide sailing races could help commercial ships save fuel and avoid costly delays? This is the idea behind Marine Weather Intelligence (MWI), a French company founded in 2023 and supported by BlueInvest, the EU’s innovation and investment platform
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en
-
----
-
-## 17 new projects, €119 million in action for restoring and protecting Europe’s ocean and waters
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The EU Mission Ocean and Waters has welcomed 17 new projects selected under the eight topics of the 2025 call ‘Supporting the implementation of the Restore our Ocean and Waters Mission’ (HORIZON-MISS-2025-03).
-
-**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/17-new-projects-eur119-million-action-restoring-and-protecting-europes-ocean-and-waters-2026-11-17_en
-
----
-
-## Commission adopts measures to restrict lead gunshot to protect health and the environment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-On 16 November 2026, the European Commission adopted new rules to better protect human health and the environment by restricting lead gunshot under the EU’s chemicals legislation, REACH.
-
-**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/commission-adopts-measures-restrict-lead-gunshot-protect-health-and-environment-2026-11-17_en
-
----
-
-## Executive Vice-President Séjourné and Commissioners Várhelyi, Kos and Síkela, and Brunner host Implementation Dialogues on SMEs, feed, the Trans-Caspian Transport Corridor and critical infrastructure resilience
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-Today, Executive Vice-President for Prosperity and Industrial Strategy Stéphane Séjourné will chair an Implementation Dialogue with businesses and industry representatives on the challenges and opportunities for small and medium-sized enterprises (SMEs) in strengthening SME financing...
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/executive-vice-president-sejourne-and-commissioners-varhelyi-kos-and-sikela-and-brunner-host-2026-11-17_en
-
----
-
-## NEAFC endorses stronger fisheries control and conservation measures, but overfishing persists despite EU efforts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The EU welcomes the outcome of this year’s 45th North-East Atlantic Fisheries Commission (NEAFC) annual meeting. During this year’s negotiations, positive cooperation with like-minded partners led to concrete results on important issues for the EU.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en
-
----
-
-## Seventh meeting of the Digital Markets Act High-Level Group
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-Today, the High-Level Group for the Digital Markets Act (High-Level Group) convened for its seventh Plenary meeting in Brussels.
-
-**Originele publicatie:** https://digital-markets-act.ec.europa.eu/seventh-meeting-digital-markets-act-high-level-group-2026-11-17_en
-
----
-
-## Commission approves €9.5 billion Dutch State aid to support offshore wind energy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en
-
----
-
-## Commission approves amended German State aid schemes for energy-intensive companies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under CISAF and METSAF
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en
-
----
-
-## In focus: Industrial carbon management – how it works and why we need it
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for  the EU to become the world’s first climate-neutral continent by 2050.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en
-
----
-
-## Autumn Economic Forecast: continued growth amid higher inflation
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 17 Nov 2026 00:00:00 +0100
-
-The Autumn 2026 Economic Forecast shows that the EU economy held up better than expected in the first three quarters of 2026. It is set to keep expanding, despite stronger and more persistent inflationary pressures and tighter financing conditions.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/autumn-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en
-
----
-
 ## Nederland en Europese partners werken samen met Rwanda aan een terugkeerhub
 
 **Bron:** Rijksoverheid Nieuws
@@ -522,30 +558,6 @@ Bij het verlenen van een werk- en verblijfsvergunning wordt voortaan getoetst of
 
 ---
 
-## Commission imposes anti-dumping duties on certain cold-rolled flat steel products
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam.
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en
-
----
-
-## Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 16 Nov 2026 00:00:00 +0100
-
-The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en
-
----
-
 ## Vogelgriep vastgesteld in Oosterwolde (Gelderland)
 
 **Bron:** Rijksoverheid Nieuws
@@ -591,18 +603,6 @@ De helmplicht tot 18 jaar voor jongeren op elektrische fietsen waaronder fatbike
 De ministerraad heeft op voorstel van minister Berendsen van Buitenlandse Zaken en staatssecretaris Van Bruggen van Justitie en Veiligheid ingestemd met de voordracht van kandidaten voor 2 functies in het Hof van Justitie van de Europese Unie.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/voordracht-kandidaten-hof-van-justitie-van-de-europese-unie
-
----
-
-## Benoeming directeur-generaal Rijksdienst voor Ondernemend Nederland (RVO)
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 13 Nov 2026 18:30:00 GMT
-
-José Lazeroms wordt directeur-generaal Rijksdienst voor Ondernemend Nederland (RVO) bij het ministerie van Economische Zaken en Klimaat. De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken en...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/13/benoeming-directeur-generaal-rvo-bij-ezk
 
 ---
 
