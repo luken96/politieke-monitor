@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-19T02:01:54.798787+00:00
+Laatste update: 2026-11-19T03:42:01.708982+00:00
 
 ## Kabinet investeert in technisch talent in partnerlanden
 
@@ -726,6 +726,16 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Methane regulation: EU agrees targeted amendment to safeguard security of supply
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council of the European Union and the European Parliament reached a provisional agreement on targeted amendments to the EU methane regulation.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/methane-regulation-eu-agrees-targeted-amendment-to-safeguard-security-of-supply/
+
+---
+
 ## EU-Indonesia: Council greenlights signature of landmark trade and investment agreements
 
 **Bron:** Raad van de EU - Persberichten
@@ -913,16 +923,6 @@ Weekly schedule of President António Costa, 16-22 November 2026.
 Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/forward-look-2026/
-
----
-
-## Media advisory - Foreign Affairs Council of 16 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing, public sessions and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/media-advisory-foreign-affairs-council-of-16-november-2026/
 
 ---
 
