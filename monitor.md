@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-20T10:46:39.238447+00:00
+Laatste update: 2026-11-20T11:43:11.741394+00:00
 
 ## Equal Pay Day: Would you work for free until next year?
 
@@ -38,6 +38,18 @@ Today, the European Union has endorsed the Antalya Compact for Energy Efficient 
 
 ---
 
+## EU bans plastic waste exports to non-OECD countries from November 21
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The restrictions will apply until at least 21 May 2029, after which those nations may apply to receive plastic waste from the EU.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/eu-bans-plastic-waste-exports-non-oecd-countries-2026-11-20_en
+
+---
+
 ## Ljubljiana and Calvià named  2027 European Capitals of Tourism
 
 **Bron:** Europese Commissie
@@ -47,6 +59,18 @@ Today, the European Union has endorsed the Antalya Compact for Energy Efficient 
 The Commission has named Ljubljiana and Calvià as the winners of the 2027 European Capitals of Tourism competitions, recognising their achievements in advancing smart and sustainable tourism.
 
 **Originele publicatie:** https://transport.ec.europa.eu/news-events/news/ljubljiana-and-calvia-named-2027-european-capitals-tourism-2026-11-20_en
+
+---
+
+## EU and Montenegro close accession negotiations on taxation and regional policy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+Today, the EU and Montenegro provisionally closed accession negotiations on taxation (chapter 16) and regional policy and coordination of structural instruments (chapter 22).
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-and-montenegro-close-accession-negotiations-taxation-and-regional-policy-2026-11-20_en
 
 ---
 
@@ -443,30 +467,6 @@ The project is developing affordable and scalable tactical munitions and associa
 The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.
 
 **Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en
-
----
-
-## Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commission-welcomes-political-agreement-faster-and-simpler-permitting-grids-clean-energy-projects-2026-11-18_en
-
----
-
-## Second structured dialogue on managing Great Cormorant conflicts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 18 Nov 2026 00:00:00 +0100
-
-Member State authorities and key stakeholders will discuss challenges and best practices related to large waterbirds.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/second-structured-dialogue-managing-great-cormorant-conflicts-2026-11-18_en
 
 ---
 
