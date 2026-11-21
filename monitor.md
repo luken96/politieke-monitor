@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-21T08:52:34.363012+00:00
+Laatste update: 2026-11-21T16:28:34.623723+00:00
 
 ## Vogelgriep vastgesteld in Collendoorn
 
@@ -11,6 +11,30 @@ Laatste update: 2026-11-21T08:52:34.363012+00:00
 In Collendoorn (gemeente Hardenberg, provincie Overijssel) is vogelgriep vastgesteld op een leghennenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/21/vogelgriep-vastgesteld-in-collendoorn
+
+---
+
+## EU and Indonesia sign ambitious trade and investment agreements
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Sat, 21 Nov 2026 00:00:00 +0100
+
+The European Union and Indonesia today signed their Comprehensive Economic Partnership Agreement (CEPA) and Investment Protection Agreement (IPA).
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-indonesia-sign-ambitious-trade-and-investment-agreements-2026-11-21_en
+
+---
+
+## EU and Indonesia sign trade and investment agreements
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Sat, 21 Nov 2026 00:00:00 +0100
+
+The EU and Indonesia have signed a Comprehensive Economic Partnership Agreement (CEPA) and an Investment Protection Agreement. The agreements will strengthen economic ties and encourage investment flows between the two economies.
+
+**Originele publicatie:** https://commission.europa.eu/topics/trade/eu-indonesia-trade-agreement_en
 
 ---
 
@@ -534,30 +558,6 @@ The new rules ban the use and sale of gunshot containing 1% lead or more to prot
 
 ---
 
-## EU and EIB announce €7.5 million grant to mobilise €130 million for green and digital investment in Jordan
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-EU and EIB announce €7.5 million grant to mobilise €130 million for green and digital investment in Jordan
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-eib-announce-eur75-million-grant-mobilise-eur130-million-green-and-digital-investment-jordan-2026-11-19_en
-
----
-
-## EBRD supports green investment and trade in Jordan with EU and GCF backing
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-EBRD supports green investment and trade in Jordan with EU and GCF backing
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/ebrd-supports-green-investment-and-trade-jordan-eu-and-gcf-backing-2026-11-19_en
-
----
-
 ## Kabinet investeert in technisch talent in partnerlanden
 
 **Bron:** Rijksoverheid Nieuws
@@ -723,6 +723,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Multiannual Financial Framework - President Costa’s proposal
+
+**Bron:** Raad van de EU - Persberichten
+
+President of the European Council, António Costa, presented his proposal to reach an agreement on the 2028-2034 Multiannual Financial Framework during a press conference on 21 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/21/multiannual-financial-framework-president-costa-s-proposal/
 
 ---
 
@@ -913,16 +923,6 @@ Council signs off on new law simplifying and streamlining rules on chemical prod
 The President of the Eurogroup, Kyriakos Pierrakakis, has sent a letter to the President of the Euro Summit, António Costa, to report on the recent work by the Eurogroup and upcoming work priorities.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/eurogroup-president-pierrakakis-report-to-the-president-of-the-euro-summit/
-
----
-
-## Methane regulation: EU agrees targeted amendment to safeguard security of supply
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council of the European Union and the European Parliament reached a provisional agreement on targeted amendments to the EU methane regulation.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/methane-regulation-eu-agrees-targeted-amendment-to-safeguard-security-of-supply/
 
 ---
 
