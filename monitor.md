@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-22T18:05:15.721682+00:00
+Laatste update: 2026-11-22T23:53:55.794597+00:00
 
 ## Vogelgriep vastgesteld in Collendoorn
 
@@ -930,16 +930,6 @@ The President of the Eurogroup, Kyriakos Pierrakakis, has sent a letter to the P
 
 **Bron:** Raad van de EU - Landbouw en Visserij
 
-Fisheries ministers will hold an exchange of views on the vision 2040 for fisheries and aquaculture. They will also discuss fishing opportunities for 2027 in the Atlantic and North Sea, as well as in the Mediterranean and Black Seas, following a presentation by the Commission of its two proposals. On agriculture, ministers will discuss the market situation, as a recurring item on the agenda of the Council following Russia’s war of aggression against Ukraine.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/11/23/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/12/14-15/
 
 ---
@@ -1411,6 +1401,16 @@ Agriculture and fisheries ministers met in Brussels on 25 July. They heard from 
 **Bron:** Raad van de EU - Landbouw en Visserij
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/07/17-18/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+Agriculture and Fisheries ministers discussed the progress made in implementing the Common Fisheries Policy and their priorities for fishing opportunities for 2024. They also exchanged views on the proposal for a regulation on the sustainable use of pesticides, and on trade-related agricultural issues. Ministers also received an update from the presidency on the state of play of current legislative proposals on geographical indications (GIs), the farm sustainability data network (FSDN), and labelling rules for organic pet food.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/06/26-27/
 
 ---
 
