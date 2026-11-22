@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-22T10:23:22.038320+00:00
+Laatste update: 2026-11-22T18:05:15.721682+00:00
 
 ## Vogelgriep vastgesteld in Collendoorn
 
