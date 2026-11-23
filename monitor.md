@@ -1,6 +1,138 @@
 # Politieke monitor
 
-Laatste update: 2026-11-23T04:57:19.815487+00:00
+Laatste update: 2026-11-23T16:32:22.226801+00:00
+
+## Nederland host internationale ronde tafel over toekomst asielsysteem
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 16:19:00 GMT
+
+Het wereldwijde asielsysteem staat onder druk. Daarom organiseert Nederland van 24 t/m 26 november 2026 een internationale bijeenkomst in Den Haag, voorgezeten door Kenia, de VN Vluchtelingenorganisatie (UNHCR) en Nederland, en ondersteund door...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/nederland-host-internationale-ronde-tafel-over-toekomst-asielsysteem
+
+---
+
+## Vogelgriep vastgesteld in De Kwakel
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 15:00:00 GMT
+
+In De Kwakel (gemeente Uithoorn), provincie Noord-Holland, is vogelgriep vastgesteld bij een hobbypluimveehouderij. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/vogelgriep-vastgesteld-in-de-kwakel
+
+---
+
+## Nieuw onderzoek naar regeldruk mkb-bedrijven
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 14:15:00 GMT
+
+Regeldruk en administratieve lasten kosten mkb-bedrijven tot 10% van de jaaromzet. Dat blijkt uit een nieuwe doorrekening in opdracht van het ministerie van Economische Zaken en Klimaat waarover minister Herbert aan de Tweede Kamer schrijft.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/nieuw-onderzoek-naar-regeldruk-mkb-bedrijven
+
+---
+
+## De asielinstroom van week 47 bedroeg ongeveer 920
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 12:54:00 GMT
+
+De asielinstroom van week 47, bestaande uit eerste asielaanvragen, herhaalde asielaanvragen, hervestiging, herplaatsing en nareizigers, bedroeg circa 920.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/de-asielinstroom-van-week-47-bedroeg-ongeveer-920
+
+---
+
+## Dichter en performer Babs Gons ontvangt Johannes Vermeerprijs
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 11:00:00 GMT
+
+De Johannes Vermeerprijs 2026 wordt op maandag 23 november uitgereikt aan dichter en performer Babs Gons. Minister Letschert (Onderwijs, Cultuur en Wetenschap) reikt haar de prijs uit in de Nieuwe Kerk in Den Haag. Gons ontvangt de prijs vanwege...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/dichter-en-performer-babs-gons-ontvangt-johannes-vermeerprijs
+
+---
+
+## Koning en minister-president ontvangen president van Litouwen
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 10:39:00 GMT
+
+Zijne Majesteit de Koning en minister-president Jetten ontvangen woensdag 25 november president Gitanas Nausėda van Litouwen.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/koning-en-minister-president-ontvangen-president-van-litouwen
+
+---
+
+## € 6,1 miljoen voor onderzoek kernenergie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 10:13:00 GMT
+
+10 tot 15 promovendi en postdocs gaan de komende 4 jaar onderzoek doen naar nieuwe typen kernreactoren en splijtstoffen. NWO heeft daarvoor € 6,1 miljoen toegekend aan een consortium onder leiding van TU Delft.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/61-miljoen-euro-voor-onderzoek-kernenergie
+
+---
+
+## Beheer wolf in Nederland wordt mogelijk
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 08:00:00 GMT
+
+In Nederland wordt het afschieten van wolven mogelijk, omdat op basis van wetenschappelijk onderzoek geconcludeerd kan worden dat de wolvenpopulatie in Nederland gezond is. Hiermee krijgen provincies de mogelijkheid om het aantal wolven te...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/beheer-wolf-in-nederland-wordt-mogelijk
+
+---
+
+## Landelijke campagne Nieuwe Energie roept Nederlanders op stroompiek te vermijden
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 08:00:00 GMT
+
+Op 23 november start het ministerie van Economische Zaken en Klimaat de landelijke publiekscampagne die Nederlanders oproept de stroompiek tussen 16.00 en 21.00 uur te vermijden. Tijdens deze avondpiek gebruiken we veel stroom tegelijkertijd en is...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/landelijke-campagne-nieuwe-energie-roept-nederlanders-op-stroompiek-te-vermijden
+
+---
+
+## Results of 23-11-2026 auction (EU-Bonds)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+Auction results EU-Bonds
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-23-11-2026-auction-eu-bonds-2026-11-23_en
+
+---
+
+## EDF-funded EUROGUARD vessel launched in Estonia
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+With 65 million euros allocated through the European Defence Fund (EDF), the EUROGUARD project aims to strengthen Europe's maritime defence capabilities.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-funded-euroguard-vessel-launched-estonia-2026-11-23_en
+
+---
 
 ## Vogelgriep vastgesteld in Collendoorn
 
@@ -11,18 +143,6 @@ Laatste update: 2026-11-23T04:57:19.815487+00:00
 In Collendoorn (gemeente Hardenberg, provincie Overijssel) is vogelgriep vastgesteld op een leghennenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/21/vogelgriep-vastgesteld-in-collendoorn
-
----
-
-## EU and Indonesia sign ambitious trade and investment agreements
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Sat, 21 Nov 2026 00:00:00 +0100
-
-The European Union and Indonesia today signed their Comprehensive Economic Partnership Agreement (CEPA) and Investment Protection Agreement (IPA).
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-indonesia-sign-ambitious-trade-and-investment-agreements-2026-11-21_en
 
 ---
 
@@ -44,11 +164,7 @@ The EU and Indonesia have signed a Comprehensive Economic Partnership Agreement 
 
 **Gepubliceerd:** Fri, 20 Nov 2026 19:00:00 GMT
 
-Mevrouw S.J.F. (Stieneke) van der Graaf is benoemd tot burgemeester van de gemeente Zaltbommel.              
-
-De benoeming gaat in op 3 december 2026.
-
-Mevrouw Van der Graaf (42 jaar) is momenteel waarnemend burgemeester in de gemeente...
+Mevrouw S.J.F. (Stieneke) van der Graaf is benoemd tot burgemeester van de gemeente Zaltbommel. De benoeming gaat in op 3 december 2026.
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/nieuwe-burgemeester-in-zaltbommel
 
@@ -198,30 +314,6 @@ Despite challenging price conditions and continued geopolitical uncertainty, exp
 
 ---
 
-## Fifth EU-Armenia Horizon Europe Joint Research and Innovation Committee meeting
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The meeting reaffirmed Armenia’s efforts and progress in further integrating into the European Research Area (ERA). Both sides acknowledged that Armenia’s participation in Horizon Europe is pivotal to enhance competitiveness and national capacities in research and innovation.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fifth-eu-armenia-horizon-europe-joint-research-and-innovation-committee-meeting-2026-11-20_en
-
----
-
-## EU and UK agree to link Emission Trading Systems (ETS)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en
-
----
-
 ## European innovation in biometrics workshop
 
 **Bron:** Europese Commissie
@@ -267,18 +359,6 @@ The European Commission welcomes yesterday's political agreement by the European
 Today, the European Commission has released €7.9 billion to Ukraine to support financing needs and maintain the functioning of the country's public administration, as it continues to defend itself against Russia's war of aggression.
 
 **Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-disburses-eur79-billion-strengthen-ukraines-financial-stability-and-advance-reform-2026-11-20_en
-
----
-
-## EU Customs Authority holds first management board meeting in Lille
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en
 
 ---
 
@@ -342,18 +422,6 @@ AI is moving into recruitment across the EU. Here’s how jobseekers and employe
 
 ---
 
-## Negotiations finalised to link EU and UK Emissions Trading Systems
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-Negotiations finalised to link EU and UK Emissions Trading Systems
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en
-
----
-
 ## Equal Pay Day: Would you work for free until next year?
 
 **Bron:** Europese Commissie
@@ -366,6 +434,66 @@ On Equal Pay Day we reaffirm our commitment to make equal pay a reality for ever
 
 ---
 
+## Fifth EU-Armenia Horizon Europe Joint Research and Innovation Committee meeting
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The meeting reaffirmed Armenia’s efforts and progress in further integrating into the European Research Area (ERA). Both sides acknowledged that Armenia’s participation in Horizon Europe is pivotal to enhance competitiveness and national capacities in research and innovation.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fifth-eu-armenia-horizon-europe-joint-research-and-innovation-committee-meeting-2026-11-20_en
+
+---
+
+## EU and United Kingdom reaffirm strong and strategic partnership
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+At the second EU-UK Summit in Brussels Presidents von der Leyen and Costa and Primer Minister Burnham concluded negotiations on agreements that will increase people-to-people contacts, especially amongst young people, boost trade in agricultural products, and link carbon markets on both sides.
+
+**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2555
+
+---
+
+## Negotiations finalised to link EU and UK Emissions Trading Systems
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+Negotiations finalised to link EU and UK Emissions Trading Systems
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en
+
+---
+
+## EU and UK agree to link Emission Trading Systems (ETS)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en
+
+---
+
+## EU Customs Authority holds first management board meeting in Lille
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en
+
+---
+
 ## Defensie sluit contracten met ruim 10 bedrijven
 
 **Bron:** Rijksoverheid Nieuws
@@ -375,66 +503,6 @@ On Equal Pay Day we reaffirm our commitment to make equal pay a reality for ever
 Defensie heeft de samenwerking met de Nederlandse industrie en kennisinstellingen verder bekrachtigd. Staatssecretaris Derk Boswijk zette de ambitie van het Nationaal Programma Defensie Industrie en Innovatie direct om in actie door het tekenen...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/defensie-sluit-contracten-met-ruim-10-bedrijven
-
----
-
-## Investeringsfonds versterkt defensie-industrie
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 19 Nov 2026 16:50:00 GMT
-
-Defensie gaat investeren in innovatieve Nederlandse bedrijven in het veiligheids- en defensiedomein om hun technologie door te ontwikkelen en hun productie op te schalen. Dat is de doelstelling van het Defence Scaleup Fund. Defensie presenteerde...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/investeringsfonds-versterkt-defensie-industrie
-
----
-
-## IBO-onderzoek: het lukt de overheid om ouderen een goed inkomen te geven
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 19 Nov 2026 15:30:00 GMT
-
-Nederland slaagt er grotendeels in om armoede bij ouderen te voorkomen. Ouderen hebben een goede inkomenspositie. Wel wordt de uitvoering van de AOW in de toekomst ingewikkelder. Deze conclusies staan in het Interdepartementale Beleidsonderzoek...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/ibo-onderzoek-het-lukt-de-overheid-om-ouderen-een-goed-inkomen-te-geven
-
----
-
-## Werkagenda voor het Koninkrijk moet leiden tot concrete resultaten voor inwoners
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 19 Nov 2026 09:58:00 GMT
-
-Een werkagenda met concrete samenwerkingsafspraken tussen de regeringen van de vier landen in het belang van de inwoners. En de afspraak om elkaar jaarlijks te ontmoeten in de vorm van een Kingdom Summit of Koninkrijksconferentie. Dat is de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/werkagenda-voor-het-koninkrijk-moet-leiden-tot-concrete-resultaten-voor-inwoners
-
----
-
-## Nieuw programma moet innovatie en opschaling defensie-industrie versnellen
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 19 Nov 2026 09:00:00 GMT
-
-Op eigen kracht kunnen bouwen en vertrouwen. Met de voortdurende machtsverschuivingen is dat belangrijker dan ooit. Om dat in de praktijk te brengen, moet de Nederlandse industrie sneller innoveren en meer produceren waardoor de afhankelijkheid...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/nieuw-programma-moet-innovatie-en-opschaling-defensie-industrie-versnellen
-
----
-
-## Kabinet trekt extra geld uit voor agrarisch natuurbeheer
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 19 Nov 2026 09:00:00 GMT
-
-Het kabinet breidt de inzet op agrarisch natuurbeheer uit. Het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) trekt 1,2 miljard euro extra uit voor agrarisch natuurbeheer tot 2035. Het versterken van het agrarisch...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/kabinet-trekt-extra-geld-uit-voor-agrarisch-natuurbeheer
 
 ---
 
@@ -531,78 +599,6 @@ Latest figures on Ukrainian exports and imports via the EU-Ukraine Solidarity La
 Today, at COP31 in Antalya, the European Union joined the Global SF6 Pledge, an initiative launched by Germany to reduce global emissions from Sulphur Hexafluoride (SF6) in the power sector.
 
 **Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-joins-global-sf6-pledge-fight-worlds-most-potent-greenhouse-gas-2026-11-19_en
-
----
-
-## New EMN-OECD joint inform on drivers and policies to retain global talent
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-The latest EMN and OECD joint inform explores how EMN Member and Observer Countries approach the retention of global talent, covering the factors that support or hinder retention and the policies and practices introduced to support longer-term stay. Read more.
-
-**Originele publicatie:** https://home-affairs.ec.europa.eu/news/new-emn-oecd-joint-inform-drivers-and-policies-retain-global-talent-2026-11-19_en
-
----
-
-## Commission adopts measures to restrict lead gunshot to protect health and environment
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-The new rules ban the use and sale of gunshot containing 1% lead or more to protect human health and the environment.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/commission-adopts-measures-restricting-lead-gunshot-2026-11-19_en
-
----
-
-## Kabinet investeert in technisch talent in partnerlanden
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 18 Nov 2026 14:15:00 GMT
-
-De vraag naar technisch talent groeit in hoog tempo, in Nederland en wereldwijd. Het tekort aan vakspecialisten belemmert economische ontwikkeling en beperkt Nederlandse handelsmogelijkheden, onder meer in de (micro)chipindustrie. Met het nieuwe...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/18/kabinet-investeert-in-technisch-talent-in-partnerlanden
-
----
-
-## Digitale registratie gebruik van gewasbeschermingsmiddelen vanaf 1 januari 2027 verplicht
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 18 Nov 2026 10:20:00 GMT
-
-Per 1 januari 2027 wordt de manier van registratie van gebruik van gewasbeschermingsmiddelen Europees geharmoniseerd. In 2023 is hiervoor de Europese uitvoeringsverordening 2023/564 vastgesteld. Door de nieuwe Europese regels moeten professionele...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/18/digitale-registratie-gebruik-van-gewasbeschermingsmiddelen-vanaf-1-januari-2027-verplicht
-
----
-
-## ‘Ondernemers moeten aangifte omzetbelasting direct kunnen aanpassen’
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Wed, 18 Nov 2026 10:00:00 GMT
-
-Het kabinet wil dat ondernemers de aangifte omzetbelasting zelf direct én digitaal kunnen aanpassen zonder extra formulieren te hoeven indienen. Nu moeten ondernemers gemaakte fouten boven de € 1000 nog formeel melden bij de Belastingdienst via...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/18/ondernemers-moeten-omzetbelasting-direct-kunnen-aanpassen
-
----
-
-## Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Tue, 17 Nov 2026 19:30:00 GMT
-
-Minister Mirjam Sterk (Langdurige Zorg, Jeugd en Sport) neemt op donderdag 19 november deel aan het Bestuurlijk Vierlandenoverleg Volksgezondheid samen met ministers van Aruba, Curaçao en Sint Maarten. Minister Sterk leidt de delegatie van...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/minister-sterk-naar-aruba-voor-bestuurlijk-vierlandenoverleg-volksgezondheid
 
 ---
 
@@ -726,6 +722,56 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## EU sanctions against terrorism: Council lists the founder of 'The Base'
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council expands its sanctions list to combat terrorism by designating the founder and leader of the EU-sanctioned organisation 'The Base'.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/23/eu-sanctions-against-terrorism-council-lists-the-founder-of-the-base/
+
+---
+
+## Tajikistan: Statement by the High Representative on behalf of the European Union on Tajikistan’s withdrawal from the Rome Statute of the International Criminal Court
+
+**Bron:** Raad van de EU - Persberichten
+
+The High Representative issued a statement on behalf of the European Union on Tajikistan’s withdrawal from the Rome Statute of the International Criminal Court.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/23/tajikistan-statement-by-the-high-representative-on-behalf-of-the-european-union-on-tajikistan-s-withdrawal-from-the-rome-statute-of-the-international-criminal-court/
+
+---
+
+## Council approves conclusions on the new strategic vision for the EU’s outermost regions
+
+**Bron:** Raad van de EU - Persberichten
+
+Council approves conclusions on the new strategic vision for the EU’s outermost regions.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/23/council-approves-conclusions-on-the-new-strategic-vision-for-the-eu-s-outermost-regions/
+
+---
+
+## EU budget for 2027: Council gives final green light
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council gave its final green light to the EU’s annual budget for 2027 - the seventh and final annual budget of the current multiannual financial framework (MFF) 2021-2027.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/23/eu-budget-for-2027-council-gives-final-green-light/
+
+---
+
+## Press briefing - EU-Western Balkans summit of 25 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The press briefing will take place on Tuesday, 24 November 2026 at 10:30.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/23/press-briefing-eu-western-balkans-summit-of-25-november-2026/
+
+---
+
 ## Multiannual Financial Framework - President Costa’s proposal
 
 **Bron:** Raad van de EU - Persberichten
@@ -793,16 +839,6 @@ Main agenda items, approximate timing, public sessions and press opportunities.
 The Council has approved conclusions calling for greater efforts to preserve and promote traditional sports and games in the EU.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/council-calls-for-action-to-safeguard-europe-s-traditional-sports-and-games-for-future-generations/
-
----
-
-## Media advisory - General Affairs Council (Cohesion) of 23 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Main agenda items, approximate timing and press opportunities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/media-advisory-general-affairs-council-cohesion-of-23-november-2026/
 
 ---
 
@@ -886,46 +922,6 @@ Council gives its final approval to the regulation on the e-declaration of poste
 
 ---
 
-## Council calls for action to empower young people in an evolving information environment
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has approved conclusions aimed at empowering young people in an evolving information environment.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/council-calls-for-action-to-empower-young-people-in-an-evolving-information-environment/
-
----
-
-## Council greenlights new EU rules to protect vulnerable adults
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council today formally adopted rules ensuring that adults in need of support with decision-making are better protected in cross-border situations when it comes to medical care, managing property and moving to another country.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/council-greenlights-new-eu-rules-to-protect-vulnerable-adults/
-
----
-
-## Simplification: Council signs off on new law simplifying and streamlining rules on chemical products
-
-**Bron:** Raad van de EU - Persberichten
-
-Council signs off on new law simplifying and streamlining rules on chemical products.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/simplification-council-signs-off-on-new-law-simplifying-and-streamlining-rules-on-chemical-products/
-
----
-
-## Eurogroup President Pierrakakis' report to the President of the Euro Summit
-
-**Bron:** Raad van de EU - Persberichten
-
-The President of the Eurogroup, Kyriakos Pierrakakis, has sent a letter to the President of the Euro Summit, António Costa, to report on the recent work by the Eurogroup and upcoming work priorities.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/eurogroup-president-pierrakakis-report-to-the-president-of-the-euro-summit/
-
----
-
 ## Agriculture and Fisheries Council
 
 **Bron:** Raad van de EU - Landbouw en Visserij
@@ -963,6 +959,16 @@ The President of the Eurogroup, Kyriakos Pierrakakis, has sent a letter to the P
 **Bron:** Raad van de EU - Landbouw en Visserij
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2027/06/21/
+
+---
+
+## Agriculture and Fisheries Council
+
+**Bron:** Raad van de EU - Landbouw en Visserij
+
+Fisheries ministers will hold an exchange of views on the vision 2040 for fisheries and aquaculture. They will also discuss fishing opportunities for 2027 in the Atlantic and North Sea, as well as in the Mediterranean and Black Seas, following a presentation by the Commission of its two proposals. On agriculture, ministers will discuss the market situation, as a recurring item on the agenda of the Council following Russia’s war of aggression against Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/11/23/
 
 ---
 
@@ -1401,16 +1407,6 @@ Agriculture and fisheries ministers met in Brussels on 25 July. They heard from 
 **Bron:** Raad van de EU - Landbouw en Visserij
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/07/17-18/
-
----
-
-## Agriculture and Fisheries Council
-
-**Bron:** Raad van de EU - Landbouw en Visserij
-
-Agriculture and Fisheries ministers discussed the progress made in implementing the Common Fisheries Policy and their priorities for fishing opportunities for 2024. They also exchanged views on the proposal for a regulation on the sustainable use of pesticides, and on trade-related agricultural issues. Ministers also received an update from the presidency on the state of play of current legislative proposals on geographical indications (GIs), the farm sustainability data network (FSDN), and labelling rules for organic pet food.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2023/06/26-27/
 
 ---
 
