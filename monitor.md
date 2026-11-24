@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-23T16:32:22.226801+00:00
+Laatste update: 2026-11-24T03:04:32.913857+00:00
+
+## Afspraken voor verhogen van de weerbaarheid in Nederland
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Mon, 23 Nov 2026 18:25:00 GMT
+
+Hoe valt de maatschappij zo goed mogelijk voor te bereiden op een conflict of crisis? Die vraag stond vandaag centraal tijdens de Eerste Top Nationale Weerbaarheid. In Amsterdam kwamen zo’n 500 bestuurders van overheid, bedrijven, wetenschap,...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/afspraken-voor-verhogen-van-de-weerbaarheid-in-nederland
+
+---
 
 ## Nederland host internationale ronde tafel over toekomst asielsysteem
 
@@ -8,7 +20,7 @@ Laatste update: 2026-11-23T16:32:22.226801+00:00
 
 **Gepubliceerd:** Mon, 23 Nov 2026 16:19:00 GMT
 
-Het wereldwijde asielsysteem staat onder druk. Daarom organiseert Nederland van 24 t/m 26 november 2026 een internationale bijeenkomst in Den Haag, voorgezeten door Kenia, de VN Vluchtelingenorganisatie (UNHCR) en Nederland, en ondersteund door...
+Het wereldwijde asielsysteem staat onder druk. Daarom organiseert Nederland van 24 tot en met 26 november 2026 een internationale bijeenkomst in Den Haag, voorgezeten door Kenia, de VN Vluchtelingenorganisatie (UNHCR) en Nederland, en ondersteund...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/nederland-host-internationale-ronde-tafel-over-toekomst-asielsysteem
 
@@ -110,6 +122,18 @@ Op 23 november start het ministerie van Economische Zaken en Klimaat de landelij
 
 ---
 
+## EDF-funded EUROGUARD vessel launched in Estonia
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+With 65 million euros allocated through the European Defence Fund (EDF), the EUROGUARD project aims to strengthen Europe's maritime defence capabilities.
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-funded-euroguard-vessel-launched-estonia-2026-11-23_en
+
+---
+
 ## Results of 23-11-2026 auction (EU-Bonds)
 
 **Bron:** Europese Commissie
@@ -122,15 +146,63 @@ Auction results EU-Bonds
 
 ---
 
-## EDF-funded EUROGUARD vessel launched in Estonia
+## Commission approves €1 billion Slovenian State aid to support closure of Premogovnik Velenje coal mine
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
 
-With 65 million euros allocated through the European Defence Fund (EDF), the EUROGUARD project aims to strengthen Europe's maritime defence capabilities.
+The European Commission has approved, under EU State aid rules, a €1 billion Slovenian measure to cover exceptional costs related to the closure of the Premogovnik Velenje coal mine. The aid will help Slovenia phase out coal by 2033 in line with its binding commitment under national law.
 
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-funded-euroguard-vessel-launched-estonia-2026-11-23_en
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-eur1-billion-slovenian-state-aid-support-closure-premogovnik-velenje-coal-mine-2026-11-23_en
+
+---
+
+## Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules
+
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-anticompetitive-conduct-coca-cola-europacific-2026-11-23_en
+
+---
+
+## EU secures landmark ICCAT agreement to end shark finning in the Atlantic and Mediterranean
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+At the 2026 Annual Meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT) in Vilamoura, Portugal, ICCAT members, which include the European Union, reached a breakthrough agreement to strengthen action against shark finning in the Atlantic and Mediterranean.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-secures-landmark-iccat-agreement-end-shark-finning-atlantic-and-mediterranean-2026-11-23_en
+
+---
+
+## Winners announced for the 2026 Excellence in Road Safety Awards
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+Today, the Commission revealed the winners of its 2026 Excellence in Road Safety Awards, which celebrate outstanding and innovative efforts to improve road safety throughout Europe.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/winners-announced-2026-excellence-road-safety-awards-2026-11-23_en
+
+---
+
+## EU and Mauritania reached political agreement on a new fisheries Protocol
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+The European Union and Mauritania have reached a political agreement on a new Protocol to their Sustainable Fisheries Partnership Agreement (SFPA). This will allow their important fisheries partnership to continue and will provide a framework for sustainable fishing activities and cooperation in the
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-and-mauritania-reached-political-agreement-new-fisheries-protocol-2026-11-23_en
 
 ---
 
@@ -434,6 +506,30 @@ On Equal Pay Day we reaffirm our commitment to make equal pay a reality for ever
 
 ---
 
+## EU and UK agree to link Emission Trading Systems (ETS)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en
+
+---
+
+## EU Customs Authority holds first management board meeting in Lille
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en
+
+---
+
 ## Fifth EU-Armenia Horizon Europe Joint Research and Innovation Committee meeting
 
 **Bron:** Europese Commissie
@@ -470,42 +566,6 @@ Negotiations finalised to link EU and UK Emissions Trading Systems
 
 ---
 
-## EU and UK agree to link Emission Trading Systems (ETS)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en
-
----
-
-## EU Customs Authority holds first management board meeting in Lille
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en
-
----
-
-## Defensie sluit contracten met ruim 10 bedrijven
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Thu, 19 Nov 2026 16:56:00 GMT
-
-Defensie heeft de samenwerking met de Nederlandse industrie en kennisinstellingen verder bekrachtigd. Staatssecretaris Derk Boswijk zette de ambitie van het Nationaal Programma Defensie Industrie en Innovatie direct om in actie door het tekenen...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/19/defensie-sluit-contracten-met-ruim-10-bedrijven
-
----
-
 ## Co-legislators agree on a targeted amendment to Methane Regulation to ensure supply security amid energy crisis
 
 **Bron:** Europese Commissie
@@ -539,66 +599,6 @@ The European Centre for Democratic Resilience has published a call for expressio
 EBRD and EU strengthen Jordan’s water security
 
 **Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/ebrd-and-eu-strengthen-jordans-water-security-2026-11-19_en
-
----
-
-## COP31: EU submits second Biennial Transparency Report under Paris Agreement, and calls on others to follow
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-The European Union (EU) today published its second Biennial Transparency Report (BTR2) under the Paris Agreement.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-submits-second-biennial-transparency-report-under-paris-agreement-and-calls-others-follow-2026-11-19_en
-
----
-
-## EU and Jordan advance strategic partnership backed by €3 billion to boost investment, create jobs and strengthen regional stability
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-Today, European Commission President Ursula von der Leyen and Commissioner for the Mediterranean Dubravka Šuica took part in the EU-Jordan Investment Conference at the Dead Sea. Alongside His Majesty King Abdullah II bin Al-Hussein, President von der Leyen witnessed the signing of agreements to...
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-jordan-advance-strategic-partnership-backed-eur3-billion-boost-investment-create-jobs-and-2026-11-19_en
-
----
-
-## EU and Jordan launch negotiations for a Sustainable Investment Facilitation Agreement
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-Today, at the EU-Jordan Investment Conference, European Commission President Ursula von der Leyen and the King of Jordan, Abdullah II bin Al-Hussein, announced the launch of negotiations between the EU and Jordan for a Sustainable Investment Facilitation Agreement (SIFA).
-
-**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-and-jordan-launch-negotiations-sustainable-investment-facilitation-agreement-2026-11-19_en
-
----
-
-## Solidarity Lanes: Latest figures – October 2026
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-Latest figures on Ukrainian exports and imports via the EU-Ukraine Solidarity Lanes: new transport routes established in the face of Russia’s war of aggression against Ukraine.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/solidarity-lanes-latest-figures-october-2026-2026-11-19_en
-
----
-
-## COP31: EU joins ‘Global SF6 Pledge’  to fight world’s most potent greenhouse gas
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Thu, 19 Nov 2026 00:00:00 +0100
-
-Today, at COP31 in Antalya, the European Union joined the Global SF6 Pledge, an initiative launched by Germany to reduce global emissions from Sulphur Hexafluoride (SF6) in the power sector.
-
-**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-joins-global-sf6-pledge-fight-worlds-most-potent-greenhouse-gas-2026-11-19_en
 
 ---
 
@@ -966,7 +966,7 @@ Council gives its final approval to the regulation on the e-declaration of poste
 
 **Bron:** Raad van de EU - Landbouw en Visserij
 
-Fisheries ministers will hold an exchange of views on the vision 2040 for fisheries and aquaculture. They will also discuss fishing opportunities for 2027 in the Atlantic and North Sea, as well as in the Mediterranean and Black Seas, following a presentation by the Commission of its two proposals. On agriculture, ministers will discuss the market situation, as a recurring item on the agenda of the Council following Russia’s war of aggression against Ukraine.
+Fisheries ministers exchanged views on the vision 2040 for fisheries and aquaculture. They also discussed fishing opportunities for 2027 in the Atlantic and North Sea, as well as in the Mediterranean and Black Seas, following a presentation by the Commission of its two proposals. As far as agriculture is concerned, the Council discussed the market situation, a recurring item on the agenda of the Council following Russia’s war of aggression against Ukraine.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/meetings/agrifish/2026/11/23/
 
