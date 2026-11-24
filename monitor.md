@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-24T03:04:32.913857+00:00
+Laatste update: 2026-11-24T14:20:07.654800+00:00
+
+## Ministerie LVVN start campagne: kies bewust voor een hond die bij je past
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Tue, 24 Nov 2026 05:00:00 GMT
+
+Het hebben van een hond brengt veel plezier met zich mee. Het is een levenslang maatje. Daar hoort ook een verantwoordelijkheid bij. Als je kiest voor een hond moet je zeker weten dat je daar de komende jaren genoeg tijd, middelen en ruimte voor...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/24/ministerie-lvvn-start-campagne-kies-bewust-voor-een-hond-die-bij-je-past
+
+---
 
 ## Afspraken voor verhogen van de weerbaarheid in Nederland
 
@@ -326,18 +338,6 @@ Gerdine Keijzer-Baldé wordt directeur-generaal Digitaliseringsbeleid Samenlevin
 
 ---
 
-## Zr.Ms. Evertsen helpt schepen beschermen in de Rode Zee
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 12:30:00 GMT
-
-Het marineschip Zr.Ms. Evertsen levert vanaf half december tot begin januari een bijdrage aan Operatie Aspides, een missie van de Europese Unie. Daarmee helpt het luchtverdedigings- en commandofregat vrachtschepen in de Rode Zee te beschermen. Dat...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/zr.ms.-evertsen-helpt-schepen-beschermen-in-de-rode-zee
-
----
-
 ## Better protected for your next credit application
 
 **Bron:** Europese Commissie
@@ -383,6 +383,42 @@ On 20 November, the Steering Board on Prevention of Radicalisation endorsed the 
 Despite challenging price conditions and continued geopolitical uncertainty, experts from the EU countries, the Commission and stakeholder associations confirmed once again today in the latest meeting of the Gas Coordination Group that the EU is prepared for winter.
 
 **Originele publicatie:** https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en
+
+---
+
+## Equal Pay Day: Would you work for free until next year?
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+On Equal Pay Day we reaffirm our commitment to make equal pay a reality for every woman and every worker across Europe
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/equal-pay-day-would-you-work-free-until-next-year-2026-11-20_en
+
+---
+
+## EU and UK agree to link Emission Trading Systems (ETS)
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en
+
+---
+
+## EU Customs Authority holds first management board meeting in Lille
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
+
+The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.
+
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en
 
 ---
 
@@ -491,42 +527,6 @@ The EU and Mexico reaffirm their commitment to strengthening their strategic agr
 AI is moving into recruitment across the EU. Here’s how jobseekers and employers are using it.
 
 **Originele publicatie:** https://eures.europa.eu/chatbots-are-changing-how-we-look-jobs-and-talent-are-you-ready-2026-11-20_en
-
----
-
-## Equal Pay Day: Would you work for free until next year?
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-On Equal Pay Day we reaffirm our commitment to make equal pay a reality for every woman and every worker across Europe
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/equal-pay-day-would-you-work-free-until-next-year-2026-11-20_en
-
----
-
-## EU and UK agree to link Emission Trading Systems (ETS)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en
-
----
-
-## EU Customs Authority holds first management board meeting in Lille
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en
 
 ---
 
@@ -722,6 +722,26 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Press briefing - Foreign Affairs Council (Trade) of 30 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The press briefing ahead of the Foreign Affairs Councils (Trade) will take place on Wednesday, 25 November at 13.00.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/press-briefing-foreign-affairs-council-trade-of-30-november-2026/
+
+---
+
+## Special European Council of 26-27 November 2026 - Invitation letter by President António Costa to the members of the European Council
+
+**Bron:** Raad van de EU - Persberichten
+
+European Council President António Costa invited leaders to the meeting of 26 and 27 November 2026 in Brussels, including a Euro Summit, where they will discuss the next Multiannual Financial Framework and Ukraine financing needs for 2027.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/special-european-council-of-26-27-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/
+
+---
+
 ## EU sanctions against terrorism: Council lists the founder of 'The Base'
 
 **Bron:** Raad van de EU - Persberichten
@@ -899,26 +919,6 @@ The EU and Montenegro provisionally closed accession negotiations on taxation (c
 Press conference on the revised negotiating box for the EU’s next MFF will take place on Saturday 21 November at 11.00, followed by Press briefing ahead of the Special European Council meeting of 26-27 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/media-advisory-press-conference-on-the-mff-negobox-and-press-briefing-ahead-of-the-special-european-council-meeting-of-26-27-november-2026/
-
----
-
-## Equipping Europeans for the age of AI: Council approves conclusions
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has approved conclusions highlighting the need for citizens at all stages of life to be equipped with the skills and competences to engage critically and responsibly with artificial intelligence.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/equipping-europeans-for-the-age-of-ai-council-approves-conclusions/
-
----
-
-## Internal market for services: Council adopts regulation on the e-declaration of posted workers
-
-**Bron:** Raad van de EU - Persberichten
-
-Council gives its final approval to the regulation on the e-declaration of posted workers.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/internal-market-for-services-council-adopts-regulation-on-the-e-declaration-of-posted-workers/
 
 ---
 
