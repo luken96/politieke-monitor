@@ -1,6 +1,90 @@
 # Politieke monitor
 
-Laatste update: 2026-11-25T05:42:46.380923+00:00
+Laatste update: 2026-11-25T16:11:36.296499+00:00
+
+## Kabinet en gemeenten maken nieuwe afspraken voor een samenleving waarin iedereen kan meedoen aan sport, bewegen en cultuur
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Wed, 25 Nov 2026 12:00:00 GMT
+
+Het kabinet en gemeenten hebben nieuwe bestuurlijke afspraken gemaakt over de BRC-regeling (Brede Regeling Combinatiefuncties) en de inzet van BRC-functionarissen. Dit zijn bijvoorbeeld buurtsport- of cultuurcoaches die sport en cultuur verbinden...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/25/kabinet-en-gemeenten-maken-nieuwe-afspraken-voor-een-samenleving-waarin-iedereen-kan-meedoen-aan-sport-bewegen-en-cultuur
+
+---
+
+## Sustainable Finance for the Space Sector: What We Learned
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+On 22 October 2026, the European Commission’s Directorate-General for Defence Industry and Space (DG DEFIS) held a landmark workshop in Brussels, opening a structured dialogue between the space ecosystem and the sustainable finance community for the first time. More than 350 registered participants
+
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/sustainable-finance-space-sector-what-we-learned-2026-11-25_en
+
+---
+
+## Commission approves €10.5 million Greek State aid to fishery and aquaculture companies facing increased fuel prices
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+The European Commission has approved a €10.5 million Greek State aid scheme to support shipowners in the fishery and aquaculture industries facing increased fuel prices due to the Middle East crisis.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur105-million-greek-state-aid-fishery-and-aquaculture-companies-facing-2026-11-25_en
+
+---
+
+## African Union and European Union publish their renewed Roadmap for research and innovation on food and nutrition security and sustainable agriculture
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+New roadmap will further strengthen the African Union and European Union R&I partnership on Food and Nutrition Security and Sustainable Agriculture.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/african-union-and-european-union-publish-their-renewed-roadmap-research-and-innovation-food-and-2026-11-25_en
+
+---
+
+## Rural Development Programmes 2014–2022 delivered tangible results across rural Europe
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+The 2014–2022 Rural Development Programmes played a key role in supporting farmers, foresters, rural businesses and local communities across the 27 EU Member States.
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/rural-development-programmes-2014-2022-delivered-tangible-results-across-rural-europe-2026-11-25_en
+
+---
+
+## EU launches €10 million programme to strengthen climate resilience and protect Yemen's cultural heritage
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+Today, at the ‘Cultural Resilience and Development in Yemen' event in Brussels, the European Union announced a €10 million programme to help communities prepare for climate risks, protect cultural heritage and create livelihood opportunities.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-launches-eur10-million-programme-strengthen-climate-resilience-and-protect-yemens-cultural-2026-11-25_en
+
+---
+
+## Europe’s quantum leap: strengthening industrial capacity and security with new quantum technologies
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+The quantum act will bring together EU and national programmes to move quantum technologies from laboratories to products and services
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/europes-quantum-leap-strengthening-industrial-capacity-and-security-new-quantum-technologies-2026-11-25_en
+
+---
 
 ## Ministerie LVVN start campagne: kies bewust voor een hond die bij je past
 
@@ -11,6 +95,30 @@ Laatste update: 2026-11-25T05:42:46.380923+00:00
 Het hebben van een hond brengt veel plezier met zich mee. Het is een levenslang maatje. Daar hoort ook een verantwoordelijkheid bij. Als je kiest voor een hond moet je zeker weten dat je daar de komende jaren genoeg tijd, middelen en ruimte voor...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/24/ministerie-lvvn-start-campagne-kies-bewust-voor-een-hond-die-bij-je-past
+
+---
+
+## Commissioner Jørgensen in Ireland to advance work on energy and housing affordability
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
+
+On 25–26 November, Commissioner for Energy and Housing Dan Jørgensen will be in Dublin, Ireland, to exchange with national and local policymakers on ways to tackle two of the most urgent issues affecting European citizens and businesses: housing and energy affordability.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-ireland-advance-work-energy-and-housing-affordability-2026-11-24_en
+
+---
+
+## Commission publishes proposal for Joint  Employment  Report 2027 and pushes Recommendation on Human Capital
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
+
+The proposed Joint Employment Report says the labour market stays robust, but manufacturing jobs drop due to recent energy shocks. A Capital Recommendation urges the EU to close skills gaps in clean‑energy, defence, space and AI‑related STEM fields.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/commission-publishes-proposal-joint-employment-report-2027-and-pushes-recommendation-human-capital-2026-11-24_en
 
 ---
 
@@ -50,18 +158,6 @@ EU agri-food surplus rises by €4bn as exports grow and imports decline slightl
 
 ---
 
-## Commission publishes proposal for Joint  Employment  Report 2027 and pushes Recommendation on Human Capital
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-The proposed Joint Employment Report says the labour market stays robust, but manufacturing jobs drop due to recent energy shocks. A Capital Recommendation urges the EU to close skills gaps in clean‑energy, defence, space and AI‑related STEM fields.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/commission-publishes-proposal-joint-employment-report-2027-and-pushes-recommendation-human-capital-2026-11-24_en
-
----
-
 ## Publication of the Mind the Gap Communication
 
 **Bron:** Europese Commissie
@@ -74,15 +170,27 @@ The European Commission published the 2026 edition of Mind the Gap. Its objectiv
 
 ---
 
-## Commissioner Jørgensen in Ireland to advance work on energy and housing affordability
+## Commission launches European Skills Observatory to strengthen skills and fair transition analysis across the EU
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
 
-On 25–26 November, Commissioner for Energy and Housing Dan Jørgensen will be in Dublin, Ireland, to exchange with national and local policymakers on ways to tackle two of the most urgent issues affecting European citizens and businesses: housing and energy affordability.
+The European Skills Observatory is a new tool bringing together data and analysis on current and future skills needs, supply and shortages, job trends, and education and training across the EU.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-ireland-advance-work-energy-and-housing-affordability-2026-11-24_en
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/commission-launches-european-skills-observatory-strengthen-skills-and-fair-transition-analysis-2026-11-24_en
+
+---
+
+## Joint statement by the Commission and the High Representative ahead of the International Day for the Elimination of Violence against Women
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
+
+Every woman and girl has the right to live free from fear, violence, abuse and harm. And yet worldwide, 1 in 3 women, including in the EU, has been a victim of gender-based violence.
+
+**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-statement-commission-and-high-representative-ahead-international-day-elimination-violence-2026-11-24_en
 
 ---
 
@@ -230,18 +338,6 @@ Auction results EU-Bonds
 
 ---
 
-## Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-anticompetitive-conduct-coca-cola-europacific-2026-11-23_en
-
----
-
 ## Commission approves €1 billion Slovenian State aid to support closure of Premogovnik Velenje coal mine
 
 **Bron:** Europese Commissie
@@ -254,15 +350,15 @@ The European Commission has approved, under EU State aid rules, a €1 billion S
 
 ---
 
-## Winners announced for the 2026 Excellence in Road Safety Awards
+## Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
 
-Today, the Commission revealed the winners of its 2026 Excellence in Road Safety Awards, which celebrate outstanding and innovative efforts to improve road safety throughout Europe.
+The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules
 
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/winners-announced-2026-excellence-road-safety-awards-2026-11-23_en
+**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-anticompetitive-conduct-coca-cola-europacific-2026-11-23_en
 
 ---
 
@@ -275,6 +371,18 @@ Today, the Commission revealed the winners of its 2026 Excellence in Road Safety
 At the 2026 Annual Meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT) in Vilamoura, Portugal, ICCAT members, which include the European Union, reached a breakthrough agreement to strengthen action against shark finning in the Atlantic and Mediterranean.
 
 **Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-secures-landmark-iccat-agreement-end-shark-finning-atlantic-and-mediterranean-2026-11-23_en
+
+---
+
+## Winners announced for the 2026 Excellence in Road Safety Awards
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
+
+Today, the Commission revealed the winners of its 2026 Excellence in Road Safety Awards, which celebrate outstanding and innovative efforts to improve road safety throughout Europe.
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/winners-announced-2026-excellence-road-safety-awards-2026-11-23_en
 
 ---
 
@@ -398,51 +506,27 @@ Het kabinet wil dat werk en meedoen het centrale uitgangspunt wordt in de Partic
 
 ---
 
-## Benoeming directeur-generaal Digitaliseringsbeleid Samenleving en Overheid
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 12:30:00 GMT
-
-Gerdine Keijzer-Baldé wordt directeur-generaal Digitaliseringsbeleid Samenleving en Overheid bij het ministerie van Economische Zaken en Klimaat (EZK). De ministerraad heeft hiermee ingestemd op voorstel van minister Heerma van Binnenlandse Zaken...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/benoeming-directeur-generaal-digitaliseringsbeleid-samenleving-en-overheid
-
----
-
-## EU bans plastic waste exports to non-OECD countries from November 21
+## Better protected for your next credit application
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
 
-The restrictions will apply until at least 21 May 2029, after which those nations may apply to receive plastic waste from the EU.
+With the entry into force of a new EU law on consumer credit on 20 November 2026, our level of protection when signing up for a credit agreement increases. Designed to strengthen our rights and help us make informed choices, the EU law now covers loans up to €100,000.
 
-**Originele publicatie:** https://environment.ec.europa.eu/news/eu-bans-plastic-waste-exports-non-oecd-countries-2026-11-20_en
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/better-protected-your-next-credit-application-2026-11-20_en
 
 ---
 
-## Ljubljana and Calvià named  2027 European Capitals of Tourism
+## EU backs global compact to cut energy bills and emissions from buildings
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
 
-The Commission has named Ljubljiana and Calvià as the winners of the 2027 European Capitals of Tourism competitions, recognising their achievements in advancing smart and sustainable tourism.
+Today, the European Union has endorsed the Antalya Compact for Energy Efficient Buildings, an initiative to reduce buildings’ energy intensity - energy consumed per m² - by at least 25% by 2035.
 
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/ljubljana-and-calvia-named-2027-european-capitals-tourism-2026-11-20_en
-
----
-
-## EU and Montenegro close accession negotiations on taxation and regional policy
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-Today, the EU and Montenegro provisionally closed accession negotiations on taxation (chapter 16) and regional policy and coordination of structural instruments (chapter 22).
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-and-montenegro-close-accession-negotiations-taxation-and-regional-policy-2026-11-20_en
+**Originele publicatie:** https://energy.ec.europa.eu/news/eu-backs-global-compact-cut-energy-bills-and-emissions-buildings-2026-11-20_en
 
 ---
 
@@ -482,39 +566,27 @@ On Equal Pay Day we reaffirm our commitment to make equal pay a reality for ever
 
 ---
 
-## EU backs global compact to cut energy bills and emissions from buildings
+## EU and UK agree to link Emission Trading Systems (ETS)
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
 
-Today, the European Union has endorsed the Antalya Compact for Energy Efficient Buildings, an initiative to reduce buildings’ energy intensity - energy consumed per m² - by at least 25% by 2035.
+The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.
 
-**Originele publicatie:** https://energy.ec.europa.eu/news/eu-backs-global-compact-cut-energy-bills-and-emissions-buildings-2026-11-20_en
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en
 
 ---
 
-## Chatbots are changing how we look for jobs and talent. Are you ready?
+## EU Customs Authority holds first management board meeting in Lille
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
 
-AI is moving into recruitment across the EU. Here’s how jobseekers and employers are using it.
+The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.
 
-**Originele publicatie:** https://eures.europa.eu/chatbots-are-changing-how-we-look-jobs-and-talent-are-you-ready-2026-11-20_en
-
----
-
-## Statement after Commissioner Hansen’s high-level business mission to Mexico
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The EU and Mexico reaffirm their commitment to strengthening their strategic agri-food partnership and translating the modernised bilateral framework into concrete benefits.
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/statement-after-commissioner-hansens-high-level-business-mission-mexico-2026-11-20_en
+**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en
 
 ---
 
@@ -527,78 +599,6 @@ The EU and Mexico reaffirm their commitment to strengthening their strategic agr
 the European Association for Biometrics and the European Commission cohosted a workshop titled ‘Biometrics Under Pressure: Reliable Identity in Complex Operational Environments’. Participants from nearly 20 countries attended the event, where 10 EU-funded technologies and innovations were presented.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/european-innovation-biometrics-workshop-2026-11-20_en
-
----
-
-## Better protected for your next credit application
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-With the entry into force of a new EU law on consumer credit on 20 November 2026, our level of protection when signing up for a credit agreement increases. Designed to strengthen our rights and help us make informed choices, the EU law now covers loans up to €100,000.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/better-protected-your-next-credit-application-2026-11-20_en
-
----
-
-## Commission proposes fishing days for western Mediterranean trawlers in 2027 protecting the most vulnerable stocks
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-Today, the Commission proposed fishing days for trawlers in the western Mediterranean for 2027. It proposes the highest number of fishing days compatible with the objective to recover the most endangered fish stocks.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-proposes-fishing-days-western-mediterranean-trawlers-2027-protecting-most-vulnerable-2026-11-20_en
-
----
-
-## Commission welcomes political agreement to simplify transparency rules for sustainable financial products
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The European Commission welcomes yesterday's political agreement by the European Parliament and the Council on the revision of the Sustainable Finance Disclosure Regulation (SFDR).
-
-**Originele publicatie:** https://finance.ec.europa.eu/news/commission-welcomes-political-agreement-simplify-transparency-rules-sustainable-financial-products-2026-11-20_en
-
----
-
-## Commission disburses €7.9 billion to strengthen Ukraine's financial stability and advance reform efforts
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-Today, the European Commission has released €7.9 billion to Ukraine to support financing needs and maintain the functioning of the country's public administration, as it continues to defend itself against Russia's war of aggression.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/commission-disburses-eur79-billion-strengthen-ukraines-financial-stability-and-advance-reform-2026-11-20_en
-
----
-
-## Fifth EU-Armenia Horizon Europe Joint Research and Innovation Committee meeting
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-The meeting reaffirmed Armenia’s efforts and progress in further integrating into the European Research Area (ERA). Both sides acknowledged that Armenia’s participation in Horizon Europe is pivotal to enhance competitiveness and national capacities in research and innovation.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/fifth-eu-armenia-horizon-europe-joint-research-and-innovation-committee-meeting-2026-11-20_en
-
----
-
-## EU and United Kingdom reaffirm strong and strategic partnership
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Fri, 20 Nov 2026 00:00:00 +0100
-
-At the second EU-UK Summit in Brussels Presidents von der Leyen and Costa and Primer Minister Burnham concluded negotiations on agreements that will increase people-to-people contacts, especially amongst young people, boost trade in agricultural products, and link carbon markets on both sides.
-
-**Originele publicatie:** https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2555
 
 ---
 
@@ -722,6 +722,26 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Press briefing - Transport, Telecommunications and Energy Council (Transport and Telecommunications) of 30 November and 1 December 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The press briefing ahead of the Transport, Telecommunications and Energy Council will take place on Friday, 27 November 2026 at 14:00.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/25/press-briefing-transport-telecommunications-and-energy-council-transport-and-telecommunications-of-30-november-and-1-december-2026/
+
+---
+
+## Russia’s war of aggression against Ukraine: EU restricts trade with 15 entities linked to Russia’s military and industrial complex
+
+**Bron:** Raad van de EU - Persberichten
+
+The Council has imposed restrictive measures on 15 Russian entities for their role in and support for Russia’s military and industrial complex in the context of Russia’s war of aggression against Ukraine.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/25/russia-s-war-of-aggression-against-ukraine-eu-restricts-trade-with-15-entities-linked-to-russia-s-military-and-industrial-complex/
+
+---
+
 ## Media advisory - EU-Western Balkans summit of 25 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -742,23 +762,23 @@ EU institutions sign a joint declaration establishing a European day of remembra
 
 ---
 
-## Discours du President António Costa lors de la séance d'ouverture du 108e congrès de l'Association des maires de France
+## Speech by President António Costa at the opening session of the 108th congress of the Association of French Mayors
 
 **Bron:** Raad van de EU - Persberichten
 
-Le président du Conseil européen, António Costa, a prononcé un discours lors de la séance d'ouverture du 108e congrès de l'Association des maires de France et des présidents d'intercommunalité (AMF), qui s'est tenue à Paris le 24 novembre 2026.
+The President of the European Council, António Costa, delivered a speech at the opening session of the 108th congress of the Association of French Mayors (the AMF), held in Paris on 24 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/speech-by-president-antonio-costa-at-the-opening-session-of-the-108th-congres-of-the-association-of-mayors-of-france/
 
 ---
 
-## Press briefing - Foreign Affairs Council (Trade) of 30 November 2026
+## CHANGE OF TIME - Press briefing - Foreign Affairs Council (Trade) of 30 November 2026
 
 **Bron:** Raad van de EU - Persberichten
 
-The press briefing ahead of the Foreign Affairs Councils (Trade) will take place on Wednesday, 25 November at 13.00.
+The press briefing ahead of the Foreign Affairs Councils (Trade) will take place on Wednesday, 25 November at 13.30.
 
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/press-briefing-foreign-affairs-council-trade-of-30-november-2026/
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/change-of-time-press-briefing-foreign-affairs-council-trade-of-30-november-2026/
 
 ---
 
@@ -899,26 +919,6 @@ The Council has approved conclusions calling for greater efforts to preserve and
 During the press conference held after at the end of the EU-United Kingdom summit of 20 November 2026, President António Costa addressed the press.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-uk-summit-of-20-november-2026/
-
----
-
-## Joint statement EU-United Kingdom summit, 20 November 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-The leaders of the European Union and United Kingdom held their second EU-UK summit in Brussels on 20 November 2026, and agreed on a joint statement.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/joint-statement-eu-united-kingdom-summit-20-november-2026/
-
----
-
-## MFF 2028-2034: Council agrees negotiating position on stronger civil protection mechanism and support for health preparedness
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council agreed its partial negotiating position on the Union civil protection mechanism and Union support for health emergency preparedness and response.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/mff-2028-2034-council-agrees-negotiating-position-on-stronger-civil-protection-mechanism-and-support-for-health-preparedness/
 
 ---
 
