@@ -1,6 +1,30 @@
 # Politieke monitor
 
-Laatste update: 2026-11-26T00:43:11.006843+00:00
+Laatste update: 2026-11-26T08:56:57.994316+00:00
+
+## Nederland bouwt weerbare digitale tijdvoorziening
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 06:00:00 GMT
+
+Een exacte en betrouwbare tijd is onmisbaar voor het functioneren van onze samenleving. Betalen, inloggen bij digitale systemen, de werking van robots of het functioneren van het internet: voor veel digitale processen is het essentieel dat...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/nederland-bouwt-weerbare-digitale-tijdvoorziening
+
+---
+
+## Sustainable mobility innovation: who are we leaving behind?
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+By François Hoehlinger, member of the Ambassadors for #DiversityInTransport Network and co-founder of Intermobility
+
+**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/sustainable-mobility-innovation-who-are-we-leaving-behind-2026-11-26_en
+
+---
 
 ## Kabinet en gemeenten maken nieuwe afspraken voor een samenleving waarin iedereen kan meedoen aan sport, bewegen en cultuur
 
@@ -59,18 +83,6 @@ Today, High Representative/Vice-President (HR/VP) Kaja Kallas and Commissioner 
 Businesses and authorities now have an extra eight months — until 1 September 2027 — to prepare for mandatory green-listed waste reporting.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/eu-extends-digital-transition-waste-shipment-documents-2026-11-25_en
-
----
-
-## Turning momentum into lasting progress: President von der Leyen at the EU-Western Balkans Summit
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
-
-Today, President of the European Commission Ursula von der Leyen and President of the European Council António Costa will co-host the EU-Western Balkans Summit in Brussels, with the participation of the leaders from the region.
-
-**Originele publicatie:** https://enlargement.ec.europa.eu/news/turning-momentum-lasting-progress-president-von-der-leyen-eu-western-balkans-summit-2026-11-25_en
 
 ---
 
@@ -194,6 +206,30 @@ The Commission issued today its second opinion regarding the compatibility of a 
 
 ---
 
+## Statement by President von der Leyen with President Costa following the EU-Western Balkans Summit
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+I am convinced that enlargement is a strategic imperative for Europe.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/statement-president-von-der-leyen-president-costa-following-eu-western-balkans-summit-2026-11-25_en
+
+---
+
+## Turning momentum into lasting progress: President von der Leyen at the EU-Western Balkans Summit
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+Today, President of the European Commission Ursula von der Leyen and President of the European Council António Costa will co-host the EU-Western Balkans Summit in Brussels, with the participation of the leaders from the region.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/turning-momentum-lasting-progress-president-von-der-leyen-eu-western-balkans-summit-2026-11-25_en
+
+---
+
 ## Ministerie LVVN start campagne: kies bewust voor een hond die bij je past
 
 **Bron:** Rijksoverheid Nieuws
@@ -299,6 +335,18 @@ From climate research and urban planning to environmental education, Laboratóri
 EU agri-food surplus rises by €4bn as exports grow and imports decline slightly.
 
 **Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-trade-surplus-remains-robust-imports-decline-slightly-2026-11-24_en
+
+---
+
+## EU’s renewed commitment to ending violence against women
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
+
+Learn how the Commission marked the International Day for the Elimination of Violence Against Women and about what the EU is doing to stop gender-based violence.
+
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/eus-renewed-commitment-ending-violence-against-women-2026-11-24_en
 
 ---
 
@@ -470,42 +518,6 @@ The European Commission has opened a formal antitrust investigation to assess wh
 
 ---
 
-## EU secures landmark ICCAT agreement to end shark finning in the Atlantic and Mediterranean
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-At the 2026 Annual Meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT) in Vilamoura, Portugal, ICCAT members, which include the European Union, reached a breakthrough agreement to strengthen action against shark finning in the Atlantic and Mediterranean.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-secures-landmark-iccat-agreement-end-shark-finning-atlantic-and-mediterranean-2026-11-23_en
-
----
-
-## Winners announced for the 2026 Excellence in Road Safety Awards
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-Today, the Commission revealed the winners of its 2026 Excellence in Road Safety Awards, which celebrate outstanding and innovative efforts to improve road safety throughout Europe.
-
-**Originele publicatie:** https://transport.ec.europa.eu/news-events/news/winners-announced-2026-excellence-road-safety-awards-2026-11-23_en
-
----
-
-## EU and Mauritania reached political agreement on a new fisheries Protocol
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-The European Union and Mauritania have reached a political agreement on a new Protocol to their Sustainable Fisheries Partnership Agreement (SFPA). This will allow their important fisheries partnership to continue and will provide a framework for sustainable fishing activities and cooperation in the
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-and-mauritania-reached-political-agreement-new-fisheries-protocol-2026-11-23_en
-
----
-
 ## Vogelgriep vastgesteld in Collendoorn
 
 **Bron:** Rijksoverheid Nieuws
@@ -587,18 +599,6 @@ GGZ-instelling Mondriaan opent in de zomer van 2027 de eerste gespecialiseerde F
 De ministerraad heeft de agenda’s voor de fysieke leefomgeving voor Bonaire, Sint Eustatius en Saba vastgesteld. Hierin staat per eiland, een overzicht van de inspanningen die nodig zijn om de fysieke leefomgeving op de eilanden te verbeteren. Het...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/verbetering-leefomgeving-bonaire-sint-eustatius-en-saba
-
----
-
-## Kabinet zet werk en meedoen centraal in de Participatiewet
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 12:30:00 GMT
-
-Het kabinet wil dat werk en meedoen het centrale uitgangspunt wordt in de Participatiewet. De helft van de bijstandsgerechtigden staat nu 5 jaar of langer aan de kant. Het kabinet wil dat meer mensen aan het werk gaan en wil ook de hoge instroom...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/kabinet-zet-werk-en-meedoen-centraal-in-de-participatiewet
 
 ---
 
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Remarks by President António Costa at the doorstep ahead of the Special European Council meeting of 26-27 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+Before the start of the Special European Council meeting of 26 November 2026, European Council President António Costa addressed the press in Brussels.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/remarks-by-president-antonio-costa-at-the-doorstep-ahead-of-the-special-european-council-meeting-of-26-27-november-2026/
 
 ---
 
@@ -909,16 +919,6 @@ Eurogroup President issued a statement on the nominations for the post of ECB e
 Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/forward-look-2026/
-
----
-
-## European Peace Facility: Council mobilises additional €1 billion in new military aid to Ukraine
-
-**Bron:** Raad van de EU - Persberichten
-
-The Council has adopted two decisions mobilising €1 billion of European Peace Facility funds in support of the Armed Forces of Ukraine through the joint procurement of both lethal and non-lethal equipment.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/european-peace-facility-council-mobilises-additional-1-billion-in-new-military-aid-to-ukraine/
 
 ---
 
