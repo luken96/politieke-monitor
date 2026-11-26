@@ -1,6 +1,90 @@
 # Politieke monitor
 
-Laatste update: 2026-11-26T08:56:57.994316+00:00
+Laatste update: 2026-11-26T19:18:28.418091+00:00
+
+## Minister Heerma zet in op aanpak daders van agressie tegen politieke ambtsdragers
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 16:55:00 GMT
+
+Bijna de helft van de decentrale politieke ambtsdragers kreeg het afgelopen jaar te maken met agressie, bedreiging of intimidatie. Het aandeel dat een ernstig incident meemaakte, steeg verder. Minister Pieter Heerma van Binnenlandse Zaken en...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/minister-heerma-zet-in-op-aanpak-daders-van-agressie-tegen-politieke-ambtsdragers
+
+---
+
+## Geef prioriteit aan de versterkingsoperatie
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 16:50:00 GMT
+
+Op vrijdag 20 november 2026 adviseerde Henk Nijboer, regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe, de minister van Binnenlandse Zaken en Koninkrijksrelaties, om prioriteit te geven aan de versterkingsoperatie en om aanvullende...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/geef-prioriteit-aan-de-versterkingsoperatie
+
+---
+
+## Nederland lid van Europese defensie-materieelorganisatie OCCAR
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 15:05:00 GMT
+
+Nederland wordt lid van de Gezamenlijke Organisatie voor Samenwerking op Defensie-materieelgebied (OCCAR). Dat is een Europese organisatie waarin landen samen militair materieel laten ontwikkelen en maken. Vandaag leverde Nederland de officiële...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/nederland-lid-van-europese-defensie-materieelorganisatie-occar
+
+---
+
+## Ambassadeursconferentie 2027: Buitenlandse Zaken. Voor Nederland. Wereldwijd.
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 14:10:00 GMT
+
+Van maandag 25 tot en met vrijdag 29 januari 2027 komen Nederlandse ambassadeurs, permanent vertegenwoordigers en consuls-generaal vanuit de hele wereld samen in Den Haag voor de jaarlijkse Ambassadeursconferentie. Tijdens deze week staan de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/ambassadeursconferentie-2027-buitenlandse-zaken.-voor-nederland.-wereldwijd.
+
+---
+
+## Nederland geeft twee geweren uit Rijksmuseum terug aan Sri Lanka
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 13:00:00 GMT
+
+Nederland geeft 2 geweren die in beheer zijn van het Rijksmuseum terug aan Sri Lanka. Deze wapens zijn in de 18e eeuw buitgemaakt en naar Nederland gebracht. Minister Rianne Letschert (OCW) heeft tot teruggave besloten. Daarmee volgt zij het...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/nederland-geeft-twee-geweren-uit-rijksmuseum-terug-aan-sri-lanka
+
+---
+
+## € 44 miljoen voor medische technologie, energieopslag en schonere luchtvaart
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 11:00:00 GMT
+
+8 veelbelovende innovatieve projecten, waarin tientallen bedrijven, kennisorganisaties en overheden samenwerken, krijgen € 30 miljoen financiering van het ministerie van Economische Zaken en Klimaat (EZK). De projecten onderzoeken en ontwikkelen...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/euro44-miljoen-voor-medische-technologie-energieopslag-en-schonere-luchtvaart
+
+---
+
+## Meer mogelijkheden om criminele kopstukken met kroongetuigen aan te pakken
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Thu, 26 Nov 2026 09:53:00 GMT
+
+Het wetsvoorstel tot verbetering van de kroongetuigenregeling is ingediend bij de Tweede Kamer. De Raad van State heeft advies uitgebracht. De adviezen zijn verwerkt in het wetsvoorstel en de memorie van toelichting.
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/26/meer-mogelijkheden-om-criminele-kopstukken-met-kroongetuigen-aan-te-pakken
+
+---
 
 ## Nederland bouwt weerbare digitale tijdvoorziening
 
@@ -26,6 +110,114 @@ By François Hoehlinger, member of the Ambassadors for #DiversityInTransport Net
 
 ---
 
+## European Capitals of Small Retail 2027: shortlist announced
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+A total of 9 cities from 8 countries have been shortlisted for the European Capitals of Small Retail (ECoSR) 2027 awards.
+
+**Originele publicatie:** https://single-market-economy.ec.europa.eu/news/european-capitals-small-retail-2027-shortlist-announced-2026-11-26_en
+
+---
+
+## European Maritime Day 2027
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+The call for the EMD 2027 workshops has now been launched! EMD workshops are selected through a competitive process. Check the guidelines carefully: proposals should demonstrate a clear European perspective and strive for gender and geographical balance.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/european-maritime-day-2027-2026-11-26_en
+
+---
+
+## EU Fish Market Report 2026 – a market under pressure, adapting to change
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+The European Commission has released the 2026 edition of the EU Fish Market report, presenting the latest trends in the European fisheries and aquaculture market.
+
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/eu-fish-market-report-2026-market-under-pressure-adapting-change-2026-11-26_en
+
+---
+
+## Commission presents new EU Sustainable Tourism Strategy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+The European Commission has presented a new EU Sustainable Tourism Strategy to increase the sector’s competitiveness, sustainability and resilience.
+
+**Originele publicatie:** https://blue-economy-observatory.ec.europa.eu/news/commission-presents-new-eu-sustainable-tourism-strategy-2026-11-26_en
+
+---
+
+## Commission adopts amended criteria to simplify the EU taxonomy
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+The consultation invites feedback on the Committee of European Auditing Oversight Bodies’ (CEAOB) technical advice, as well as on their proposed adjustments to the international standard.
+
+**Originele publicatie:** https://finance.ec.europa.eu/news/commission-adopts-amended-criteria-simplify-eu-taxonomy-2026-11-26_en
+
+---
+
+## Mark your calendars: European Sustainable Energy Week 23-25 June 2027
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+As Europe continues to strengthen its energy security, competitiveness and resilience, the European Sustainable Energy Week (EUSEW) will bring the clean energy community together to discuss key policy trends and perspectives.
+
+**Originele publicatie:** https://energy.ec.europa.eu/news/mark-your-calendars-european-sustainable-energy-week-23-25-june-2027-2026-11-26_en
+
+---
+
+## EU announces €30 million in additional funding to support innovative start-ups in the Western Balkans
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+Today, at the EU–Western Balkans Investment Conference in Tirana, the European Commission announced €30 million in additional funding for innovative start-ups and SMEs in the Western Balkans.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/eu-announces-eur30-million-additional-funding-support-innovative-start-ups-western-balkans-2026-11-26_en
+
+---
+
+## 2027 arrangements for the execution of transfers between the emission trading registries of the EU and Switzerland
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+The 2027 arrangements for the transfers of emission allowances between the registries of the EU Emissions Trading System and the Swiss Emissions Trading System have been agreed, in application of the EU and Swiss Linking Agreement.
+
+**Originele publicatie:** https://climate.ec.europa.eu/news-other-reads/news/2027-arrangements-execution-transfers-between-emission-trading-registries-eu-and-switzerland-2026-11-26_en
+
+---
+
+## EU launches Supply Chain Early Warning Network with Trans-Pacific bloc
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Thu, 26 Nov 2026 00:00:00 +0100
+
+The EU and the members of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) today launched the EU-CPTPP Supply Chain Early Warning Network.
+
+**Originele publicatie:** https://policy.trade.ec.europa.eu/news/eu-launches-supply-chain-early-warning-network-trans-pacific-bloc-2026-11-26_en
+
+---
+
 ## Kabinet en gemeenten maken nieuwe afspraken voor een samenleving waarin iedereen kan meedoen aan sport, bewegen en cultuur
 
 **Bron:** Rijksoverheid Nieuws
@@ -38,63 +230,27 @@ Het kabinet en gemeenten hebben nieuwe bestuurlijke afspraken gemaakt over de BR
 
 ---
 
-## EU launches €10 million programme to strengthen climate resilience and protect Yemen's cultural heritage
+## Commission approves €10.5 million Greek State aid to fishery and aquaculture companies facing increased fuel prices
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
 
-Today, at the ‘Cultural Resilience and Development in Yemen' event in Brussels, the European Union announced a €10 million programme to help communities prepare for climate risks, protect cultural heritage and create livelihood opportunities.
+The European Commission has approved a €10.5 million Greek State aid scheme to support shipowners in the fishery and aquaculture industries facing increased fuel prices due to the Middle East crisis.
 
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-launches-eur10-million-programme-strengthen-climate-resilience-and-protect-yemens-cultural-2026-11-25_en
+**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur105-million-greek-state-aid-fishery-and-aquaculture-companies-facing-2026-11-25_en
 
 ---
 
-## Rural Development Programmes 2014–2022 delivered tangible results across rural Europe
+## Sustainable Finance for the Space Sector: What We Learned
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
 
-The 2014–2022 Rural Development Programmes played a key role in supporting farmers, foresters, rural businesses and local communities across the 27 EU Member States.
+On 22 October 2026, the European Commission’s Directorate-General for Defence Industry and Space (DG DEFIS) held a landmark workshop in Brussels, opening a structured dialogue between the space ecosystem and the sustainable finance community for the first time. More than 350 registered participants
 
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/rural-development-programmes-2014-2022-delivered-tangible-results-across-rural-europe-2026-11-25_en
-
----
-
-## High Representative/Vice-President Kallas and Commissioner Šuica in Barcelona for the 11th Union for the Mediterranean (UfM) Regional Forum
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
-
-Today, High Representative/Vice-President (HR/VP) Kaja Kallas and Commissioner for the Mediterranean Dubravka Šuica are in Barcelona on the occasion of the annual 11th Regional Forum of the Union for the Mediterranean (UfM), which brings together Ministers of Foreign Affairs of the 43 UfM members.
-
-**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/high-representativevice-president-kallas-and-commissioner-suica-barcelona-11th-union-mediterranean-2026-11-25_en
-
----
-
-## EU extends transition period for digital exchange of green-listed waste shipment documents
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
-
-Businesses and authorities now have an extra eight months — until 1 September 2027 — to prepare for mandatory green-listed waste reporting.
-
-**Originele publicatie:** https://environment.ec.europa.eu/news/eu-extends-digital-transition-waste-shipment-documents-2026-11-25_en
-
----
-
-## Europe’s quantum leap: strengthening industrial capacity and security with new quantum technologies
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
-
-The quantum act will bring together EU and national programmes to move quantum technologies from laboratories to products and services
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/europes-quantum-leap-strengthening-industrial-capacity-and-security-new-quantum-technologies-2026-11-25_en
+**Originele publicatie:** https://defence-industry-space.ec.europa.eu/sustainable-finance-space-sector-what-we-learned-2026-11-25_en
 
 ---
 
@@ -122,51 +278,15 @@ The European Commission has prolonged the Middle East Crisis Temporary State aid
 
 ---
 
-## Sustainable Finance for the Space Sector: What We Learned
+## Europe’s quantum leap: strengthening industrial capacity and security with new quantum technologies
 
 **Bron:** Europese Commissie
 
 **Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
 
-On 22 October 2026, the European Commission’s Directorate-General for Defence Industry and Space (DG DEFIS) held a landmark workshop in Brussels, opening a structured dialogue between the space ecosystem and the sustainable finance community for the first time. More than 350 registered participants
+The quantum act will bring together EU and national programmes to move quantum technologies from laboratories to products and services
 
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/sustainable-finance-space-sector-what-we-learned-2026-11-25_en
-
----
-
-## Commission approves €10.5 million Greek State aid to fishery and aquaculture companies facing increased fuel prices
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
-
-The European Commission has approved a €10.5 million Greek State aid scheme to support shipowners in the fishery and aquaculture industries facing increased fuel prices due to the Middle East crisis.
-
-**Originele publicatie:** https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur105-million-greek-state-aid-fishery-and-aquaculture-companies-facing-2026-11-25_en
-
----
-
-## African Union and European Union publish their renewed Roadmap for research and innovation on food and nutrition security and sustainable agriculture
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
-
-New roadmap will further strengthen the African Union and European Union R&I partnership on Food and Nutrition Security and Sustainable Agriculture.
-
-**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/african-union-and-european-union-publish-their-renewed-roadmap-research-and-innovation-food-and-2026-11-25_en
-
----
-
-## Making energy-efficient homes affordable for vulnerable people in Lithuania
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
-
-In its latest episode, Euronews' Make it Work explores how Lithuania's Social Climate Plan, supported by the EU's Social Climate Fund, will finance renovations of apartment blocks to reduce energy bills and emissions.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/making-energy-efficient-homes-affordable-vulnerable-people-lithuania-2026-11-25_en
+**Originele publicatie:** https://commission.europa.eu/news-and-media/news/europes-quantum-leap-strengthening-industrial-capacity-and-security-new-quantum-technologies-2026-11-25_en
 
 ---
 
@@ -179,6 +299,42 @@ In its latest episode, Euronews' Make it Work explores how Lithuania's Social Cl
 In 2026, Europol supported several international operations to disrupt large-scale drug production and distribution, resulting in arrests and seizure of criminal assets.
 
 **Originele publicatie:** https://home-affairs.ec.europa.eu/news/europol-connects-police-across-borders-tackle-drug-trafficking-2026-11-25_en
+
+---
+
+## High Representative/Vice-President Kallas and Commissioner Šuica in Barcelona for the 11th Union for the Mediterranean (UfM) Regional Forum
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+Today, High Representative/Vice-President (HR/VP) Kaja Kallas and Commissioner for the Mediterranean Dubravka Šuica are in Barcelona on the occasion of the annual 11th Regional Forum of the Union for the Mediterranean (UfM), which brings together Ministers of Foreign Affairs of the 43 UfM members.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/high-representativevice-president-kallas-and-commissioner-suica-barcelona-11th-union-mediterranean-2026-11-25_en
+
+---
+
+## Rural Development Programmes 2014–2022 delivered tangible results across rural Europe
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+The 2014–2022 Rural Development Programmes played a key role in supporting farmers, foresters, rural businesses and local communities across the 27 EU Member States.
+
+**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/rural-development-programmes-2014-2022-delivered-tangible-results-across-rural-europe-2026-11-25_en
+
+---
+
+## EU extends transition period for digital exchange of green-listed waste shipment documents
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+Businesses and authorities now have an extra eight months — until 1 September 2027 — to prepare for mandatory green-listed waste reporting.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/eu-extends-digital-transition-waste-shipment-documents-2026-11-25_en
 
 ---
 
@@ -230,6 +386,66 @@ Today, President of the European Commission Ursula von der Leyen and President o
 
 ---
 
+## Commissioner Kos in Albania for Growth Plan Leaders' Meeting and discussions with Albanian authorities
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+Tomorrow and on Friday, Commissioner for Enlargement Marta Kos is in Albania to participate in the Growth Plan Leaders' Meeting and hold bilateral discussions with Albanian authorities.
+
+**Originele publicatie:** https://enlargement.ec.europa.eu/news/commissioner-kos-albania-growth-plan-leaders-meeting-and-discussions-albanian-authorities-2026-11-25_en
+
+---
+
+## Águeda brings river conservation into the classroom
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+From discovering freshwater biodiversity to learning how to protect water resources, around 500 primary school pupils are taking part in Águeda’s river education programme. Discover how the 2026 European Green Leaf winner is connecting environmental education with local conservation efforts.
+
+**Originele publicatie:** https://environment.ec.europa.eu/news/aguedas-young-learners-dive-river-conservation-2026-11-25_en
+
+---
+
+## African Union and European Union publish their renewed Roadmap for research and innovation on food and nutrition security and sustainable agriculture
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+New roadmap will further strengthen the African Union and European Union R&I partnership on Food and Nutrition Security and Sustainable Agriculture.
+
+**Originele publicatie:** https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/african-union-and-european-union-publish-their-renewed-roadmap-research-and-innovation-food-and-2026-11-25_en
+
+---
+
+## Making energy-efficient homes affordable for vulnerable people in Lithuania
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+In its latest episode, Euronews' Make it Work explores how Lithuania's Social Climate Plan, supported by the EU's Social Climate Fund, will finance renovations of apartment blocks to reduce energy bills and emissions.
+
+**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/making-energy-efficient-homes-affordable-vulnerable-people-lithuania-2026-11-25_en
+
+---
+
+## EU launches €10 million programme to strengthen climate resilience and protect Yemen's cultural heritage
+
+**Bron:** Europese Commissie
+
+**Gepubliceerd:** Wed, 25 Nov 2026 00:00:00 +0100
+
+Today, at the ‘Cultural Resilience and Development in Yemen' event in Brussels, the European Union announced a €10 million programme to help communities prepare for climate risks, protect cultural heritage and create livelihood opportunities.
+
+**Originele publicatie:** https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-launches-eur10-million-programme-strengthen-climate-resilience-and-protect-yemens-cultural-2026-11-25_en
+
+---
+
 ## Ministerie LVVN start campagne: kies bewust voor een hond die bij je past
 
 **Bron:** Rijksoverheid Nieuws
@@ -239,66 +455,6 @@ Today, President of the European Commission Ursula von der Leyen and President o
 Het hebben van een hond brengt veel plezier met zich mee. Het is een levenslang maatje. Daar hoort ook een verantwoordelijkheid bij. Als je kiest voor een hond moet je zeker weten dat je daar de komende jaren genoeg tijd, middelen en ruimte voor...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/24/ministerie-lvvn-start-campagne-kies-bewust-voor-een-hond-die-bij-je-past
-
----
-
-## Commissioner Jørgensen in Ireland to advance work on energy and housing affordability
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-On 25–26 November, Commissioner for Energy and Housing Dan Jørgensen will be in Dublin, Ireland, to exchange with national and local policymakers on ways to tackle two of the most urgent issues affecting European citizens and businesses: housing and energy affordability.
-
-**Originele publicatie:** https://energy.ec.europa.eu/news/commissioner-jorgensen-ireland-advance-work-energy-and-housing-affordability-2026-11-24_en
-
----
-
-## Publication of the Mind the Gap Communication
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-The European Commission published the 2026 edition of Mind the Gap. Its objective is to support Member States in boosting public finances through joint efforts to reduce tax gaps, improve compliance, and strengthen revenue collection.
-
-**Originele publicatie:** https://taxation-customs.ec.europa.eu/news/publication-mind-gap-communication-2026-11-24_en
-
----
-
-## Commission launches European Skills Observatory to strengthen skills and fair transition analysis across the EU
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-The European Skills Observatory is a new tool bringing together data and analysis on current and future skills needs, supply and shortages, job trends, and education and training across the EU.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/commission-launches-european-skills-observatory-strengthen-skills-and-fair-transition-analysis-2026-11-24_en
-
----
-
-## Joint statement by the Commission and the High Representative ahead of the International Day for the Elimination of Violence against Women
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-Every woman and girl has the right to live free from fear, violence, abuse and harm. And yet worldwide, 1 in 3 women, including in the EU, has been a victim of gender-based violence.
-
-**Originele publicatie:** https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-statement-commission-and-high-representative-ahead-international-day-elimination-violence-2026-11-24_en
-
----
-
-## Commission publishes proposal for Joint  Employment  Report 2027 and pushes Recommendation on human capital
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-The proposed Joint Employment Report says the labour market stays robust, but manufacturing jobs drop due to recent energy shocks. A Capital Recommendation urges the EU to close skills gaps in clean‑energy, defence, space and AI‑related STEM fields.
-
-**Originele publicatie:** https://employment-social-affairs.ec.europa.eu/news/commission-publishes-proposal-joint-employment-report-2027-and-pushes-recommendation-human-capital-2026-11-24_en
 
 ---
 
@@ -323,30 +479,6 @@ Fifth EU Mission Forum on Adaptation to Climate Change to highlight importance o
 From climate research and urban planning to environmental education, Laboratório da Paisagem plays a key role in Guimarães’ journey as European Green Capital 2026. Explore how its work supports local sustainability and inspires collaboration beyond the city.
 
 **Originele publicatie:** https://environment.ec.europa.eu/news/how-science-shaping-guimaraes-green-transition-2026-11-24_en
-
----
-
-## EU agri-food trade surplus remains robust as imports decline slightly
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-EU agri-food surplus rises by €4bn as exports grow and imports decline slightly.
-
-**Originele publicatie:** https://agriculture.ec.europa.eu/media/news/eu-agri-food-trade-surplus-remains-robust-imports-decline-slightly-2026-11-24_en
-
----
-
-## EU’s renewed commitment to ending violence against women
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Tue, 24 Nov 2026 00:00:00 +0100
-
-Learn how the Commission marked the International Day for the Elimination of Violence Against Women and about what the EU is doing to stop gender-based violence.
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/eus-renewed-commitment-ending-violence-against-women-2026-11-24_en
 
 ---
 
@@ -470,138 +602,6 @@ Op 23 november start het ministerie van Economische Zaken en Klimaat de landelij
 
 ---
 
-## EDF-funded EUROGUARD vessel launched in Estonia
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-With 65 million euros allocated through the European Defence Fund (EDF), the EUROGUARD project aims to strengthen Europe's maritime defence capabilities.
-
-**Originele publicatie:** https://defence-industry-space.ec.europa.eu/edf-funded-euroguard-vessel-launched-estonia-2026-11-23_en
-
----
-
-## Results of 23-11-2026 auction (EU-Bonds)
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-Auction results EU-Bonds
-
-**Originele publicatie:** https://commission.europa.eu/news-and-media/news/results-23-11-2026-auction-eu-bonds-2026-11-23_en
-
----
-
-## Commission approves €1 billion Slovenian State aid to support closure of Premogovnik Velenje coal mine
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-The European Commission has approved, under EU State aid rules, a €1 billion Slovenian measure to cover exceptional costs related to the closure of the Premogovnik Velenje coal mine. The aid will help Slovenia phase out coal by 2033 in line with its binding commitment under national law.
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-approves-eur1-billion-slovenian-state-aid-support-closure-premogovnik-velenje-coal-mine-2026-11-23_en
-
----
-
-## Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector
-
-**Bron:** Europese Commissie
-
-**Gepubliceerd:** Mon, 23 Nov 2026 00:00:00 +0100
-
-The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules
-
-**Originele publicatie:** https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-anticompetitive-conduct-coca-cola-europacific-2026-11-23_en
-
----
-
-## Vogelgriep vastgesteld in Collendoorn
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Sat, 21 Nov 2026 07:00:00 GMT
-
-In Collendoorn (gemeente Hardenberg, provincie Overijssel) is vogelgriep vastgesteld op een leghennenbedrijf. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/21/vogelgriep-vastgesteld-in-collendoorn
-
----
-
-## Nieuwe burgemeester in Zaltbommel
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 19:00:00 GMT
-
-Mevrouw S.J.F. (Stieneke) van der Graaf is benoemd tot burgemeester van de gemeente Zaltbommel. De benoeming gaat in op 3 december 2026.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/nieuwe-burgemeester-in-zaltbommel
-
----
-
-## TSB-regeling uitgebreid voor mensen met allergische longziekte
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 16:00:00 GMT
-
-Mensen met extrinsieke allergische alveolitis – ook wel hypersensitiviteitspneumonitis genoemd – kunnen vanaf 1 januari 2027 een tegemoetkoming aanvragen. De ziekte wordt opgenomen in de TSB-regeling. Deze regeling is er voor mensen die ziek zijn...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/tsb-regeling-uitgebreid-voor-mensen-met-allergische-longziekte
-
----
-
-## Positieve beoordeling vijfde betaalverzoek Nederlands Herstel- en Veerkrachtplan
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 15:00:00 GMT
-
-De Europese Commissie heeft op 19 november 2026 het vijfde en laatste betaalverzoek van het Nederlandse Herstel- en Veerkrachtplan (HVP) positief beoordeeld. Dit is een belangrijke stap naar officiële goedkeuring van het betaalverzoek, en daarmee...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/positieve-beoordeling-vijfde-betaalverzoek-nederlands-herstel-en-veerkrachtplan
-
----
-
-## Pilot voorraadvorming kritieke grondstoffen in havens Rotterdam en Porto Marghera
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 14:00:00 GMT
-
-Nederland en Italië zijn geselecteerd voor een Europese pilot voor voorraadvorming van kritieke grondstoffen. In 2 havens - Rotterdam en Porto Marghera – gaan partijen een logistiek netwerk van opslag, verwerking en distributie oprichten voor de...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/pilot-voorraadvorming-kritieke-grondstoffen-in-havens-rotterdam-en-porto-marghera
-
----
-
-## Eerste gesloten afdeling voor oudere tbs-patiënten opent in 2027
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 12:42:00 GMT
-
-GGZ-instelling Mondriaan opent in de zomer van 2027 de eerste gespecialiseerde Forensisch Psychiatrische Afdeling voor ouderen van Nederland. De afdeling biedt in het Limburgse Heerlen plaats aan achttien patiënten uit het hele land. Oudere...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/eerste-gesloten-afdeling-voor-oudere-tbs-patienten-opent-in-2027
-
----
-
-## Verbetering leefomgeving Bonaire, Sint Eustatius en Saba
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 20 Nov 2026 12:30:00 GMT
-
-De ministerraad heeft de agenda’s voor de fysieke leefomgeving voor Bonaire, Sint Eustatius en Saba vastgesteld. Hierin staat per eiland, een overzicht van de inspanningen die nodig zijn om de fysieke leefomgeving op de eilanden te verbeteren. Het...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/20/verbetering-leefomgeving-bonaire-sint-eustatius-en-saba
-
----
-
 ## Food innovation : building public trust and outreach : Eurobarometer summary
 
 **Bron:** EU Publications Office - opgeslagen zoekopdracht
@@ -719,6 +719,16 @@ All food businesses operating in the EU — regardless of their size or type —
 his study presents a systematic literature review of food waste and loss interventions across the entire food supply chain, which is an area often underrepresented in existing research, where the focus is given to consumer level actions. Using the PRISMA method, we screened and selected 45 articles, including 21 review papers and 24 non-review studies. The selected articles were evaluated using the comprehensive criteria proposed by Caldeira et al. (2019), allowing us to map how interventions are planned, assessed, and reported across different supply chain stages and methodologies. Our review is the first to systematically apply these criteria to interventions discussed in research papers, identifying key gaps and strengths. The study concludes with actionable recommendations for improving intervention planning, such as defining clear objectives, ensuring long-term sustainability, and enhancing transferability. This review offers valuable insights for policymakers, businesses, and researchers aiming to design, evaluate, and implement more effective food waste interventions
 
 **Originele publicatie:** https://op.europa.eu/en/publication-detail/-/publication/27b2f556-f8d4-11f0-b9bc-01aa75ed71a1/language-en
+
+---
+
+## Statement of the Euro Summit, 26 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+The Euro Summit, meeting in inclusive format, adopted a statement on 26 November 2026.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/statement-of-the-euro-summit-26-november-2026/
 
 ---
 
@@ -909,16 +919,6 @@ Weekly schedule of President António Costa, 21-29 November 2026.
 Eurogroup President issued a statement on the nominations for the post of ECB executive board members.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-executive-board-members/
-
----
-
-## Forward look: 23 November -  6 December 2026
-
-**Bron:** Raad van de EU - Persberichten
-
-Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/forward-look-2026/
 
 ---
 
