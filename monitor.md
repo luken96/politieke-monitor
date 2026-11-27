@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-26T19:18:28.418091+00:00
+Laatste update: 2026-11-27T02:28:02.009497+00:00
 
 ## Minister Heerma zet in op aanpak daders van agressie tegen politieke ambtsdragers
 
@@ -722,6 +722,26 @@ his study presents a systematic literature review of food waste and loss interve
 
 ---
 
+## Remarks by President António Costa at the press conference following the Special European Council meeting of 26 November 2026
+
+**Bron:** Raad van de EU - Persberichten
+
+During the press conference held at the end of the Special European Council meeting of 26 November 2026, President António Costa presented the main results of the discussions on the next multiannual financial framework and Ukraine financing needs for 2027.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/27/remarks-by-president-antonio-costa-at-the-press-conference-following-the-special-european-council-meeting-of-26-november-2026/
+
+---
+
+## European Council puts forward Pablo Hernández de Cos as next President of the European Central Bank
+
+**Bron:** Raad van de EU - Persberichten
+
+The European Council has put forward Pablo Hernández de Cos as next President of the European Central Bank, and Laurence Boone and Markus Brunnermeier as members of its executive board.
+
+**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/
+
+---
+
 ## Statement of the Euro Summit, 26 November 2026
 
 **Bron:** Raad van de EU - Persberichten
@@ -899,26 +919,6 @@ The press briefing will take place on Tuesday, 24 November 2026 at 10:30.
 President of the European Council, António Costa, presented his proposal to reach an agreement on the 2028-2034 Multiannual Financial Framework during a press conference on 21 November 2026.
 
 **Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/21/multiannual-financial-framework-president-costa-s-proposal/
-
----
-
-## Weekly schedule of President António Costa
-
-**Bron:** Raad van de EU - Persberichten
-
-Weekly schedule of President António Costa, 21-29 November 2026.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/weekly-schedule-of-president-antonio-costa/
-
----
-
-## Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members
-
-**Bron:** Raad van de EU - Persberichten
-
-Eurogroup President issued a statement on the nominations for the post of ECB executive board members.
-
-**Originele publicatie:** https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-executive-board-members/
 
 ---
 
