@@ -1,6 +1,18 @@
 # Politieke monitor
 
-Laatste update: 2026-11-27T20:21:05.454486+00:00
+Laatste update: 2026-11-28T02:58:47.918063+00:00
+
+## Vogelgriep vastgesteld in Zegveld
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 27 Nov 2026 20:54:00 GMT
+
+In Zegveld (gemeente Woerden, provincie Utrecht) is vogelgriep vastgesteld op een locatie met sierwatervogels. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten de...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/27/vogelgriep-vastgesteld-in-zegveld
+
+---
 
 ## Answer to a written question - Inequalities in access to healthcare and the importance of using European funds efficiently - E-003582/2026(ASW)
 
@@ -242,15 +254,15 @@ Question for written answer E-004753/2026 to the Commission Rule 144 Virginie Jo
 
 ---
 
-## Wetsvoorstel over internationaal verantwoord ondernemen naar Raad van State
+## Wetsvoorstel modernisering vervanging en verlof van politieke ambtsdragers naar Raad van State
 
 **Bron:** Rijksoverheid Nieuws
 
 **Gepubliceerd:** Fri, 27 Nov 2026 12:00:00 GMT
 
-Het kabinet zet vandaag een belangrijke stap in de totstandkoming van de Wet internationaal verantwoord ondernemen (Wivo), door deze voor te leggen aan de Raad van State voor advies. Met deze wet implementeert Nederland de Europese richtlijn CSDDD...
+De ministerraad heeft er op voorstel van minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties mee ingestemd het wetsvoorstel modernisering vervanging en verlof van politieke ambtsdragers naar de Raad van State te sturen voor advies. Dit...
 
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/27/wetsvoorstel-over-internationaal-verantwoord-ondernemen-naar-raad-van-state
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/27/wetsvoorstel-modernisering-vervanging-en-verlof-van-politieke-ambtsdragers-naar-raad-van-state
 
 ---
 
@@ -266,6 +278,18 @@ De raming van het begrotingstekort in 2026 bedraagt 2,3% van het bruto binnenlan
 
 ---
 
+## Wetsvoorstel over internationaal verantwoord ondernemen naar Raad van State
+
+**Bron:** Rijksoverheid Nieuws
+
+**Gepubliceerd:** Fri, 27 Nov 2026 12:00:00 GMT
+
+Het kabinet zet vandaag een belangrijke stap in de totstandkoming van de Wet internationaal verantwoord ondernemen (Wivo), door deze voor te leggen aan de Raad van State voor advies. Met deze wet implementeert Nederland de Europese richtlijn CSDDD...
+
+**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/27/wetsvoorstel-over-internationaal-verantwoord-ondernemen-naar-raad-van-state
+
+---
+
 ## Kabinet presenteert eerste schetsen lobbyregister
 
 **Bron:** Rijksoverheid Nieuws
@@ -275,18 +299,6 @@ De raming van het begrotingstekort in 2026 bedraagt 2,3% van het bruto binnenlan
 Het kabinet gaat een lobbyregister invoeren dat praktisch en werkbaar is voor zowel overheid als belangenbehartigers. Daarbij zijn er 2 uitgangspunten: een effectief lobbyregister heeft een wettelijke grondslag en belanghebbenden worden vanaf de...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/27/kabinet-presenteert-eerste-schetsen-lobbyregister
-
----
-
-## Wetsvoorstel modernisering vervanging en verlof van politieke ambtsdragers naar Raad van State
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Fri, 27 Nov 2026 12:00:00 GMT
-
-De ministerraad heeft er op voorstel van minister Heerma van Binnenlandse Zaken en Koninkrijksrelaties mee ingestemd het wetsvoorstel modernisering vervanging en verlof van politieke ambtsdragers naar de Raad van State te sturen voor advies. Dit...
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/27/wetsvoorstel-modernisering-vervanging-en-verlof-van-politieke-ambtsdragers-naar-raad-van-state
 
 ---
 
@@ -2279,18 +2291,6 @@ Source : © European Union, 2026 - EP
 In De Kwakel (gemeente Uithoorn), provincie Noord-Holland, is vogelgriep vastgesteld bij een hobbypluimveehouderij. Om verspreiding van het virus te voorkomen, heeft het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) besloten...
 
 **Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/vogelgriep-vastgesteld-in-de-kwakel
-
----
-
-## Nieuw onderzoek naar regeldruk mkb-bedrijven
-
-**Bron:** Rijksoverheid Nieuws
-
-**Gepubliceerd:** Mon, 23 Nov 2026 14:15:00 GMT
-
-Regeldruk en administratieve lasten kosten mkb-bedrijven tot 10% van de jaaromzet. Dat blijkt uit een nieuwe doorrekening in opdracht van het ministerie van Economische Zaken en Klimaat waarover minister Herbert aan de Tweede Kamer schrijft.
-
-**Originele publicatie:** https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/nieuw-onderzoek-naar-regeldruk-mkb-bedrijven
 
 ---
 
