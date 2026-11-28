@@ -1,6 +1,6 @@
 # Politieke monitor
 
-Laatste update: 2026-11-28T12:28:05.878260+00:00
+Laatste update: 2026-11-28T20:37:49.504629+00:00
 
 ## Vogelgriep vastgesteld in Zegveld
 
